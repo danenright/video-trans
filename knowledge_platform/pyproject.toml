@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "knowledge-platform"
+version = "0.1.0"
+description = "Knowledge extraction and retrieval platform for trading system development"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0",
+    "pyyaml>=6.0",
+    "tqdm>=4.65",
+    "lancedb>=0.4",
+    "sentence-transformers>=2.2",
+    "fastapi>=0.100",
+    "uvicorn>=0.23",
+    "httpx>=0.24",
+    "openai>=1.0",
+    "anthropic>=0.18",
+    "tenacity>=8.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4",
+    "pytest-asyncio>=0.21",
+    "ruff>=0.1",
+]
+
+[project.scripts]
+kp-ingest = "kp.ingest:main"
+kp-extract = "kp.extract.runner:main"
+kp-serve = "kp.serve:main"
+kp-specgen = "kp.specgen:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["kp*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

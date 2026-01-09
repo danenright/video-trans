@@ -1,0 +1,24 @@
+data:
+  raw_dir: "./data/raw"
+  compiled_dir: "./data/compiled"
+  specs_dir: "./data/specs"
+  vector_db_path: "./data/vectordb"
+
+embeddings:
+  model: "all-MiniLM-L6-v2"
+  dimension: 384
+
+retrieval:
+  default_top_k: 10
+  rerank: false
+
+extraction:
+  llm_provider: "openai"
+  model: "gpt-4o-mini"
+  temperature: 0
+  max_retries: 3
+  batch_size: 5
+
+server:
+  host: "127.0.0.1"
+  port: 8000

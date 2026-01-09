@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+*-env/
+video_rag_pipeline/vrag-env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific - large media files
+*.mp4
+*.wav
+*.mp3
+*.webm
+*.mkv
+
+# Source videos directory
+video_rag_pipeline/videos/
+
+# Output directories (large generated files)
+video_rag_pipeline/output/
+knowledge_platform/data/vectordb/
+knowledge_platform/data/compiled/
+knowledge_platform/data/specs/
+
+# Keep directory structure
+!video_rag_pipeline/output/.gitkeep
+!knowledge_platform/data/vectordb/.gitkeep
+!knowledge_platform/data/compiled/.gitkeep
+!knowledge_platform/data/specs/.gitkeep
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Cache
+.cache/
+.pytest_cache/
+.ruff_cache/
+
+# Sisyphus agent data
+.sisyphus/
+
+# Huggingface cache
+.huggingface/

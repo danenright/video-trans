@@ -1,0 +1,143 @@
+# Video RAG Pipeline Configuration
+# Tune these values once, run everywhere
+
+# ============================================================
+# I/O Settings
+# ============================================================
+input_dir: "./videos"
+output_dir: "./output"
+
+# ============================================================
+# FFmpeg Settings
+# ============================================================
+ffmpeg:
+  path: "ffmpeg"  # Path to ffmpeg binary, or just "ffmpeg" if in PATH
+  audio_sample_rate: 16000  # Sample rate for audio extraction
+  audio_channels: 1  # Mono audio for transcription
+
+# ============================================================
+# Transcription (faster-whisper)
+# ============================================================
+transcription:
+  backend: "faster-whisper"
+  model: "medium"  # Options: tiny, base, small, medium, large-v2, large-v3
+  device: "auto"  # Options: auto, cpu, cuda
+  compute_type: "int8"  # Options: int8, float16, float32
+  language: "en"  # ISO language code or null for auto-detect
+  vad_filter: true  # Voice activity detection to filter silence
+  # Batched inference settings (3-4x faster)
+  batch_enabled: true
+  batch_size: 16
+  beam_size: 5
+
+# ============================================================
+# Scene Detection (PySceneDetect)
+# ============================================================
+scenes:
+  method: "content"  # Options: content, threshold, adaptive
+  threshold: 27.0  # Content change threshold (lower = more sensitive)
+  min_scene_len_seconds: 6  # Minimum scene duration
+  downscale_factor: null  # Downscale video for faster detection (null = auto)
+
+# ============================================================
+# Frame Extraction
+# ============================================================
+frames:
+  strategy: "start_mid_end"  # Which frames to extract per scene
+  per_scene:
+    - "start"
+    - "mid"
+    - "end"
+  image_format: "jpg"
+  jpeg_quality: 92
+  max_dimension: null  # Max width/height (null = no resize)
+
+# ============================================================
+# Crop Settings
+# ============================================================
+crop:
+  enabled: false
+  # Percentage-based crop region: [left, top, right, bottom]
+  # Values are 0.0 to 1.0 representing percentage of frame
+  # Only enable if you need to remove webcam overlays or player UI
+  slide_region:
+    - 0.0
+    - 0.0
+    - 1.0
+    - 1.0
+
+# ============================================================
+# OCR Settings (Tesseract)
+# ============================================================
+ocr:
+  enabled: true
+  engine: "tesseract"
+  tesseract_cmd: "tesseract"  # Path to tesseract binary
+  language: "eng"  # Tesseract language code
+  psm: 6  # Page segmentation mode (6 = uniform block of text)
+  oem: 3  # OCR engine mode (3 = default)
+  # Preprocessing
+  preprocessing:
+    upscale: 3.0  # Upscale factor for better OCR
+    grayscale: true
+    clahe: true  # Contrast Limited Adaptive Histogram Equalization
+    sharpen: true
+  # Quality filtering
+  min_confidence: 0.0  # Minimum confidence threshold (0-100)
+  min_text_length: 3  # Minimum text length to include
+
+# ============================================================
+# Visual Captioning (BLIP)
+# ============================================================
+caption:
+  enabled: true
+  backend: "blip"
+  model: "Salesforce/blip-image-captioning-base"
+  device: "auto"  # auto, cpu, cuda
+  max_new_tokens: 50
+  batch_size: 4
+  # Fallback behavior if captioning fails
+  fallback_on_error: true  # Continue pipeline if captioning fails
+
+# ============================================================
+# Chunking Settings
+# ============================================================
+chunking:
+  # Target chunk size
+  target_words: 350
+  max_words: 650
+  overlap_words: 60
+  max_seconds: 180  # Max chunk duration in seconds
+  # Content attachment
+  attach_ocr: true
+  attach_caption: true
+  # Formatting
+  ocr_marker: "[ON-SCREEN TEXT]"
+  caption_marker: "[VISUAL SUMMARY]"
+
+# ============================================================
+# Caching / Idempotency
+# ============================================================
+cache:
+  enabled: true
+  # Skip steps if output artifacts already exist
+  skip_existing: true
+  # Force re-run specific steps even if cached
+  force_steps: []  # e.g., ["ocr", "caption"]
+
+# ============================================================
+# Processing Options
+# ============================================================
+processing:
+  continue_on_error: false  # Continue pipeline if a step fails
+  max_workers: 1  # Parallel video processing (1 = sequential)
+  progress_bar: true  # Show progress bar
+  verbose: false  # Verbose logging
+
+# ============================================================
+# Logging
+# ============================================================
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: null  # Log to file (null = stdout only)
