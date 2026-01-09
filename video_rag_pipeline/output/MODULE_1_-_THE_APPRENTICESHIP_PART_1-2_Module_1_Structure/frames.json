@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-2_Module_1_Structure/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-2_Module_1_Structure/frames/scene_0000_mid.jpg",
+    "time": 49.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-2_Module_1_Structure/frames/scene_0000_end.jpg",
+    "time": 99.39999999999999,
+    "width": 1920,
+    "height": 1080
+  }
+]

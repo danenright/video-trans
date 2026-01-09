@@ -1,0 +1,66 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Gold_Breakout___27_11_17/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Gold_Breakout___27_11_17/frames/scene_0000_mid.jpg",
+    "time": 420.0,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Gold_Breakout___27_11_17/frames/scene_0000_end.jpg",
+    "time": 839.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Gold_Breakout___27_11_17/frames/scene_0001_start.jpg",
+    "time": 840.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Gold_Breakout___27_11_17/frames/scene_0001_mid.jpg",
+    "time": 2370.3,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Gold_Breakout___27_11_17/frames/scene_0001_end.jpg",
+    "time": 3900.4,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Gold_Breakout___27_11_17/frames/scene_0002_start.jpg",
+    "time": 3900.7999999999997,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Gold_Breakout___27_11_17/frames/scene_0002_mid.jpg",
+    "time": 4184.1,
+    "width": 1920,
+    "height": 1080
+  }
+]

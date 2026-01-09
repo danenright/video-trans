@@ -1,0 +1,186 @@
+[
+  {
+    "start": 1.42,
+    "end": 4.67,
+    "text": "So what is flipping?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.69,
+    "end": 7.93,
+    "text": "Once the market has been layered or falsely built",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.23,
+    "end": 12.31,
+    "text": "So what we discussed in the previous slide. So again, once the market has been layered",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.07,
+    "end": 16.71,
+    "text": "either on the buy side or the sell side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.23,
+    "end": 18.59,
+    "text": "or falsely built up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.59,
+    "end": 23.59,
+    "text": "Then the process of pulling all the orders that the spoof has artificially stacked on the order book",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.71,
+    "end": 27.95,
+    "text": "Whilst the spoof has received the requested fills is called the flip",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.32,
+    "end": 32.4,
+    "text": "So again, let me just explain that and we'll be looking at that in one of the videos a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.4,
+    "end": 38.6,
+    "text": "little bit later on in the modules when we analyze a particular pattern where we're putting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.6,
+    "end": 40.52,
+    "text": "a trading strategy around.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.52,
+    "end": 48.0,
+    "text": "Again so you're layering the order book, so in this instance say the spoofer and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.0,
+    "end": 53.04,
+    "text": "the flipper is layering the order book, making it look artificially strong, pulling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.23,
+    "end": 58.37,
+    "text": "Then what happens, it has some passive sell-side orders,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.37,
+    "end": 60.49,
+    "text": "gets filled on the sell-side order,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.49,
+    "end": 62.29,
+    "text": "so now his net's short,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.29,
+    "end": 65.33,
+    "text": "and then the moment he gets the requested fill,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.33,
+    "end": 67.29,
+    "text": "he pulls all of his buy orders,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.29,
+    "end": 69.01,
+    "text": "the market flips downwards,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.01,
+    "end": 70.61,
+    "text": "and then he gets out of those orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.61,
+    "end": 72.81,
+    "text": "and he profits from that activity,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.81,
+    "end": 75.23,
+    "text": "and that is what you call a classic flip,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.23,
+    "end": 77.05,
+    "text": "and you'll be looking at that later on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.05,
+    "end": 79.95,
+    "text": "in one of our latter video analysis.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_12__12_Trading_Strategies_around_Momentum_Plays/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_12__12_Trading_Strategies_around_Momentum_Plays/frames/scene_0000_mid.jpg",
+    "time": 47.16,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_12__12_Trading_Strategies_around_Momentum_Plays/frames/scene_0000_end.jpg",
+    "time": 94.11999999999999,
+    "width": 1920,
+    "height": 1080
+  }
+]

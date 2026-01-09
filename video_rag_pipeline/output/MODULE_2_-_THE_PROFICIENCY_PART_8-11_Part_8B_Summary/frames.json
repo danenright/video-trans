@@ -1,0 +1,170 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0000_mid.jpg",
+    "time": 83.875,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0000_end.jpg",
+    "time": 167.55,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0001_start.jpg",
+    "time": 167.95,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0001_mid.jpg",
+    "time": 216.33333333333334,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0001_end.jpg",
+    "time": 264.7166666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0002_start.jpg",
+    "time": 265.1166666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0002_mid.jpg",
+    "time": 347.9375,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0002_end.jpg",
+    "time": 430.7583333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0003_start.jpg",
+    "time": 431.1583333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0003_mid.jpg",
+    "time": 484.97916666666663,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0003_end.jpg",
+    "time": 538.8,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0004_start.jpg",
+    "time": 539.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0004_mid.jpg",
+    "time": 598.7083333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0004_end.jpg",
+    "time": 658.2166666666666,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0005_start.jpg",
+    "time": 658.6166666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0005_mid.jpg",
+    "time": 661.5,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0005_end.jpg",
+    "time": 664.3833333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0006_start.jpg",
+    "time": 664.7833333333334,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0006_mid.jpg",
+    "time": 697.375,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-11_Part_8B_Summary/frames/scene_0006_end.jpg",
+    "time": 729.9666666666666,
+    "width": 960,
+    "height": 540
+  }
+]

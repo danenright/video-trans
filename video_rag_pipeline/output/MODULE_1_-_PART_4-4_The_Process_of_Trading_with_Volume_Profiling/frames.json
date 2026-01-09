@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-4_The_Process_of_Trading_with_Volume_Profiling/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-4_The_Process_of_Trading_with_Volume_Profiling/frames/scene_0000_mid.jpg",
+    "time": 53.78,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-4_The_Process_of_Trading_with_Volume_Profiling/frames/scene_0000_end.jpg",
+    "time": 107.36,
+    "width": 1920,
+    "height": 1080
+  }
+]

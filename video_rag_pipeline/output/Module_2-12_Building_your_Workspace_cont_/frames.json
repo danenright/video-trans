@@ -1,0 +1,50 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_2-12_Building_your_Workspace_cont_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 356
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_2-12_Building_your_Workspace_cont_/frames/scene_0000_mid.jpg",
+    "time": 355.8426690683302,
+    "width": 960,
+    "height": 356
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_2-12_Building_your_Workspace_cont_/frames/scene_0000_end.jpg",
+    "time": 711.4853381366604,
+    "width": 960,
+    "height": 356
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Module_2-12_Building_your_Workspace_cont_/frames/scene_0001_start.jpg",
+    "time": 711.8853381366605,
+    "width": 960,
+    "height": 356
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Module_2-12_Building_your_Workspace_cont_/frames/scene_0001_mid.jpg",
+    "time": 924.7510104560231,
+    "width": 960,
+    "height": 356
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Module_2-12_Building_your_Workspace_cont_/frames/scene_0001_end.jpg",
+    "time": 1137.6166827753857,
+    "width": 960,
+    "height": 356
+  }
+]

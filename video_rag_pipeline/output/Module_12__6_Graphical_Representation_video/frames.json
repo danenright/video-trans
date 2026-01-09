@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_12__6_Graphical_Representation_video/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 462
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_12__6_Graphical_Representation_video/frames/scene_0000_mid.jpg",
+    "time": 171.05296853181727,
+    "width": 960,
+    "height": 462
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_12__6_Graphical_Representation_video/frames/scene_0000_end.jpg",
+    "time": 341.90593706363455,
+    "width": 960,
+    "height": 462
+  }
+]

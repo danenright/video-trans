@@ -1,0 +1,3738 @@
+[
+  {
+    "start": 0.59,
+    "end": 5.87,
+    "text": "The Footprint Course, Unit 14, The Delta Position Unwind.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.87,
+    "end": 8.27,
+    "text": "This is Challenge Day 26 of 30.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.27,
+    "end": 12.75,
+    "text": "In the following slide, we are going to focus on some of the key rules to understand about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.75,
+    "end": 19.69,
+    "text": "the financial markets, including the key participants, the objective of these participants, the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.69,
+    "end": 26.63,
+    "text": "skills required to be successful as a trader, and some of the skills and processes that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 53.94,
+    "end": 58.34,
+    "text": "First most important thing to understand is who are you playing against? Who are the players",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.34,
+    "end": 62.82,
+    "text": "in this game or you know in this game of trading? Now there's a number of different players and I've",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.82,
+    "end": 67.46,
+    "text": "kind of summarized them into five so the first and you know and the biggest players being your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.46,
+    "end": 72.98,
+    "text": "pension funds, your hedge funds, your institutions, your banks, these are what we call influential",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.98,
+    "end": 77.78,
+    "text": "players in other words they can move price around based on the decisions that they make.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.1,
+    "end": 85.1,
+    "text": "Okay, now no one, none of us, not myself included, none of us are influential in the market that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.1,
+    "end": 91.1,
+    "text": "we can actually manipulate, or not manipulate, but maneuver prices and actually make price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.1,
+    "end": 92.1,
+    "text": "go up and down.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.1,
+    "end": 95.86,
+    "text": "So straight away, you've got to say to yourself, well, I'm not an influential player.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.22,
+    "end": 99.06,
+    "text": "The next type of player is a speculative player.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.06,
+    "end": 102.78,
+    "text": "Now, again, a speculative player in this definition,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.78,
+    "end": 106.06,
+    "text": "we try and include or more lean towards,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.06,
+    "end": 108.22,
+    "text": "again, influential type players.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.22,
+    "end": 110.22,
+    "text": "In other words, we're looking at hedge funds",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.22,
+    "end": 112.56,
+    "text": "that are taking a directional view",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.56,
+    "end": 114.22,
+    "text": "on whatever market it may be,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.22,
+    "end": 115.94,
+    "text": "and they either get stopped out or they don't.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.94,
+    "end": 119.3,
+    "text": "They're not holding that product or that asset class",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.3,
+    "end": 121.54,
+    "text": "until maturity or something like that.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.54,
+    "end": 124.5,
+    "text": "So, the next type of player is a speculative player.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.78,
+    "end": 131.86,
+    "text": "does not include us as a retail market, as day traders, as short-term traders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.86,
+    "end": 133.66,
+    "text": "We then have the high-frequency traders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.66,
+    "end": 137.62,
+    "text": "Now, again, this might include some of you, some of you that have developed algorithms,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.62,
+    "end": 138.62,
+    "text": "this includes you.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.62,
+    "end": 141.94,
+    "text": "The important thing to understand with regards to the players that play in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.94,
+    "end": 148.7,
+    "text": "high-frequency is they develop strategies that, one, are very exact and, two, have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.7,
+    "end": 150.54,
+    "text": "very specific both risk and reward.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.54,
+    "end": 154.14,
+    "text": "And we'll talk a little bit about that later when we go into actually some strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.88,
+    "end": 160.02,
+    "text": "Then we have the day trader. That's myself your prop traders your professional traders as well as many of you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.02,
+    "end": 164.5,
+    "text": "You would fall into this bracket of day traders and then obviously swing traders now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.5,
+    "end": 168.16,
+    "text": "The main difference between a day trader swing trader is merely the time frame",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.44,
+    "end": 173.74,
+    "text": "Over which we're holding day traders a little bit more short term swing trader a little bit more longer term now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.84,
+    "end": 176.08,
+    "text": "it's important to understand these players because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.42,
+    "end": 181.62,
+    "text": "If you know which player you are and who you're up against, straight away, you're almost going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.62,
+    "end": 184.58,
+    "text": "to put yourself in a division of the players.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 184.58,
+    "end": 189.18,
+    "text": "You're going to say, well, I'm one of these players, therefore, this is the type of,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.18,
+    "end": 193.34,
+    "text": "you know, not just objective, the skills and the process, but this is ultimately",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.34,
+    "end": 195.82,
+    "text": "the direction or the path that I need to go down.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.45,
+    "end": 199.37,
+    "text": "If you are a day trader or swing trader,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.37,
+    "end": 201.53,
+    "text": "I'm going to outline for you now,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.53,
+    "end": 203.37,
+    "text": "firstly, what is your objective?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.37,
+    "end": 205.21,
+    "text": "Secondly, what are the skills you need?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.21,
+    "end": 207.21,
+    "text": "And then third, what is the process?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.21,
+    "end": 209.11,
+    "text": "And that's where the meat of tonight's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.11,
+    "end": 210.43,
+    "text": "whole periscope is gonna be.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.43,
+    "end": 214.09,
+    "text": "So your objective as a day trader slash swing trader,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.09,
+    "end": 216.77,
+    "text": "first and foremost, is to develop consistency.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.77,
+    "end": 218.77,
+    "text": "Now, what you need to say to yourself",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.77,
+    "end": 220.27,
+    "text": "when you go through your strategies,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.27,
+    "end": 221.57,
+    "text": "when you do your debriefs in a day,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.57,
+    "end": 223.75,
+    "text": "when you're thinking of great new ideas,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.75,
+    "end": 225.97,
+    "text": "you need to ask yourself, well firstly,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.0,
+    "end": 228.12,
+    "text": "I am a day trader or a swing trader.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.12,
+    "end": 230.4,
+    "text": "Secondly, what I'm doing right now,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 230.4,
+    "end": 233.56,
+    "text": "this hour I'm spending doing whatever I may be doing,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.56,
+    "end": 235.64,
+    "text": "is that ultimately going to get me",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.64,
+    "end": 238.48,
+    "text": "toward that objective of consistency?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 238.42,
+    "end": 244.06,
+    "text": "Now, the perfect example I like to use is sometimes someone will send me a long timeframe",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 244.06,
+    "end": 247.24,
+    "text": "day chart and they'll say, well, what do you think about holding this for the next three",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.24,
+    "end": 249.24,
+    "text": "weeks for a 10% gain?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 249.24,
+    "end": 252.82,
+    "text": "And I'll say, okay, well, hang on a sec, are you a influential player?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 252.82,
+    "end": 254.76,
+    "text": "Are you a speculative player?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 254.76,
+    "end": 260.66,
+    "text": "Are you able to sit with a massive capital position for a number of days?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 260.66,
+    "end": 263.62,
+    "text": "And the simple answer for 99% of us is no.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.86,
+    "end": 269.14,
+    "text": "Okay, so in order to develop consistency you're going to be needing to trade more frequently,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 269.14,
+    "end": 274.1,
+    "text": "okay, and in order to trade more frequently you cannot be taking, you know, one or two or three",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 274.1,
+    "end": 279.7,
+    "text": "or monthly type trades. Okay, so you see how we outline the players to the objective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 279.7,
+    "end": 285.78,
+    "text": "Then the risk management of all of these different players varies very differently.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.53,
+    "end": 290.83,
+    "text": "influential player or a speculative player they can sit with massively wide",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.83,
+    "end": 295.43,
+    "text": "stops we're talking four five ten percent you know stops they'll hedge most of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 295.43,
+    "end": 299.09,
+    "text": "those strategies they have very very different risk management approach to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 299.09,
+    "end": 303.75,
+    "text": "what we do as day traders and swing traders and even high-frequency traders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 303.75,
+    "end": 307.87,
+    "text": "okay of all five of the players high-frequency traders have got the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 307.87,
+    "end": 313.07,
+    "text": "most unique risk management system in that they take very small losers all",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 316.05,
+    "end": 321.97,
+    "text": "making a lot more than what they're losing okay then our next objective is to print green",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.97,
+    "end": 327.49,
+    "text": "every single day okay now that objective differs you know if you're again if you're a swing trader",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 327.49,
+    "end": 332.37,
+    "text": "it might be okay to have a few drawdowns for monday tuesday wednesday so long as thursday",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 332.37,
+    "end": 337.09,
+    "text": "friday when you do go inside or make money it makes back all of those losses",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.14,
+    "end": 341.76,
+    "text": "Okay, and then the last objective is leverage, right?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 341.76,
+    "end": 346.78,
+    "text": "Influential players don't tend to use as much leverage as what we do as day traders and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 346.78,
+    "end": 347.78,
+    "text": "swing traders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 347.78,
+    "end": 351.94,
+    "text": "Again, high frequency traders have a very different objective when it comes to leverage",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 351.94,
+    "end": 354.78,
+    "text": "that we do as day traders and swing traders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 354.78,
+    "end": 359.54,
+    "text": "Okay, so it's so important to understand, number one, what player are you?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.54,
+    "end": 361.5,
+    "text": "Based on that player, what is your objective?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 361.79,
+    "end": 367.43,
+    "text": "All right, once you know what your objective is, then it's very simple to determine what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 367.43,
+    "end": 372.39,
+    "text": "are the skills that you are going to need to learn to develop in order to get towards",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 372.39,
+    "end": 373.39,
+    "text": "your objective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 373.39,
+    "end": 375.67,
+    "text": "So the first is consistency, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 376.0,
+    "end": 382.88,
+    "text": "Now, this consistency skill, you're not going to develop by chopping and changing your strategies,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 382.88,
+    "end": 388.12,
+    "text": "by looking at various different markets, by trading futures one day, then trading equities,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 388.12,
+    "end": 392.82,
+    "text": "by following some guy on Twitter and taking whatever trades he spends out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 392.82,
+    "end": 397.24,
+    "text": "You're not going to develop consistency if you're going and taking this approach.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 397.24,
+    "end": 401.92,
+    "text": "Okay, the next, spec, sorry guys, I actually don't think I've filled in the skills here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 402.08,
+    "end": 404.28,
+    "text": "Okay, I'm going to give you the skills because I've written them down.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 404.28,
+    "end": 407.92,
+    "text": "So the first is consistency, the second is discipline.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 407.92,
+    "end": 411.44,
+    "text": "Now again, with regards to discipline, how are you going to develop discipline?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 411.44,
+    "end": 417.16,
+    "text": "Well, the only way to develop discipline is to be in a number of different situations",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 417.16,
+    "end": 422.44,
+    "text": "over different periods of time, different times of day, different days of the week.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 422.44,
+    "end": 425.6,
+    "text": "That's the only way you're going to learn to develop discipline.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 425.6,
+    "end": 429.84,
+    "text": "Now again, if you're sitting in trades and only doing one trade a day, are you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 431.38,
+    "end": 433.46,
+    "text": "as a day trader, as a last week trader?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 433.46,
+    "end": 435.18,
+    "text": "Probably not, all right?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.18,
+    "end": 438.26,
+    "text": "The next skill you need to develop is patience, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 438.26,
+    "end": 440.22,
+    "text": "Again, how are you gonna develop patience?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 440.22,
+    "end": 441.9,
+    "text": "Well, you're not gonna develop patience",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 441.9,
+    "end": 444.54,
+    "text": "by putting a trade in the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 444.54,
+    "end": 446.06,
+    "text": "and then putting in a stop and putting in a target",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 446.06,
+    "end": 447.54,
+    "text": "and never watching it, all right?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 447.54,
+    "end": 449.26,
+    "text": "Because ultimately by watching it,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 449.26,
+    "end": 452.74,
+    "text": "you're gonna learn and take away a lot of information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 452.74,
+    "end": 454.14,
+    "text": "from the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 454.77,
+    "end": 459.77,
+    "text": "And then finally, the last skill that you're going to need to develop is a little bit of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 459.77,
+    "end": 467.41,
+    "text": "what I like to call good old fashioned pain threshold or real determination and grit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 467.41,
+    "end": 470.85,
+    "text": "And again, the only way you're going to learn to develop this, the only way you're going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 470.85,
+    "end": 477.17,
+    "text": "to get through the hard knocks is by ultimately doing a lot of trading, going through those",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 477.17,
+    "end": 481.57,
+    "text": "trades, really just trying to develop yourself through the hard knocks.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 481.82,
+    "end": 485.7,
+    "text": "Okay, so once we have developed firstly the players, we understand the players of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 485.7,
+    "end": 490.94,
+    "text": "market, then we determine what our objective is as based on the player we are as well as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 490.94,
+    "end": 495.86,
+    "text": "the skills we need in order to achieve that objective, we then go to the process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 495.86,
+    "end": 499.26,
+    "text": "Okay, now the process is very simple and I want you to write this down and think",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 499.26,
+    "end": 501.14,
+    "text": "about it over the period of the week.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 504.27,
+    "end": 509.47,
+    "text": "Straight away, you should be able to outline, well, you know, I'm really, really good trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 509.47,
+    "end": 510.47,
+    "text": "volatile markets.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 510.47,
+    "end": 514.55,
+    "text": "I really like it when the markets are fast, there's breakouts, there's a lot of clean",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 514.55,
+    "end": 517.91,
+    "text": "breaks, the market's moving aggressively, I really like that.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 517.91,
+    "end": 519.79,
+    "text": "And you write it down as a strength.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 519.79,
+    "end": 524.07,
+    "text": "You then do the same and you write down what are your weaknesses as a trader.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 524.07,
+    "end": 528.25,
+    "text": "If you're very bad at risk management, or you're really bad at being disciplined",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 528.25,
+    "end": 531.57,
+    "text": "to stick through the trade until it's achieved what it should, then you write",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 532.32,
+    "end": 538.24,
+    "text": "Again, the reason is you will start to develop strategy based on your strengths and not your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 538.24,
+    "end": 539.64,
+    "text": "weaknesses.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 539.64,
+    "end": 544.88,
+    "text": "There is zero point in trying to be a breakout trader if you suck at breakouts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 544.88,
+    "end": 546.64,
+    "text": "There's just no point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 546.64,
+    "end": 549.36,
+    "text": "Now when I get to the pattern recognition part, I'm going to show you how this all",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 550.83,
+    "end": 552.55,
+    "text": "Then, where do you fit in?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 552.55,
+    "end": 556.07,
+    "text": "In other words, where do you fit in into this whole entire market?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 556.07,
+    "end": 558.19,
+    "text": "Are you a trader that scalps?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 558.19,
+    "end": 561.39,
+    "text": "Are you a trader that likes to sit for a couple of hours on a trade?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 561.39,
+    "end": 563.47,
+    "text": "What kind of trades do you like to do?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 563.47,
+    "end": 565.91,
+    "text": "Where do you feel most comfortable?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 565.91,
+    "end": 569.11,
+    "text": "Do you prefer the market coming to you and you're getting passively in the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 569.11,
+    "end": 572.51,
+    "text": "or do you prefer to be aggressive and provide liquidity to the market?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 579.76,
+    "end": 586.08,
+    "text": "Hopefully that mentored session really drove home the understanding behind the different participants",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 586.08,
+    "end": 590.32,
+    "text": "and why it's so important to know who you're actually interacting with in the market and who's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 590.32,
+    "end": 597.36,
+    "text": "ultimately creating which strategy. It is obviously quite an important part of our template as it is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 597.36,
+    "end": 603.2,
+    "text": "a very very important principle to identifying when a trade strategy will have a higher",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 603.2,
+    "end": 606.56,
+    "text": "probability of success or lower probability of success.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 607.07,
+    "end": 613.16,
+    "text": "Now in the next strategy, this is obviously a counter training strategy again in terms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 613.16,
+    "end": 619.84,
+    "text": "of it's no longer standalone, this is the third of our context and footprint strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 619.84,
+    "end": 628.12,
+    "text": "and obviously it requires a very aggressive execution methodology.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 628.12,
+    "end": 632.6,
+    "text": "So this is a little bit of a patient man's strategy, this does require a lot of patience.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 633.52,
+    "end": 638.96,
+    "text": "It's one of those strategies that you won't necessarily always see a lot of the time you'll",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 638.96,
+    "end": 641.76,
+    "text": "see it maybe at the end of the day you'll be like oh there was that strategy again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 642.48,
+    "end": 645.44,
+    "text": "In terms of that obviously some of the principles we're going to focus on you can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 646.16,
+    "end": 652.72,
+    "text": "within the slide but some of the key real focus points here are going to be the understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 652.72,
+    "end": 659.04,
+    "text": "of the delta and the cumulative delta as well as the shading around that delta and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 661.58,
+    "end": 665.98,
+    "text": "We're obviously going to move a little bit deeper into, you know, positioning and pocket",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 665.98,
+    "end": 672.16,
+    "text": "positioning of the delta as well as liquidity and we're then definitely going to pay attention",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 672.16,
+    "end": 678.38,
+    "text": "to the end where we introduce our color lines so that we make sure that when we have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 678.38,
+    "end": 684.02,
+    "text": "what we call a line in the sand, we can very easily identify it with a nice red",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 684.02,
+    "end": 684.54,
+    "text": "color line.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 684.91,
+    "end": 689.31,
+    "text": "All right guys let's move on to the practical example now. Hopefully you enjoy this. This is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 689.31,
+    "end": 695.15,
+    "text": "one of the strategies I learned through a number of failures so hopefully you can learn from the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 695.15,
+    "end": 708.66,
+    "text": "strategy and adopt accordingly. All right so unit 14 footprint delta position unwind strategy. Now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 709.22,
+    "end": 716.67,
+    "text": "before we get started let's talk about this idea of rules. Now my honest belief",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 720.72,
+    "end": 730.38,
+    "text": "and provide structure okay however that being said no great inventions no great thought",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 731.18,
+    "end": 738.26,
+    "text": "no great breakthroughs happened without a little bit of bending of the rules now that being said",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 739.62,
+    "end": 747.01,
+    "text": "what most traders fail to understand is they tend to ignore the rules altogether okay so just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 747.01,
+    "end": 752.61,
+    "text": "like any game which trading is just like any game there is a set of governing rules example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 755.92,
+    "end": 760.94,
+    "text": "Okay, there's a very very good reason why you have got to be capitalized",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 761.68,
+    "end": 768.08,
+    "text": "Okay, now that reason stems from the fact that like I've mentioned you have the last couple of units this entire job",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 768.56,
+    "end": 771.13,
+    "text": "Is about trial and error?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 771.17,
+    "end": 777.96,
+    "text": "Okay, now guess what trial and error is synonymous for failure and all things being equal",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 778.76,
+    "end": 783.97,
+    "text": "Failure should imply a loss in trading. So if you're insufficiently capitalized",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 784.59,
+    "end": 789.23,
+    "text": "one you're not going to follow the rule and the process of trial and error which means ultimately",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 790.16,
+    "end": 796.4,
+    "text": "you're going to fail okay so that's one of the rules being well capitalized now traders for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 796.4,
+    "end": 802.16,
+    "text": "some odd reason and again i think it's because of the the uh the real speculative lucrative nature",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 802.16,
+    "end": 806.48,
+    "text": "of trading there's still rarely this belief in the financial markets that you can get",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 809.68,
+    "end": 813.24,
+    "text": "I firmly believe the game was very different 20 years ago",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 813.76,
+    "end": 818.48,
+    "text": "But then the game was very different 20 years ago in say for instance the property market, okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 818.48,
+    "end": 823.72,
+    "text": "You could get rich buying property 20 years ago. Okay, equally you could have got rich buying Bitcoin this year",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 824.12,
+    "end": 827.37,
+    "text": "all right, so the rules change and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 828.8,
+    "end": 835.42,
+    "text": "That's the important thing to understand you have to be willing to adopt the rules that govern the game",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 835.42,
+    "end": 840.12,
+    "text": "You're playing if you don't adopt those rules. Okay, you're ultimately",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 840.62,
+    "end": 845.68,
+    "text": "headed for some sort of a run out of the markets now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 845.68,
+    "end": 850.88,
+    "text": "note once you do have the structure which is what the rules ultimately",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 850.88,
+    "end": 854.48,
+    "text": "create only then do you begin the process of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 854.48,
+    "end": 858.69,
+    "text": "bending them why because through bending them you're going to create",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 858.69,
+    "end": 862.93,
+    "text": "edges okay dynamic edges edges that no one else has created because guess",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 862.93,
+    "end": 865.01,
+    "text": "what not many people are willing to bend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 865.01,
+    "end": 869.86,
+    "text": "those rules okay now the next thing to pay attention",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 873.2,
+    "end": 880.4,
+    "text": "This concept of a footprint Delta position unwinds is very simple. Okay, I'm gonna illustrate it for you and you'll go straight away",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 880.4,
+    "end": 882.4,
+    "text": "You'll be like I've seen that before so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 882.64,
+    "end": 887.58,
+    "text": "All it is is a market moves up or a market moves down",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 888.06,
+    "end": 890.44,
+    "text": "the up move",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 890.44,
+    "end": 891.64,
+    "text": "creates",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 891.64,
+    "end": 893.67,
+    "text": "their bias or the down move",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 894.23,
+    "end": 895.79,
+    "text": "Creates a bias",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 895.79,
+    "end": 898.18,
+    "text": "now that bias",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 898.18,
+    "end": 900.42,
+    "text": "Okay, the bias can come from two",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 902.73,
+    "end": 904.73,
+    "text": "Factors one can be technical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 907.23,
+    "end": 912.51,
+    "text": "and one can be fundamental and I'm going to go through some of the biases that can be created",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 912.51,
+    "end": 918.38,
+    "text": "with both of these. Now when there's biases in the market the most important thing to note",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 919.22,
+    "end": 925.44,
+    "text": "is a bias equals a cumulative delta. This is the one trade strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 926.78,
+    "end": 931.1,
+    "text": "or one of the few trade strategies where the cumulative delta is very very important.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 932.14,
+    "end": 939.98,
+    "text": "Okay, so in essence we lean on the cumulative Delta to recognize the fact that there is a natural bias in the market as a result of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 939.98,
+    "end": 941.26,
+    "text": "either",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 941.26,
+    "end": 943.26,
+    "text": "technical implications or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 943.46,
+    "end": 945.46,
+    "text": "fundamental implications now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 945.62,
+    "end": 949.34,
+    "text": "What happens is the market begins the process of turning back around?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 950.3,
+    "end": 954.68,
+    "text": "Okay, we're not we're not too concerned about how it turns around why it turns around etc. Etc",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 955.42,
+    "end": 959.5,
+    "text": "We just acknowledge the fact that the market turns around it then reaches a point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 959.84,
+    "end": 965.62,
+    "text": "Okay, which we are going to give a red line to a red line as we mentioned in the color line section of unit three",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 966.04,
+    "end": 970.6,
+    "text": "That is a key observation or a key price. Okay, we're gonna call this line",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 971.28,
+    "end": 973.02,
+    "text": "in the sand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 973.02,
+    "end": 975.75,
+    "text": "In other words, this is a price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 977.46,
+    "end": 980.5,
+    "text": "In which the market should not really be getting beyond",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 981.02,
+    "end": 982.14,
+    "text": "with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 982.14,
+    "end": 988.7,
+    "text": "The cumulative Delta in place. So it's a place or a price in the market where we like you to see an unwind of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 988.98,
+    "end": 990.98,
+    "text": "the bias now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 990.32,
+    "end": 994.98,
+    "text": "how this trade actually came about was it came about through failing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 994.98,
+    "end": 999.06,
+    "text": "through fading these things so what would end up happening would get this line in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 999.06,
+    "end": 999.66,
+    "text": "the sand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 999.66,
+    "end": 1003.32,
+    "text": "what typically happens is you'll get a lot of two-way trade around that line in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1003.32,
+    "end": 1004.92,
+    "text": "sand, a last bit of defense",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1004.92,
+    "end": 1010.05,
+    "text": "once we take it out you get the straight line wash out. Now I used to be the one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1010.05,
+    "end": 1013.57,
+    "text": "buying it there, buying it there, buying it there",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1013.57,
+    "end": 1018.02,
+    "text": "selling it there. And you can ultimately guess what the result of that was",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1020.06,
+    "end": 1024.86,
+    "text": "I began to recognize a reason as to why the markets create these one-directional moves.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1025.98,
+    "end": 1038.88,
+    "text": "As a result, I put the red line in place. The red line is a rule and that rule says there's no",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1039.52,
+    "end": 1048.29,
+    "text": "trade opportunity. That's all it is. It's a rules-based approach. I've created a rule",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1049.17,
+    "end": 1054.51,
+    "text": "that gives me structure and guess what? My consistency, my profitability,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1055.22,
+    "end": 1059.86,
+    "text": "on this trade setup went through the roof okay i stopped losing money i stopped blowing out on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1059.86,
+    "end": 1065.98,
+    "text": "silly moves like that the next step then was i went to bend the rule a little bit i said okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1065.98,
+    "end": 1071.94,
+    "text": "well hang on a sec i might not be uh i might not be taking a trade because there's no trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1071.94,
+    "end": 1076.96,
+    "text": "opportunity but the market's still doing that straight line wash down okay so i bent the rule",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1076.96,
+    "end": 1082.8,
+    "text": "i said well surely there's a tradeable opportunity to be a seller for the wash down",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1088.22,
+    "end": 1095.62,
+    "text": "to ultimately profiting whilst others are not willing to have a rule in place and that's the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1095.62,
+    "end": 1100.34,
+    "text": "purpose of rules guys the rules are there to govern us that to provide structure and protect us",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1100.34,
+    "end": 1104.74,
+    "text": "so that we can you know do lots of trial and error so we can fail a lot more in the future",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1105.22,
+    "end": 1109.14,
+    "text": "but ultimately keep learning the lessons so let's come back to this example now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1109.78,
+    "end": 1111.7,
+    "text": "so the basic premise we have a bias in the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1112.94,
+    "end": 1118.94,
+    "text": "We note that bias, that line in the sand. Now note, we will know that line in the sand through a number of factors",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1118.94,
+    "end": 1125.39,
+    "text": "and they can include, let's just write a few of them down. In fact, let's go one step back.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1125.65,
+    "end": 1131.65,
+    "text": "Let's go through some of the technical reasons as well as fundamental reasons for a bias.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1131.65,
+    "end": 1138.22,
+    "text": "Now, the first technical reason will include maybe a breakout. So we have a key breakout of a level.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1138.22,
+    "end": 1143.22,
+    "text": "Naturally that puts a bias on the market. Why? Because all participants are in agreement.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1143.73,
+    "end": 1149.51,
+    "text": "Okay, so there's a natural bias as well as a very strong Delta. The next is a trending day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1149.51,
+    "end": 1151.51,
+    "text": "You sit so often on trending days",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1152.01,
+    "end": 1154.49,
+    "text": "Yes, we have a nice trending day. We spoke about trend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1154.81,
+    "end": 1160.97,
+    "text": "we said ultimately if we get the trend lots of low-volume areas lots of imbalances in the market and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1162.66,
+    "end": 1164.11,
+    "text": "Ultimately",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1164.11,
+    "end": 1166.69,
+    "text": "Sometimes we get a straight line reversal. Why because when it turns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1167.35,
+    "end": 1170.55,
+    "text": "No one is willing to sell it. Everyone is willing to buy it on the way back down",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1171.34,
+    "end": 1177.54,
+    "text": "Okay, the next reason for technical biases will include potential low-volume areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1177.54,
+    "end": 1184.44,
+    "text": "Okay, so like we've spoken about, low-volume areas or imbalances do show us,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1184.44,
+    "end": 1190.06,
+    "text": "they do signal a form of initiative or strength or bias in the market. So again,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1190.06,
+    "end": 1193.58,
+    "text": "when we take those out we tend to get follow-through. And the last is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1193.58,
+    "end": 1197.69,
+    "text": "initiative drives. Okay, we spoke about initiative drives in one of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1206.42,
+    "end": 1211.9,
+    "text": "Now some of the fundamental reasons why we would get a bias in the market there could be some news",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1212.46,
+    "end": 1214.75,
+    "text": "Okay, some market moving fundamentals",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1215.67,
+    "end": 1217.31,
+    "text": "maybe something that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1217.31,
+    "end": 1222.59,
+    "text": "You know related to Geographics, maybe the oil market OPEC etc etc or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1223.29,
+    "end": 1225.29,
+    "text": "We have some key central bank decisions",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1226.34,
+    "end": 1230.88,
+    "text": "Interest rate policy shifts or hawkish dovish shifts as well as economic",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1231.57,
+    "end": 1233.57,
+    "text": "data or at least key",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1234.21,
+    "end": 1236.21,
+    "text": "economic data",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1235.38,
+    "end": 1240.26,
+    "text": "Okay so these are the three fundamentals that can ultimately create some form of a bias in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1240.26,
+    "end": 1245.14,
+    "text": "market. Now the most important thing we need to determine these are the key elements is you have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1245.14,
+    "end": 1255.39,
+    "text": "to learn ultimately what is delta. Okay the entire trade strategy is based on the cum delta",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1255.39,
+    "end": 1260.19,
+    "text": "or the cumulative delta so you need to learn what is above average okay so what is above",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1260.19,
+    "end": 1265.14,
+    "text": "average cum delta. This is going to vary from market to market okay it's going to vary from",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1266.42,
+    "end": 1270.58,
+    "text": "So what I like to do, I've got a spreadsheet at the end of every day, I simply update the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1270.58,
+    "end": 1271.78,
+    "text": "spreadsheet.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1271.78,
+    "end": 1275.9,
+    "text": "You keep a total or a running total of the delta at the end of every day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1275.9,
+    "end": 1279.82,
+    "text": "You view it every day at the end of the week, once a month you're very going to quickly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1279.82,
+    "end": 1283.62,
+    "text": "learn when there's a really big shift in the delta.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1283.62,
+    "end": 1289.46,
+    "text": "Okay now one of the important things to also understand is market context.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1289.46,
+    "end": 1294.98,
+    "text": "What I mean by that is simply traditionally these biases you will see a lot better",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1295.5,
+    "end": 1301.57,
+    "text": "in a form of imbalanced markets why because imbalanced markets are likely to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1301.57,
+    "end": 1306.13,
+    "text": "bring in more technical biases okay so if we're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1306.13,
+    "end": 1308.13,
+    "text": "trading at the extreme of a day we break out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1308.13,
+    "end": 1311.97,
+    "text": "we extend trade up to prices we haven't traded",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1311.97,
+    "end": 1315.25,
+    "text": "at in a number of days it will tend to bring in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1315.25,
+    "end": 1319.79,
+    "text": "some form of a technical bias now in terms of obviously",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1319.79,
+    "end": 1323.55,
+    "text": "the volatility around this trade okay we're not too interested in the first",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1324.13,
+    "end": 1328.89,
+    "text": "We're not interested too much in what's creating the drive up.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1328.89,
+    "end": 1333.05,
+    "text": "We simply are interested in the fact that the market's driven up quite aggressively.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1333.05,
+    "end": 1338.25,
+    "text": "It's shown us the initiative through the likes of maybe some single prints, maybe",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1338.25,
+    "end": 1341.57,
+    "text": "some really one directional trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1341.57,
+    "end": 1346.77,
+    "text": "But ultimately we then get the market returning to the key line in the sand.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1349.2,
+    "end": 1353.54,
+    "text": "And in fact, sorry, we haven't spoken about those lines and so let's mention them now now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1353.96,
+    "end": 1356.48,
+    "text": "Some lines in the sand that you can expect",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1357.0,
+    "end": 1362.48,
+    "text": "To see or where you're going to place this red line first and foremost is the previous day's high and low",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1362.88,
+    "end": 1368.4,
+    "text": "Okay, so let's say obviously this trade strategy broke out to the previous day's high and low it extended",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1368.76,
+    "end": 1374.0,
+    "text": "That previous day's high and low becomes a line in the sand. Why because ultimately everyone long",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1374.52,
+    "end": 1377.7,
+    "text": "Will be long until we re-enter that range",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1378.45,
+    "end": 1385.08,
+    "text": "Okay, now the next big important factor or potential for a line of the sand is a set of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1385.08,
+    "end": 1390.18,
+    "text": "single prints and again this is very much a profiling term so if you are more of a profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1390.18,
+    "end": 1394.74,
+    "text": "guru or if you want more information about access course on the market profile you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1394.74,
+    "end": 1399.58,
+    "text": "obviously email us but obviously single prints do represent for us if I just illustrated",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1404.05,
+    "end": 1408.77,
+    "text": "That set of singles does represent a line in the sand. If we take that out we do tend to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1408.77,
+    "end": 1413.46,
+    "text": "stop down. The next one is obviously, I'm just going to make this a bit tidier guys,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1414.34,
+    "end": 1424.64,
+    "text": "the next one is obviously absorption in the initiative drive. Okay so this is more",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1424.64,
+    "end": 1430.08,
+    "text": "pocket positioning. So if we see a marker trending and absorbing, pocket positioning,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1430.08,
+    "end": 1435.1,
+    "text": "trending, pocket positioning, okay wherever that pocket positioning occurs",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1435.65,
+    "end": 1441.17,
+    "text": "That is ultimately the positioning. That's what we call the accumulation and distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1441.17,
+    "end": 1446.29,
+    "text": "So this is where the positioning took place. So whilst that will initially act as a form of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1446.29,
+    "end": 1453.25,
+    "text": "support, once it does get back below it, there's obviously a lot of positions that need to unwind.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1453.23,
+    "end": 1458.51,
+    "text": "The last one obviously, or the second to last one, will be the starting price of a move.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1458.51,
+    "end": 1464.29,
+    "text": "This tends to occur quite a lot with economic data, or maybe news etc.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1464.29,
+    "end": 1470.55,
+    "text": "So when we return back to the starting price, so let's say again if I was to illustrate,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1470.55,
+    "end": 1474.75,
+    "text": "market moves aggressively higher, that's our starting price, we do all sorts of crazy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1474.75,
+    "end": 1479.75,
+    "text": "things in between, once we return to that starting price, that becomes our red line,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1481.25,
+    "end": 1488.19,
+    "text": "and then our last is again a little bit of a profiling term is the 50% of the day. Now again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1489.41,
+    "end": 1493.41,
+    "text": "like I said to the previous unit this is not an exhaustive list okay and you should not see this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1494.05,
+    "end": 1498.93,
+    "text": "as the only ways of identifying a line in the sand okay. How you're going to learn this trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1498.93,
+    "end": 1503.81,
+    "text": "strategy is you've got to start off with step one okay so let's go through this again step",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1509.92,
+    "end": 1514.54,
+    "text": "aggressive cumulative delta okay that's how we agree that's how we identify it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1514.54,
+    "end": 1520.66,
+    "text": "note we also want to identify it with some form of strength showing us that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1520.66,
+    "end": 1527.27,
+    "text": "bias okay so that can be imbalances it could be maybe single prints it could",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1527.27,
+    "end": 1532.82,
+    "text": "be low volume areas okay it could be shallow distribution so some form of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1532.82,
+    "end": 1535.74,
+    "text": "trend we want to see in the market that signals and identifies that bias",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1535.74,
+    "end": 1539.54,
+    "text": "once the market returns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1538.37,
+    "end": 1544.86,
+    "text": "to that red line that we've created which we've obviously now identified a number of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1545.58,
+    "end": 1550.54,
+    "text": "ways we can identify it. Once we return to that line we are then potentially in play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1550.54,
+    "end": 1553.1,
+    "text": "Now I'm going to zoom in here and I'm going to show you how the strategy works. So it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1553.1,
+    "end": 1557.89,
+    "text": "very simple. What will tend to happen around this line in the sand and this is a wonderfully",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1559.2,
+    "end": 1562.32,
+    "text": "intricate strategy and the tip I'm going to give you for this trade strategy is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1562.88,
+    "end": 1564.48,
+    "text": "always know the market positioning.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1565.06,
+    "end": 1569.68,
+    "text": "it shows the market's short-term bias. In other words, if you know what this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1569.68,
+    "end": 1573.48,
+    "text": "cumulative delta is at any point, whether it's over the day, the week, the couple of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1573.48,
+    "end": 1576.6,
+    "text": "weeks, you've got a very powerful piece of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1576.6,
+    "end": 1580.36,
+    "text": "information because you have a good understanding of who's more",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1580.36,
+    "end": 1584.0,
+    "text": "aggressive between buyers and sellers versus which way is price ultimately",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1584.0,
+    "end": 1587.75,
+    "text": "going.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1586.29,
+    "end": 1590.85,
+    "text": "Ultimately, when we return back to that price point, what you're going to see is our last",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1590.85,
+    "end": 1591.85,
+    "text": "stand of defense.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1591.85,
+    "end": 1596.05,
+    "text": "Now, the reason this trade works well and why we get a good opportunity to enter is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1596.05,
+    "end": 1599.37,
+    "text": "that the market will come back to this red line in the sand and it will pause.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1599.37,
+    "end": 1603.05,
+    "text": "You always tend to get a little bit of a mess about around this line in the sand.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1603.05,
+    "end": 1605.33,
+    "text": "It always messes around the other first time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1605.33,
+    "end": 1610.73,
+    "text": "The mistake a lot of people make is they're ultimately buyers at this area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1610.73,
+    "end": 1611.73,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1611.73,
+    "end": 1612.73,
+    "text": "Well, because there's a bias in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1614.91,
+    "end": 1616.91,
+    "text": "Okay, so people step in and they buy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1617.27,
+    "end": 1622.79,
+    "text": "But what happens is as they're buying the market is struggling to maintain a bit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1623.5,
+    "end": 1626.4,
+    "text": "can ultimately what's happening is someone sitting on the other side and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1627.22,
+    "end": 1629.22,
+    "text": "passively absorbing the buy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1629.65,
+    "end": 1633.73,
+    "text": "Once we then take out that lower pivot. That's the point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1634.21,
+    "end": 1639.89,
+    "text": "in which we want to execute. So we want to see some form of sideways distribution just before the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1639.89,
+    "end": 1643.89,
+    "text": "break. Once we have the break, when we see a little bit of absorption just before the break",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1643.89,
+    "end": 1650.13,
+    "text": "from the sellers in this example, we then execute with a relatively tight stop looking for the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1650.13,
+    "end": 1655.82,
+    "text": "unwind of the delta. Now stop is very, very simple above the top of the distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1661.25,
+    "end": 1666.77,
+    "text": "as a root of thumb potentially extend the low of the day. Once it does that it enters a period of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1667.33,
+    "end": 1671.89,
+    "text": "exhaustion and will likely take a break. So we either look for an unwind of the delta",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1672.61,
+    "end": 1677.95,
+    "text": "or an extension of the low. Okay and that's pretty much how the trade strategy works. That's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1677.95,
+    "end": 1684.11,
+    "text": "the basic premise of the trade strategy of a position, a delta position unwind. Now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1684.67,
+    "end": 1688.19,
+    "text": "let's look at some of the charts and you'll get a little bit of a better understanding of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1690.93,
+    "end": 1696.15,
+    "text": "Again what we can see this is the pound against the dollar 12th of December",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1696.15,
+    "end": 1702.75,
+    "text": "five-minute rotations again you can use either rotational or time-based here or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1702.75,
+    "end": 1706.19,
+    "text": "even in balance you will see it equally well on all three remember the most",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1706.19,
+    "end": 1711.63,
+    "text": "important thing we're paying attention to is the Delta okay now like I said",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1711.63,
+    "end": 1714.87,
+    "text": "you need to know your marker you need to know what a big Delta is now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1714.87,
+    "end": 1717.39,
+    "text": "that's gonna go contrary to what I'm gonna say but this isn't really",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1719.57,
+    "end": 1724.31,
+    "text": "Okay, not for the pound. I'd say a large delta for the pound. You're looking somewhere around one and a half to two thousand contracts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1725.21,
+    "end": 1730.49,
+    "text": "But it is a relatively good example of a delta unwind",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1730.49,
+    "end": 1737.13,
+    "text": "So I'm just gonna go through it with you, but bear in mind you do get better examples with much higher cumulative deltas. Now also note",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1737.65,
+    "end": 1741.33,
+    "text": "You don't necessarily have to go from a high delta",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1741.33,
+    "end": 1748.09,
+    "text": "So you could have maybe positive 400 delta and when it unwinds it goes to maybe minus 3,000 delta. Okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1748.77,
+    "end": 1753.97,
+    "text": "So ultimately what you do want to see remember the Delta can be slightly misleading in other words as we're coming up here",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1753.97,
+    "end": 1761.17,
+    "text": "We could be seeing more selling than buying even though prices are rising hence. Why we're not seeing the Delta pick up aggressively, okay, so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1762.11,
+    "end": 1765.27,
+    "text": "Again, like I said the community Delta is important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1765.55,
+    "end": 1768.51,
+    "text": "But it's not necessary to be all and end on again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1768.51,
+    "end": 1775.11,
+    "text": "You know if you observe this pattern within your templates time and time again, you're gonna see what works better than not now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1775.5,
+    "end": 1780.98,
+    "text": "Note the initiative being taken we can see the one directional note the imbalances light colors",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1781.7,
+    "end": 1788.42,
+    "text": "Again a little bit of dark responsive dark responsive some stop-up and some really aggressive price response",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1789.76,
+    "end": 1792.32,
+    "text": "Market gets up to the top. You see a little bit of response now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1792.84,
+    "end": 1797.16,
+    "text": "We've got our line in the sand. Okay. This is a line in the sand. This was over a data piece",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1797.65,
+    "end": 1803.49,
+    "text": "okay this is where the data started so we're looking at drawing a red line this is our line",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1803.49,
+    "end": 1808.77,
+    "text": "in the sand as this is where the data point began ultimately sorry this is not where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1808.77,
+    "end": 1814.29,
+    "text": "the delta positioning began it began on this line okay that's where the data came out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1814.85,
+    "end": 1819.01,
+    "text": "we can see the market moved higher a little bit of absorption moved higher again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1819.62,
+    "end": 1823.38,
+    "text": "quite a lot of absorption. So we're not interested in this first part, that's all data related,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1823.38,
+    "end": 1827.46,
+    "text": "we're not really interested. What we are interested in is if the marker does move back to this red",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1827.46,
+    "end": 1834.85,
+    "text": "line which we've created, we are interested in a potential unwind of the delta. Now we can see that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1834.85,
+    "end": 1840.29,
+    "text": "delta gets all the way up to 615, marker comes back, we see a little bit of accumulation,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1840.29,
+    "end": 1845.57,
+    "text": "then we start to see a little bit of imbalance on the south side. Marker comes back to test",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1846.85,
+    "end": 1852.29,
+    "text": "it very briefly sits below the line okay so like i said to you previously what you will tend to see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1852.29,
+    "end": 1858.53,
+    "text": "is you will tend to see the market sit on both sides of the line and trade it out it tried to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1858.53,
+    "end": 1865.49,
+    "text": "do this okay so we can see very briefly it did try and and fill this out but ultimately it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1865.49,
+    "end": 1869.81,
+    "text": "happened so quickly i think we only traded as we can see they only traded 920 contracts in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1874.83,
+    "end": 1879.39,
+    "text": "Okay, so ideally this is where we would have executed in and around that area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1880.58,
+    "end": 1883.28,
+    "text": "Obviously, we'll be selling on the break of that low",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1883.82,
+    "end": 1891.12,
+    "text": "Looking for an extension stop above the absorption zone profit once the market ultimately takes out the Delta or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1892.02,
+    "end": 1899.94,
+    "text": "Extends upon the low. Okay. That's our first example. So our second example. We look at is the WTI oil 20th of December 2017",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1900.66,
+    "end": 1904.3,
+    "text": "Well, we can see obviously a really really high volume surge here",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1904.7,
+    "end": 1912.46,
+    "text": "Market has an aggressive down move quite an aggressive delta real technical bias in the market and a real key line in the sand posted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1912.86,
+    "end": 1918.06,
+    "text": "Now note the market obviously begins the process of auctioning below that line in the sand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1918.38,
+    "end": 1921.84,
+    "text": "So we're not too interested necessarily at this moment. However",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1922.56,
+    "end": 1929.76,
+    "text": "Once we get back below those key pivots, we could see the market does provide us with a potential for buy opportunities",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1930.93,
+    "end": 1936.99,
+    "text": "For the Delta unwind we can see that Delta obviously shifts from all the way minus one thousand three hundred all the way to positive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1937.89,
+    "end": 1943.41,
+    "text": "1044 before then again extending higher to two thousand three hundred and seventy three",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1943.41,
+    "end": 1946.69,
+    "text": "Okay, so those are two static examples",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1947.01,
+    "end": 1950.25,
+    "text": "Let's now go and have a look at one of the videos our first video",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1950.25,
+    "end": 1956.37,
+    "text": "We're going to take a look at is the euro dollar and again. This is the positioning unwind",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1956.41,
+    "end": 1960.57,
+    "text": "So I'm going to fast-forward this for you show you what it obviously looks like on a chart the initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1961.01,
+    "end": 1964.25,
+    "text": "So we can see obviously the market on the candlestick, best place to look, we can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1964.25,
+    "end": 1968.85,
+    "text": "a little bit of sell-off coming in the market, and market sells, sells, sells, a little bit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1968.85,
+    "end": 1975.64,
+    "text": "of a wash-down, a couple of stops, nice imbalance there, market tries to go back, but I'm just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1975.64,
+    "end": 1980.14,
+    "text": "going to move a little bit further on to the point where we're about to get some",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1980.14,
+    "end": 1982.5,
+    "text": "form of an unwind.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1982.5,
+    "end": 1989.18,
+    "text": "Now again, obviously you can watch this video through from start to finish, apologies,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1992.5,
+    "end": 1997.26,
+    "text": "Okay, so we can see in terms of context the market in terms of volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1997.26,
+    "end": 2000.74,
+    "text": "We've seen a real pickup in volume here real dark shades now on this five-minute rotation",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2001.3,
+    "end": 2006.56,
+    "text": "Not the cumulative Delta. Okay, really negative. This is quite negative for the euro minus 1,000",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2007.36,
+    "end": 2012.48,
+    "text": "Ultimately our line in the sand we can see market sold off pulled back to this area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2012.48,
+    "end": 2014.48,
+    "text": "You can see it rejected once twice three times",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2014.82,
+    "end": 2019.7,
+    "text": "Now once we took it out, let's just go back a few frames. So once we take out this little area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2020.26,
+    "end": 2022.26,
+    "text": "Let's see what the markets reaction is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2022.4,
+    "end": 2027.6,
+    "text": "Okay, obviously, again, this line in the sand doesn't necessarily coincide with the previous",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2027.6,
+    "end": 2028.6,
+    "text": "day's low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2028.6,
+    "end": 2032.58,
+    "text": "It just coincides with the market that tried to sell off, so we could see a real technical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2032.58,
+    "end": 2033.92,
+    "text": "sell-off there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2033.92,
+    "end": 2039.08,
+    "text": "Real buyers, one-directional, higher volume, higher delta, but prices couldn't go lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2039.08,
+    "end": 2042.8,
+    "text": "Ultimately, those prices became, or they came under water as soon as you got above",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2042.8,
+    "end": 2043.8,
+    "text": "those 38s.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2043.8,
+    "end": 2047.92,
+    "text": "And we can see that as soon as we got back above those 38s, 39s, market went",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2050.96,
+    "end": 2056.2,
+    "text": "I'm just going to fast-forward this forward a little bit so you can see a little bit of obviously aggressive buying coming in there",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2056.92,
+    "end": 2064.04,
+    "text": "Continuation and obviously a break of the high as we unwind the Delta remember obviously with regards to straight strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2064.16,
+    "end": 2070.14,
+    "text": "We stay in until either the Delta is fully unwound or we take out the extreme of the day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2070.72,
+    "end": 2076.48,
+    "text": "Okay, the next strategy we're going to look at is the oil WTR on the 29th of November and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2077.38,
+    "end": 2079.38,
+    "text": "in this example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2078.72,
+    "end": 2083.96,
+    "text": "Again, we're now looking at a rotational chart and again, you can see really out, you know on a rotation chart",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2083.96,
+    "end": 2090.52,
+    "text": "We can really see the momentum and the flow coming into the market real aggressive volume there as well as Delta and accumulative Delta",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2090.52,
+    "end": 2096.62,
+    "text": "So this is a substantially large Delta on the day. We can see that not just with the number but also the dark blue",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2097.2,
+    "end": 2102.52,
+    "text": "Now again, obviously what we're looking for. Yeah, is an unwind of this potential Delta",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2102.52,
+    "end": 2108.32,
+    "text": "We can see that the market reversed very aggressively the lows and continued in that direction building a Delta now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2109.17,
+    "end": 2112.49,
+    "text": "What we're going to do is we're just going to come back a few seconds and we're going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2112.49,
+    "end": 2114.49,
+    "text": "to have a look at this line in the sand.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2114.49,
+    "end": 2117.17,
+    "text": "Now bear in mind we obviously spoke about things like single prints and low volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2117.17,
+    "end": 2118.17,
+    "text": "errors.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2118.17,
+    "end": 2123.21,
+    "text": "So we can see obviously below these 08s that was the point where we obviously were",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2123.21,
+    "end": 2127.93,
+    "text": "just above for instance imbalances as well as single prints lower down.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2127.93,
+    "end": 2131.65,
+    "text": "So you would see these single prints on a footprint chart or on a marker profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2133.81,
+    "end": 2140.29,
+    "text": "but also you can see the imbalances on just a normal chart so we can see the market comes in gets below those 08s and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2140.77,
+    "end": 2144.65,
+    "text": "washes out so takes out that Delta a very aggressive 2000",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2145.17,
+    "end": 2147.45,
+    "text": "unwind of the Delta",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2147.45,
+    "end": 2149.53,
+    "text": "note market goes back bid and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2151.05,
+    "end": 2155.45,
+    "text": "Then we continue the process of unwinding the Delta",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2155.92,
+    "end": 2161.46,
+    "text": "Okay, so again, you obviously can go watch this in its entirety in terms of the execution",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2161.8,
+    "end": 2164.18,
+    "text": "Again, we want to be aggressive ahead of the break",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2164.18,
+    "end": 2167.46,
+    "text": "We can see that you know when the market did get below that low",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2167.46,
+    "end": 2173.12,
+    "text": "So note if I show you on the candlestick, I'm just gonna go back fractionally. So as we got to those 08 first time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2173.7,
+    "end": 2175.86,
+    "text": "Note the market extended",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2176.38,
+    "end": 2182.97,
+    "text": "One second. So the market did extend. Okay, so we can see the market tried to extend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2183.7,
+    "end": 2187.7,
+    "text": "tried to go back but one last time and we can see this in the candlestick formed a little bit of a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2187.7,
+    "end": 2193.38,
+    "text": "double bottom and ultimately once that selling came in we then got the flush down so it really",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2193.38,
+    "end": 2198.02,
+    "text": "did if we see that dark shade there we were really three dark shades of absorption there",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2198.02,
+    "end": 2203.22,
+    "text": "that was the absorption the opportunity just before the unwind of the delta all right guys",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2203.22,
+    "end": 2208.58,
+    "text": "that then complete concludes the video section of this trade strategy let's now go and complete",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

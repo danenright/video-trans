@@ -1,0 +1,170 @@
+[
+  {
+    "start": 1.07,
+    "end": 8.31,
+    "text": "Let's now take a look at a basic example of an anomaly that you can find in the markets.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.31,
+    "end": 11.23,
+    "text": "Take a second to have a look at the chart on the left.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.23,
+    "end": 16.57,
+    "text": "Try and identify what the anomaly is.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.57,
+    "end": 21.59,
+    "text": "As you can see, on the left side we've got a daily volume profile in the German",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.59,
+    "end": 23.68,
+    "text": "Tenier Bund.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.68,
+    "end": 29.44,
+    "text": "Now noted before we said some of the key anomalies you can find are tails, low",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.82,
+    "end": 36.94,
+    "text": "As you can see in this example, we've got two areas or two single print areas within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.94,
+    "end": 38.66,
+    "text": "this distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.66,
+    "end": 44.46,
+    "text": "This area is the area where we have single TPOs or single time price opportunities.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.46,
+    "end": 49.1,
+    "text": "This can be illustrated by the lower print at the bottom of the distribution, as well",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.1,
+    "end": 55.54,
+    "text": "as the higher print or the print within the higher end of the distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.25,
+    "end": 63.31,
+    "text": "Now, we know this anomaly is not supposed to be there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.31,
+    "end": 66.43,
+    "text": "We know it's unusual based on pattern recognition.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.43,
+    "end": 72.31,
+    "text": "Therefore, the fact that it's unusual means that at some point in time it should be filled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.31,
+    "end": 78.05,
+    "text": "out and the market should return to these prices and turn those low volume areas into",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.05,
+    "end": 80.01,
+    "text": "high volume areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.1,
+    "end": 88.6,
+    "text": "As you can see, the market took that low volume error and filled it out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.6,
+    "end": 91.36,
+    "text": "It completed the puzzle.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.36,
+    "end": 97.4,
+    "text": "That's a good example of what a volume or what an anomaly looks like, but more importantly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.4,
+    "end": 101.04,
+    "text": "how the market comes back to complete those anomalies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.04,
+    "end": 106.44,
+    "text": "As said before, we will discuss some very key trading opportunities around these anomalies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

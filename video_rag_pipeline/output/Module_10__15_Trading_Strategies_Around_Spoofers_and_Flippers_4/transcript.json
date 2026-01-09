@@ -1,0 +1,514 @@
+[
+  {
+    "start": 1.49,
+    "end": 5.97,
+    "text": "Okay, now we're going to look at another trading strategy on spoofers and flippers, and this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.97,
+    "end": 8.85,
+    "text": "is called the lone ranger.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.14,
+    "end": 17.34,
+    "text": "one LR against the entire market participants, LR on this slide represented with a cowboy hat",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.34,
+    "end": 23.5,
+    "text": "and what effectively is it's one large order on the order book it appears in generally in low",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.5,
+    "end": 28.38,
+    "text": "liquid environments when the market is fairly blippy and we actually look at a LR example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.38,
+    "end": 34.22,
+    "text": "and how we trade around the LR example in the next slide when we look at these videos",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.22,
+    "end": 39.66,
+    "text": "and when we look at the video of the LR flipper and effectively the LR",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.08,
+    "end": 45.2,
+    "text": "is is where there is a large order that has occurred on the order book and additional notes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.2,
+    "end": 50.08,
+    "text": "with regards to this loan ranger is that it is a spoof and a flipper spoofers and flippers are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.08,
+    "end": 56.32,
+    "text": "liquidity seeking again the same as the layering the layering strategy so what effectively is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.32,
+    "end": 61.2,
+    "text": "happening is that loan ranger is putting as putting a large order in the on the order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.2,
+    "end": 65.6,
+    "text": "book with with no real intention of being filled because he pulls his price but he pulls",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.42,
+    "end": 73.42,
+    "text": "moves in the direction of that large order and then it hits a liquidity zone.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.42,
+    "end": 76.98,
+    "text": "The moment it hits that liquidity zone there's two-way flow. You go on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.98,
+    "end": 80.14,
+    "text": "opposite side of that large order and you wait for that large order to be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.14,
+    "end": 85.42,
+    "text": "pulled and then you exit your trade and that's effectively a of how to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.42,
+    "end": 90.48,
+    "text": "deploy a trading strategy around a loan arranger. Just remember the flipper can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.48,
+    "end": 94.18,
+    "text": "control the market and fill the book.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.72,
+    "end": 97.96,
+    "text": "When liquidity conditions are low and paper activity is low. So it generally occurs",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.76,
+    "end": 105.1,
+    "text": "Intra-range generally during the quiet periods of the lunchtime periods when the market isn't in new expansive territory",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.1,
+    "end": 109.96,
+    "text": "There are no new market participants. There's no key economic data point. There's no key geopolitical risk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.24,
+    "end": 117.8,
+    "text": "That's moving the markets aggressively. So it normally occurs in quiet conditions when someone can effectively with enough size",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.32,
+    "end": 120.32,
+    "text": "bully the order book",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.98,
+    "end": 126.88,
+    "text": "Just remember it is liquidity hunting and gathering with price optimization. So what I mean by that, you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.88,
+    "end": 133.8,
+    "text": "It's it's seeking liquidity and what you're trying to do is it's trying to optimize the price those really strategic",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.88,
+    "end": 141.12,
+    "text": "High frequency systems or those brokers that are looking to fill their clients with the with the best price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.2,
+    "end": 146.74,
+    "text": "They really employ these types of HDH FT systems or execution systems",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.88,
+    "end": 150.26,
+    "text": "Where they because remember it's it's an industry",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.61,
+    "end": 152.57,
+    "text": "if you can get your client a better fill,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.57,
+    "end": 153.85,
+    "text": "your client is phoning you,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.85,
+    "end": 155.17,
+    "text": "whether it's a big hedge funds phoning,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.17,
+    "end": 156.13,
+    "text": "multiple brokers saying,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.13,
+    "end": 157.93,
+    "text": "well what price can you give me?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.93,
+    "end": 161.57,
+    "text": "Those with the most sophisticated execution systems",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.57,
+    "end": 164.57,
+    "text": "that optimize price will get the business.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.57,
+    "end": 167.33,
+    "text": "So therefore those that can really find",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.33,
+    "end": 170.21,
+    "text": "those liquidity zones and bully the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.21,
+    "end": 172.89,
+    "text": "effectively to its optimum price will get the business.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.89,
+    "end": 178.11,
+    "text": "And that's really why those types of loan ranges exist.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.27,
+    "end": 180.39,
+    "text": "And remember, there is an ocean.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.4,
+    "end": 185.16,
+    "text": "of high frequency trading systems, algo setups that fall into the broad categories that we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.16,
+    "end": 186.16,
+    "text": "are discussing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.16,
+    "end": 190.68,
+    "text": "I'm just describing a few setups but you'll see there are so many different algorithms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.68,
+    "end": 194.8,
+    "text": "and through the exercise drills that we give you right at the end, you'll start picking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.8,
+    "end": 199.52,
+    "text": "up your own algorithmic setups and how you can trade around them and how you can trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.52,
+    "end": 200.52,
+    "text": "within them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.52,
+    "end": 204.88,
+    "text": "They sometimes occur in the Euro stocks one week, in the Bund another week, in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.88,
+    "end": 208.16,
+    "text": "the DAX, the S&P 500, the oil market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.74,
+    "end": 212.54,
+    "text": "and how the different personalities of these algo's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 212.54,
+    "end": 215.7,
+    "text": "and then how do you profit from these execution algo's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.7,
+    "end": 217.34,
+    "text": "where they work these little ranges,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 217.34,
+    "end": 219.6,
+    "text": "you start observing these subtle little patterns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.6,
+    "end": 222.38,
+    "text": "and how do you deploy the right strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.38,
+    "end": 223.94,
+    "text": "because sometimes these algo's can exist",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.94,
+    "end": 225.82,
+    "text": "in the marketplace for a month, for two months.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.82,
+    "end": 229.94,
+    "text": "Some of our traders during 2011 and 12",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.94,
+    "end": 232.74,
+    "text": "when there were some algo's that would exist",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 232.74,
+    "end": 235.22,
+    "text": "for two months, we'd be able to,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.22,
+    "end": 237.38,
+    "text": "between six to seven p.m. in the evening,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 238.96,
+    "end": 243.3,
+    "text": "algorithms every night for half an hour and profit from them because they observe a key",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.3,
+    "end": 246.76,
+    "text": "execution pattern and they just trade within that algorithm.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.76,
+    "end": 250.56,
+    "text": "So it's very important, your observation points and your consistent debriefing at the end",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.56,
+    "end": 258.52,
+    "text": "of the day, you're able to spot this whole universe of patterns and it's just your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 258.52,
+    "end": 261.36,
+    "text": "ability then to execute the right trades.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "idx": 0,
+    "start": 0.0,
+    "end": 10.5,
+    "start_frame": 0,
+    "end_frame": 252
+  },
+  {
+    "idx": 1,
+    "start": 10.5,
+    "end": 20.5,
+    "start_frame": 252,
+    "end_frame": 492
+  },
+  {
+    "idx": 2,
+    "start": 20.5,
+    "end": 59.375,
+    "start_frame": 492,
+    "end_frame": 1425
+  },
+  {
+    "idx": 3,
+    "start": 59.375,
+    "end": 84.79166666666667,
+    "start_frame": 1425,
+    "end_frame": 2035
+  },
+  {
+    "idx": 4,
+    "start": 84.79166666666667,
+    "end": 117.25,
+    "start_frame": 2035,
+    "end_frame": 2814
+  },
+  {
+    "idx": 5,
+    "start": 117.25,
+    "end": 146.91666666666666,
+    "start_frame": 2814,
+    "end_frame": 3526
+  },
+  {
+    "idx": 6,
+    "start": 146.91666666666666,
+    "end": 151.91666666666666,
+    "start_frame": 3526,
+    "end_frame": 3646
+  }
+]

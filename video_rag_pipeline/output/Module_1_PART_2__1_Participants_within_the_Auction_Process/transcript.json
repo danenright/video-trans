@@ -1,0 +1,34 @@
+[
+  {
+    "start": 1.1,
+    "end": 3.46,
+    "text": "Part 2.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3.46,
+    "end": 6.47,
+    "text": "Participants within the auction process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.47,
+    "end": 15.35,
+    "text": "Robert Collier once said, success is the sum of the small efforts, repeated, day in,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.35,
+    "end": 15.99,
+    "text": "day out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

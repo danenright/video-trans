@@ -1,0 +1,618 @@
+[
+  {
+    "start": 1.04,
+    "end": 6.28,
+    "text": "Welcome back to part 10 guys, obviously we're going to start part 10 with some theoretical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.28,
+    "end": 12.4,
+    "text": "principles and then we're going to move on to some of our momentum strategies and show",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.4,
+    "end": 16.24,
+    "text": "you a few characteristics around those, how they work, how you can execute them, make",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.24,
+    "end": 17.96,
+    "text": "good money out of them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.58,
+    "end": 24.12,
+    "text": "test you again in your playbook as you go and find those strategies. But let's start",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 24.12,
+    "end": 27.82,
+    "text": "off and we're going to start in part 10 with a little bit of theory. I'm going to show",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.82,
+    "end": 32.9,
+    "text": "you firstly what a pre-open routine of a day trader would look like. Now as you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.9,
+    "end": 38.94,
+    "text": "see in front of you, this is a routine that you can apply whether you're using",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.94,
+    "end": 41.94,
+    "text": "volume profiling or not. The important thing is that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.14,
+    "end": 46.58,
+    "text": "Every single morning, every single day, every day you trade, you need to go through this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.58,
+    "end": 51.98,
+    "text": "routine and answer the questions because by answering this question you're extracting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.98,
+    "end": 54.78,
+    "text": "a lot of objective information from the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.28,
+    "end": 60.64,
+    "text": "it's this very objectivity that will protect you. It will help you, you know, understand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.64,
+    "end": 63.72,
+    "text": "when a certain strategy should be employed and when it shouldn't. It's going to help",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.72,
+    "end": 69.0,
+    "text": "you to go with the trend or not go against the trend. And that's why we do this routine",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.0,
+    "end": 73.52,
+    "text": "every single day, because it will help us to remain objective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.52,
+    "end": 77.64,
+    "text": "So let's begin. Firstly, you need to ask yourself the question, when you look at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.57,
+    "end": 88.57,
+    "text": "Now, the very simple premise is that when the market is being driven fundamentally,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.57,
+    "end": 90.33,
+    "text": "there is a lot of flow in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.33,
+    "end": 94.77,
+    "text": "Technicals are far less important, so volume profiling will become far less effective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.77,
+    "end": 100.17,
+    "text": "However, when the markets are technical, it's going to be far better to employ technical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.17,
+    "end": 101.17,
+    "text": "type strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.17,
+    "end": 103.77,
+    "text": "So that's the first question you ask yourself.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.77,
+    "end": 106.01,
+    "text": "Secondly, is there conviction in the move?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.29,
+    "end": 110.95,
+    "text": "By conviction we mean, is there confidence, is there momentum, is there high volume, is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.95,
+    "end": 114.73,
+    "text": "there belief in this move, does the market really believe that prices should either",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.73,
+    "end": 116.95,
+    "text": "be higher or lower?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.95,
+    "end": 119.67,
+    "text": "Then, is there a flight to safety?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.67,
+    "end": 124.77,
+    "text": "In other words, when the market is moving risk on or risk off, we get flows that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.77,
+    "end": 127.45,
+    "text": "are being allocated across various asset classes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.57,
+    "end": 132.17,
+    "text": "So it's important to understand, is there a genuine move in the market that is occurring",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.17,
+    "end": 138.49,
+    "text": "because of panic, because of fear, because of maybe political risk, or is it just normal",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.49,
+    "end": 140.54,
+    "text": "market moves that are occurring?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.54,
+    "end": 143.42,
+    "text": "Then are there any strong correlations?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.7,
+    "end": 149.86,
+    "text": "At times, if you look over the past couple of months, with all the US Federal Reserve",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.86,
+    "end": 155.9,
+    "text": "hiking rates, there's clear correlations now between the Fed hiking rates and the stronger",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.9,
+    "end": 156.9,
+    "text": "dollar.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.9,
+    "end": 161.38,
+    "text": "So whilst this strong correlation exists, we need to ensure that we're not going against",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.38,
+    "end": 162.38,
+    "text": "these strong correlations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.38,
+    "end": 166.16,
+    "text": "You know, when the correlations are in play, we don't want to be using strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.66,
+    "end": 175.22,
+    "text": "Now again, correlations become stronger and weaker over time, so it's important to understand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.22,
+    "end": 179.3,
+    "text": "when there are correlations across various asset classes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.3,
+    "end": 182.2,
+    "text": "The next thing, what is the market condition?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.2,
+    "end": 183.2,
+    "text": "Is it trending?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.2,
+    "end": 187.3,
+    "text": "Are we in an early, late or mature phase of trending?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.3,
+    "end": 190.15,
+    "text": "Or are we bracketing, moving sideways?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.15,
+    "end": 191.55,
+    "text": "What is the inventory of the market?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 191.55,
+    "end": 194.43,
+    "text": "In other words, what is the net position of the market?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.43,
+    "end": 196.63,
+    "text": "Are there quite a few longs in the market?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.3,
+    "end": 205.12,
+    "text": "What kind of longs in the market? Are they longer term, medium term, day traders, or are they short term?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.12,
+    "end": 211.52,
+    "text": "Then, bracketing. How's the market moving? Are we at the top of the bracket, or are we at the bottom of the bracket?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.52,
+    "end": 216.95,
+    "text": "How are we moving between the bracket? Where's the most volatility coming within the bracket?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.95,
+    "end": 226.21,
+    "text": "Now, the reason we assess the market conditions is so that we can ensure we're employing our strategies in the right context or conditions of the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.37,
+    "end": 233.77,
+    "text": "What is the volume doing at that point? Is it higher or is it lower? Is it moving higher",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.77,
+    "end": 239.81,
+    "text": "or is it lower? Is it substantially lower? Again, remember volume is a relative term.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.81,
+    "end": 245.08,
+    "text": "The same thing with the range. Is the range expanding in this market or is it contracting?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.08,
+    "end": 249.8,
+    "text": "We then want to answer where will all various participants, longer term influential participants",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 249.8,
+    "end": 254.6,
+    "text": "be getting involved? This is crucial. Remember we spoke a lot about these influential",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.5,
+    "end": 262.3,
+    "text": "So understanding where they're likely to enter is crucial for future market movements.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.63,
+    "end": 270.03,
+    "text": "We then go and we determine where are our ideal trade opportunities.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 270.03,
+    "end": 274.83,
+    "text": "Those trades that you look at you say I must take this trade, this is of key importance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 274.83,
+    "end": 279.15,
+    "text": "It's important and imperative to remind yourself of these key trades every single day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 279.42,
+    "end": 284.78,
+    "text": "They don't come along very often, so by reminding yourself every single day, you will be ready",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 284.78,
+    "end": 289.74,
+    "text": "the day that opportunity comes, and most important, you will take advantage of the opportunity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.74,
+    "end": 291.18,
+    "text": "the day that comes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 291.18,
+    "end": 295.02,
+    "text": "Then, what are some of the clues from yesterday's volume profile?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 295.02,
+    "end": 300.18,
+    "text": "What are some of the easy observations that we noted from yesterday's profile?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 300.18,
+    "end": 303.02,
+    "text": "We then have a look at some of the overnight movements.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 303.02,
+    "end": 304.7,
+    "text": "Has there been movement in Asia?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 306.03,
+    "end": 309.49,
+    "text": "what are the overnight movements that we can pay attention to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 309.49,
+    "end": 312.73,
+    "text": "that can give us early clues for when our market opens.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.73,
+    "end": 317.22,
+    "text": "We'll then work out our opening calls and determine where the markets are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.22,
+    "end": 317.96,
+    "text": "going to open",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.96,
+    "end": 321.16,
+    "text": "versus where they should open and more important determine",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.16,
+    "end": 324.84,
+    "text": "if there is an opportunity. And lastly we complete",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 324.84,
+    "end": 328.14,
+    "text": "our profile metric sheet that I showed you how to do",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 328.14,
+    "end": 335.14,
+    "text": "in module 2.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

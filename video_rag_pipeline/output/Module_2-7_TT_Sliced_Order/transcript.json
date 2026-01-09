@@ -1,0 +1,402 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.8,
+    "text": "TT provides a number of TT algos for breaking larger orders into multiple smaller orders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.8,
+    "end": 10.56,
+    "text": "The TT time-sliced order slices a large order quantity into smaller disclosed orders and sends",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.56,
+    "end": 14.64,
+    "text": "each into the market at fixed time intervals, which can be defined as the number of minutes,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.64,
+    "end": 18.8,
+    "text": "seconds, or milliseconds. It can also be configured to begin placing orders at a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.8,
+    "end": 22.16,
+    "text": "specific time, as well as once a chosen price level is traded.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.16,
+    "end": 26.8,
+    "text": "If we'd like to buy 50 S&P futures contracts without disclosing our full order quantity at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.09,
+    "end": 31.15,
+    "text": "to help minimize our impact on the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.15,
+    "end": 34.76,
+    "text": "We select TT Time Sliced from the Order Type drop-down menu.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.76,
+    "end": 37.28,
+    "text": "We'll have the time-sliced algos submit a limit order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.28,
+    "end": 39.64,
+    "text": "into the market every three seconds",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.64,
+    "end": 42.12,
+    "text": "and display five contracts at a time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.12,
+    "end": 44.76,
+    "text": "We want these limit orders to join the bids,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.76,
+    "end": 48.11,
+    "text": "so we will set an offset of zero from the bid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.11,
+    "end": 49.95,
+    "text": "We can customize the behavior of orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.95,
+    "end": 51.07,
+    "text": "still working in the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.07,
+    "end": 52.75,
+    "text": "when the next order is submitted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.75,
+    "end": 54.71,
+    "text": "by defining a leftover action,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.71,
+    "end": 56.91,
+    "text": "should the previous five-lot order not be filled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.91,
+    "end": 58.55,
+    "text": "at the end of the time increment.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.4,
+    "end": 60.68,
+    "text": "we will set the leftover action to pay up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.68,
+    "end": 62.84,
+    "text": "and set a number of pay up ticks to one.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.84,
+    "end": 63.84,
+    "text": "This will adjust the price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.84,
+    "end": 66.3,
+    "text": "of the previous working child order by one tick.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.3,
+    "end": 67.52,
+    "text": "With TT time sliced,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.52,
+    "end": 70.04,
+    "text": "we can have our algo begin submitting child orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.04,
+    "end": 72.72,
+    "text": "on a specific event by checking trigger.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.72,
+    "end": 74.4,
+    "text": "Let's configure our algo to trigger",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.4,
+    "end": 77.72,
+    "text": "once our last traded price reaches 2079.50",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.72,
+    "end": 80.0,
+    "text": "by setting our trigger to if touched",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.0,
+    "end": 83.0,
+    "text": "and set a trigger price of 2079.50.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.0,
+    "end": 85.08,
+    "text": "This will hold the algo on the TT server",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.08,
+    "end": 87.08,
+    "text": "until the market trades at that price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.85,
+    "end": 89.55,
+    "text": "and then TT will automatically begin working the algo",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.55,
+    "end": 91.93,
+    "text": "and submit the first child order into the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.93,
+    "end": 93.43,
+    "text": "We place our 50 lot order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.43,
+    "end": 95.31,
+    "text": "and can see the parent order in the order book",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.31,
+    "end": 99.03,
+    "text": "and audit trail with our trigger price at 2079.50.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.03,
+    "end": 100.99,
+    "text": "Once the market trades at our trigger price,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.99,
+    "end": 102.71,
+    "text": "TT begins working our algo",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.71,
+    "end": 104.99,
+    "text": "and starts joining the bid with a five lot order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.99,
+    "end": 106.55,
+    "text": "every three seconds.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.55,
+    "end": 108.71,
+    "text": "We can see that when one of the order does not fill",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.71,
+    "end": 113.71,
+    "text": "at 2079.25, it is paid up one tick to 2079.50.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.62,
+    "end": 117.86,
+    "text": "The subsequent order then joins the bid also at $20.79.50.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.86,
+    "end": 122.98,
+    "text": "The TT Time Sliced ALGO continues to submit orders until the whole 50-lot order is filled.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.98,
+    "end": 126.9,
+    "text": "As you can see, breaking your larger order into smaller quantities with TT Time Sliced",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.9,
+    "end": 130.1,
+    "text": "gives you the flexibility to time the submission of these orders by minutes,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.1,
+    "end": 133.94,
+    "text": "seconds, or milliseconds to trigger your order once a specific price is traded",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.94,
+    "end": 136.26,
+    "text": "and customize the behavior of child orders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.26,
+    "end": 140.58,
+    "text": "For more information on TT ALGOs, visit our website at TradingTechnologies.com.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "start": 0.88,
+    "end": 3.88,
+    "text": "Congratulations on completing part 3.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3.88,
+    "end": 7.88,
+    "text": "Let's now check some of the concepts to ensure you've understood them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.88,
+    "end": 13.71,
+    "text": "Firstly, what are the four elements that make up the volume profile?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.71,
+    "end": 20.29,
+    "text": "What are the major benefits to using volume profiles instead of a traditional time-based profile?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.29,
+    "end": 27.29,
+    "text": "And explain what discount, premium, fair value and exuberance is in terms of volume profiling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.29,
+    "end": 28.29,
+    "text": "Good luck.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

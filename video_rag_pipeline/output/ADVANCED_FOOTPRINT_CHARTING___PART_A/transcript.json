@@ -1,0 +1,3234 @@
+[
+  {
+    "start": 1.94,
+    "end": 7.46,
+    "text": "So welcome to unit four what we're going to talk about throughout unit four is we're going to start off with focusing on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.78,
+    "end": 9.78,
+    "text": "managing your footprint tool",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.33,
+    "end": 14.09,
+    "text": "We're then going to move on to some of the more intricate footprint chart settings before",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.09,
+    "end": 15.53,
+    "text": "focusing on functionality.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.53,
+    "end": 19.81,
+    "text": "I think that's quite a strong focus point for this unit four.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.81,
+    "end": 24.85,
+    "text": "We're going to talk a lot about functionality before moving on then ultimately to the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 24.85,
+    "end": 26.57,
+    "text": "advanced footprint application.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.57,
+    "end": 32.47,
+    "text": "Now before I actually move in and we begin this unit, I just want to make sure that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.47,
+    "end": 35.97,
+    "text": "you guys recognize the importance of a trading tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.45,
+    "end": 42.13,
+    "text": "Don't allow unit four to almost distract you ultimately from the true purpose of a trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.13,
+    "end": 43.13,
+    "text": "tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.13,
+    "end": 44.13,
+    "text": "Okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.13,
+    "end": 48.57,
+    "text": "Remember the objective of a trading tool is to extract information from the marketplace",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.57,
+    "end": 51.17,
+    "text": "in a meaningful manner so we can make decisions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.17,
+    "end": 52.17,
+    "text": "Okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.17,
+    "end": 54.93,
+    "text": "So I'm going to show you a lot of different things you can do now and you're probably",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.93,
+    "end": 59.35,
+    "text": "going to get this real urge to go and try them to suddenly add, add, add to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.35,
+    "end": 60.35,
+    "text": "your charts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.35,
+    "end": 61.35,
+    "text": "Okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.35,
+    "end": 63.33,
+    "text": "What I don't want is I don't want to over complicate.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.05,
+    "end": 68.87,
+    "text": "create noise for you ultimately with this unit. I just want to show you some of the more",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.87,
+    "end": 74.95,
+    "text": "advanced things you can do with the Footprint tool so that when you are developing your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.95,
+    "end": 80.63,
+    "text": "own strategies in time, if some of these functions can add value to those strategies,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.63,
+    "end": 83.63,
+    "text": "by all means utilize them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.18,
+    "end": 86.88,
+    "text": "What you've got in front of you, these are my notes, so what I'm going to do is I'm",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.88,
+    "end": 92.94,
+    "text": "just going to briefly scroll down on these notes for you guys so that you can have just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.94,
+    "end": 95.16,
+    "text": "a brief moment to see what we're going to talk about.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.16,
+    "end": 99.3,
+    "text": "You can take maybe some pictures of these notes, maybe even record these notes for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.3,
+    "end": 104.2,
+    "text": "future reference, but I will be effectively going through each one of these utilizing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.2,
+    "end": 104.96,
+    "text": "the Footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.07,
+    "end": 108.31,
+    "text": "Okay, so we're going to start off obviously with managing the tool, talk a little bit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.31,
+    "end": 113.35,
+    "text": "about setup and chart fonts, as well as chart colors, printing the magnet tool, as well",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.35,
+    "end": 117.63,
+    "text": "as rescaling certain studies and different chart options.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.84,
+    "end": 123.8,
+    "text": "We're then going to talk in the second section about footprint chart settings and tabs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.8,
+    "end": 130.68,
+    "text": "We're then going to move on to the footprint functionality, what style to use, etc, etc.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.68,
+    "end": 135.64,
+    "text": "And then we're going to obviously finish Unit 3 with backtesting before the advanced footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.64,
+    "end": 140.64,
+    "text": "settings where we talk about highlighting conditional formatting, adding certain price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.64,
+    "end": 146.68,
+    "text": "alerts and then obviously modifications you can make to the general footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.94,
+    "end": 151.5,
+    "text": "Okay, so that's pretty much what we're going to talk about now. Let's get straight into it again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.5,
+    "end": 155.72,
+    "text": "I'm going to go through each one of these step for step, so don't worry, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.3,
+    "end": 163.44,
+    "text": "Where to begin so this is now, you know, obviously we spoke in unit two about setting up the basic elements of your footprint chart",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.44,
+    "end": 169.46,
+    "text": "So this is more or less what you should have in front of you now very very basic just a simple footprint chart",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.86,
+    "end": 173.26,
+    "text": "You know, maybe your colors are different to mine. That's fine. Okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.3,
+    "end": 176.82,
+    "text": "I'm going to show you how you can change all of that now in a minute",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.82,
+    "end": 177.18,
+    "text": "Okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.18,
+    "end": 183.94,
+    "text": "So if you want to make changes to the preferences of your overall system, you would obviously click on the top left",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.94,
+    "end": 185.94,
+    "text": "Yeah, that would be effectively your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.9,
+    "end": 190.42,
+    "text": "default setting. So you can see if we came to the chart preferences we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.42,
+    "end": 195.54,
+    "text": "start off here by looking at some of the the defaults that it's currently set to.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.54,
+    "end": 199.9,
+    "text": "Okay so just very briefly obviously grid lines that is something that annoys",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.9,
+    "end": 204.42,
+    "text": "certain traders and it doesn't annoy other traders. For me I quite like",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.42,
+    "end": 209.5,
+    "text": "having some sort of grid lines maybe a solid major and minor division and if",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.5,
+    "end": 213.9,
+    "text": "I apply you'll see simply it's just creating some form of a scale on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.3,
+    "end": 219.8,
+    "text": "In terms of other things you can have a look at, what I would say is obviously just make",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.8,
+    "end": 220.8,
+    "text": "sure...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.13,
+    "end": 229.33,
+    "text": "Just make sure that, in terms of the labels and values, make sure that if you want display",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.33,
+    "end": 233.73,
+    "text": "boxes, as you can see in the top left and the bottom left corners, if you want those",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.73,
+    "end": 240.09,
+    "text": "display boxes, you can see that we've got them listed here under display value box.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.09,
+    "end": 243.61,
+    "text": "So you can untick them if you want and simply remove them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.61,
+    "end": 246.17,
+    "text": "And again, a lot of this is just play around.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.17,
+    "end": 247.85,
+    "text": "It's more preference more than anything.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.85,
+    "end": 249.85,
+    "text": "So if you want it there, include it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 249.85,
+    "end": 251.69,
+    "text": "If you don't, don't.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.73,
+    "end": 256.57,
+    "text": "Obviously as you're making changes in terms of the setup here, this will be your default",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.57,
+    "end": 259.05,
+    "text": "settings as you go through.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 259.05,
+    "end": 263.03,
+    "text": "One of the last things to pay attention to is this button called continuation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.03,
+    "end": 265.47,
+    "text": "It is quite important now.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 265.47,
+    "end": 268.73,
+    "text": "Continuation is just simply, obviously when futures contracts roll over, in other words",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.73,
+    "end": 274.73,
+    "text": "they move into the forward dated month, continuation will effectively continue showing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 274.73,
+    "end": 279.81,
+    "text": "you the price and it will automatically show you the market or the month that's trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.88,
+    "end": 285.02,
+    "text": "Okay, now obviously you can see the system default is to have no continuation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 285.02,
+    "end": 290.15,
+    "text": "In other words, what will happen is you will have your chart come the end of the month,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.15,
+    "end": 293.79,
+    "text": "will stop showing data or it won't roll itself automatically.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 293.79,
+    "end": 299.69,
+    "text": "So for me, I suggest you unclick the no continuation and again I would suggest that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 299.69,
+    "end": 306.87,
+    "text": "you go and click the active rollover when trading activity and optionally equalize",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 306.87,
+    "end": 307.87,
+    "text": "closes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 309.36,
+    "end": 314.0,
+    "text": "the contract will automatically roll, the software will automatically put you in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 314.0,
+    "end": 319.16,
+    "text": "front month as soon as the volume in the front month is more than the volume in the current",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 319.16,
+    "end": 320.16,
+    "text": "month.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 320.16,
+    "end": 325.08,
+    "text": "So for me I recommend that, obviously there are other options you can utilize but we're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 325.08,
+    "end": 330.6,
+    "text": "going to utilize active rollover in terms of when the volume moves.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 330.6,
+    "end": 333.24,
+    "text": "So that's what you want to look at in terms of the system.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 333.84,
+    "end": 336.26,
+    "text": "Now the next part we're going to move on to again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 336.26,
+    "end": 340.78,
+    "text": "We're going to come up to the set of the setup and we're going to talk a little bit about some of the sorry some of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 341.46,
+    "end": 345.88,
+    "text": "Chart fonts. Okay. This is now simply if you want to change the text",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 346.13,
+    "end": 350.29,
+    "text": "If you want to change the size of the text, make something bold, etc. etc.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 350.29,
+    "end": 352.17,
+    "text": "This is where you would do all that.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 352.17,
+    "end": 355.99,
+    "text": "If you don't like it and you make a few boo-boos and you want to go back, obviously you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 355.99,
+    "end": 359.25,
+    "text": "always come in the bottom left and restore to the original default.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.25,
+    "end": 362.69,
+    "text": "Again, what I would say is don't spend a great deal of time playing with these things.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 362.69,
+    "end": 366.53,
+    "text": "Just find something that looks okay and save it and then move on.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 366.64,
+    "end": 372.96,
+    "text": "Now, one of the features that's really good about this tool is that when you do find a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 372.96,
+    "end": 376.96,
+    "text": "feature that you really like, let's say for instance you've created all your charts,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 376.96,
+    "end": 380.56,
+    "text": "you've been utilizing it for a couple of months and then you all of a sudden want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 380.56,
+    "end": 385.54,
+    "text": "to make a change to all of your charts or some of your charts, you can simply come",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 385.54,
+    "end": 390.04,
+    "text": "in as bottom right here and you can apply it to this chart on this page, you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 390.04,
+    "end": 393.08,
+    "text": "apply it to all your charts on this page, you can apply it to all your charts on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 393.08,
+    "end": 395.48,
+    "text": "all pages and you can apply it to all new charts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 396.0,
+    "end": 400.84,
+    "text": "you can make changes relatively easy on all your charts, some of your charts, some of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.84,
+    "end": 403.76,
+    "text": "your pages, etc.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 403.76,
+    "end": 408.16,
+    "text": "So don't worry if right now you don't get everything perfectly, at a later stage you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 408.16,
+    "end": 413.84,
+    "text": "can come back and make changes across all of your charts in one go as opposed to having",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 413.84,
+    "end": 417.26,
+    "text": "to do them all individually.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 417.26,
+    "end": 418.26,
+    "text": "Let's go back to setup again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 418.26,
+    "end": 420.98,
+    "text": "This time we're going to talk about some of the chart colors.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 424.16,
+    "end": 429.0,
+    "text": "Now, what I'm going to say, the first thing to pay attention to is when you start looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 429.0,
+    "end": 434.24,
+    "text": "at the colors, just remember the Footprint tool is very much a contrast tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 434.24,
+    "end": 437.88,
+    "text": "In other words, it's a tool where we want to see contrast quite easily.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 437.88,
+    "end": 443.08,
+    "text": "Now that's why I either utilize a black background or a white background because I",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 443.08,
+    "end": 446.96,
+    "text": "really want to see those contrasts as aggressively as possible.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 451.41,
+    "end": 456.33,
+    "text": "And then again, in terms of your scale text, your right and left text, that's all these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 456.33,
+    "end": 457.33,
+    "text": "things.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 457.33,
+    "end": 460.85,
+    "text": "So on your right side you've got prices, you've got time at the bottom, and you've",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 460.85,
+    "end": 461.85,
+    "text": "got all your grid lines.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 461.85,
+    "end": 464.73,
+    "text": "Those are pretty much these sort of three boxes here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 464.73,
+    "end": 468.29,
+    "text": "You've obviously got your grid lines which are white, and you've got a whole bunch",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 468.29,
+    "end": 471.61,
+    "text": "of other things lower down that you can play with.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 471.61,
+    "end": 475.45,
+    "text": "What I suggest you do is go through each one of them, click on it, choose",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 476.24,
+    "end": 478.52,
+    "text": "push apply and see what happens.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 478.52,
+    "end": 483.52,
+    "text": "That's simply the best way to determine what each one of those boxes do and familiarize",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 483.52,
+    "end": 485.84,
+    "text": "yourself with what the changes can do.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 485.84,
+    "end": 490.2,
+    "text": "And again, obviously, if you only want to make a change to this chart, all your charts,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 490.2,
+    "end": 494.44,
+    "text": "some of your charts, you've got that functionality on the right side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 494.44,
+    "end": 500.16,
+    "text": "Okay, so now we've got our colors, we've kind of got a good little look at what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 501.82,
+    "end": 505.94,
+    "text": "One other feature within the setup which is really good is obviously this demo trading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 505.94,
+    "end": 511.1,
+    "text": "Now the demo trading again down the line, what I would say is ultimately...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 511.76,
+    "end": 517.38,
+    "text": "What the demo trading is going to allow you to do is it's going to allow you to effectively trade alongside",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 518.0,
+    "end": 519.38,
+    "text": "On your footprint, okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 519.38,
+    "end": 525.06,
+    "text": "So you can see how you've obviously got a bid and an offer and these are the live prices as you can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 525.06,
+    "end": 529.9,
+    "text": "Yeah on the bottom right. These are the live prices of the current WTI oil price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 529.9,
+    "end": 536.28,
+    "text": "So, you know whilst the strategy is in play, you know, you can effectively trade alongside it simply at the click of a button",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 536.28,
+    "end": 540.04,
+    "text": "Now what I will say most important guys",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 540.53,
+    "end": 543.55,
+    "text": "Do not be distracted by this tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 543.55,
+    "end": 548.01,
+    "text": "This is something that you only really want to start paying attention to as you move on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 548.01,
+    "end": 550.09,
+    "text": "towards the strategy section.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 550.09,
+    "end": 558.41,
+    "text": "What I would advise is completely eliminate this functionality until you start unit 6-15.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 558.7,
+    "end": 562.66,
+    "text": "And just make sure that you're not, when you're going through obviously the coursework and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 562.66,
+    "end": 566.3,
+    "text": "you're doing your practice sessions and your drill sessions, you rather just don't have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 566.3,
+    "end": 570.46,
+    "text": "this here because what it's going to do is, one, it's going to distract you, you're going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 570.46,
+    "end": 575.26,
+    "text": "to feel the urge to suddenly apply a strategy that you might not necessarily completely",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 575.26,
+    "end": 577.42,
+    "text": "understand yet.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 577.42,
+    "end": 582.06,
+    "text": "But two, what it might do is it might just draw upon your old ways of thinking.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 582.06,
+    "end": 585.1,
+    "text": "You might just look at a chart and there might be some support and you might be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 585.1,
+    "end": 587.62,
+    "text": "like, well let me just buy it, it's a trial.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 588.02,
+    "end": 596.5,
+    "text": "play around. So important, this trial with the free simulator, effectively you want to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 596.5,
+    "end": 600.5,
+    "text": "utilize that in a manner where you can practice the strategies that you're learning.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 600.54,
+    "end": 605.46,
+    "text": "Okay, so if you remember in the 30-day challenge, as I explained in unit one, and hopefully",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 605.46,
+    "end": 610.72,
+    "text": "you've printed off, on your practice days, after every unit where we discuss and develop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 610.72,
+    "end": 613.98,
+    "text": "a new strategy, the very next day is a practice session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 613.98,
+    "end": 618.3,
+    "text": "In those sessions, when you've done the drill work, you've found a couple of examples.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 618.3,
+    "end": 622.48,
+    "text": "By all means, feel free to have a footprint up, just like we've got here, and feel",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 622.48,
+    "end": 624.9,
+    "text": "free to simply buy and sell accordingly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 625.36,
+    "end": 628.32,
+    "text": "Okay, that's how I would advise you to use the demo trading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 628.32,
+    "end": 631.88,
+    "text": "Obviously if you want to get rid of it or minimize it, this little box in the top left",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 631.88,
+    "end": 637.28,
+    "text": "here, just simply click on it or if you look on the left side of your footprint you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 637.28,
+    "end": 641.04,
+    "text": "simply click on the Snap Trader, back and forward, back and forward and ultimately",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 641.04,
+    "end": 643.2,
+    "text": "that will just keep bringing it in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 643.2,
+    "end": 647.68,
+    "text": "Okay, now let's move on just to one or two of the other things or some of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 647.68,
+    "end": 652.24,
+    "text": "other important things upon your toolbar on the left side, obviously print functionality",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 654.16,
+    "end": 658.84,
+    "text": "Now a lot of traders on the Axia floor do still print their charts to look at them, to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 658.84,
+    "end": 664.26,
+    "text": "annotate them, to draw on them, to really sort of spend time just focused on the numbers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 664.26,
+    "end": 666.32,
+    "text": "and not being distracted by other things.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 666.32,
+    "end": 670.04,
+    "text": "However obviously if you're someone that's a little bit paper conscious and you prefer",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 670.04,
+    "end": 675.04,
+    "text": "to not waste paper, you can simply get a snipping tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 675.06,
+    "end": 680.24,
+    "text": "Now if you go to your start on your computer and you type in snipping tool you'll find",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 680.24,
+    "end": 685.06,
+    "text": "that most computers nowadays have some form of a snipping tool and you can simply just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 685.06,
+    "end": 690.24,
+    "text": "go new and you can simply just select the region you want, draw all over it, make",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 690.24,
+    "end": 695.86,
+    "text": "a nice tick, talk about certain imbalances etc etc, right click, copy the picture",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 695.86,
+    "end": 702.76,
+    "text": "and paste it into either a Word document or as you'll see an Evernote document as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 703.98,
+    "end": 708.14,
+    "text": "Okay, then in terms of the next tool. This is called a magnet tool. Now...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 708.22,
+    "end": 714.06,
+    "text": "The magnet tool is something that works particularly well, not so much in the footprint, but what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 714.06,
+    "end": 718.58,
+    "text": "it does effectively is a lot of the time when we select a line, for instance as I've done",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 718.58,
+    "end": 722.92,
+    "text": "here, we might not get close enough to the price we're looking at, maybe to a previous",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 722.92,
+    "end": 726.66,
+    "text": "high or a previous low or maybe a trend line.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 726.66,
+    "end": 731.58,
+    "text": "So what the magnet does is it effectively, it attaches itself, so if I'm hovering maybe",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 735.82,
+    "end": 742.14,
+    "text": "As soon as you click on it you can set the level of magnetism within the tool and you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 742.14,
+    "end": 744.34,
+    "text": "can see it asks for magnet strength.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 744.34,
+    "end": 746.78,
+    "text": "It's advised that you set it at at least 50.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 746.78,
+    "end": 752.9,
+    "text": "This makes it relatively sensitive and will at least find the price that it's looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 752.9,
+    "end": 753.9,
+    "text": "for.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 757.98,
+    "end": 762.58,
+    "text": "For the footprint, it's better suited to the candlestick charts, so we won't really be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 762.58,
+    "end": 765.78,
+    "text": "utilizing it much in the footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 765.78,
+    "end": 769.51,
+    "text": "Now something that really came of interest to me, and I'm going to share this with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 769.51,
+    "end": 773.59,
+    "text": "you, I'm going to bring back the Evernote, is that, okay, for me, I'd never known",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 773.59,
+    "end": 775.07,
+    "text": "what the magnet button did.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 775.34,
+    "end": 781.52,
+    "text": "Now, this is the wonderful thing about this charting package is that it's got an incredibly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 781.52,
+    "end": 785.66,
+    "text": "useful amount of assistance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 785.66,
+    "end": 789.66,
+    "text": "So as you can see I've got a nice little picture here and all I did to go and understand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 789.66,
+    "end": 795.46,
+    "text": "what this tool did and again I might not explain everything very well to you but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 795.46,
+    "end": 800.3,
+    "text": "in that case you've got a wonderful info tool so if you want to get more information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 803.44,
+    "end": 814.76,
+    "text": "You can simply come up to the support in the top right here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 814.76,
+    "end": 819.92,
+    "text": "You can go and open the help and you'll see a nice toolbar like this will pop up and as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 819.92,
+    "end": 823.92,
+    "text": "soon as you get this up you can just go and type in the search function here and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 823.92,
+    "end": 826.6,
+    "text": "type in magnet.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 826.6,
+    "end": 831.52,
+    "text": "Once you have magnet up you'll see it'll bring up some pointer tools or some chart",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 832.45,
+    "end": 836.73,
+    "text": "And there it will explain it to you, and that's really crucial because there are going to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 836.73,
+    "end": 840.53,
+    "text": "be times, maybe not in this course, but later on, that there are certain things you want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 840.53,
+    "end": 846.23,
+    "text": "to understand better, understand the functionality, and you can simply use that very easy help",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 846.23,
+    "end": 847.23,
+    "text": "function.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 847.23,
+    "end": 850.85,
+    "text": "Now, as I will explain to you at the end again, there are two other options for you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 850.85,
+    "end": 852.61,
+    "text": "in terms of support.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 857.94,
+    "end": 862.52,
+    "text": "You can obviously go and talk to the live chat, those are the people on the support",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 862.52,
+    "end": 867.34,
+    "text": "of CQG Market Delta, and they will assist you in terms of any kind of questions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 867.34,
+    "end": 870.98,
+    "text": "But also what's very, very useful is you'll see a lot of the charting package.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 875.34,
+    "end": 881.1,
+    "text": "and all sorts of information will come up as we're hovering over it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 881.1,
+    "end": 883.38,
+    "text": "The same will be as you go through various tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 883.38,
+    "end": 887.66,
+    "text": "When you hover over it, it will give a nice brief explanation of effectively what the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 887.66,
+    "end": 888.66,
+    "text": "tool is doing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 888.66,
+    "end": 892.38,
+    "text": "So here you can see we hovered over a profile, it says change pointer tool to profile area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 892.38,
+    "end": 897.42,
+    "text": "And this will be the same for all these sorts of bars on the left, add a study",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 897.42,
+    "end": 902.34,
+    "text": "it says in terms of magnets, it says to us turn on the magnet.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 904.43,
+    "end": 908.03,
+    "text": "What we're going to move on to is then some of the other tools that you can find here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 908.03,
+    "end": 912.07,
+    "text": "Obviously the first five here, don't worry too much, this is just simply if you want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 912.07,
+    "end": 917.31,
+    "text": "to change this chart to either a bar chart, a candlestick, a footprint, a line chart,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 917.31,
+    "end": 921.39,
+    "text": "a renko, whatever it might be, this is where you'll change the toolbar to any",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 921.39,
+    "end": 923.39,
+    "text": "of these other tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 923.39,
+    "end": 928.07,
+    "text": "And then you've obviously also got some of the basic studies, whether it's the fiber",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 928.07,
+    "end": 932.47,
+    "text": "trace, the profile, all these sorts of things along the left side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 932.47,
+    "end": 936.81,
+    "text": "Now don't worry too much about this, again that's just for ease of use if you want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 936.81,
+    "end": 939.43,
+    "text": "to switch to a bar chart, simply click on it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 939.43,
+    "end": 943.15,
+    "text": "If you want to switch, you can go to a bar chart very quickly, you can come back",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 945.02,
+    "end": 949.08,
+    "text": "You know, we can do all sorts of things, we can move, we can go and add maybe a volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 949.08,
+    "end": 953.54,
+    "text": "weighted average price and it will very quickly add the study onto the footprint.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 953.94,
+    "end": 958.94,
+    "text": "Okay, now just in terms of some of the other buttons here we can see a rescaling tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 958.94,
+    "end": 963.3,
+    "text": "So what this is going to do is a lot of the time you might have a lot of information or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 963.3,
+    "end": 965.82,
+    "text": "you might have a relatively small screen.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 965.82,
+    "end": 969.66,
+    "text": "So all that's going to do effectively if you have a lot of information and it cannot",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 969.66,
+    "end": 973.9,
+    "text": "fit within your page, the moment you go and rescale it's just going to rescale",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 973.9,
+    "end": 977.5,
+    "text": "the picture so that it all fits onto your one page.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 978.26,
+    "end": 983.46,
+    "text": "Okay, so that's pretty much the toolbar on the left explained again. It's more just preference",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 983.46,
+    "end": 986.94,
+    "text": "Okay, it's about making sure everything is as you like it now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 986.94,
+    "end": 994.42,
+    "text": "I suggest spend a little bit of time with us particularly the preferences particularly the colors and the fonts when you found something you like",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 994.94,
+    "end": 998.06,
+    "text": "Then move on to the next section",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 998.38,
+    "end": 1002.1,
+    "text": "Okay, and the reason you want to do that obviously is you don't want to keep coming backwards",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1002.1,
+    "end": 1004.1,
+    "text": "and forwards making changes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1004.1,
+    "end": 1009.74,
+    "text": "Get all your changes done very early on so that you can then move on to focusing on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1009.74,
+    "end": 1012.3,
+    "text": "the actual footprint and developing strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1012.3,
+    "end": 1019.01,
+    "text": "Okay, now the most important thing when you are happy with everything, you've got the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1023.46,
+    "end": 1029.56,
+    "text": "What we did set up, obviously, in Unit 2 was the auto-save function, so again, make sure",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1029.56,
+    "end": 1031.08,
+    "text": "you set up the auto-save function.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1031.08,
+    "end": 1035.16,
+    "text": "If you didn't, just make sure you're always saving the current page so that if you do",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1035.16,
+    "end": 1039.57,
+    "text": "exit or something goes wrong, you're not going to lose all the work you've done.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1039.57,
+    "end": 1043.89,
+    "text": "Okay, that's the end of the first part of this Unit 4.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1043.89,
+    "end": 1048.53,
+    "text": "Let's now move a little bit into some of the more interesting stuff and actually talk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1050.83,
+    "end": 1054.43,
+    "text": "chartating. So I'm just going to bring this up again. What we're going to talk about now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1054.43,
+    "end": 1058.87,
+    "text": "is we're going to talk about color lines. Again, this is particularly important and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1058.87,
+    "end": 1063.07,
+    "text": "I'm going to show you the different colors for certain things so that when we move on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1063.07,
+    "end": 1067.03,
+    "text": "to the strategies you will understand why I have certain different color lines. We'll",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1067.03,
+    "end": 1074.38,
+    "text": "also talk about organization in terms of your tabs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1072.59,
+    "end": 1076.33,
+    "text": "So let's start off with, in fact I'm going to start off with the tabs and I'll come back",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1076.33,
+    "end": 1077.73,
+    "text": "to the color lines.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1077.73,
+    "end": 1081.07,
+    "text": "The first thing is organization is key, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1081.07,
+    "end": 1085.39,
+    "text": "Remember if you're trading multiple markets or you have a number of things you're focusing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1085.39,
+    "end": 1089.11,
+    "text": "on and a number of strategies, you have to be very, very organized, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1089.11,
+    "end": 1092.91,
+    "text": "Because you're taking in a lot of information and you need to be able to make effective",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1094.77,
+    "end": 1098.73,
+    "text": "Alright, so if things aren't organized and aren't where you expect them to see and it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1098.73,
+    "end": 1104.41,
+    "text": "quite messy, again, your decision making is going to be messy and ultimately it's just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1104.41,
+    "end": 1107.69,
+    "text": "going to create anxiety and you're going to lose money as a result.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1107.69,
+    "end": 1111.81,
+    "text": "Alright, so the first thing is, if we, you know, let's say we've now found our",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1111.81,
+    "end": 1115.49,
+    "text": "bar and we're really happy with it, our colors and everything's good, we can then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1115.49,
+    "end": 1119.57,
+    "text": "simply go and duplicate the chart you see in front of us by clicking on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1119.57,
+    "end": 1120.57,
+    "text": "plus.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1123.94,
+    "end": 1128.98,
+    "text": "Now what we can go and do is we can just go and rename this, maybe call it Oil and we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1128.98,
+    "end": 1132.18,
+    "text": "call it Rotation and push Enter.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1132.18,
+    "end": 1138.02,
+    "text": "We can do the same for the first one, maybe we call this Oil Time, T for Time and we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1138.02,
+    "end": 1145.36,
+    "text": "push Enter and then we can go click another one and we can name this Oil and we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1145.36,
+    "end": 1147.62,
+    "text": "call this Imbalance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1147.62,
+    "end": 1151.3,
+    "text": "And I'll go through all this in a bit of time when we start talking about the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1152.67,
+    "end": 1157.63,
+    "text": "Alright, now I would do the same thing for every other market, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1157.63,
+    "end": 1161.63,
+    "text": "Some people might have separate pages or one whole page, obviously what you're seeing in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1161.63,
+    "end": 1166.67,
+    "text": "front of me is one whole page, so some traders might have one page where the footprint fills",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1166.67,
+    "end": 1171.35,
+    "text": "the entire page and some traders might do something like this, where they have maybe",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1171.35,
+    "end": 1172.99,
+    "text": "three of these across the way.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1173.1,
+    "end": 1178.04,
+    "text": "Okay, if you wanted to create three, you'd simply come into the top left, you can replicate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1178.04,
+    "end": 1179.04,
+    "text": "and drag.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1179.04,
+    "end": 1183.74,
+    "text": "And we can replicate and drag and effectively have three different footprints all in one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1183.74,
+    "end": 1184.74,
+    "text": "view.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1184.74,
+    "end": 1189.42,
+    "text": "Okay, so obviously now, again you can only see so much information, you know, so again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1189.42,
+    "end": 1192.9,
+    "text": "it's all at your discretion, but that option is available for you.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1193.01,
+    "end": 1195.49,
+    "text": "For me, I'm going to keep it nice and simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1195.49,
+    "end": 1201.01,
+    "text": "I'm going to keep all of our markets, for instance, in one long tab, and again the reason",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1201.01,
+    "end": 1206.13,
+    "text": "I prefer it this way is because I feel if you have, again if we go back, if we had",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1206.13,
+    "end": 1212.13,
+    "text": "say three of these, you can see very quickly how you can be drawn into too much information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1212.26,
+    "end": 1216.7,
+    "text": "If this was, say, three different markets, obviously you can observe three different",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1216.7,
+    "end": 1220.38,
+    "text": "strategies at the same time, but you're being drawn into a lot of information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1220.38,
+    "end": 1222.82,
+    "text": "So it's all about the risk-reward.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1222.82,
+    "end": 1229.86,
+    "text": "More information potentially means less effective execution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1230.54,
+    "end": 1235.46,
+    "text": "So let's close that down and let's move on to the next bit of functionality.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1235.46,
+    "end": 1240.3,
+    "text": "Now what I will say guys, make sure the more footprint charts you add, the more work you're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1240.3,
+    "end": 1241.3,
+    "text": "going to have to do.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1241.3,
+    "end": 1243.82,
+    "text": "What I mean by that, well every day you're obviously going to be putting all sorts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1243.82,
+    "end": 1247.38,
+    "text": "of lines on your chart, you're going to be looking at certain studies, informational",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1249.74,
+    "end": 1254.3,
+    "text": "And the more you do on your child, just remember the more fixing and cleaning up and tidying",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1254.3,
+    "end": 1255.3,
+    "text": "you have to do.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1255.3,
+    "end": 1256.78,
+    "text": "So again, factor that in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1256.78,
+    "end": 1260.1,
+    "text": "At the end of every day, you've got to get rid of lines that are no longer relevant.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1260.1,
+    "end": 1263.8,
+    "text": "Maybe get rid of info boxes that are no longer relevant.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1263.8,
+    "end": 1265.42,
+    "text": "Just keep it neat and tidy, alright?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1265.42,
+    "end": 1270.02,
+    "text": "The more tidy you keep it, the better prepared and better execution you're going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1270.02,
+    "end": 1271.26,
+    "text": "to have as a result.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1271.66,
+    "end": 1275.78,
+    "text": "Okay, now let's talk a little about colors because this is particularly important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1275.98,
+    "end": 1281.5,
+    "text": "You'll see when we start talking about the functionality with a footprint in terms of conditional formatting and that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1281.66,
+    "end": 1283.54,
+    "text": "You know, this is what you want to do",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1283.54,
+    "end": 1289.42,
+    "text": "You know, you want to keep things in such a manner that you know, you can just simply focus on making decisions",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1289.65,
+    "end": 1294.87,
+    "text": "The time you're spending on this course and setting up your footprint, you want to spend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1294.87,
+    "end": 1299.05,
+    "text": "a lot of time doing that so that when you get to trading the market, you're simply just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1299.05,
+    "end": 1300.85,
+    "text": "making decisions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1300.85,
+    "end": 1305.17,
+    "text": "You're not spending time fixing your footprint or cleaning it up, you're just making decisions",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1305.17,
+    "end": 1308.73,
+    "text": "based on the information coming through the tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1308.73,
+    "end": 1309.73,
+    "text": "The color lines.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1309.73,
+    "end": 1312.21,
+    "text": "Very briefly, I'm going to bring this back.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1312.21,
+    "end": 1315.17,
+    "text": "In fact, I'm going to take a snip of it and I'm going to move it to the top",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1315.17,
+    "end": 1318.01,
+    "text": "left corner and then you can obviously see it quite nicely.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1318.5,
+    "end": 1320.76,
+    "text": "Just take a brief picture of this.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1320.76,
+    "end": 1322.3,
+    "text": "This is effected throughout the course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1322.3,
+    "end": 1324.28,
+    "text": "These are the colors I'm going to utilize.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1324.28,
+    "end": 1327.22,
+    "text": "Now I'm going to go through them and I'm going to plot them on the chart for you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1327.22,
+    "end": 1328.5,
+    "text": "and show you how to change them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1328.5,
+    "end": 1331.62,
+    "text": "So I effectively have seven different colors.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1331.62,
+    "end": 1334.46,
+    "text": "Now again you don't have to adopt these color scheme.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1334.46,
+    "end": 1335.62,
+    "text": "You can adopt your own color scheme.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1335.62,
+    "end": 1338.7,
+    "text": "You might not even like the idea or the principle behind the color scheme.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1339.07,
+    "end": 1340.91,
+    "text": "But the reason I have it's very simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1340.91,
+    "end": 1346.51,
+    "text": "Every one of these colors is identifying something for me so that I can effectively execute one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1346.51,
+    "end": 1349.13,
+    "text": "of the 10 strategies you're going to learn.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1349.13,
+    "end": 1353.19,
+    "text": "Now for me, brown colors represent daily highs and lows.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1353.19,
+    "end": 1357.51,
+    "text": "So whenever there's a daily high and low in my debrief the previous day, I go and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1357.51,
+    "end": 1360.99,
+    "text": "put those brown lines in to show me the daily high and low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1360.99,
+    "end": 1365.83,
+    "text": "Now obviously that's very effective for breakout trading or for extensions on previous",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1365.83,
+    "end": 1368.43,
+    "text": "days highs or maybe potential imbalance strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1368.56,
+    "end": 1375.28,
+    "text": "In terms of pink, you'll see a bright pink simply indicates the weekly high and low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1375.28,
+    "end": 1379.32,
+    "text": "In terms of red, these are just very important reference points, so any kind of points of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1379.32,
+    "end": 1383.56,
+    "text": "reference that I thought were valid from the previous day, let's say for instance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1383.56,
+    "end": 1390.16,
+    "text": "we had a key economic data piece, European CPI, I would always put a reference point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1396.02,
+    "end": 1399.38,
+    "text": "that was left as a result of that economic data, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1399.38,
+    "end": 1403.9,
+    "text": "Again, the reason I do this is just that it's a reference point, it's drawing my attention",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1403.9,
+    "end": 1407.82,
+    "text": "to this having been quite an important reference on economic data.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1408.4,
+    "end": 1414.0,
+    "text": "Then orange, I utilize for high absorption, again, you know, I've spoken a little bit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1414.0,
+    "end": 1418.68,
+    "text": "about this in Unit 3, what absorption is, what it looks like, and you'll see me talk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1418.68,
+    "end": 1422.0,
+    "text": "about this extensively throughout the strategy sessions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1422.0,
+    "end": 1426.44,
+    "text": "So for me, I use orange to signal where there's been some really high absorption",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1426.44,
+    "end": 1429.76,
+    "text": "or really, really big delta shifts in price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1430.05,
+    "end": 1434.81,
+    "text": "Okay, in terms of dark blue, this would signal really key breakout areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1434.81,
+    "end": 1440.05,
+    "text": "Now when we talk about the breakout strategy right towards the end of the course, you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1440.05,
+    "end": 1444.01,
+    "text": "obviously this, you know, breakouts, we tend to use a couple of different charts, not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1444.01,
+    "end": 1445.61,
+    "text": "just a footprint.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1445.61,
+    "end": 1450.19,
+    "text": "So for me, identifying the breakouts, I always like to put a nice dark blue line.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1450.19,
+    "end": 1455.19,
+    "text": "So that signals number one, I don't want to go against the break of that blue line.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1455.41,
+    "end": 1459.41,
+    "text": "But equally, I want to make sure that when that break occurs, I'm watching that price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1459.41,
+    "end": 1462.45,
+    "text": "action around the blue line quite closely.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1462.45,
+    "end": 1464.37,
+    "text": "Turquoise shows us where there's an initiative.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1464.37,
+    "end": 1468.77,
+    "text": "So it shows us where someone has stepped in, either a buyer or seller, and they're stepping",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1468.77,
+    "end": 1471.73,
+    "text": "in in an aggressive manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1471.73,
+    "end": 1475.25,
+    "text": "And then obviously green shows me any kind of imbalances in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1479.6,
+    "end": 1486.6,
+    "text": "When we get to the actual strategy session on imbalances, you're going to understand this very well and how it effectively works.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1487.02,
+    "end": 1488.94,
+    "text": "Okay, so let's go and apply these now.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1488.94,
+    "end": 1491.38,
+    "text": "Let's go and show you how to apply these lines.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1491.38,
+    "end": 1496.38,
+    "text": "Very simply, let's say this was the high of the previous day in terms of 58.60, in fact",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1496.38,
+    "end": 1499.26,
+    "text": "what I'm going to do is I'm going to show you how to apply lines quite quickly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1499.26,
+    "end": 1505.1,
+    "text": "So if we quickly go on to a time-based session here, if I went to modify and I",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1505.1,
+    "end": 1509.38,
+    "text": "simply went to the source, I can see it's on bar which means I can make it time-based.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1509.38,
+    "end": 1514.14,
+    "text": "Now if you want to quickly put in weekly high-low, daily high-low, maybe some",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1516.37,
+    "end": 1521.57,
+    "text": "come and right click on here, change the interval to a daily or a weekly. So we can see currently",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1521.57,
+    "end": 1526.85,
+    "text": "we've got the set to a daily. So very simply I can go put a line there and a line at the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1526.85,
+    "end": 1533.13,
+    "text": "top and I can see now the low of oil yesterday was 57.44 and the high was 58.12. Now in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1533.13,
+    "end": 1537.13,
+    "text": "terms of weekly I can do the same thing. I can right click, chart interval and go",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1537.13,
+    "end": 1543.6,
+    "text": "weekly. Obviously at the moment this footprint is only available on intraday or daily",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1546.02,
+    "end": 1551.56,
+    "text": "to the daily, and if we get the weekly out here, you can see obviously the day now is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1551.56,
+    "end": 1555.7,
+    "text": "Thursday, so it's Thursday, Wednesday, Tuesday, and Monday. This is obviously last week's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1555.7,
+    "end": 1561.38,
+    "text": "low and this was last week's high. So again, we can go and right click on the line now,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1561.38,
+    "end": 1565.42,
+    "text": "we can go and set the horizontal color and make it nice and pink. Okay, and we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1565.42,
+    "end": 1566.42,
+    "text": "do the same for the pink.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1566.78,
+    "end": 1570.34,
+    "text": "So straight away you've got the daily high and low, you've got the weekly high and low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1570.34,
+    "end": 1575.42,
+    "text": "Now let's say for instance this was an important reference point, maybe that's the point that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1575.42,
+    "end": 1581.42,
+    "text": "the WTI oil inventory data came out and we can simply leave that red line there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1581.42,
+    "end": 1585.18,
+    "text": "We can then go and put an orange line, so let's go find, we saw obviously yesterday",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1585.18,
+    "end": 1590.82,
+    "text": "we absorbed 20,000 or almost 40,000 contracts at price point 71, so we can go and make",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1594.75,
+    "end": 1599.09,
+    "text": "then we can go and obviously put a dark blue. So obviously this 5860 is a very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1599.09,
+    "end": 1602.69,
+    "text": "important level. We can see it's a it's been a really big turning point in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1602.69,
+    "end": 1606.05,
+    "text": "market and we had some big rejection. So this might be some really important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1606.05,
+    "end": 1610.05,
+    "text": "reference point or a breakout point. So we're going to make a nice dark blue",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1610.05,
+    "end": 1613.89,
+    "text": "color and we put it right next to the pink line. So we can see a really",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1613.89,
+    "end": 1617.41,
+    "text": "important area developing there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1615.65,
+    "end": 1617.57,
+    "text": "We can then go look for some initiatives.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1617.57,
+    "end": 1621.25,
+    "text": "So we can see the market really initiated off as high as well.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1621.25,
+    "end": 1625.45,
+    "text": "We can see some real low volume areas here and we can sort of go and look and say, well",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1625.45,
+    "end": 1630.01,
+    "text": "maybe price point 41, that's where it initiated from, that's where the sellers stepped",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1630.01,
+    "end": 1631.45,
+    "text": "in in an aggressive manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1631.98,
+    "end": 1637.2,
+    "text": "And then last we're going to highlight some of the imbalances again. We need to find those imbalances",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1637.62,
+    "end": 1641.1,
+    "text": "What I'd say, maybe let's say for instance this little area over here",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1641.1,
+    "end": 1646.1,
+    "text": "We can go highlight that and say well, yeah as an effective imbalance left in the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1646.36,
+    "end": 1650.54,
+    "text": "Which at some point we know by definition should fill out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1650.99,
+    "end": 1654.67,
+    "text": "Okay, now I know I've kept this footprint on a daily chart, and I've done this in a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1654.67,
+    "end": 1660.51,
+    "text": "very primitive manner, but the important thing to understand is the importance of color lines.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1660.51,
+    "end": 1664.49,
+    "text": "Because as the market's now moving around, and there's a lot of information, a lot of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1664.49,
+    "end": 1668.55,
+    "text": "things going on at the same time, I don't have to think a great deal.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1668.55,
+    "end": 1672.17,
+    "text": "Let's say the oil starts to approach this area, bang, I'm switched on, I know there's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1672.17,
+    "end": 1677.17,
+    "text": "a weekly high as well as a key breakout area, I simply apply breakout strategy rules.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1677.26,
+    "end": 1681.8,
+    "text": "Let's say we come back down to the 71, bang, I know what the absorption and auctioning",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1681.8,
+    "end": 1686.5,
+    "text": "strategy is, I simply wait for it and execute when we retest it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1686.5,
+    "end": 1690.62,
+    "text": "I know that the market tends to fill out these imbalances so when we get to this imbalance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1690.62,
+    "end": 1692.58,
+    "text": "we trade the imbalance strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1692.58,
+    "end": 1696.78,
+    "text": "And that's all it is guys, it's putting these lines as markers so that you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1696.78,
+    "end": 1700.62,
+    "text": "quickly make effective decisions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

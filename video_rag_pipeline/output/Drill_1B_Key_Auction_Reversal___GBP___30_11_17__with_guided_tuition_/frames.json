@@ -1,0 +1,42 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Drill_1B_Key_Auction_Reversal___GBP___30_11_17__with_guided_tuition_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Drill_1B_Key_Auction_Reversal___GBP___30_11_17__with_guided_tuition_/frames/scene_0000_mid.jpg",
+    "time": 196.95,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Drill_1B_Key_Auction_Reversal___GBP___30_11_17__with_guided_tuition_/frames/scene_0000_end.jpg",
+    "time": 393.7,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Drill_1B_Key_Auction_Reversal___GBP___30_11_17__with_guided_tuition_/frames/scene_0001_start.jpg",
+    "time": 394.09999999999997,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Drill_1B_Key_Auction_Reversal___GBP___30_11_17__with_guided_tuition_/frames/scene_0001_mid.jpg",
+    "time": 463.95,
+    "width": 1920,
+    "height": 1080
+  }
+]

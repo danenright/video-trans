@@ -35,8 +35,8 @@ transcription:
 # ============================================================
 scenes:
   method: "content"  # Options: content, threshold, adaptive
-  threshold: 27.0  # Content change threshold (lower = more sensitive)
-  min_scene_len_seconds: 6  # Minimum scene duration
+  threshold: 20.0  # Content change threshold (lower = more sensitive, was 27)
+  min_scene_len_seconds: 3  # Minimum scene duration (was 6)
   downscale_factor: null  # Downscale video for faster detection (null = auto)
 
 # ============================================================
@@ -70,7 +70,7 @@ crop:
 # OCR Settings (Tesseract)
 # ============================================================
 ocr:
-  enabled: true
+  enabled: false  # Disabled - charts don't benefit from OCR
   engine: "tesseract"
   tesseract_cmd: "tesseract"  # Path to tesseract binary
   language: "eng"  # Tesseract language code
@@ -90,7 +90,7 @@ ocr:
 # Visual Captioning (BLIP)
 # ============================================================
 caption:
-  enabled: true
+  enabled: false  # Disabled - generic captions add little value
   backend: "blip"
   model: "Salesforce/blip-image-captioning-base"
   device: "auto"  # auto, cpu, cuda
@@ -103,17 +103,21 @@ caption:
 # Chunking Settings
 # ============================================================
 chunking:
+  # Chunking strategy: "scene" (align to visual scenes) or "transcript" (word-based)
+  strategy: "transcript"
   # Target chunk size
   target_words: 350
   max_words: 650
   overlap_words: 60
   max_seconds: 180  # Max chunk duration in seconds
-  # Content attachment
-  attach_ocr: true
-  attach_caption: true
+  # Content attachment (only relevant if OCR/caption enabled)
+  attach_ocr: false
+  attach_caption: false
   # Formatting
   ocr_marker: "[ON-SCREEN TEXT]"
   caption_marker: "[VISUAL SUMMARY]"
+  # Frame references - attach nearest frame paths to chunks
+  attach_frame_refs: true
 
 # ============================================================
 # Caching / Idempotency

@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_11_Practical_Example/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_11_Practical_Example/frames/scene_0000_mid.jpg",
+    "time": 294.01999863954836,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_11_Practical_Example/frames/scene_0000_end.jpg",
+    "time": 587.8399972790967,
+    "width": 1280,
+    "height": 720
+  }
+]

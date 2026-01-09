@@ -1,0 +1,6250 @@
+[
+  {
+    "start": 3.18,
+    "end": 6.78,
+    "text": "Welcome to the Footprint course, Unit 1.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.78,
+    "end": 12.02,
+    "text": "Over the next 19 slides, I'm going to give you a brief introduction to the layout of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.02,
+    "end": 13.02,
+    "text": "the course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.02,
+    "end": 17.26,
+    "text": "I'm also going to show you some of the key teaching methodologies utilized throughout",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.26,
+    "end": 18.26,
+    "text": "the course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.26,
+    "end": 23.0,
+    "text": "I will then briefly introduce the Footprint tool, how it works, as well as a practical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.0,
+    "end": 26.62,
+    "text": "example of the Footprint in action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.62,
+    "end": 54.34,
+    "text": "Now let's get straight into a brief video about the Footprint course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.21,
+    "end": 59.73,
+    "text": "My name is Brannigan Barrett and I'm going to be your mentor throughout this course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.37,
+    "end": 65.41,
+    "text": "My background currently includes seven years of proprietary trading, six years of mentoring",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.41,
+    "end": 70.13,
+    "text": "and this is the second course I've created, the first being the market profile course",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.13,
+    "end": 75.84,
+    "text": "launched earlier this year. Currently I trade across multiple asset classes including bonds,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.84,
+    "end": 81.28,
+    "text": "equity indices, currencies and commodities and across multiple time frames including both",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.28,
+    "end": 84.72,
+    "text": "day trading and as well as obviously swing trading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.94,
+    "end": 95.32,
+    "text": "My trading philosophy is very simple. It's a gradual, consistent pursuit of high",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.32,
+    "end": 100.56,
+    "text": "performance developed through strong habits, smart processes and simple",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.56,
+    "end": 108.61,
+    "text": "effective trade strategies. So why has Axio Futures created a footprint course?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.61,
+    "end": 113.05,
+    "text": "Well very simply there's an extremely high demand for it given the fact",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.05,
+    "end": 116.49,
+    "text": "that there's very little education out there about the footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.07,
+    "end": 126.27,
+    "text": "Footprint is an extremely objective fact-based tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.27,
+    "end": 130.51,
+    "text": "Now by this very nature, if you're developing strategies based on facts,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.51,
+    "end": 134.99,
+    "text": "it will allow you to develop confidence in those fact-based strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.99,
+    "end": 141.84,
+    "text": "and ultimately leverage up your favorite strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.84,
+    "end": 145.76,
+    "text": "But firstly, all of the principles we're going to teach, we are going to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.76,
+    "end": 149.71,
+    "text": "practically apply to live market examples.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.71,
+    "end": 153.55,
+    "text": "More important, some of the complex principles we're going to then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.23,
+    "end": 160.1,
+    "text": "explain them in layman's terms. We're then also going to include drill",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.1,
+    "end": 163.9,
+    "text": "sessions at the end of every one of the strategy sessions to make sure that not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.9,
+    "end": 168.66,
+    "text": "only do you grasp the principle but you can also apply the principle to some",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.66,
+    "end": 173.64,
+    "text": "of the drills we give you. We will then also have live footprint streams where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.64,
+    "end": 177.66,
+    "text": "you can follow a mentor and see how he utilizes the footprint with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.66,
+    "end": 182.58,
+    "text": "various strategies. Included is templates. We're going to spend a lot of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 184.26,
+    "end": 189.78,
+    "text": "so that you can eventually learn to go and adopt and include your own strategies utilizing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.78,
+    "end": 195.9,
+    "text": "the footprint. There will also be a peer-to-peer learning process where you can effectively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.9,
+    "end": 200.62,
+    "text": "speak to not just your mentors but you can also engage with some of your other peers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.62,
+    "end": 207.02,
+    "text": "utilizing and using the footprint course. Lastly, there will be exclusive bonus material",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.02,
+    "end": 211.26,
+    "text": "that will only be available to those that have taken the footprint course and this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.1,
+    "end": 223.89,
+    "text": "But also, it will cover templating various strategies from me, your mentor.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.89,
+    "end": 225.89,
+    "text": "So how to take the course?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.89,
+    "end": 227.39,
+    "text": "Well, don't rush.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.39,
+    "end": 233.29,
+    "text": "There is definitely going to be a temptation to get through the more boring theoretical principles",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.29,
+    "end": 235.99,
+    "text": "and move very quickly on to the strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.99,
+    "end": 239.59,
+    "text": "But what I suggest you do is take the time to learn the principles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.59,
+    "end": 240.99,
+    "text": "The reason is simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.99,
+    "end": 246.44,
+    "text": "If you learn the principles, you will eventually be able to develop your own strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.14,
+    "end": 251.86,
+    "text": "Once you've learnt the basic principles and you can understand them, ensure that you can apply",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.86,
+    "end": 258.77,
+    "text": "those principles through live market examples. Lastly, make sure when you are learning these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 258.77,
+    "end": 263.81,
+    "text": "principles and applying yourself, record everything you're doing. Record all the footprints,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.81,
+    "end": 269.41,
+    "text": "record all your execution and do ensure that you debrief all of the patterns that you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 275.54,
+    "end": 283.06,
+    "text": "so don't rush through this process some of the best advice i can give to all of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 283.06,
+    "end": 286.85,
+    "text": "our young and developing traders is very simple",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.85,
+    "end": 290.21,
+    "text": "the trader who approaches the market with the most",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.21,
+    "end": 294.56,
+    "text": "simplistic approach will have the greatest outcomes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 294.56,
+    "end": 298.88,
+    "text": "remember that the more simple you keep it the greater and more effective",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 298.88,
+    "end": 306.93,
+    "text": "your outcomes will be my favorite trading quote developing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 306.93,
+    "end": 309.81,
+    "text": "mental strength is all about habitually doing the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.43,
+    "end": 332.05,
+    "text": "Good luck for the footprint course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 332.05,
+    "end": 337.7,
+    "text": "The index is a wonderful overview of what you can expect to see throughout the course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.7,
+    "end": 339.7,
+    "text": "It's broken down into three sections.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 339.7,
+    "end": 344.3,
+    "text": "An introductory section, which is units 1 to 5, an intermediate section, which is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 344.3,
+    "end": 349.3,
+    "text": "units 6 to 11, and an advanced section, which is units 12 to 15.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 349.7,
+    "end": 356.14,
+    "text": "Now in basic terms, unit 1 to 5 includes predominantly theoretical as well as practical application",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 356.14,
+    "end": 360.5,
+    "text": "of the footprint principles and methodologies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 360.5,
+    "end": 366.98,
+    "text": "From unit 6 to 15, we solely focus on building strategies, executing strategies, as well",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 366.98,
+    "end": 369.98,
+    "text": "as building your own templates on those strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 370.38,
+    "end": 375.58,
+    "text": "Now some of the key features you can expect to see throughout all of the units begin obviously",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 375.58,
+    "end": 378.14,
+    "text": "with theoretical application.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 378.14,
+    "end": 382.8,
+    "text": "We then also have the practical application of these theoretical principles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 382.8,
+    "end": 387.84,
+    "text": "What I found in my first course was that whilst we had a great deal of practical application",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 387.84,
+    "end": 393.06,
+    "text": "of the theory there was a real desire for a lot more practical application and we've",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 393.06,
+    "end": 397.46,
+    "text": "taken heed of that and that's why we're going to have a number of practical examples",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.21,
+    "end": 403.57,
+    "text": "All of them include live market strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 403.57,
+    "end": 410.29,
+    "text": "Now these live market examples will not just focus on the footprint tool, but they'll include",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 410.29,
+    "end": 415.89,
+    "text": "the footprint as well as the price ladder and as well as traditional candlestick charts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 415.89,
+    "end": 421.73,
+    "text": "The reason for this is very simple, obviously a lot of you guys taking this course will",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 421.73,
+    "end": 427.61,
+    "text": "be very familiar with not just the dom or the ladder, but also utilizing normal candlesticks.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 427.98,
+    "end": 430.62,
+    "text": "To ensure that it's not completely stepping",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 430.62,
+    "end": 431.62,
+    "text": "out of your comfort zone,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 431.62,
+    "end": 435.74,
+    "text": "we've incorporated all three into the practical examples.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.74,
+    "end": 439.52,
+    "text": "Then, you can see in every Unit 6-15,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 439.52,
+    "end": 441.06,
+    "text": "we will have a template.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 441.06,
+    "end": 444.32,
+    "text": "So we've designed a very unique template",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 444.32,
+    "end": 446.6,
+    "text": "that you will fill in for every single strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 446.6,
+    "end": 449.24,
+    "text": "so that you can form very strong habits",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 449.24,
+    "end": 452.5,
+    "text": "whilst developing these strategies in Unit 6-15.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 453.23,
+    "end": 457.59,
+    "text": "Then in every unit 6 to 15 will also have a blackboard learning",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 458.19,
+    "end": 462.21,
+    "text": "Feature which predominantly focuses on the blackboard on the smart board",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 462.21,
+    "end": 466.53,
+    "text": "I get to annotate the examples with you point out, you know, the key features",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 467.05,
+    "end": 471.29,
+    "text": "Really sort of break it down into layman's terms to ensure that you're not missing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 471.29,
+    "end": 474.25,
+    "text": "You know missing out on any of the the key concepts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 474.7,
+    "end": 477.14,
+    "text": "We then obviously have footprint drills.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 477.14,
+    "end": 479.82,
+    "text": "Now this is quite a favourite of mine.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 479.82,
+    "end": 483.5,
+    "text": "For every one of the strategies there will be a drill-based session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 483.5,
+    "end": 485.56,
+    "text": "It'll be broken down into two drills.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 485.56,
+    "end": 488.18,
+    "text": "The first drill will be solely yourself.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 488.18,
+    "end": 490.38,
+    "text": "I'll be completely on mute.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 490.38,
+    "end": 494.82,
+    "text": "You'll be watching the video through trying to adopt and learn the strategy taught within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 494.82,
+    "end": 496.34,
+    "text": "the unit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 496.34,
+    "end": 500.18,
+    "text": "Once you've done with drill one and you've given it your best shot and tried to adopt",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 504.24,
+    "end": 508.12,
+    "text": "to be the execution show you the methodology and then hopefully you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 508.12,
+    "end": 512.24,
+    "text": "learn from it. Now the reason we've gone about it this way is and again don't be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 512.24,
+    "end": 515.4,
+    "text": "tempted to start on drill number two it might be frustrating going through",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 515.4,
+    "end": 519.32,
+    "text": "drill number one but I really really want you to you know spend time trying",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 519.32,
+    "end": 523.28,
+    "text": "to figure it out for yourself. The reason being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 521.87,
+    "end": 525.87,
+    "text": "Is you know human psychology when we figure out something for ourselves",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 526.51,
+    "end": 533.39,
+    "text": "We tend to hold that memory for a lot longer and we can also recollect that memory a lot easier in the future",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 533.39,
+    "end": 538.31,
+    "text": "So that's why I really don't want you to skip to drill to first try it on your own really battle through",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 538.39,
+    "end": 541.35,
+    "text": "Try and figure it out. Once you've sort of exhausted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 541.91,
+    "end": 547.19,
+    "text": "Yourself then go through the drill to which I will obviously mentor you through",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 547.63,
+    "end": 553.03,
+    "text": "Okay, then we're obviously going to have, through every one of the units 6-15, a little bit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 553.03,
+    "end": 554.67,
+    "text": "of psychology and motivation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 554.67,
+    "end": 560.39,
+    "text": "Now, I've picked some of the most important topic matters that I've spent time with,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 560.39,
+    "end": 563.51,
+    "text": "you know, learning and adopting throughout my career.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 563.51,
+    "end": 567.47,
+    "text": "You know, things like understanding liquidity, things like understanding, you know, what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 567.47,
+    "end": 570.31,
+    "text": "habits make really effective traders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 570.31,
+    "end": 575.43,
+    "text": "So throughout each one of those units 9, sorry, units 6-15, I'm going to share some",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 576.02,
+    "end": 579.98,
+    "text": "good psychology and really try and motivate you and give you a little bit of a better",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 579.98,
+    "end": 583.1,
+    "text": "understanding of some of the things I've learned throughout my career.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 583.57,
+    "end": 589.35,
+    "text": "Obviously then, also in units 6 to 15, I'm sharing some additional reading with you.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 589.35,
+    "end": 593.53,
+    "text": "This is like my top 10 reading list that I think every trader needs to read.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 593.53,
+    "end": 598.21,
+    "text": "I'm going to explain to you why I think they're important reads, how they relate to trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 598.21,
+    "end": 603.45,
+    "text": "obviously and hopefully you can then go and read those books and adopt some of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 607.01,
+    "end": 612.69,
+    "text": "And then obviously lastly throughout every single unit we've got the peer-to-peer learning function.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 612.69,
+    "end": 619.41,
+    "text": "This is the live chat function that you can talk and engage not just with a mentor but also with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 619.41,
+    "end": 623.81,
+    "text": "your peers whilst doing the course. It's so crucial guys. Remember you're going to learn",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 623.81,
+    "end": 628.21,
+    "text": "so much more from one another. You're going to get so many more examples from each other",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 628.21,
+    "end": 631.81,
+    "text": "if you're sharing your ideas, sharing your strategies with each other.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 632.4,
+    "end": 637.88,
+    "text": "That's predominantly how the course is broken down with its key features.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 637.88,
+    "end": 642.96,
+    "text": "As you can read, obviously, unit 6 to 15, each one is a strategy, there are 10 unique",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 642.96,
+    "end": 645.44,
+    "text": "strategies throughout the footprint course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 645.44,
+    "end": 650.12,
+    "text": "And once you've completed all 15 units, you can then move on to unit 16, the bonus",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 650.12,
+    "end": 651.12,
+    "text": "material.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 651.65,
+    "end": 657.73,
+    "text": "Obviously, once you get to unit 16, you can then go and view a debriefing, a strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 657.73,
+    "end": 662.57,
+    "text": "session of how I would take the tool at the end of the day, how I would go look for new",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 662.57,
+    "end": 667.53,
+    "text": "strategies and how I would apply my understanding to the Footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 667.53,
+    "end": 672.29,
+    "text": "And do note guys, this is exclusive material only, it will only be for the Footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 672.29,
+    "end": 673.29,
+    "text": "subscribers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 681.65,
+    "end": 687.11,
+    "text": "I adopted this habit whilst training for my Ironman earlier on in 2017.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 687.42,
+    "end": 691.48,
+    "text": "I'd always been one of those kind of guys that would just go out for a long run or get",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 691.48,
+    "end": 696.12,
+    "text": "on the bike for a long bike ride and eventually I'd experience things like burnout and just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 696.12,
+    "end": 701.34,
+    "text": "a lack of enthusiasm and motivation and you know I started taking a training program and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 701.34,
+    "end": 706.72,
+    "text": "all of a sudden the results, the consistencies, the motivation, everything just started improving",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 706.72,
+    "end": 712.18,
+    "text": "as a result of following some form of a plan and that's exactly what this 30 day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 717.1,
+    "end": 723.34,
+    "text": "Now, as you can see as per the calendar, I've broken it down into 5 weeks, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 723.34,
+    "end": 728.98,
+    "text": "Now within those 5 weeks, I've broken it down into 7 days a week, i.e. Monday to Sunday.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 728.98,
+    "end": 734.84,
+    "text": "Now what I propose you do is take the unit on the day that it has been allocated.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 736.53,
+    "end": 739.21,
+    "text": "Some days have been allocated to rest.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 739.21,
+    "end": 741.65,
+    "text": "Please make sure you take these rest days.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 741.65,
+    "end": 744.01,
+    "text": "Just like athletes have to take time off",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 744.01,
+    "end": 745.77,
+    "text": "and allow their bodies to recover,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 745.77,
+    "end": 747.29,
+    "text": "it's the same with trading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 747.29,
+    "end": 749.65,
+    "text": "You have to allow your mind to recover.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 749.65,
+    "end": 752.01,
+    "text": "You have to allow your mind to absorb the information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 752.01,
+    "end": 753.63,
+    "text": "it's taken in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 753.63,
+    "end": 756.45,
+    "text": "Also, after every strategy unit,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 756.45,
+    "end": 758.97,
+    "text": "I have allocated a day of practice.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 758.97,
+    "end": 759.81,
+    "text": "Now,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 759.38,
+    "end": 766.64,
+    "text": "These days of practice can be utilized for one of two things, one you can either play catch-up on maybe a unit that you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 766.98,
+    "end": 774.38,
+    "text": "haven't completed yet, or you can even go back over the strategy unit just to make sure you understand the strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 774.62,
+    "end": 780.7,
+    "text": "More importantly, though, if you do understand it, spend the entire hour or two just mulling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 780.7,
+    "end": 787.86,
+    "text": "over charts, looking for that strategy in a number of markets, utilise that trial of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 787.86,
+    "end": 793.24,
+    "text": "yours and make sure that you fully understand the strategy and can apply it to live market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 793.24,
+    "end": 795.02,
+    "text": "examples.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 795.95,
+    "end": 801.03,
+    "text": "What you will notice is that it's imperative that you only begin the trial of the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 801.03,
+    "end": 805.75,
+    "text": "chart on day 2, i.e. after you've completed unit 1.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 805.75,
+    "end": 811.55,
+    "text": "Note, the trial does end after 30 days, at which point you can continue your trial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 817.58,
+    "end": 824.38,
+    "text": "Also, do note, once that charting software trial finishes, Axia Futures will then give",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 824.38,
+    "end": 828.86,
+    "text": "you a one-month free subscription to our premium streaming service.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 828.86,
+    "end": 830.34,
+    "text": "The purpose of this is two-fold.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 830.34,
+    "end": 835.06,
+    "text": "Obviously, a lot of our streams do cover the footprint tool in action, where you'll",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 835.06,
+    "end": 840.18,
+    "text": "hear from numerous traders referencing the footprint tool, why they utilize it, where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 840.18,
+    "end": 844.62,
+    "text": "they utilize it, what sort of trade strategies you can look out for with the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 845.01,
+    "end": 852.31,
+    "text": "Secondary to that, obviously, if you join the Live Premier membership, you will also",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 852.31,
+    "end": 857.99,
+    "text": "then have access to the peer-to-peer community learning section and this is a chat room where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 857.99,
+    "end": 863.17,
+    "text": "you can engage with not just a mentor but also your fellow peers who are completing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 863.17,
+    "end": 869.01,
+    "text": "or who have completed the course and who are utilizing the tool on a day-to-day basis.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 869.55,
+    "end": 873.11,
+    "text": "So guys, just make sure, you know, take this challenge,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 873.11,
+    "end": 873.95,
+    "text": "don't skip ahead.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 873.95,
+    "end": 876.27,
+    "text": "Remember, the reason I set out this challenge",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 876.27,
+    "end": 879.23,
+    "text": "is so that you can avoid things like fatigue,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 879.23,
+    "end": 882.51,
+    "text": "avoid getting demotivated, avoid the stress",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 882.51,
+    "end": 884.99,
+    "text": "of thinking that this is a very complex tool",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 884.99,
+    "end": 891.96,
+    "text": "when in essence it's very, very simplistic.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 891.96,
+    "end": 893.8,
+    "text": "So hopefully the 30 day challenge has got you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 893.8,
+    "end": 895.52,
+    "text": "really excited about what's to come",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 895.52,
+    "end": 896.86,
+    "text": "in the Footprint course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 896.78,
+    "end": 903.78,
+    "text": "If it hasn't, then the outline of the 10 strategies you can expect to see ought to do the trick.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 903.78,
+    "end": 909.1,
+    "text": "So some of the strategies you can expect to see include both momentum as well as counter",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 909.1,
+    "end": 911.34,
+    "text": "trend strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 913.25,
+    "end": 920.05,
+    "text": "Not all traders are alike. Some traders don't like to necessarily go with the flow, some traders like to go against the flow.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 920.57,
+    "end": 926.37,
+    "text": "Equally, some traders like to be a little more passive in execution, whereas some traders like to be more aggressive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 926.73,
+    "end": 934.81,
+    "text": "So we've created 10 unique strategies that will include all sorts of strategies for a whole number of different types of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 935.09,
+    "end": 942.79,
+    "text": "traders. Now note, obviously, units 5 to 11 will include footprint standalone strategies only.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 943.12,
+    "end": 948.72,
+    "text": "What this simply means is that you only require the footprint tool to not just interpret but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 948.72,
+    "end": 952.44,
+    "text": "also execute these unique strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 952.44,
+    "end": 957.32,
+    "text": "The last four strategies in units 11 to 15, you will require not just the footprint tool",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 957.32,
+    "end": 960.4,
+    "text": "but also a little bit of context.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 960.4,
+    "end": 966.24,
+    "text": "This context we will build through utilizing candlestick charts as well as basic fundamental",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 971.26,
+    "end": 974.7,
+    "text": "Let's now briefly go through the trade strategy grid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 974.7,
+    "end": 978.3,
+    "text": "It's broken up into two basic elements.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 978.3,
+    "end": 982.62,
+    "text": "First will be momentum strategies and then counter trend strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 982.62,
+    "end": 987.18,
+    "text": "Now within the momentum and counter trend strategies, you will note that some of them",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 987.18,
+    "end": 995.14,
+    "text": "will require passive execution and some of them aggressive execution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 991.82,
+    "end": 997.42,
+    "text": "This simply means passive is where you're waiting for the market to come to you and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 997.42,
+    "end": 1003.86,
+    "text": "give you a certain price, whereas aggressive you have to go to the market and make the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1003.86,
+    "end": 1005.06,
+    "text": "market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1005.06,
+    "end": 1009.34,
+    "text": "Now, in terms of the momentum strategies, some of the footprint standalone strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1009.34,
+    "end": 1014.74,
+    "text": "you will see are absorption and auctioning, auction imbalances and the initiative drive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1015.01,
+    "end": 1020.41,
+    "text": "In terms of then the more contextual and footprint trade strategies on a momentum side, you will",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1020.41,
+    "end": 1025.17,
+    "text": "see the footprint delta and position unwind as well as breakout trading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1025.17,
+    "end": 1030.23,
+    "text": "In terms of counter trend strategies, the footprint standalone will include failed break",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1030.23,
+    "end": 1034.69,
+    "text": "of support and resistance, hiding behind the elephant as well as exhaustion highs",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1035.74,
+    "end": 1040.74,
+    "text": "And then in terms of counter-trend strategies that require context and footprint, there'll",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1040.74,
+    "end": 1046.14,
+    "text": "be risk event trading strategy as well as key auction reversal.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1046.14,
+    "end": 1049.78,
+    "text": "Those are the 10 types of strategies you can expect to see throughout the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1049.78,
+    "end": 1054.67,
+    "text": "course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1054.67,
+    "end": 1057.91,
+    "text": "So now that you know what the 10 strategies are that we're going to cover throughout",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1057.91,
+    "end": 1062.17,
+    "text": "the footprint course, I'm going to give you a little idea of what you can expect",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1067.82,
+    "end": 1075.18,
+    "text": "So what I've found through experience with particularly, you know mentoring a lot of younger traders is they have all the energy and all the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1075.18,
+    "end": 1080.44,
+    "text": "You know the willpower to want to succeed but they never have a very strong disciplined",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1081.04,
+    "end": 1088.22,
+    "text": "routine approach to analyzing and templating the markets and that's why we've developed the trade strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1088.56,
+    "end": 1090.69,
+    "text": "learning process loop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1090.61,
+    "end": 1097.49,
+    "text": "So this loop, very simply, is just a manner in which we can observe the markets in an exact",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1097.49,
+    "end": 1101.81,
+    "text": "manner to develop a consistent approach over time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1101.81,
+    "end": 1103.39,
+    "text": "So what do I mean by this?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1103.39,
+    "end": 1108.01,
+    "text": "So take for example, in unit 6, when we begin the strategy, we're going to start",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1108.01,
+    "end": 1110.69,
+    "text": "off by observing the strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1110.69,
+    "end": 1115.89,
+    "text": "By observing it, we're going to talk about things like time frame participants, market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1119.2,
+    "end": 1124.28,
+    "text": "These are all the sorts of characteristics that will allow you to observe when this trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1124.28,
+    "end": 1127.38,
+    "text": "strategy could potentially be in play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1127.38,
+    "end": 1132.02,
+    "text": "So once we've learned to observe the trade strategy, we're then going to learn to identify",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1132.02,
+    "end": 1135.34,
+    "text": "when that trade strategy is in play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1135.34,
+    "end": 1140.42,
+    "text": "Certain characteristics we're going to look at will include volume, time, flow, delta",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1140.42,
+    "end": 1142.54,
+    "text": "and relative change.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1142.54,
+    "end": 1147.52,
+    "text": "These characteristics are going to allow us to identify when the trade strategy is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1148.46,
+    "end": 1152.52,
+    "text": "And lastly, we're going to work on execution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1152.52,
+    "end": 1157.86,
+    "text": "So observing the trade strategy is important, identifying it is also important, but most",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1157.86,
+    "end": 1162.66,
+    "text": "important is learning to execute effectively and efficiently.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1162.66,
+    "end": 1166.54,
+    "text": "Now within this execution, we're going to spend time looking at the entry points as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1166.54,
+    "end": 1168.9,
+    "text": "well as timing of trade strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1168.9,
+    "end": 1172.2,
+    "text": "We're going to talk about where to place your stops, as well as where to place",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1173.3,
+    "end": 1177.04,
+    "text": "We're then going to also finish talking a little bit about risk-reward within each trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1177.04,
+    "end": 1183.92,
+    "text": "strategy and lastly how we can leverage these trade strategies to ultimately get big.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1183.92,
+    "end": 1188.8,
+    "text": "This loop you're going to find throughout the entire unit 6 to 15.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1188.8,
+    "end": 1193.04,
+    "text": "The reason being is that I want you to learn to develop not just a very strong",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1197.65,
+    "end": 1202.57,
+    "text": "By looking at the markets through a templated approach, you are going to learn to develop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1202.57,
+    "end": 1212.94,
+    "text": "a consistent approach whereby you can recognize patterns over time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1212.94,
+    "end": 1217.46,
+    "text": "So just like I've set out a 30-day challenge for every one of you taking the course,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1217.46,
+    "end": 1223.08,
+    "text": "I've also set out objective outcomes for me the mentor to achieve within each one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1223.08,
+    "end": 1225.06,
+    "text": "of the units.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1229.34,
+    "end": 1235.38,
+    "text": "I really want you to understand the principles within each unit that ultimately drives market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1235.38,
+    "end": 1236.66,
+    "text": "price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1236.66,
+    "end": 1241.38,
+    "text": "If you can fully understand and grasp these principles, you'll not only be able to execute",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1241.38,
+    "end": 1246.98,
+    "text": "the trade strategies within units 6-15, but you'll also be able to develop and adopt",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1246.98,
+    "end": 1250.5,
+    "text": "your own unique footprint trade strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1250.5,
+    "end": 1255.2,
+    "text": "The second outcome I'd really like to achieve within each one of the units is to teach",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1258.13,
+    "end": 1262.93,
+    "text": "Rather than take a biased or opinionated subjective approach to the markets,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1262.93,
+    "end": 1267.89,
+    "text": "I want you to learn to become very objective, drawing upon the fact-based information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1269.33,
+    "end": 1273.81,
+    "text": "that is within the market and ultimately learn to listen to what the market is saying.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1274.88,
+    "end": 1279.6,
+    "text": "The third outcome I'd like to achieve is for you to be able to practically apply",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1279.6,
+    "end": 1285.28,
+    "text": "each one of the trade strategies. The fourth outcome is I want you to be able to develop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1288.14,
+    "end": 1294.22,
+    "text": "Obviously, throughout units 6 to 15, you will adopt a template I've created for you.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1294.22,
+    "end": 1298.58,
+    "text": "But over the long run, I want you to adopt your own template that's personal to your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1298.58,
+    "end": 1301.07,
+    "text": "trade strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1301.07,
+    "end": 1305.99,
+    "text": "The fifth objective I really want you to focus on and really adopt is minimizing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1309.76,
+    "end": 1316.24,
+    "text": "The reason is simple. Every single successful trader I know or have come across all focus on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1316.24,
+    "end": 1322.54,
+    "text": "managing risk and becoming the perfect risk manager. The last outcome I really want you to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1322.54,
+    "end": 1328.78,
+    "text": "achieve and I really want you to understand is that you only need one trade strategy. You only",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1328.78,
+    "end": 1334.86,
+    "text": "need to be a master of one trade strategy to be not just extremely successful but also",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1337.23,
+    "end": 1345.07,
+    "text": "So remember guys. Skills are developed through time and experiences. Experience is the ultimate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1345.07,
+    "end": 1350.11,
+    "text": "teacher. I can teach you all the principles, all the strategies in the world, but at the end of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1350.11,
+    "end": 1355.95,
+    "text": "the day you are going to have to take your understanding and experience things for yourself",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1355.95,
+    "end": 1365.6,
+    "text": "and develop your own unique trade strategies. Over the next couple of slides I'm going to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1368.67,
+    "end": 1373.95,
+    "text": "We'll also look at the blackboard learning feature where I show you how the tool effectively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1373.95,
+    "end": 1379.87,
+    "text": "works as well as introduce a live market example so you can see the footprint tool in action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1380.8,
+    "end": 1384.08,
+    "text": "Now let's take a look at the brief history of the footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1385.01,
+    "end": 1390.29,
+    "text": "So originally back in the day, traditional pits used to have a squawk simply quoting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1390.29,
+    "end": 1392.13,
+    "text": "the volume traded at each price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1392.66,
+    "end": 1398.3,
+    "text": "Now, traditionally if you were to chart what was going on, you would simply just see the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1398.3,
+    "end": 1404.53,
+    "text": "high, the low, the open and the closing prices on any given day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1404.53,
+    "end": 1409.53,
+    "text": "So since 2003, the footprint tool became publicly available.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1409.53,
+    "end": 1414.53,
+    "text": "However, in my experience, the footprint tool by and large has only started to be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1421.36,
+    "end": 1427.3,
+    "text": "In terms of obviously what the footprint tool tells us, it effectively captures all the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1427.3,
+    "end": 1429.76,
+    "text": "actual activity at each price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1429.76,
+    "end": 1436.74,
+    "text": "So in essence, it's telling a story in much greater detail at each price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1436.74,
+    "end": 1441.22,
+    "text": "Sometimes I like to summarize it as the footprint is nothing other than the physical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1441.22,
+    "end": 1446.7,
+    "text": "interaction taking place between buyers and sellers over a number of prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1447.5,
+    "end": 1452.7,
+    "text": "In terms of my personal experience, I've been utilising the Footprint since pretty much",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1452.7,
+    "end": 1461.14,
+    "text": "2012-2013, which gives me roughly 5 years of personal experience utilising the Footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1461.14,
+    "end": 1461.54,
+    "text": "tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1462.03,
+    "end": 1467.43,
+    "text": "Now, the reason that we've kind of created this course is very simply, if you were to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1467.43,
+    "end": 1473.55,
+    "text": "go and type into Google or YouTube, anything about Footprint or how to utilize the tool,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1473.55,
+    "end": 1478.67,
+    "text": "what does the tool actually effectively do, it's very difficult to find any kind of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1478.67,
+    "end": 1484.43,
+    "text": "meaningful information and education on the Footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1484.43,
+    "end": 1486.71,
+    "text": "And that's why we've created the Footprint course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1487.6,
+    "end": 1492.4,
+    "text": "So, what we're going to do throughout this course, is we're going to teach you how to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1492.4,
+    "end": 1499.8,
+    "text": "effectively utilize the tool, also how to develop a contextual understanding, and lastly,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1499.8,
+    "end": 1505.8,
+    "text": "be able to not just execute the trade strategies we teach you, but also ultimately develop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1505.8,
+    "end": 1509.39,
+    "text": "your own unique trade strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1509.39,
+    "end": 1513.75,
+    "text": "Now in the next slide, we're going to take a look at why you should consider utilizing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1518.86,
+    "end": 1523.52,
+    "text": "We're going to spend the next slide talking about some of the most important reasons why",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1523.52,
+    "end": 1527.05,
+    "text": "you could consider adopting the footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1527.05,
+    "end": 1532.13,
+    "text": "To start off with, what you can see depicted in the slide is a traditional candlestick",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1537.95,
+    "end": 1543.75,
+    "text": "Now don't get too concerned about what effectively the Footprint implies in terms of the numbers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1543.75,
+    "end": 1544.87,
+    "text": "and the X's.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1544.87,
+    "end": 1550.09,
+    "text": "We will get onto that a little bit later in this unit and obviously later on in the course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1550.09,
+    "end": 1554.07,
+    "text": "But for now what I want you to understand is some of the basic reasons why we utilize",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1554.07,
+    "end": 1555.15,
+    "text": "the tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1559.7,
+    "end": 1565.62,
+    "text": "price and order flow in one single graphic. So within the single rotation you can see in the slide",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1565.62,
+    "end": 1571.14,
+    "text": "we can obviously see time, volume, price and order flow. Now if we're to compare that just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1571.14,
+    "end": 1576.58,
+    "text": "to a basic candlestick, the candlestick will offer obviously time as well. It will also",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1576.58,
+    "end": 1583.06,
+    "text": "offer volume but only total volume. So it won't offer volume at each price, just simply total",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1584.18,
+    "end": 1589.94,
+    "text": "It'll obviously also offer price, the candlestick, and it won't offer order flow either.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1589.94,
+    "end": 1594.62,
+    "text": "It'll simply show you the net result of buying and selling interactions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1594.62,
+    "end": 1600.92,
+    "text": "So we can already clearly see that the footprint adds two unique elements in order flow and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1600.92,
+    "end": 1605.2,
+    "text": "volume at each price over the traditional candlestick.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1607.18,
+    "end": 1612.22,
+    "text": "principle-based understanding and what we mean by that is, you know, you not only look at,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1612.22,
+    "end": 1616.46,
+    "text": "you know, where the market opened and closed and make big principle decisions on that,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1616.46,
+    "end": 1622.22,
+    "text": "but you can look at what is occurring at each individual price and understand the logic",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1622.22,
+    "end": 1627.26,
+    "text": "behind why price is doing what it's doing. The footprint leaves an informational trail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1627.5,
+    "end": 1632.42,
+    "text": "So, what we mean by that is that we can very often pick up where buyers and sellers are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1632.42,
+    "end": 1637.14,
+    "text": "positioning themselves, where their stops might be, whether or not those sellers and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1637.14,
+    "end": 1639.66,
+    "text": "buyers are aggressive or passive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1639.66,
+    "end": 1645.06,
+    "text": "This informational trail can be extremely valuable information when obviously charting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1645.06,
+    "end": 1646.06,
+    "text": "the markets.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1646.06,
+    "end": 1649.86,
+    "text": "The next reason why we utilise this tool is that we can actually develop a unique",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1649.86,
+    "end": 1650.86,
+    "text": "edge.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1650.51,
+    "end": 1656.75,
+    "text": "Why? Because we're moving away from the traditional high and low, open and close only",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1656.75,
+    "end": 1663.52,
+    "text": "features of a traditional candlestick. With a footprint tool, we can identify the interaction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1663.52,
+    "end": 1668.8,
+    "text": "and intentions between buying and selling participants as it gets imprinted within a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1669.97,
+    "end": 1675.43,
+    "text": "Note, with a footprint tool we can also see the aggressive and passive interaction, initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1675.43,
+    "end": 1680.39,
+    "text": "and responsive price action, the positioning as well as relative changes occurring at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1680.39,
+    "end": 1681.33,
+    "text": "each price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1681.65,
+    "end": 1688.01,
+    "text": "The footprint is a wonderfully strong visual graphic that summarizes a lot of information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1688.01,
+    "end": 1694.75,
+    "text": "in a very simple graphic and you know humans tend to recognize and remember colors a lot",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1694.75,
+    "end": 1700.45,
+    "text": "easier than numbers so by depicting it in colors we can see very clearly the information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1700.45,
+    "end": 1704.05,
+    "text": "a lot easier and make decisions a lot quicker.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1704.05,
+    "end": 1707.33,
+    "text": "Obviously with the footprint being a new tool relative to the candlestick there",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1711.26,
+    "end": 1716.14,
+    "text": "So each strategy you develop with the footprint, you're going to be using leading information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1716.14,
+    "end": 1721.66,
+    "text": "rather than the traditional lagging information. Also, the footprint will allow you exact",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1721.66,
+    "end": 1727.02,
+    "text": "manageable risk with each strategy. Also, you can define very specific,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1727.02,
+    "end": 1728.94,
+    "text": "unique strategies with the footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1729.33,
+    "end": 1734.65,
+    "text": "And lastly, one of the most important reasons why you want to consider utilizing the tool",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1734.65,
+    "end": 1742.17,
+    "text": "is that it can be utilized across all markets and all timeframes, making this a highly effective",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1742.17,
+    "end": 1744.45,
+    "text": "trading tool to consider.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1744.45,
+    "end": 1749.01,
+    "text": "Let's now go and have a little bit more of a detailed look as to what the breakdown",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1749.01,
+    "end": 1757.14,
+    "text": "of the footprint tool looks like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1757.14,
+    "end": 1760.62,
+    "text": "So now that you've got an understanding as to why exactly professional traders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1762.85,
+    "end": 1767.59,
+    "text": "Let's go and look a little bit deeper inside the tool so you can see the various elements",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1767.59,
+    "end": 1772.03,
+    "text": "of information that come out in one simple graphic.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1772.03,
+    "end": 1774.67,
+    "text": "So let's start with obviously price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1774.67,
+    "end": 1779.87,
+    "text": "Now what you can see in front of you is a number of footprint rotations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1785.73,
+    "end": 1793.09,
+    "text": "Now, note these rotations can obviously be based on time or they can be based on a certain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1793.09,
+    "end": 1795.81,
+    "text": "number of ticks within a rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1795.81,
+    "end": 1800.45,
+    "text": "Again, as we go through the tool in Unit 2, you'll understand a little bit more about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1804.98,
+    "end": 1809.88,
+    "text": "So the first thing to look at is obviously the footprint shows us what is occurring at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1809.88,
+    "end": 1810.88,
+    "text": "each price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1810.88,
+    "end": 1818.65,
+    "text": "Now on the right side of this graphic you can see how the prices are represented horizontally.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1818.65,
+    "end": 1822.49,
+    "text": "Second to that obviously we can see the volume within each price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1822.49,
+    "end": 1827.59,
+    "text": "Now not only can we see the total volume in the summary box below, but we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1827.59,
+    "end": 1833.97,
+    "text": "also see what is happening at every single price in terms of volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1832.66,
+    "end": 1838.86,
+    "text": "Now, traditionally a candlestick will simply just show us one rotation, the open, the close,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1838.86,
+    "end": 1840.66,
+    "text": "the high and the low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1840.66,
+    "end": 1846.74,
+    "text": "However, with a footprint we can see that every single price that the rotation is traded",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1846.74,
+    "end": 1852.82,
+    "text": "over, we can see what the volume transacted at every single price looks like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1852.82,
+    "end": 1856.06,
+    "text": "And that is defined with a simple two numbers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1860.5,
+    "end": 1866.18,
+    "text": "On the left side of the box, we can see what the sellers have sold at that price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1866.18,
+    "end": 1870.74,
+    "text": "On the right side, we can see what the buyers have bought at that price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1870.74,
+    "end": 1874.7,
+    "text": "The X in the middle simply differentiates between the two.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1874.7,
+    "end": 1879.94,
+    "text": "Now the net difference between what is on the left and the right is what we call",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1879.94,
+    "end": 1882.25,
+    "text": "the delta.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1882.25,
+    "end": 1885.61,
+    "text": "Now that delta is nothing more than the order flow.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1888.45,
+    "end": 1894.85,
+    "text": "who has ultimately traded more volume? Is it the buyer or is it the seller? And that gives us an",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1894.85,
+    "end": 1901.52,
+    "text": "understanding of the order flow occurring at each price. Now in terms of the delta, what we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1901.52,
+    "end": 1907.12,
+    "text": "sometimes want to look at over a series of rotations or time is the cumulative delta.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1908.32,
+    "end": 1914.08,
+    "text": "To summarise, that's simply the cumulative order flow. So it's the total delta that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1917.97,
+    "end": 1921.61,
+    "text": "That can be seen in the information box below.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1921.61,
+    "end": 1923.81,
+    "text": "The next element we look at is time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1923.81,
+    "end": 1928.17,
+    "text": "So again, like I mentioned, each one of these rotations can be time based.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1928.17,
+    "end": 1932.33,
+    "text": "They could be 5 minutes, they could be 30 minutes, they could be daily, or they can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1932.33,
+    "end": 1935.25,
+    "text": "be based on rotations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1935.25,
+    "end": 1939.09,
+    "text": "Now the next thing we look at is relative changes within a tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1939.09,
+    "end": 1943.09,
+    "text": "And this is where the tool is highly effective because we can see two types of relative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1943.9,
+    "end": 1949.34,
+    "text": "The first is with regards to the colour. Now note you'll see darker and lighter colours.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1949.34,
+    "end": 1955.98,
+    "text": "The darker colours simply represent higher amounts of volume being transacted at specific prices,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1955.98,
+    "end": 1959.98,
+    "text": "whereas the lighter volumes represent lower relative volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1960.62,
+    "end": 1964.94,
+    "text": "The second type of relative change we can see is in the summary box below.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1965.25,
+    "end": 1971.21,
+    "text": "We can see the relative change between volume, as well as delta, and obviously the net change",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1971.21,
+    "end": 1975.85,
+    "text": "in cumulative delta over a period of time or rotations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1975.85,
+    "end": 1980.37,
+    "text": "The last thing we can add to the footprint tool is other types of trading tools, such",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1980.37,
+    "end": 1988.25,
+    "text": "as volume weighted average price, market profiles, the 50% or the midpoint of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1988.25,
+    "end": 1993.31,
+    "text": "market, the high, the low, we can add a number of other traditional trading tools",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1994.7,
+    "end": 1998.7,
+    "text": "So this is an expansion now of the Footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 1998.7,
+    "end": 2002.86,
+    "text": "What we're going to do next is we're going to actually look at a blackboard example and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2002.86,
+    "end": 2008.74,
+    "text": "highlight all of these seven elements on a practical example utilizing the blackboard.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2016.85,
+    "end": 2019.91,
+    "text": "So welcome to the first of the Blackboard Learning Series.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2019.91,
+    "end": 2022.69,
+    "text": "This is going to be an overview of the Footprint Tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2022.69,
+    "end": 2027.89,
+    "text": "Now the first place to begin is to talk about the traditional candlestick.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2027.89,
+    "end": 2034.03,
+    "text": "So what you're effectively looking at here is the Footprint Tool in its entirety.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2034.53,
+    "end": 2040.69,
+    "text": "Within each one of these rotations I've included a traditional candlestick on the left side and the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2040.69,
+    "end": 2046.37,
+    "text": "reason is I want to really sort of drive home the differences between you know if you were looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2046.37,
+    "end": 2053.25,
+    "text": "at just traditional candlesticks versus if you incorporated the footprint tool. Now what we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2053.25,
+    "end": 2057.33,
+    "text": "see straight away obviously if we have the candlesticks there we can see the traditional",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2057.33,
+    "end": 2061.97,
+    "text": "open and close and obviously we can see the high and the low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2062.3,
+    "end": 2070.52,
+    "text": "However, what we cannot see is all this information in between, which is known as Delta, or volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2070.52,
+    "end": 2073.1,
+    "text": "at each price, or order flow.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2073.1,
+    "end": 2079.78,
+    "text": "Okay, so by simply not having the footprint, you are discounting, or you're losing out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2079.78,
+    "end": 2084.38,
+    "text": "on a whole host of information that exists to market participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2084.8,
+    "end": 2094.16,
+    "text": "Okay, so with that in mind, let's now let's drill into the footprint chart and look at all the various elements as we discussed in the previous slide so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2094.9,
+    "end": 2100.18,
+    "text": "The first things first, price. As we can see, price is being depicted on the right side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2100.18,
+    "end": 2106.06,
+    "text": "of our chart. Every one of these segments is occurring at one price. So this would be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2106.06,
+    "end": 2115.06,
+    "text": "price point 70, 71, 72, 73, etc, etc. So we can obviously see the footprint over a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2115.06,
+    "end": 2122.18,
+    "text": "number of prices. The next thing to look at and talk about is time. Now the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2122.45,
+    "end": 2126.29,
+    "text": "can be depicted in two different formats of time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2126.29,
+    "end": 2131.09,
+    "text": "The first is a typical traditional time based format",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2131.09,
+    "end": 2134.29,
+    "text": "where we could select say a five minute footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2134.29,
+    "end": 2137.99,
+    "text": "or a 30 minute footprint or a 60 minute footprint.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2137.99,
+    "end": 2140.91,
+    "text": "Simply, each one of these rotations",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2140.91,
+    "end": 2144.2,
+    "text": "will be based on the selected time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2144.2,
+    "end": 2146.16,
+    "text": "Now for those of you that are more swing type",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2146.16,
+    "end": 2147.8,
+    "text": "or longer term traders,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2147.8,
+    "end": 2149.48,
+    "text": "you can even create the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2149.48,
+    "end": 2151.84,
+    "text": "utilizing daily footprints.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2152.34,
+    "end": 2159.38,
+    "text": "What professional traders do look at is we do have a daily footprint so that we can determine what the net",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2159.78,
+    "end": 2165.32,
+    "text": "Positioning is what the net Delta is at the end of each set at the end of each session",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2165.96,
+    "end": 2172.74,
+    "text": "Okay, the other second type of rotation type we can have which is also time-based is simply a point-and-figure",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2173.52,
+    "end": 2179.04,
+    "text": "Now in this example, we can see a point-and-figure because we can see that the time is varying between",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2179.76,
+    "end": 2181.76,
+    "text": "between each rotation",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2181.38,
+    "end": 2187.13,
+    "text": "So each rotation in this example is simply based on a point and figure.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2187.13,
+    "end": 2192.37,
+    "text": "What this means is that every time the market moves, a certain number of prices in one or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2192.37,
+    "end": 2199.45,
+    "text": "the other direction, say seven prices up or down, it creates a new rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2199.45,
+    "end": 2204.61,
+    "text": "Now throughout this course we are going to talk about both volume, sorry, about time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2204.61,
+    "end": 2208.01,
+    "text": "based rotations as well as point and figure rotations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2210.64,
+    "end": 2216.04,
+    "text": "certain strategies like momentum-based strategies or flow-based strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2216.04,
+    "end": 2220.24,
+    "text": "tend to be better revealed utilizing a point-and-figure chart",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2220.24,
+    "end": 2224.52,
+    "text": "whereas more sort of you know relative type change strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2224.52,
+    "end": 2227.6,
+    "text": "and counter-type change strategies can be better seen",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2227.6,
+    "end": 2231.2,
+    "text": "utilizing a time-based rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2231.2,
+    "end": 2236.62,
+    "text": "Okay, now that we've spoken about rotations, let's turn our attention and talk about volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2237.25,
+    "end": 2241.37,
+    "text": "Now, there's two types of volume that you'll see on the footprint chart.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2241.37,
+    "end": 2246.88,
+    "text": "The first is the total volume within each rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2246.88,
+    "end": 2254.12,
+    "text": "The second is the total volume, or the volume being transacted at each segment of the footprint.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2254.12,
+    "end": 2261.28,
+    "text": "So let's take a look at this rotation now, and let's sort of magnify this specific rotation",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2265.5,
+    "end": 2272.86,
+    "text": "So, what we've got here is 782 times by 378.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2272.86,
+    "end": 2281.48,
+    "text": "Now all this represents on the left side we've simply got what the sellers have sold at price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2281.48,
+    "end": 2283.89,
+    "text": "point 74.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2292.85,
+    "end": 2301.55,
+    "text": "Now, the net difference between the two of 404 is simply regarded as the Delta.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2301.55,
+    "end": 2308.43,
+    "text": "So it's the net difference between the interaction between how much volume a seller has sold",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2308.43,
+    "end": 2311.45,
+    "text": "and how much volume a buyer has bought.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2311.45,
+    "end": 2317.5,
+    "text": "Now that net difference can be represented as a positive or a negative.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2321.34,
+    "end": 2328.32,
+    "text": "We tend to get a negative number and when there is more buying than selling we get a positive number",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2328.78,
+    "end": 2334.46,
+    "text": "So what you would see if for instance in this example is we would have minus",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2335.42,
+    "end": 2340.86,
+    "text": "404 in this current segment because there's more selling at this price than buying",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2342.12,
+    "end": 2344.12,
+    "text": "Okay now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2343.49,
+    "end": 2351.65,
+    "text": "What you'll see obviously is that over the course of a rotation we get a cumulative delta.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2353.44,
+    "end": 2361.36,
+    "text": "And that cumulative delta is shown to us in the second box of the summary statistics.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2361.36,
+    "end": 2366.48,
+    "text": "And we can see that the net cumulative delta within all these price points",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2367.22,
+    "end": 2374.5,
+    "text": "equates to minus 820 and what that's telling us is that there was more selling than buying",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2374.5,
+    "end": 2382.96,
+    "text": "in this entire rotation over price point 70 to 80. Now again that in its own doesn't mean much",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2382.96,
+    "end": 2388.88,
+    "text": "okay for now we're just looking at purely what every single piece of information on this chart",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2391.15,
+    "end": 2394.71,
+    "text": "So, the next thing then is to talk a little bit about order flow.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2394.71,
+    "end": 2402.43,
+    "text": "So, all that order flow is, is it's the manner or the interaction occurring at each price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2402.43,
+    "end": 2403.43,
+    "text": "Okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2403.43,
+    "end": 2408.71,
+    "text": "So, as a basic example, what we can see is that the order flow as the market came",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2415.89,
+    "end": 2420.69,
+    "text": "it navigated away from this point. So we can see the order flow is showing us that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2420.69,
+    "end": 2425.25,
+    "text": "there's some buying occurring at price point 65.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2425.25,
+    "end": 2429.65,
+    "text": "Now again order flow we will spend a lot of time talking about as we begin to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2429.65,
+    "end": 2436.54,
+    "text": "develop strategies in units 6 to 15.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2436.54,
+    "end": 2440.22,
+    "text": "Now as mentioned the cumulative delta is simply",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2441.82,
+    "end": 2448.06,
+    "text": "all the rotations put together in a chosen time frame. So what we mean by that is that simply put",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2448.06,
+    "end": 2456.05,
+    "text": "we can see that each rotation is giving us a delta. Now if you go and you work out the total",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2456.05,
+    "end": 2462.77,
+    "text": "of that delta over a period of time you are going to get the cumulative delta on the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2462.77,
+    "end": 2470.53,
+    "text": "And as you can see it's a running total of the delta throughout the session. You can then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2472.38,
+    "end": 2477.98,
+    "text": "throughout the session as mentioned earlier. Again, we can see the total volume within each",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2481.3,
+    "end": 2486.14,
+    "text": "Now where this total volume comes in handy is that the total volume allows us to draw",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2486.14,
+    "end": 2488.66,
+    "text": "upon certain relative changes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2488.66,
+    "end": 2494.62,
+    "text": "So what we can see if we compare for instance this rotation to the next rotation is we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2494.62,
+    "end": 2501.82,
+    "text": "can see that we went from 11,721 contracts all the way down to 4,752.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2501.82,
+    "end": 2509.18,
+    "text": "So a real relative drop off, almost a massive shift in the type of volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2510.9,
+    "end": 2516.78,
+    "text": "we nearly doubled and then we more than halved after in the next rotation okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2516.78,
+    "end": 2521.22,
+    "text": "so we can draw some really nice relative changes in terms of the volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2521.22,
+    "end": 2526.88,
+    "text": "now in terms of talking about color shading this is the real sort of crux",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2526.88,
+    "end": 2531.66,
+    "text": "this is the real sort of amazing incredible part about the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2531.66,
+    "end": 2536.26,
+    "text": "tool okay the reason being is that what the footprint tool does is it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2541.34,
+    "end": 2547.34,
+    "text": "Now, colors are wonderful because we can very quickly see these colors and make very fast",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2547.34,
+    "end": 2552.0,
+    "text": "decisions upon them, whereas if we were just trying to calculate the net change occurring",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2552.0,
+    "end": 2557.6,
+    "text": "at each price, that in its own wouldn't allow us to make effective quick decisions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2557.6,
+    "end": 2561.32,
+    "text": "So let's look again at these colors and let's now take the segment that we had",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2561.32,
+    "end": 2562.92,
+    "text": "from earlier.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2562.92,
+    "end": 2568.77,
+    "text": "So what we can see we spoke, we said there's a negative 404 delta.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2569.25,
+    "end": 2575.97,
+    "text": "When we have negative deltas occurring at a price, we will always get red colors.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2575.97,
+    "end": 2581.17,
+    "text": "When we have positive deltas, as we can see in this example, this will be positive 5,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2581.17,
+    "end": 2583.94,
+    "text": "we get blue deltas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2583.94,
+    "end": 2590.64,
+    "text": "So when the buyers, effectively, are trading more volume at a price than sellers, we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2590.64,
+    "end": 2595.58,
+    "text": "get a blue footprint segment.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2597.71,
+    "end": 2604.02,
+    "text": "selling more volume than the buyers at a segment, the color will be red. Now what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2604.02,
+    "end": 2607.64,
+    "text": "you can see is very quickly as you can straightaway see that the sellers were",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2607.64,
+    "end": 2610.88,
+    "text": "more, the sellers were more, the sellers were more, buyers more, buyers more, sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2610.88,
+    "end": 2614.76,
+    "text": "more, sellers more, sellers more, sellers more. So we can very quickly see who's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2614.76,
+    "end": 2620.46,
+    "text": "winning the net interaction over a number of prices. Now let's take it a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2620.46,
+    "end": 2623.44,
+    "text": "step further and this is again also where the footprint is very very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2628.05,
+    "end": 2632.01,
+    "text": "Okay, now as we'll talk a little bit about in unit two, you can obviously adjust these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2632.01,
+    "end": 2639.57,
+    "text": "shades, but for reference, we're only going to utilize six shades in this example.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2639.57,
+    "end": 2644.79,
+    "text": "So of those shades you get three shades of blue and three shades of red.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2644.79,
+    "end": 2649.69,
+    "text": "We're going to call those light shade, medium shade, and dark shade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2649.69,
+    "end": 2656.25,
+    "text": "Okay, now all the shade is telling us, it's showing us where the delta is higher",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2657.54,
+    "end": 2663.78,
+    "text": "relative to within the within the rotation so what we mean by that is if",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2663.78,
+    "end": 2669.4,
+    "text": "in this example there's a very high negative Delta as we said of minus",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2669.4,
+    "end": 2676.42,
+    "text": "404 now if we compare that to the lowest one and there's only minus 6 so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2676.42,
+    "end": 2683.22,
+    "text": "that the more negative the Delta is the darker the shade of red and the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2686.7,
+    "end": 2692.54,
+    "text": "And the same is for the buying, okay, so obviously with the buying we can see in this example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2692.54,
+    "end": 2698.08,
+    "text": "we can see positive 75, therefore it's blue because there's more buying volume than selling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2698.08,
+    "end": 2702.86,
+    "text": "at this price point, but then as we go a little bit higher we can see a slightly darker",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2702.86,
+    "end": 2703.86,
+    "text": "shade of blue.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2703.86,
+    "end": 2704.86,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2704.86,
+    "end": 2709.46,
+    "text": "Because the delta is obviously more positive as there is more buying interaction taking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2711.15,
+    "end": 2717.39,
+    "text": "and the darker shade of blue occurs where we have the highest positive delta at price point 80.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2718.11,
+    "end": 2724.27,
+    "text": "Okay, so to summarize, blue is when there's more positive delta or more buying interaction at each",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2724.27,
+    "end": 2729.87,
+    "text": "price, red is when there's more selling interaction at each price. The shades vary",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2729.87,
+    "end": 2735.07,
+    "text": "according to how much of an interaction, in other words, how positive the delta is or how",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2737.58,
+    "end": 2743.98,
+    "text": "Now, in terms of the next aspect what we can add onto this chart is we can obviously add",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2743.98,
+    "end": 2745.42,
+    "text": "traditional technical tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2745.42,
+    "end": 2750.3,
+    "text": "So we could very easily add a market profile onto the right side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2750.3,
+    "end": 2753.5,
+    "text": "We could have the volume weighted average price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2753.5,
+    "end": 2756.5,
+    "text": "We could have the Bollinger Bands.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2756.5,
+    "end": 2762.5,
+    "text": "We could have all sorts of trading tools onto this footprint tool, however, and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2763.94,
+    "end": 2770.58,
+    "text": "Be very, very careful in trying to add traditional trading tools to the footprint, and I'll tell",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2770.58,
+    "end": 2771.66,
+    "text": "you why.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2771.66,
+    "end": 2776.94,
+    "text": "The mistake a lot of traders make is that they're trying to take the information, i.e.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2776.94,
+    "end": 2781.42,
+    "text": "what's in front of you, and they're trying to add a number of different tools in hope",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2781.42,
+    "end": 2783.12,
+    "text": "that they can develop a strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2783.49,
+    "end": 2788.83,
+    "text": "Now, what I'll tell you is that the Footprint tool in its own, without any additional tools,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2788.83,
+    "end": 2793.21,
+    "text": "so we get rid of the Profile, we get rid of the Volume Weighted Average, we get rid of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2793.21,
+    "end": 2798.77,
+    "text": "the Bollinger Bands, this tool on its own, as a standalone tool, gives you more than",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2798.77,
+    "end": 2802.49,
+    "text": "enough information to make trading decisions on.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2802.69,
+    "end": 2809.21,
+    "text": "Remember guys, as a rule of thumb, take this from someone who's had to learn this lesson,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2809.21,
+    "end": 2815.37,
+    "text": "the hardware over the last couple of years, a trading tool is not a trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2815.37,
+    "end": 2824.45,
+    "text": "A trading tool is merely there to take the information and summarize it in a manner",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2824.45,
+    "end": 2830.05,
+    "text": "that you can execute based on a unique specific strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2831.25,
+    "end": 2839.25,
+    "text": "We're simply taking this information and we're putting it into a condensed summary so that we can make a decision.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2839.25,
+    "end": 2846.57,
+    "text": "We're not using the tool to make a decision, we're utilizing the summary to make our strategy based decision.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2846.57,
+    "end": 2851.57,
+    "text": "Okay, so don't fall trap to informational overload and remember guys, like I've said to you,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2854.22,
+    "end": 2861.42,
+    "text": "the settings very very standard, very specific. I'm not going to alter the tool very often and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2861.42,
+    "end": 2867.9,
+    "text": "very much. Why? Because I want to keep this simple so that you can develop a very consistent approach",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2880.43,
+    "end": 2885.87,
+    "text": "So I hope you enjoyed that example on the blackboard and hopefully that really gives",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2885.87,
+    "end": 2890.99,
+    "text": "you a good understanding now of exactly what the footprint tool incorporates relative to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2890.99,
+    "end": 2893.99,
+    "text": "say a traditional candlestick tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2893.99,
+    "end": 2899.27,
+    "text": "Now on the next slide we're going to talk about some of the key principles of a trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2903.38,
+    "end": 2909.08,
+    "text": "Now the reason I want to discuss this very early on in the course is that one of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2909.08,
+    "end": 2914.84,
+    "text": "biggest errors I see a lot of young and developing traders make is there's an over reliance on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2917.38,
+    "end": 2923.0,
+    "text": "Now, one of the key principles of a trading tool is that the tool is there to extract",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2923.0,
+    "end": 2924.96,
+    "text": "information in a meaningful way.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2924.96,
+    "end": 2929.32,
+    "text": "So like I showed you in the example on the blackboard, the footprint is merely taking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2929.32,
+    "end": 2935.52,
+    "text": "all the information available and it's putting it into a summarized version so that I as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2935.52,
+    "end": 2938.98,
+    "text": "a trader can make effective decisions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2939.54,
+    "end": 2945.54,
+    "text": "By that very nature, if it's summarizing all the information, it's effectively simplifying",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2945.54,
+    "end": 2951.9,
+    "text": "and reducing all the noise. The next thing that a trading tool is very effective for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2951.9,
+    "end": 2957.26,
+    "text": "is for creating various reference points or interaction points within the market. So",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2957.26,
+    "end": 2960.78,
+    "text": "the tool shows us simply where a market might have stopped,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2960.78,
+    "end": 2964.06,
+    "text": "where a market might have turned around, where there was aggressive buying,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2965.62,
+    "end": 2972.08,
+    "text": "So these interaction points we can lean on for future reference.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2972.08,
+    "end": 2977.42,
+    "text": "Trading tools also allow us to develop certain patterns.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2977.42,
+    "end": 2983.06,
+    "text": "Now note, make sure that you don't become too reliant on the trading tools for decision",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2983.06,
+    "end": 2984.06,
+    "text": "making.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2984.06,
+    "end": 2988.26,
+    "text": "The tool is simply there to summarise the information and you then need to develop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2993.84,
+    "end": 2997.6,
+    "text": "Now what we're going to talk about over the next couple of slides is we're really going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2997.6,
+    "end": 3002.12,
+    "text": "to drill down into this concept of lagging versus leading information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3002.12,
+    "end": 3007.48,
+    "text": "I'm going to show you across a number of different trading tools how the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3007.48,
+    "end": 3013.52,
+    "text": "is effectively very superior in a number of ways relative to some of the traditional",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3013.52,
+    "end": 3019.3,
+    "text": "tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3024.62,
+    "end": 3030.18,
+    "text": "Every single practical example within the trade strategy units, we're going to be utilizing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3030.18,
+    "end": 3032.7,
+    "text": "all three tools combined.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3032.7,
+    "end": 3034.7,
+    "text": "The reason is very simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3034.7,
+    "end": 3038.42,
+    "text": "The price ladder allows us to perfect execution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3038.42,
+    "end": 3043.22,
+    "text": "The market profile or candlestick allows us to develop context.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3043.22,
+    "end": 3049.46,
+    "text": "And the market footprint allows us to develop confidence in our execution, therefore we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3053.01,
+    "end": 3059.25,
+    "text": "All three of these tools together combined allow us a cross-pollination between tools",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3059.25,
+    "end": 3063.29,
+    "text": "so that we can make much better trading decisions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3063.29,
+    "end": 3067.53,
+    "text": "Now when we move on to the next slides, we're really going to highlight the differences",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3067.53,
+    "end": 3072.69,
+    "text": "between all the different tools so that you can see how it's not a case of necessarily",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3072.69,
+    "end": 3077.41,
+    "text": "being good at one tool, but being very good and have an understanding of all the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3084.66,
+    "end": 3088.8,
+    "text": "So what you have in front of you is 5 different trading tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3088.8,
+    "end": 3093.92,
+    "text": "Now I've put them from left to right in terms of lagging information versus leading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3093.92,
+    "end": 3094.92,
+    "text": "information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3094.92,
+    "end": 3099.92,
+    "text": "Now let's talk a little bit about this concept of lagging and leading information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3103.36,
+    "end": 3109.44,
+    "text": "utilize lagging information and summarize them, effectively they're taking information that the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3109.44,
+    "end": 3115.28,
+    "text": "market has already received. In other words, the information is no longer, not that it's not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3115.28,
+    "end": 3120.88,
+    "text": "important, but it's no longer leading information. Now the problem with lagging information is that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3120.88,
+    "end": 3127.41,
+    "text": "the market has already had time to absorb and act upon that information. So what we can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3131.04,
+    "end": 3135.41,
+    "text": "Next to that, we've got the market profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3135.41,
+    "end": 3142.27,
+    "text": "We then have the footprint chart, the price ladder, and then obviously the book map.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3142.27,
+    "end": 3147.67,
+    "text": "Now from left to right, the amount of lagging versus leading information varies, and this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3147.67,
+    "end": 3154.98,
+    "text": "is what we're going to discuss in the next slide.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3154.98,
+    "end": 3159.2,
+    "text": "Now before we move on and talk about some of the advantages and disadvantages of each",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3161.89,
+    "end": 3166.89,
+    "text": "It's not a case of simply one tool is better than the other.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3166.89,
+    "end": 3171.81,
+    "text": "Like I said in the previous slides, it's about understanding how you can utilise each",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3171.81,
+    "end": 3177.85,
+    "text": "tool to extract meaningful information to make effective decisions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3177.85,
+    "end": 3183.37,
+    "text": "Now what I want to highlight is that sometimes lagging information is important and sometimes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3186.34,
+    "end": 3190.54,
+    "text": "but that lagging information needs to correspond",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3190.54,
+    "end": 3193.92,
+    "text": "with the type of trade strategy we're trying to execute.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3193.92,
+    "end": 3196.24,
+    "text": "Let me illustrate with a basic example.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3196.24,
+    "end": 3200.28,
+    "text": "If we want to become very good breakout traders,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3200.28,
+    "end": 3203.04,
+    "text": "then lagging information is of no use to us.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3202.94,
+    "end": 3210.46,
+    "text": "Because lagging information, by the time we get that information, say via a close of a candle or say via a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3210.8,
+    "end": 3216.46,
+    "text": "moving average or whatever it may be, by the time we get that information, the market has already",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3216.9,
+    "end": 3219.86,
+    "text": "utilized that information and moved accordingly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3220.3,
+    "end": 3225.1,
+    "text": "So in the example of a breakout strategy, we want to utilize leading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3225.62,
+    "end": 3229.06,
+    "text": "type tools a lot more than lagging type tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3229.62,
+    "end": 3235.34,
+    "text": "That being said, if we're looking at specific turning points in the market, or key absorption",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3235.34,
+    "end": 3241.62,
+    "text": "points, in those instances, we don't want to use things like level 3 data from Bookmap,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3241.62,
+    "end": 3246.82,
+    "text": "or the price data, because in those instances, the information is too quick and it's too",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3246.82,
+    "end": 3250.82,
+    "text": "leading that it won't add value to our trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3251.1,
+    "end": 3256.06,
+    "text": "So the important thing to note is that it's about utilising a tool, whether it's lagging",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3256.06,
+    "end": 3261.88,
+    "text": "or leading information, and utilising it within the right trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3261.88,
+    "end": 3266.7,
+    "text": "And that's why, as we spoke about earlier in this unit, we highlighted the 10 different",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3266.7,
+    "end": 3271.36,
+    "text": "trade strategies and how we're going to effectively build those trade strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3277.01,
+    "end": 3280.17,
+    "text": "Now, before I get going with these next two slides,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3280.17,
+    "end": 3281.81,
+    "text": "where we talk a little bit about the strengths",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3281.81,
+    "end": 3285.01,
+    "text": "and the weaknesses of each trading tool,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3285.01,
+    "end": 3287.75,
+    "text": "I really, really want to drive home the idea that,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3287.75,
+    "end": 3291.89,
+    "text": "again, it's not about one tool being superior to the other,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3291.89,
+    "end": 3295.01,
+    "text": "but about having a cross-pollination between the tools",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3295.01,
+    "end": 3298.29,
+    "text": "and utilizing the tools within each strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3298.29,
+    "end": 3300.25,
+    "text": "where they can be most effective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3300.21,
+    "end": 3306.53,
+    "text": "For me as a trader, I utilize predominantly the market profile for context, the price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3306.53,
+    "end": 3313.17,
+    "text": "ladder for execution and the footprint for building confidence and perfecting timing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3313.74,
+    "end": 3317.46,
+    "text": "What I'm going to go through throughout this slide and the next is I'm going to start off",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3317.46,
+    "end": 3323.1,
+    "text": "and just, I just want to drill down the weaknesses of each one of the five trading tools we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3323.1,
+    "end": 3324.86,
+    "text": "spoke about earlier.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3324.86,
+    "end": 3328.38,
+    "text": "And I really want to highlight how the footprint, you know, it's almost like the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3328.38,
+    "end": 3333.54,
+    "text": "weaknesses of these tools are actually the strengths of the footprint and through this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3333.54,
+    "end": 3337.22,
+    "text": "what you're going to see is that, you know, the weaknesses of one tool will be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3340.11,
+    "end": 3345.43,
+    "text": "So, by that definition, if you're very good at, say, the footprint and the market profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3345.43,
+    "end": 3355.55,
+    "text": "and the price ladder, you have a really good overall arsenal of trading tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3356.18,
+    "end": 3361.14,
+    "text": "Now, the first tool I'm going to talk about is the most lagging, which is your traditional",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3361.14,
+    "end": 3362.14,
+    "text": "trading tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3362.14,
+    "end": 3366.78,
+    "text": "So, obviously, your candlesticks with your candlestick tools, like your Bollinger Bands",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3366.78,
+    "end": 3368.86,
+    "text": "and your moving averages, etc., etc.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3368.86,
+    "end": 3373.22,
+    "text": "Now, the weakness, the biggest weakness, is that the information is very, very stale",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3373.22,
+    "end": 3375.9,
+    "text": "and it's very lagging.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3375.9,
+    "end": 3383.46,
+    "text": "And most importantly, these traditional tools tend to ignore actual market flows.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3381.58,
+    "end": 3385.66,
+    "text": "In other words, like I was showing you earlier in the example when we drilled down the traditional",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3385.66,
+    "end": 3390.1,
+    "text": "candlestick, it's simply showing you the open, the close, the high and the low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3390.1,
+    "end": 3394.54,
+    "text": "It's not showing you any kind of flow or interaction going on between the buyers and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3394.54,
+    "end": 3395.98,
+    "text": "sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3395.98,
+    "end": 3400.34,
+    "text": "Now when we move on to the next tool being the market profile, some of the weaknesses",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3400.34,
+    "end": 3403.82,
+    "text": "in the market profile include that it can be highly subjective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3403.82,
+    "end": 3409.56,
+    "text": "So because it's all about shape and pattern recognition, it can be quite subjective",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3410.96,
+    "end": 3414.24,
+    "text": "Also, it's quite a lagging informational source.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3414.24,
+    "end": 3419.4,
+    "text": "In other words, as the profile is being developed, that information is obviously very lagging",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3419.4,
+    "end": 3424.7,
+    "text": "because we need to wait for the completion of that profile before we can start to talk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3424.7,
+    "end": 3429.0,
+    "text": "about principles around shape and pattern recognition.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3429.0,
+    "end": 3434.28,
+    "text": "Also, the market profile includes only price, time and volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3439.25,
+    "end": 3443.67,
+    "text": "Now we're gonna leave the footprint out at this stage and we're gonna talk about that on the next slide",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3443.67,
+    "end": 3449.31,
+    "text": "So the next is sort of trading tool which sort of almost tips the scale between lagging and leading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3449.31,
+    "end": 3456.35,
+    "text": "This is a more leading type trading tool its weaknesses can include that it can be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3456.67,
+    "end": 3461.29,
+    "text": "particularly fast. Okay, a lot of the time with all the noise going on around the ladder,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3461.29,
+    "end": 3467.35,
+    "text": "it can be way too fast to make any kind of a strong interpretation. Now, don't get me",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3467.35,
+    "end": 3473.15,
+    "text": "wrong, you can develop some extremely good trading strategies just utilizing the ladder,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3473.15,
+    "end": 3478.99,
+    "text": "the price ladder. But again, you know, that will be limited to things like velocity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3478.99,
+    "end": 3484.59,
+    "text": "trade strategies or very specific unique scalping trade strategies, as opposed to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3486.06,
+    "end": 3488.16,
+    "text": "decisions now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3487.66,
+    "end": 3492.66,
+    "text": "Obviously, there is a lot of noise that comes with the price ladder and a lot of spoofing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3492.66,
+    "end": 3495.82,
+    "text": "that occurs between all the computer programs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3495.82,
+    "end": 3501.42,
+    "text": "And again, the price ladder can be highly subjective in a sense, where one trader might",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3501.42,
+    "end": 3505.74,
+    "text": "say, oh, can you see all that buying, where another trader says, well, yeah, that's being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3505.74,
+    "end": 3506.74,
+    "text": "absorbed by sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3506.74,
+    "end": 3510.46,
+    "text": "So it can be a highly subjective trading tool as well.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3510.46,
+    "end": 3515.18,
+    "text": "And again, obviously, the price ladder, it only includes price and volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3517.26,
+    "end": 3522.74,
+    "text": "changes, it doesn't include any kind of snapshots or summarized version of what's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3522.74,
+    "end": 3527.48,
+    "text": "effectively occurring on the price ladder. And then lastly, you know, the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3527.48,
+    "end": 3534.42,
+    "text": "most leading trading tool which is like your level 3 data or your book map tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3533.46,
+    "end": 3538.94,
+    "text": "Okay, again, these are just a significant amount of noise, you're seeing every single little",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3538.94,
+    "end": 3543.6,
+    "text": "contract being traded by algorithms, there's a thousand and one different trade strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3543.6,
+    "end": 3551.72,
+    "text": "going through on this trading tool, so it can be very, very noisy and nigh on impossible",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3551.72,
+    "end": 3555.18,
+    "text": "to make effective discretionary type trading decisions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3555.3,
+    "end": 3561.22,
+    "text": "Obviously if you're an automated trader, then this will be a tool that you'll utilize effectively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3561.22,
+    "end": 3567.46,
+    "text": "because it's the information that corresponds to the type of strategy you're adopting.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3567.46,
+    "end": 3572.38,
+    "text": "And again, obviously note the type of strategies you can take on with highly leading information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3572.38,
+    "end": 3577.94,
+    "text": "are very unique, so they're very much scalping type trade strategies, they're not going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3583.44,
+    "end": 3591.2,
+    "text": "So those are the weaknesses that we find within both the lagging and leading tools, not including",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3591.2,
+    "end": 3592.2,
+    "text": "the footprint.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3592.2,
+    "end": 3595.64,
+    "text": "Now, we're going to move on to the footprint tool, and we're going to talk about this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3595.64,
+    "end": 3601.04,
+    "text": "footprint tool now in terms of its advantages, and you'll see how those advantages effectively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3608.3,
+    "end": 3611.14,
+    "text": "Now I really hope I'm not coming across very biased",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3611.14,
+    "end": 3613.54,
+    "text": "because that's not the purpose of these slides.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3613.54,
+    "end": 3617.04,
+    "text": "I think the most important aspect is again,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3617.04,
+    "end": 3621.18,
+    "text": "I want you to adopt a cross-pollination of the strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3621.18,
+    "end": 3624.18,
+    "text": "and what you're gonna see throughout unit six to 15",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3624.18,
+    "end": 3625.82,
+    "text": "is in every practical example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3625.82,
+    "end": 3627.66,
+    "text": "where we're applying the strategies,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3627.66,
+    "end": 3629.38,
+    "text": "I've not only included the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3629.38,
+    "end": 3632.28,
+    "text": "because I want you to be able to recognize",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3632.28,
+    "end": 3635.34,
+    "text": "the trade strategies with the tools that you understand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3637.9,
+    "end": 3643.18,
+    "text": "on the footprint and how the advantages within the footprint you know cover the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3643.18,
+    "end": 3648.54,
+    "text": "weaknesses within the trading tools you currently adopt. Okay so let's start off",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3648.54,
+    "end": 3652.26,
+    "text": "and talk about some of the weaknesses of the footprint tool because again it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3652.26,
+    "end": 3656.86,
+    "text": "important for the footprint definitely does have weaknesses and it's important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3656.86,
+    "end": 3661.3,
+    "text": "to understand those as well. So the first you know the first weakness is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3661.3,
+    "end": 3665.94,
+    "text": "that the footprint can create a lot of noise",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3664.58,
+    "end": 3666.58,
+    "text": "if you do not set it up correctly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3666.58,
+    "end": 3668.58,
+    "text": "And that's the purpose of the first five units.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3668.58,
+    "end": 3670.58,
+    "text": "I'm going to get you to set up the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3670.58,
+    "end": 3672.58,
+    "text": "in a very simplistic manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3672.58,
+    "end": 3674.58,
+    "text": "Also,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3674.58,
+    "end": 3676.58,
+    "text": "as I will warn you,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3676.58,
+    "end": 3678.58,
+    "text": "as we go through units two and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3678.58,
+    "end": 3680.58,
+    "text": "four and five, is that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3680.58,
+    "end": 3682.58,
+    "text": "don't change your settings too often.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3682.58,
+    "end": 3684.58,
+    "text": "When something's not working",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3684.58,
+    "end": 3686.58,
+    "text": "or you're not necessarily understanding the information,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3686.58,
+    "end": 3688.58,
+    "text": "don't look to change the tool",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3688.58,
+    "end": 3690.58,
+    "text": "just to see the information in a different manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3691.74,
+    "end": 3695.66,
+    "text": "There's a reason we set up the tool very simply it's because it can give us",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3696.06,
+    "end": 3702.66,
+    "text": "Effective information that we can make strong decisions upon so the first thing is then if you don't set up the tool correctly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3702.66,
+    "end": 3704.66,
+    "text": "It can be a lot of noise",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3704.3,
+    "end": 3710.06,
+    "text": "And then the second thing is that there are a multiple number of ways that you can set",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3710.06,
+    "end": 3711.06,
+    "text": "up the footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3711.06,
+    "end": 3715.42,
+    "text": "I mean, there's so much information coming in, there's so many numbers, you're seeing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3715.42,
+    "end": 3720.46,
+    "text": "effectively all the information, every single contract being transacted.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3720.46,
+    "end": 3726.7,
+    "text": "So there can be this feeling of overwhelming when you're looking at the footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3730.75,
+    "end": 3734.59,
+    "text": "Now the strengths of the footprint tool, and this is where I get very excited, and you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3734.59,
+    "end": 3739.53,
+    "text": "know, I must tell you that for me, you know, the footprint tool is a real breakthrough",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3739.53,
+    "end": 3743.45,
+    "text": "in my career because I always felt like I was missing something that could give me",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3743.45,
+    "end": 3748.33,
+    "text": "the confidence, you know, to execute my strategies with a little bit more leverage",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3748.33,
+    "end": 3752.73,
+    "text": "and it was ultimately the footprint tool that's given me that confidence.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3753.55,
+    "end": 3759.07,
+    "text": "And that confidence came because I was feeling like there were certain weaknesses I had with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3759.07,
+    "end": 3761.35,
+    "text": "the tools I was utilizing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3761.35,
+    "end": 3765.11,
+    "text": "And once I found the footprint, those weaknesses have now become covered.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3765.11,
+    "end": 3769.35,
+    "text": "So some of the strengths of the footprint tool, first and foremost, is that it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3771.06,
+    "end": 3775.7,
+    "text": "In other words, we're not utilising lagging information, why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3775.7,
+    "end": 3780.7,
+    "text": "Because as every contract is being bought and sold and we're seeing the physical interaction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3780.7,
+    "end": 3785.3,
+    "text": "between the buyers and sellers, that is as leading information as you can get.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3785.46,
+    "end": 3790.78,
+    "text": "In other words, when every buyer is buying, we can simply identify him buying, we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3790.78,
+    "end": 3796.9,
+    "text": "jump on the buying, and we can execute with the buying, rather than waiting for all that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3796.9,
+    "end": 3802.15,
+    "text": "buying to be represented by, say, a candlestick, and then we've missed the buy opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3802.15,
+    "end": 3806.99,
+    "text": "Then, the tool captures the most relevant information in one graphic.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3806.99,
+    "end": 3810.39,
+    "text": "And that's something that's very important, is that, like I said, one of the weaknesses",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3812.51,
+    "end": 3817.93,
+    "text": "But if you set it up correctly, the tool can really capture all that information in one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3817.93,
+    "end": 3819.29,
+    "text": "simple graphic.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3819.29,
+    "end": 3821.57,
+    "text": "And that graphic is simply color-coded.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3821.57,
+    "end": 3824.77,
+    "text": "So we have two colors, blue and red, and three different shades.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3824.77,
+    "end": 3830.53,
+    "text": "And all that information boils down to simply two colors and three different shades.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3830.53,
+    "end": 3831.61,
+    "text": "And that for me is unique.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3831.61,
+    "end": 3835.85,
+    "text": "It's a lot of information that is summarized in a very simplistic manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3841.1,
+    "end": 3844.18,
+    "text": "Delta, relative market changes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3844.18,
+    "end": 3850.1,
+    "text": "So it includes more information than any other tool that we've observed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3850.1,
+    "end": 3854.22,
+    "text": "Because of that reason, I'm very attractive to the trading tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3854.22,
+    "end": 3860.59,
+    "text": "Note, it's a relatively simple trading tool only if set up in such a manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3860.59,
+    "end": 3862.87,
+    "text": "Also, it's a relative indicator.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3862.87,
+    "end": 3867.11,
+    "text": "This is important as well because what you'll see when we get to units 6 to 15 is we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3867.11,
+    "end": 3871.07,
+    "text": "do develop trade strategies based on relative shifts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3871.6,
+    "end": 3878.48,
+    "text": "it does show us the relative changes in the volume, in the delta, in the velocity, in the volatility.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3879.28,
+    "end": 3884.96,
+    "text": "Then it shows us only the actual volume trade and this is where it trumps the price ladder",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3884.96,
+    "end": 3890.32,
+    "text": "quite significantly is that the price ladder can show us a lot of spoofing and a lot of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3891.12,
+    "end": 3896.56,
+    "text": "fake orders whereas the footprint only shows us exactly what is being transacted.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3897.42,
+    "end": 3903.34,
+    "text": "Note, it's an objective fact-based tool and this is particularly important, is that we're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3903.34,
+    "end": 3908.1,
+    "text": "not leaving the decisions on opinions or subjective information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3908.1,
+    "end": 3912.98,
+    "text": "We can see the buying coming into the market, we can identify a strategy around this buying",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3912.98,
+    "end": 3915.98,
+    "text": "and we can execute on fact-based information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3916.53,
+    "end": 3923.65,
+    "text": "Then, the footprint can be utilized as a stand-alone tool but also with other tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3923.65,
+    "end": 3928.09,
+    "text": "This is also fascinating because a lot of the time, for example, a price ladder of course",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3928.09,
+    "end": 3932.71,
+    "text": "it can be utilized on its own as well and with other tools, but there are certain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3932.71,
+    "end": 3938.11,
+    "text": "tools that on their own are less effective than when they are combined with other",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3938.11,
+    "end": 3939.11,
+    "text": "tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3941.89,
+    "end": 3948.29,
+    "text": "or in combination with other tools. It simply boils down to which trading strategy you're adopting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3948.29,
+    "end": 3954.75,
+    "text": "with the tool. And lastly and the most wonderful thing is that the footprint tool ultimately",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3954.75,
+    "end": 3960.75,
+    "text": "allows you to perfect your timing. Why? Let's say for instance you have a trade strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3960.75,
+    "end": 3966.75,
+    "text": "of a breakout and you're looking for a market to break above a previous important high. Now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3967.15,
+    "end": 3974.03,
+    "text": "You can perfect that timing simply by watching the interaction between the buyers and sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3974.03,
+    "end": 3979.39,
+    "text": "Not only can you see the interaction, but you can see the commitment and the initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3979.39,
+    "end": 3984.83,
+    "text": "and the response taken by other participants just utilizing the footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3985.78,
+    "end": 3992.18,
+    "text": "So ultimately that will give us a lot of confidence which ultimately allows us to leverage up.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3993.47,
+    "end": 3999.15,
+    "text": "I'm going to reiterate this one last time, it's not a case that the footprint is significantly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 3999.15,
+    "end": 4000.15,
+    "text": "better.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4000.15,
+    "end": 4005.75,
+    "text": "For me, it is a brilliant standalone tool, but it's an amazing great tool when combined",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4005.75,
+    "end": 4010.79,
+    "text": "with the price ladder as well as some of the lagging tools like the Marker Profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4011.97,
+    "end": 4015.61,
+    "text": "Now, in the next slide, we're going to move over and we're going to see the footprint",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4015.61,
+    "end": 4018.97,
+    "text": "in action, we're going to watch a video of it, and I'm going to talk you through the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4018.97,
+    "end": 4023.73,
+    "text": "basics of how it's rotating, and then you'll get an understanding of what it looks like",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4023.73,
+    "end": 4024.37,
+    "text": "in action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

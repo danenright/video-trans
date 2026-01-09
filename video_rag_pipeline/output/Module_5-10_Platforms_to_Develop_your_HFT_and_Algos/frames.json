@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_5-10_Platforms_to_Develop_your_HFT_and_Algos/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_5-10_Platforms_to_Develop_your_HFT_and_Algos/frames/scene_0000_mid.jpg",
+    "time": 110.02,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_5-10_Platforms_to_Develop_your_HFT_and_Algos/frames/scene_0000_end.jpg",
+    "time": 219.84,
+    "width": 1920,
+    "height": 1080
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0000_mid.jpg",
+    "time": 12.116282949616284,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0000_end.jpg",
+    "time": 24.03256589923257,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0001_start.jpg",
+    "time": 24.432565899232568,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0001_mid.jpg",
+    "time": 32.636803470136805,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0001_end.jpg",
+    "time": 40.84104104104104,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0002_start.jpg",
+    "time": 41.24104104104104,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0002_mid.jpg",
+    "time": 343.7812812812813,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0002_end.jpg",
+    "time": 646.3215215215215,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0003_start.jpg",
+    "time": 646.7215215215216,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0003_mid.jpg",
+    "time": 701.6391391391392,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_1-5/frames/scene_0003_end.jpg",
+    "time": 756.5567567567567,
+    "width": 1366,
+    "height": 768
+  }
+]

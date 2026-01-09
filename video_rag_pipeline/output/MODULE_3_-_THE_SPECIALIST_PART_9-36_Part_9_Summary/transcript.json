@@ -1,0 +1,514 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.32,
+    "text": "What we started talking about in part nine was we started with the composite profiles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.32,
+    "end": 13.8,
+    "text": "We said that a composite profile is nothing more than a volume profile created over a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.8,
+    "end": 15.36,
+    "text": "desired time frame.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.36,
+    "end": 22.44,
+    "text": "Now, we spoke about some of the time frames being anything from a 60 minute to a daily,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.54,
+    "end": 31.42,
+    "text": "and even sometimes on a fundamental",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.47,
+    "end": 38.55,
+    "text": "And we said that the reason we create these composite profiles is merely so that we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.55,
+    "end": 43.45,
+    "text": "extract various types of information out of the auction process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.45,
+    "end": 48.37,
+    "text": "Don't forget a composite profile is nothing more than a graphic depiction over a varying",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.37,
+    "end": 53.09,
+    "text": "time of what is physically taking place between buyers and sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.4,
+    "end": 63.84,
+    "text": "types of identifiers that we would get in the volume profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.84,
+    "end": 69.92,
+    "text": "These would include the low volume areas, the high volume areas, the tails, single",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.92,
+    "end": 73.0,
+    "text": "prints, et cetera, et cetera.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.0,
+    "end": 77.76,
+    "text": "We started off talking about the composite profile and how, more importantly, we use",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.71,
+    "end": 87.71,
+    "text": "We then moved on and spoke about volume as a key identifier and we said that volume is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 87.71,
+    "end": 93.39,
+    "text": "particularly important as it's a very strong measure of the degree of success of the auction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.39,
+    "end": 94.39,
+    "text": "process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.39,
+    "end": 99.71,
+    "text": "Now, as a general rule of thumb, it's not a hard fast rule, but ideally we want to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.82,
+    "end": 109.22,
+    "text": "Attracting a lot of business and high volume tends to mean a lot of business or new business",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.22,
+    "end": 114.98,
+    "text": "where low volume would sort of be an identifier of maybe a lot more.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.12,
+    "end": 116.12,
+    "text": "noise.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.12,
+    "end": 121.08,
+    "text": "Again, that was the key takeaway in terms of volume as a key identifier.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.08,
+    "end": 126.16,
+    "text": "Just make sure when talking about volume, you're interpreting, is it relatively high",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.16,
+    "end": 132.76,
+    "text": "volume showing potential new business and potential for momentum, or is it low volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.76,
+    "end": 140.28,
+    "text": "which is far more noise and far more likely to see mean reverting type strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.4,
+    "end": 149.88,
+    "text": "very little to us. So we spoke about the term of relative and relative change in volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.88,
+    "end": 156.96,
+    "text": "Now, understanding what is high and low volume is only good if you're comparing it to, say,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.96,
+    "end": 161.16,
+    "text": "the previous couple of minutes volume or the previous couple of days or hours. So",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.11,
+    "end": 172.13,
+    "text": "Some of the identifiers we spoke about with regards to volume were the volume value area,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.13,
+    "end": 178.91,
+    "text": "what size was the volume value area, what range of prices, where was it located, etc.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.91,
+    "end": 183.71,
+    "text": "We then also spoke about the volume at the various prices, and we said how if we had",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.71,
+    "end": 188.83,
+    "text": "low volume at the extremes, whether that's the low or the high, this would indicate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.29,
+    "end": 198.97,
+    "text": "If we had high volume at the extremes, that would be an anomaly, whereas if we had relatively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.97,
+    "end": 206.49,
+    "text": "low volume, that would be suggestive of quite a strong auction process off the extremes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.49,
+    "end": 211.65,
+    "text": "We then also spoke about the sudden shift and the sudden relative change in volume over",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.65,
+    "end": 216.67,
+    "text": "the period of the day and how this could be an indicator of potential momentum coming",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.67,
+    "end": 218.09,
+    "text": "into the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.5,
+    "end": 224.58,
+    "text": "We then moved on and spoke about the value area and the ways in which the previous day's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 224.58,
+    "end": 228.18,
+    "text": "value area corresponds to the current day's value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.18,
+    "end": 229.94,
+    "text": "We had four basic examples.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.94,
+    "end": 236.34,
+    "text": "The first one we spoke about was where the previous day's value area is well contained",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 236.34,
+    "end": 238.34,
+    "text": "within the current day's value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 244.82,
+    "end": 251.9,
+    "text": "We then said our second example was where we had a degree of overlap between the value",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.9,
+    "end": 252.9,
+    "text": "areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 252.9,
+    "end": 259.06,
+    "text": "For instance, day two's value area would have some sort of overlap with day one.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 259.06,
+    "end": 264.58,
+    "text": "Again we said this is a relatively balanced day type, and again showing us a lack of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.0,
+    "end": 273.88,
+    "text": "We then moved on to play three where we said we had no overlap in terms of value error",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.88,
+    "end": 278.54,
+    "text": "and we spoke about how this sort of a play again showed us a little bit more directional",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 278.54,
+    "end": 285.54,
+    "text": "conviction as well as a little bit more impetus to move the market one way or the other.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 285.9,
+    "end": 291.12,
+    "text": "We then moved on to the fourth type which was where we had a complete engulfing value",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 291.12,
+    "end": 297.94,
+    "text": "area where the day two session completely engulfed the day one value area and we spoke",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 297.94,
+    "end": 304.66,
+    "text": "about this showing us a sudden shift in volatility in the market and obviously creating various",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 304.66,
+    "end": 305.66,
+    "text": "types of opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 305.66,
+    "end": 311.66,
+    "text": "So those are the four examples of types of value area overlap that you can expect",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 314.1,
+    "end": 319.74,
+    "text": "We then moved on and spoke very briefly about high-volume areas and low-volume areas and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 319.74,
+    "end": 325.06,
+    "text": "how prices tend to attract and return to high-volume areas, whereas low-volume areas",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 325.06,
+    "end": 329.1,
+    "text": "almost show us a little bit of initiative in the market and there's a tendency for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 329.1,
+    "end": 333.58,
+    "text": "the market to want to move away from those areas until such a point that it begins",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 335.23,
+    "end": 341.49,
+    "text": "We then finished part nine with the beginning of our 11-part strategy development and we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 341.49,
+    "end": 347.65,
+    "text": "spoke about two very specific strategies in the Anomaly strategy series and that was the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 347.65,
+    "end": 353.69,
+    "text": "low volume area whereby we said if the market forms a low volume area we want to remain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 353.69,
+    "end": 358.91,
+    "text": "with the short-term sort of initiative taken, continue to stay with the short-term trend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 358.91,
+    "end": 363.55,
+    "text": "until the low volume area fills out at which point we almost want to look to play",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 364.53,
+    "end": 370.63,
+    "text": "way trade and our second example was the double distribution where we want to look to trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 370.63,
+    "end": 374.19,
+    "text": "the market between the two high volume areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

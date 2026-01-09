@@ -1,0 +1,514 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.56,
+    "text": "Hey guys, welcome back to part 7b, Blackboard Learning Series.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.56,
+    "end": 9.84,
+    "text": "What we're going to talk about is what we spoke about in the second half of part 7.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.84,
+    "end": 14.68,
+    "text": "We got some really, really exciting principles where we started off talking about some of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.68,
+    "end": 20.96,
+    "text": "the major control variables that you'll find within the auction process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.96,
+    "end": 27.4,
+    "text": "These control variables we broke down into strength and something that shows us almost",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.58,
+    "end": 37.52,
+    "text": "Then, we spoke about weak auction process signals that the market can show us sometimes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.52,
+    "end": 39.08,
+    "text": "in the auction process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.08,
+    "end": 41.0,
+    "text": "Some of those, let's go through them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.21,
+    "end": 50.01,
+    "text": "you know, variables, control variables, and the first was where the VPOC is located.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.01,
+    "end": 54.53,
+    "text": "We spoke about how, you know, we can have a VPOC shifting over a period of day as the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.53,
+    "end": 59.33,
+    "text": "market accepts higher and higher prices, and we spoke about how, as the market is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.33,
+    "end": 64.45,
+    "text": "moving up aggressively, if it's shifting, you know, that VPOC up with it or going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.69,
+    "end": 70.73,
+    "text": "We then also spoke about the closing price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.73,
+    "end": 72.85,
+    "text": "and where that price closes on the day,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.85,
+    "end": 75.73,
+    "text": "being significant for potential early direction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.73,
+    "end": 76.85,
+    "text": "the next day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.85,
+    "end": 79.77,
+    "text": "We spoke about the location of the value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.77,
+    "end": 82.49,
+    "text": "In other words, where are we trading today",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.49,
+    "end": 84.69,
+    "text": "based on yesterday we're trading in a value,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.69,
+    "end": 85.81,
+    "text": "outside a value.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.9,
+    "end": 89.46,
+    "text": "We spoke about range expansion.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.46,
+    "end": 92.98,
+    "text": "Does the market and the volume show us an expansion?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.98,
+    "end": 95.54,
+    "text": "Are we doing much bigger ranges in the previous day?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.54,
+    "end": 97.7,
+    "text": "Is there a lot more relative volume?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.7,
+    "end": 99.9,
+    "text": "Is volume generally high?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.9,
+    "end": 105.94,
+    "text": "All these types of factors show us a lot of control variable strength.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 111.63,
+    "end": 115.63,
+    "text": "Lastly, we spoke about tails.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.63,
+    "end": 122.03,
+    "text": "Those were some of the control variables that show strength in the markets and real sort",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.03,
+    "end": 127.75,
+    "text": "of almost bias toward either the upside in price or to the downside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.75,
+    "end": 133.47,
+    "text": "We then spoke about weak signals or weak control variables that the market sends",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.47,
+    "end": 134.47,
+    "text": "us.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.81,
+    "end": 143.45,
+    "text": "things that appear in the volume profile that almost go against what the principle",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.45,
+    "end": 144.73,
+    "text": "is.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.73,
+    "end": 145.97,
+    "text": "We spoke about that.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.97,
+    "end": 153.21,
+    "text": "We then spoke about bad highs and lows, whether they're a bad high with multiple TPO's or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.21,
+    "end": 157.55,
+    "text": "whether it's a bad high or low with a high amount of volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.54,
+    "end": 172.66,
+    "text": "the high of the day, but also we have a point of control being at the low of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.66,
+    "end": 176.58,
+    "text": "day. So something that you don't very often see where the market might spend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.58,
+    "end": 181.26,
+    "text": "a large amount of time at one side of the or at one price, but it transacts a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.26,
+    "end": 185.93,
+    "text": "high amount of volume at another price. We then also spoke about low",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.93,
+    "end": 189.81,
+    "text": "volume areas and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 188.45,
+    "end": 195.13,
+    "text": "We then also spoke about various other types of weak control variables.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.13,
+    "end": 201.25,
+    "text": "We summarized the two, but most importantly, we identified what strong and weak.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.46,
+    "end": 205.96,
+    "text": "control variables mean to us when we develop our strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.96,
+    "end": 212.0,
+    "text": "Don't forget, every one of these principles that I go through with you, I go through because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 212.0,
+    "end": 219.16,
+    "text": "it gives you just that little bit more understanding about the dynamic and context of the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.16,
+    "end": 225.52,
+    "text": "If you understand the principles, you can develop the most incredible trade strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.78,
+    "end": 234.9,
+    "text": "We then moved on and we spoke about high-volume areas, low-volume areas, and ledges.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.9,
+    "end": 239.72,
+    "text": "And very simply, I'm just going to illustrate them, a high-volume area within a profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.72,
+    "end": 246.78,
+    "text": "is where a market transacts a high amount of volume, a high amount of activity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.78,
+    "end": 252.82,
+    "text": "We then have equally a low-volume area where the market might transact and transact",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.69,
+    "end": 262.49,
+    "text": "And the last is where we have a ledge where the market is transacting but the manner in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 262.49,
+    "end": 269.53,
+    "text": "which it's auctioning it's forming almost a lack of impetus towards breaking above to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 269.53,
+    "end": 274.89,
+    "text": "the upside in this example or maybe even something along the lines of this where we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 274.89,
+    "end": 276.97,
+    "text": "have a ledge towards the downside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.97,
+    "end": 281.89,
+    "text": "Now those ledges can be both volume based or TPO based.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.98,
+    "end": 286.74,
+    "text": "The important thing to understand is that those ledges at some point will get broken",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.74,
+    "end": 293.02,
+    "text": "and there are a lot of stops that tend to be located in and above those ledges.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 293.02,
+    "end": 297.2,
+    "text": "So that's where we finished off part 7b.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 297.2,
+    "end": 301.66,
+    "text": "So that concludes the Blackboard Learning Series for part 7b.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 303.14,
+    "end": 311.42,
+    "text": "Part seven, now again, I cannot reiterate how important it is to spend a lot of time developing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 311.42,
+    "end": 317.88,
+    "text": "these principles, find these principles within the marketplace, apply these principles within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.88,
+    "end": 324.9,
+    "text": "the marketplace and develop your strategies based on these volume profile principles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 324.9,
+    "end": 327.98,
+    "text": "Good luck and we'll catch up again in part eight.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

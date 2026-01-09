@@ -1,0 +1,714 @@
+[
+  {
+    "start": 0.18,
+    "end": 5.06,
+    "text": "So you guys are halfway through part five now, let's have a quick little summary and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.06,
+    "end": 10.1,
+    "text": "just make sure that you fully understand the principles I've dealt with so far in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.1,
+    "end": 12.66,
+    "text": "beginning part of part five.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.66,
+    "end": 18.94,
+    "text": "So straight away remember we spoke a profile or a distribution is nothing more than a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.1,
+    "end": 32.32,
+    "text": "which should be on this axis and volume which should be depicted on this axis.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.32,
+    "end": 38.88,
+    "text": "Now remember price is an advertisement, time will regulate that advertisement and volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.88,
+    "end": 46.22,
+    "text": "will tell us how good is the market advertising at various prices and how are participants",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.22,
+    "end": 50.24,
+    "text": "accepting or rejecting based on what's being advertised.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.86,
+    "end": 58.72,
+    "text": "summary of what volume profiling is all about. Then we spoke about the price ladder and I",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.72,
+    "end": 63.72,
+    "text": "showed you the different elements of the price ladder. On the left side we had all our buyers,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.72,
+    "end": 69.74,
+    "text": "on the right side we had our sellers or offers and in the middle we had all our prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.74,
+    "end": 74.14,
+    "text": "Now the reason I showed you this is because I wanted to show you that whilst we talk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.14,
+    "end": 80.52,
+    "text": "about distributions being an auction process, equally when we execute we're executing based",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.78,
+    "end": 87.9,
+    "text": "In the middle here we have various prices, call it 1, 2, 3 and 4, and at every one of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 87.9,
+    "end": 94.1,
+    "text": "these prices we have got buyers and sellers wanting to transact with one another.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.1,
+    "end": 100.66,
+    "text": "Now how they transact with one another is a skill in order to learn to watch.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.33,
+    "end": 106.59,
+    "text": "Back in the day, if you were to have seen the people in the pits or people talking about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.59,
+    "end": 112.53,
+    "text": "reading the tape, reading the tape is nothing more than just interpreting and understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.53,
+    "end": 115.59,
+    "text": "how buyers and sellers are interacting.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.59,
+    "end": 116.97,
+    "text": "Are they aggressive?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.97,
+    "end": 118.21,
+    "text": "Are they passive?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.21,
+    "end": 122.83,
+    "text": "Are they buying some and then selling some, trying to just manage the position?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.83,
+    "end": 124.69,
+    "text": "How are they executing?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.69,
+    "end": 129.45,
+    "text": "And that is why we spoke very briefly about the price ladder.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.61,
+    "end": 136.65,
+    "text": "quite possibly one of the most important principles that you have in volume profiling and also",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.65,
+    "end": 138.49,
+    "text": "in the markets in general.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.49,
+    "end": 142.13,
+    "text": "That is initiative versus responsive price action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.13,
+    "end": 146.77,
+    "text": "Now I'm going to go through that again with you and show you how the two fit with one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.77,
+    "end": 147.77,
+    "text": "another.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.77,
+    "end": 150.09,
+    "text": "So initiative is where we see aggression.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.09,
+    "end": 156.33,
+    "text": "We see a large institution, a large time frame player, someone who can influence price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.33,
+    "end": 158.01,
+    "text": "executing a position.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.89,
+    "end": 164.77,
+    "text": "on the market. Now, depending on how much liquidity is in the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.77,
+    "end": 167.93,
+    "text": "is how the market will move in this example from",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.93,
+    "end": 171.33,
+    "text": "A to B. So if this is our initiative move",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.33,
+    "end": 176.09,
+    "text": "and there is very low liquidity, this buyer is going to have to look",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.09,
+    "end": 180.25,
+    "text": "very aggressive, not just on the profile but also on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.25,
+    "end": 183.25,
+    "text": "price ladder like we spoke about previously. Now,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.78,
+    "end": 188.94,
+    "text": "If, however, this buyer can find liquidity, it may look a little bit more jagged, a little",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 188.94,
+    "end": 190.14,
+    "text": "something like this.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 191.15,
+    "end": 196.15,
+    "text": "effectively we are still seeing the same thing which is initiative. Now there's a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.15,
+    "end": 200.55,
+    "text": "few key characteristics to identify initiative but the most important is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.55,
+    "end": 205.63,
+    "text": "that it's a momentum directional play. Now that means straight away any",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.63,
+    "end": 212.55,
+    "text": "strategies we ever execute in this type of price action we don't want to be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 212.55,
+    "end": 216.83,
+    "text": "going against it and that's the key is that when you develop your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.75,
+    "end": 225.09,
+    "text": "initiative type price response or in responsive type price response.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.09,
+    "end": 227.41,
+    "text": "So that was the initiative we spoke about.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.41,
+    "end": 229.93,
+    "text": "Then what we spoke about was responsive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.93,
+    "end": 235.53,
+    "text": "Now responsive is nothing more than players being brought into the game.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.53,
+    "end": 236.53,
+    "text": "So what do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.26,
+    "end": 245.42,
+    "text": "As these prices move higher up, what then happens is as price is advertised higher at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.42,
+    "end": 252.78,
+    "text": "this point, we see a responsive seller step into the market and sell it to the initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 252.78,
+    "end": 253.78,
+    "text": "buyer.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.78,
+    "end": 259.49,
+    "text": "However, once that responsive buyer stops responding to higher prices, the initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 259.49,
+    "end": 267.49,
+    "text": "buyer will then continue to buy the market up until he finds again responsive sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 267.68,
+    "end": 273.26,
+    "text": "so forth and so forth, initiative buying until we run into responsive sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.26,
+    "end": 279.3,
+    "text": "Now the degree of responsive selling is going to dictate how we move up.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 279.3,
+    "end": 282.06,
+    "text": "Little responsive selling and it will look aggressive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.06,
+    "end": 288.26,
+    "text": "A lot of responsive selling and it will look a lot less aggressive and more grindy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 288.26,
+    "end": 291.74,
+    "text": "So that's effectively what we were trying to point out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 292.46,
+    "end": 297.9,
+    "text": "In another example, if we were to just illustrate response of an initiative, is let's say the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 297.9,
+    "end": 301.3,
+    "text": "market was moving in a sideways type formation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 301.3,
+    "end": 308.02,
+    "text": "So the market was moving up and then it ran into effectively responsive selling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 308.02,
+    "end": 313.38,
+    "text": "We then saw sellers respond to higher prices, anyone who was buying the market then turns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 319.17,
+    "end": 323.69,
+    "text": "Once you run into responsive buying, anyone that was short on the way down will then take",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 323.69,
+    "end": 329.97,
+    "text": "profits and the market will look to continue to rotate until it runs into responsive selling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 329.97,
+    "end": 335.09,
+    "text": "Now I know this is a very basic illustration, but the important thing to interpret and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 335.09,
+    "end": 340.49,
+    "text": "differentiate when you look at the market, when you look at a volume profile, are we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 340.49,
+    "end": 344.85,
+    "text": "seeing initiative or are we seeing responsive?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 345.17,
+    "end": 352.01,
+    "text": "Identify this and you will be able to develop very, very strong trade strategies just trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 352.01,
+    "end": 356.37,
+    "text": "within the context of the current market conditions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 356.37,
+    "end": 360.61,
+    "text": "We then moved on and we started to talk about symmetry.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 370.29,
+    "end": 376.93,
+    "text": "And the key difference was that we have, in symmetry, we have just nice balanced type",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 376.93,
+    "end": 383.17,
+    "text": "markets, balanced distributions, whereas in non-symmetry, we had three types of non-balanced",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 383.17,
+    "end": 391.22,
+    "text": "type markets, which were trending markets, which were p-profiles, and which were ...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 391.6,
+    "end": 400.2,
+    "text": "B profiles, both long liquidation and short profit taking.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.2,
+    "end": 405.8,
+    "text": "So those are the key sort of symmetrical versus non-symmetrical type pattern plays.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 405.8,
+    "end": 412.4,
+    "text": "Now the reason we discuss that again is that remember, symmetrical markets or symmetrical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 414.29,
+    "end": 420.33,
+    "text": "one set of trade strategies that we can develop, whereas non-symmetrical will give us completely",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 420.33,
+    "end": 424.57,
+    "text": "different trade opportunities and strategies to use.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 424.85,
+    "end": 430.25,
+    "text": "So that's what we spoke about when we spoke with regard to symmetry and non-symmetry.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 430.25,
+    "end": 435.41,
+    "text": "We then finished off and spoke about the initial balance, which is the initial period",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.41,
+    "end": 438.85,
+    "text": "of trade before the cash market steps in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 438.85,
+    "end": 445.93,
+    "text": "And I showed you the various examples of the Bund, the E-Money S&P, the oil market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 452.05,
+    "end": 458.61,
+    "text": "B. We then also spoke about the few examples of how we would use the initial balance to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 458.61,
+    "end": 461.81,
+    "text": "develop various trade strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 461.81,
+    "end": 466.49,
+    "text": "So that's a wrap up of part five, I hope you've enjoyed the first half of this part",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 466.49,
+    "end": 467.49,
+    "text": "five.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 467.49,
+    "end": 471.13,
+    "text": "Let's now move on and get on with the rest of our part five.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

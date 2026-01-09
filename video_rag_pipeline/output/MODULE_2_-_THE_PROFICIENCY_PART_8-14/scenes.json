@@ -1,0 +1,37 @@
+[
+  {
+    "idx": 0,
+    "start": 0.0,
+    "end": 9.041666666666666,
+    "start_frame": 0,
+    "end_frame": 217
+  },
+  {
+    "idx": 1,
+    "start": 9.041666666666666,
+    "end": 22.958333333333332,
+    "start_frame": 217,
+    "end_frame": 551
+  },
+  {
+    "idx": 2,
+    "start": 22.958333333333332,
+    "end": 179.0,
+    "start_frame": 551,
+    "end_frame": 4296
+  },
+  {
+    "idx": 3,
+    "start": 179.0,
+    "end": 183.375,
+    "start_frame": 4296,
+    "end_frame": 4401
+  },
+  {
+    "idx": 4,
+    "start": 183.375,
+    "end": 188.375,
+    "start_frame": 4401,
+    "end_frame": 4521
+  }
+]

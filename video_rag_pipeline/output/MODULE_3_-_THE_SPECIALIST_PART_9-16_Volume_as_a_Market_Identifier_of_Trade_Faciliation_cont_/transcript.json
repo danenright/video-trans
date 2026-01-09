@@ -1,0 +1,418 @@
+[
+  {
+    "start": 0.91,
+    "end": 4.21,
+    "text": "We've spoken quite extensively about volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.21,
+    "end": 8.59,
+    "text": "We're now going to talk a little bit more about the volume value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.59,
+    "end": 15.11,
+    "text": "Remember this is the point where 70% of all the volume transacted on the day is situated",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.11,
+    "end": 16.87,
+    "text": "around the mean.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.87,
+    "end": 17.87,
+    "text": "So what is that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.87,
+    "end": 21.59,
+    "text": "Let's just look a little bit more closely at what the volume value area can show",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.59,
+    "end": 26.03,
+    "text": "us and then I'm going to show you a few examples and how you can utilize the value",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.77,
+    "end": 37.77,
+    "text": "So firstly, the volume value area shows where the majority of trade has been facilitated.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.77,
+    "end": 42.77,
+    "text": "So it shows us where the majority of the trade was transacted over a series of prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.77,
+    "end": 48.77,
+    "text": "Now, the open and close of the market relative to the value area is important to note.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.98,
+    "end": 53.68,
+    "text": "So, for instance, if the market accepts value at the lower bound of prices over a period",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 53.68,
+    "end": 58.7,
+    "text": "of a day, but closes on the high, that's telling us a lot about what occurred or the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.7,
+    "end": 62.42,
+    "text": "fight that went on during the day and who won the battle.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.42,
+    "end": 68.78,
+    "text": "Then, the value at a width provides clues to how trade is being facilitated, so again,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.14,
+    "end": 74.54,
+    "text": "Remember, it's all about the relative metric.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.54,
+    "end": 80.22,
+    "text": "So for instance, let's say currently, over a period of 10 days, the value area's range",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.22,
+    "end": 82.14,
+    "text": "is roughly 10 ticks.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.14,
+    "end": 88.06,
+    "text": "All of a sudden on day 11, we see a value area that does 25 ticks, so more than two",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.28,
+    "end": 95.24,
+    "text": "this tells us something about the market, this tells us something quite exciting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.24,
+    "end": 97.52,
+    "text": "about the market, it tells us the potential for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.52,
+    "end": 101.12,
+    "text": "you know a pick-up in volatility and remember when there's a pick-up in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.12,
+    "end": 102.04,
+    "text": "volatility",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.04,
+    "end": 105.4,
+    "text": "this equals opportunity. That's why we keep",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.4,
+    "end": 109.48,
+    "text": "you know this metric with us and that's why we can develop some unique",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.48,
+    "end": 110.32,
+    "text": "strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.32,
+    "end": 114.24,
+    "text": "just understanding the current range or the current average range",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.24,
+    "end": 115.24,
+    "text": "of the value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.73,
+    "end": 121.05,
+    "text": "Then, the current value area trade location relative to its previous value area, or the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.05,
+    "end": 127.05,
+    "text": "previous day's value area, shows a lot about the control of buyers and sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.05,
+    "end": 131.19,
+    "text": "We're going to talk a little bit more about this location of the value area as we go",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.19,
+    "end": 133.85,
+    "text": "through the coming slides.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.85,
+    "end": 139.81,
+    "text": "So the question to ask ultimately with today's value area versus yesterday's value area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.34,
+    "end": 151.7,
+    "text": "So the basic premise is that the more value area overlap, the more buyers and sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.7,
+    "end": 157.22,
+    "text": "are agreeing to the same fair value as the previous day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.22,
+    "end": 161.3,
+    "text": "If we have no overlap, it's telling us that buyers and sellers, whilst they transacted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.3,
+    "end": 166.3,
+    "text": "at one series of prices yesterday, they're now transacting and accepting fair value at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.16,
+    "end": 173.64,
+    "text": "This amount of overlap tells us a lot of information, it tells us a lot about the interaction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.64,
+    "end": 178.86,
+    "text": "between buyers and sellers and can give us vital clues about where price and value is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.86,
+    "end": 182.15,
+    "text": "likely to be accepted going forward.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.15,
+    "end": 187.15,
+    "text": "So some of the things you can look at is what percentage of volume overlap",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.3,
+    "end": 192.7,
+    "text": "with the previous value error, so if you see there's roughly 50% of today's value error",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.7,
+    "end": 198.1,
+    "text": "is within, or sorry, today's value error is contained within 50% of the previous day's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.1,
+    "end": 203.7,
+    "text": "value error versus maybe say 25 or 10%, that's telling us the degree or the relative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.7,
+    "end": 206.42,
+    "text": "change or degree of overlap.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.25,
+    "end": 211.75,
+    "text": "and then it's important to understand what percentage of trade is being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.75,
+    "end": 214.73,
+    "text": "facilitated above the previous day's value or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.73,
+    "end": 218.01,
+    "text": "what percentage of trade is being facilitated below",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.01,
+    "end": 222.61,
+    "text": "the previous day's value. Whilst these aren't necessarily that important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.61,
+    "end": 229.61,
+    "text": "they can provide us some with some very very technical clues.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.48,
+    "end": 232.32,
+    "text": "What I'm trying to get across to you is that just using the basic idea of a value area,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 232.32,
+    "end": 238.32,
+    "text": "you can already see, you can develop so many unique strategies just leaning on one element",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 238.32,
+    "end": 244.12,
+    "text": "or one principle being the value area within the entire volume profiling tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

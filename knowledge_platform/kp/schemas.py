@@ -24,6 +24,12 @@ class Concept(BaseModel):
     examples: list[str] = Field(default_factory=list)
     related_terms: list[str] = Field(default_factory=list)
     domain: str = Field(default="trading")
+    # Tool/data source this concept relates to
+    data_source: Literal[
+        "footprint", "dom", "volume_profile", "candlestick", "general"
+    ] = Field(default="general", description="Primary tool/data source for this concept")
+    # Source course for traceability
+    source_course: str = Field(default="", description="Course this was extracted from")
     importance: Literal["critical", "important", "secondary"] = "important"
     evidence: list[Evidence] = Field(default_factory=list)
     status: Literal["validated", "needs_review", "insufficient_evidence"] = "needs_review"
@@ -40,11 +46,22 @@ class Signal(BaseModel):
     name: str
     definition: str = Field(description="Operational logic for computing this signal")
     inputs: list[SignalInput] = Field(default_factory=list)
+    # Data source required to compute this signal
+    data_source: Literal[
+        "footprint", "dom", "volume_profile", "candlestick", "tick", "combined"
+    ] = Field(default="footprint", description="Primary data source for this signal")
+    # Tools that can detect this signal
+    tools_required: list[str] = Field(
+        default_factory=list,
+        description="Tools needed: footprint_chart, price_ladder, volume_profile, etc."
+    )
     computation_frequency: str = Field(default="per_bar")
     output_type: str = Field(default="float")
     thresholds: dict[str, float] = Field(default_factory=dict)
     edge_cases: list[str] = Field(default_factory=list)
     validation_tests: list[str] = Field(default_factory=list)
+    # Source course for traceability
+    source_course: str = Field(default="", description="Course this was extracted from")
     evidence: list[Evidence] = Field(default_factory=list)
     status: Literal["validated", "needs_review", "insufficient_evidence"] = "needs_review"
 
@@ -60,7 +77,18 @@ class Strategy(BaseModel):
     strategy_id: str
     name: str
     description: str
+    # Primary tool this strategy uses
+    primary_tool: Literal[
+        "footprint", "dom", "volume_profile", "combined"
+    ] = Field(default="footprint", description="Primary tool for executing this strategy")
+    # Source course for traceability
+    source_course: str = Field(default="", description="Course this was extracted from")
     market_scope: str = Field(default="TBD", description="Which markets this applies to")
+    # Specific instruments demonstrated in course examples
+    instruments_demonstrated: list[str] = Field(
+        default_factory=list,
+        description="Instruments used in examples: Oil, Gold, EUR, ES500, GBP, etc."
+    )
     timeframe_scope: str = Field(default="TBD", description="Which timeframes")
     prerequisites: list[str] = Field(default_factory=list, description="Required data feeds")
     setup_conditions: list[str] = Field(default_factory=list, description="Conditions before entry considered")
@@ -83,15 +111,55 @@ class RiskRule(BaseModel):
     rule_id: str
     name: str
     rule_type: Literal[
-        "daily_loss", "max_position", "volatility_halt", 
-        "time_filter", "correlation", "drawdown", "other"
+        "daily_loss", "max_position", "volatility_halt",
+        "time_filter", "correlation", "drawdown", "market_condition", "other"
     ]
     condition: str = Field(description="When this rule triggers")
     action: str = Field(description="What happens when triggered")
     severity: Literal["critical", "warning", "info"] = "warning"
+    # Which strategies/tools this rule applies to
+    applies_to: list[str] = Field(
+        default_factory=list,
+        description="Strategy IDs or tool names this rule applies to, empty = all"
+    )
     parameters: dict[str, Any] = Field(default_factory=dict)
+    # Source course for traceability
+    source_course: str = Field(default="", description="Course this was extracted from")
     evidence: list[Evidence] = Field(default_factory=list)
     status: Literal["validated", "needs_review", "insufficient_evidence"] = "needs_review"
+
+
+class CrossToolRelationship(BaseModel):
+    """
+    Links related concepts/signals across different tools/courses.
+
+    Example: Footprint Absorption ←→ DOM Absorption Events
+    """
+    relationship_id: str
+    name: str = Field(description="Name for this relationship, e.g., 'Absorption Cross-Tool'")
+    relationship_type: Literal[
+        "same_concept", "complementary", "alternative", "prerequisite"
+    ] = Field(description="How the artifacts relate to each other")
+    # Linked artifacts
+    artifact_ids: list[str] = Field(
+        description="IDs of related concepts/signals/strategies"
+    )
+    # Description of how they relate
+    description: str = Field(
+        default="",
+        description="How these artifacts work together or differ"
+    )
+    # Which tools are involved
+    tools_involved: list[str] = Field(
+        default_factory=list,
+        description="Tools: footprint, dom, volume_profile"
+    )
+    # Practical integration notes
+    integration_notes: str = Field(
+        default="",
+        description="How to use these together in an automated system"
+    )
+    evidence: list[Evidence] = Field(default_factory=list)
 
 
 class OpenQuestion(BaseModel):

@@ -1,0 +1,280 @@
+{
+  "video_id": "UNIT_1___The_Footprint_Tool_1-17",
+  "extraction_notes": "Unit 1 is introductory - covers concepts and tool overview, not specific trade setups. Strategy-specific knowledge will come from Units 6-15.",
+  "concepts": [
+    {
+      "name": "Footprint Tool",
+      "definition": "A trading tool that captures all actual activity at each price, showing the physical interaction between buyers and sellers over a number of prices. Publicly available since 2003, widely adopted since 2016-2017.",
+      "related_terms": ["footprint chart", "order flow chart"],
+      "quantifiable": true,
+      "data_source": "footprint",
+      "examples": ["Shows volume traded at each price within a rotation"],
+      "source_chunk_ids": ["chunk_9", "chunk_10"]
+    },
+    {
+      "name": "Delta",
+      "definition": "The net difference between buying volume and selling volume at a specific price. Positive delta = more buying, negative delta = more selling. Represents the order flow at each price.",
+      "related_terms": ["order flow", "net delta"],
+      "quantifiable": true,
+      "data_source": "footprint",
+      "examples": ["If sellers sold 500 and buyers bought 96 at a price, delta = -404"],
+      "source_chunk_ids": ["chunk_12", "chunk_15"]
+    },
+    {
+      "name": "Cumulative Delta",
+      "definition": "The total delta accumulated over a series of rotations or time period. Shows the cumulative order flow - whether buyers or sellers have traded more volume overall.",
+      "related_terms": ["cumulative order flow", "total delta"],
+      "quantifiable": true,
+      "data_source": "footprint",
+      "examples": ["Net cumulative delta of -820 means more selling than buying across all price points in the rotation"],
+      "source_chunk_ids": ["chunk_12", "chunk_15"]
+    },
+    {
+      "name": "Order Flow",
+      "definition": "The interaction between buyers and sellers at each price level. Shown by the delta - who has ultimately traded more volume, the buyer or the seller.",
+      "related_terms": ["delta", "buying/selling pressure"],
+      "quantifiable": true,
+      "data_source": "footprint",
+      "examples": [],
+      "source_chunk_ids": ["chunk_12", "chunk_15"]
+    },
+    {
+      "name": "Color Shading",
+      "definition": "Visual representation in footprint showing relative delta intensity within a rotation. Uses three shades of blue (buying dominant) and three shades of red (selling dominant) - light, medium, and dark shades indicate relative strength.",
+      "related_terms": ["heatmap", "delta shading"],
+      "quantifiable": true,
+      "data_source": "footprint",
+      "examples": ["Dark red = high negative delta (strong selling), dark blue = high positive delta (strong buying)"],
+      "source_chunk_ids": ["chunk_16", "chunk_17"]
+    },
+    {
+      "name": "Rotation",
+      "definition": "A single bar/candle on the footprint chart. Can be time-based (fixed time interval) or point-and-figure based (fixed price movement).",
+      "related_terms": ["bar", "candle", "segment"],
+      "quantifiable": true,
+      "data_source": "footprint",
+      "examples": ["Time-based: 5-minute rotation. Point-and-figure: new rotation every 7 price levels"],
+      "source_chunk_ids": ["chunk_14"]
+    },
+    {
+      "name": "Point-and-Figure Rotation",
+      "definition": "A rotation type where a new bar is created when the market moves a certain number of prices in one direction (e.g., 7 prices up or down). Time varies between rotations.",
+      "related_terms": ["range bars", "renko-style"],
+      "quantifiable": true,
+      "data_source": "footprint",
+      "examples": [],
+      "source_chunk_ids": ["chunk_14"]
+    },
+    {
+      "name": "Time-Based Rotation",
+      "definition": "A rotation type where a new bar is created at fixed time intervals (e.g., every 5 minutes). Standard candlestick timing approach.",
+      "related_terms": ["time bars", "standard candles"],
+      "quantifiable": true,
+      "data_source": "footprint",
+      "examples": [],
+      "source_chunk_ids": ["chunk_14"]
+    },
+    {
+      "name": "Total Volume",
+      "definition": "The total number of contracts traded within a rotation. Useful for identifying relative changes in activity between rotations.",
+      "related_terms": ["volume", "contracts traded"],
+      "quantifiable": true,
+      "data_source": "footprint",
+      "examples": ["Going from 11,721 contracts to 4,752 contracts shows a massive relative drop-off in volume"],
+      "source_chunk_ids": ["chunk_16"]
+    },
+    {
+      "name": "Leading Information",
+      "definition": "Real-time market data that hasn't yet been absorbed by the market. Footprint and price ladder provide leading information. Enables faster decision-making but requires specific strategies.",
+      "related_terms": ["real-time data", "live order flow"],
+      "quantifiable": false,
+      "data_source": "footprint, price ladder, book map",
+      "examples": [],
+      "source_chunk_ids": ["chunk_20", "chunk_21"]
+    },
+    {
+      "name": "Lagging Information",
+      "definition": "Historical market data that the market has already absorbed and acted upon. Candlesticks and market profile provide lagging information. Useful for context and pattern recognition.",
+      "related_terms": ["historical data", "delayed information"],
+      "quantifiable": false,
+      "data_source": "candlesticks, market profile",
+      "examples": [],
+      "source_chunk_ids": ["chunk_20", "chunk_21"]
+    },
+    {
+      "name": "Market Profile",
+      "definition": "A lagging trading tool focused on shape and pattern recognition. Shows price, time, and volume but can be subjective. Used primarily for market context.",
+      "related_terms": ["TPO chart", "volume profile"],
+      "quantifiable": true,
+      "data_source": "market profile",
+      "examples": [],
+      "source_chunk_ids": ["chunk_21", "chunk_22"]
+    },
+    {
+      "name": "Price Ladder (DOM)",
+      "definition": "A leading trading tool showing the order book. Fast-moving, shows pending orders but can include spoofing/fake orders. Useful for scalping strategies.",
+      "related_terms": ["DOM", "depth of market", "order book"],
+      "quantifiable": true,
+      "data_source": "price ladder",
+      "examples": [],
+      "source_chunk_ids": ["chunk_22", "chunk_23"]
+    }
+  ],
+  "principles": [
+    {
+      "name": "Simplicity Principle",
+      "statement": "The trader who approaches the market with the most simplistic approach will have the greatest outcomes.",
+      "condition": null,
+      "implication": "Keep strategies simple for more effective results",
+      "rationale": "Complexity introduces more failure points and decision fatigue",
+      "codifiable": false,
+      "confidence": "explicit",
+      "source_chunk_ids": ["chunk_2"]
+    },
+    {
+      "name": "Tool vs Strategy Distinction",
+      "statement": "A trading tool is not a trade strategy. A tool summarizes information; you use that summary to make strategy-based decisions.",
+      "condition": null,
+      "implication": "Don't let the tool make decisions; use it to inform your predefined strategy",
+      "rationale": "Tools provide data, strategies provide decision logic",
+      "codifiable": true,
+      "confidence": "explicit",
+      "source_chunk_ids": ["chunk_18"]
+    },
+    {
+      "name": "Fact-Based Trading",
+      "statement": "Rather than taking a biased or opinionated subjective approach, learn to become very objective, drawing upon fact-based information within the market.",
+      "condition": "When making trading decisions",
+      "implication": "Base decisions on observable market data (delta, volume, order flow) not opinions",
+      "rationale": "Objective data removes emotional bias and is codifiable for automation",
+      "codifiable": true,
+      "confidence": "explicit",
+      "source_chunk_ids": ["chunk_8", "chunk_25"]
+    },
+    {
+      "name": "Cross-Pollination of Tools",
+      "statement": "It's not about one tool being superior to the other, but about having a cross-pollination between tools and utilizing them where they can be most effective.",
+      "condition": "When selecting trading tools for a strategy",
+      "implication": "Use market profile for context, footprint/ladder for execution timing",
+      "rationale": "Different tools have different strengths (lagging vs leading information)",
+      "codifiable": true,
+      "confidence": "explicit",
+      "source_chunk_ids": ["chunk_21"]
+    },
+    {
+      "name": "Footprint Shows Only Actual Transactions",
+      "statement": "The footprint only shows exactly what is being transacted, unlike the price ladder which can show spoofing and fake orders.",
+      "condition": "When analyzing order flow",
+      "implication": "Footprint data is more reliable for detecting genuine buying/selling pressure",
+      "rationale": "Eliminates noise from fake orders that never execute",
+      "codifiable": true,
+      "confidence": "explicit",
+      "source_chunk_ids": ["chunk_25"]
+    }
+  ],
+  "procedures": [
+    {
+      "name": "Trade Strategy Learning Process Loop",
+      "purpose": "Develop a consistent, routine approach to analyzing and templating markets for each strategy",
+      "steps": [
+        "1. OBSERVE: Learn characteristics that indicate when a trade strategy could be in play (timeframe, participants, market conditions)",
+        "2. IDENTIFY: Learn to recognize when that trade strategy is actively in play",
+        "3. EXECUTE: Apply the strategy based on identification",
+        "4. TEMPLATE: Document and systematize the strategy for consistent application"
+      ],
+      "prerequisites": ["Complete theoretical understanding of the strategy"],
+      "outputs": ["Documented strategy template", "Consistent execution framework"],
+      "source_chunk_ids": ["chunk_7"]
+    },
+    {
+      "name": "Drill-Based Learning Process",
+      "purpose": "Reinforce strategy learning through active practice before seeing solutions",
+      "steps": [
+        "1. Complete the strategy theory unit",
+        "2. Attempt Drill 1 on your own (mentor on mute) - try to apply the strategy",
+        "3. Review Drill 2 with mentor guidance to see proper methodology",
+        "4. Compare your approach with the mentor's execution"
+      ],
+      "prerequisites": ["Completed strategy unit content"],
+      "outputs": ["Internalized strategy pattern recognition"],
+      "source_chunk_ids": ["chunk_3", "chunk_4"]
+    },
+    {
+      "name": "Course Progression Path",
+      "purpose": "Structure for learning footprint trading from theory to execution",
+      "steps": [
+        "1. Units 1-5: Learn theoretical principles and methodologies",
+        "2. Units 6-11: Footprint standalone strategies (footprint only required)",
+        "3. Units 12-15: Combined strategies (footprint + candlesticks + fundamentals)",
+        "4. Unit 16: Bonus material - debriefing and developing own strategies"
+      ],
+      "prerequisites": [],
+      "outputs": ["10 unique trade strategies", "Ability to develop own strategies"],
+      "source_chunk_ids": ["chunk_2", "chunk_6"]
+    }
+  ],
+  "gotchas": [
+    {
+      "name": "Information Overload",
+      "description": "The footprint tool shows every single contract being transacted, which can feel overwhelming. Too much information can paralyze decision-making.",
+      "trigger_condition": "When first learning to use the footprint tool",
+      "mitigation": "Start with simplified views, focus on color shading for quick pattern recognition, gradually add complexity",
+      "severity": "medium",
+      "source_chunk_ids": ["chunk_24"]
+    },
+    {
+      "name": "Tool-Driven Decision Making",
+      "description": "Falling into the trap of letting the trading tool make decisions rather than using it to inform a predefined strategy.",
+      "trigger_condition": "When relying too heavily on tool signals without a clear strategy",
+      "mitigation": "Always have a specific strategy; use the tool only to summarize information for that strategy's decision criteria",
+      "severity": "high",
+      "source_chunk_ids": ["chunk_18"]
+    },
+    {
+      "name": "Rushing Through Fundamentals",
+      "description": "Temptation to skip theoretical principles and jump straight to strategies. Without understanding principles, you cannot develop your own strategies.",
+      "trigger_condition": "During course progression",
+      "mitigation": "Take time to learn principles first; they enable independent strategy development",
+      "severity": "medium",
+      "source_chunk_ids": ["chunk_1", "chunk_2"]
+    },
+    {
+      "name": "Price Ladder Spoofing",
+      "description": "The price ladder can show spoofing and fake orders that never execute, giving false signals about market intent.",
+      "trigger_condition": "When using price ladder for order flow analysis",
+      "mitigation": "Use footprint to confirm actual transactions vs pending orders",
+      "severity": "medium",
+      "source_chunk_ids": ["chunk_25"]
+    }
+  ],
+  "setups": [],
+  "entry_criteria": [],
+  "exit_criteria": [],
+  "risk_parameters": [],
+  "market_contexts": [
+    {
+      "name": "Momentum/Flow Strategy Context",
+      "description": "Market conditions where momentum-based or flow-based strategies are most effective",
+      "detection": ["Strong directional volume", "Clear delta imbalances", "Trending price action"],
+      "strategies_enabled": ["Momentum strategies", "Flow-based strategies"],
+      "strategies_disabled": [],
+      "chart_recommendation": "Point-and-figure rotations better reveal these strategies",
+      "source_chunk_ids": ["chunk_14"]
+    },
+    {
+      "name": "Counter-Trend/Relative Change Context",
+      "description": "Market conditions where counter-trend and relative change strategies are most effective",
+      "detection": ["Relative shifts in volume between rotations", "Delta divergences", "Range-bound conditions"],
+      "strategies_enabled": ["Counter-trend strategies", "Relative change strategies"],
+      "strategies_disabled": [],
+      "chart_recommendation": "Time-based rotations better reveal these strategies",
+      "source_chunk_ids": ["chunk_14"]
+    }
+  ],
+  "summary": {
+    "unit_focus": "Introduction to Footprint tool - concepts, philosophy, and tool comparison",
+    "key_insight": "Footprint provides objective, fact-based information showing actual transactions (unlike price ladder spoofing). Best used as a leading information tool combined with market profile for context.",
+    "automation_relevance": "High - concepts like delta, cumulative delta, color shading, and relative volume changes are all quantifiable and programmatically detectable. The emphasis on objective, fact-based decisions aligns well with algorithmic trading.",
+    "missing_for_automation": "Specific trade setups, entry/exit criteria, and risk parameters - these come in Units 6-15"
+  }
+}

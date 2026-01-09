@@ -1,0 +1,498 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0000_mid.jpg",
+    "time": 14.1,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0000_end.jpg",
+    "time": 28.0,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0001_start.jpg",
+    "time": 28.4,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0001_mid.jpg",
+    "time": 142.9,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0001_end.jpg",
+    "time": 257.40000000000003,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0002_start.jpg",
+    "time": 257.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0002_mid.jpg",
+    "time": 401.3,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0002_end.jpg",
+    "time": 544.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0003_start.jpg",
+    "time": 545.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0003_mid.jpg",
+    "time": 883.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0003_end.jpg",
+    "time": 1221.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0004_start.jpg",
+    "time": 1221.6000000000001,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0004_mid.jpg",
+    "time": 1386.9,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0004_end.jpg",
+    "time": 1552.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0005_start.jpg",
+    "time": 1552.6000000000001,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0005_mid.jpg",
+    "time": 1703.85,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0005_end.jpg",
+    "time": 1855.1,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0006_start.jpg",
+    "time": 1855.5,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0006_mid.jpg",
+    "time": 1950.9499999999998,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0006_end.jpg",
+    "time": 2046.3999999999999,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0007_start.jpg",
+    "time": 2046.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0007_mid.jpg",
+    "time": 2116.6499999999996,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0007_end.jpg",
+    "time": 2186.5,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0008_start.jpg",
+    "time": 2186.8999999999996,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0008_mid.jpg",
+    "time": 2313.25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0008_end.jpg",
+    "time": 2439.6000000000004,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0009_start.jpg",
+    "time": 2440.0,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0009_mid.jpg",
+    "time": 2468.65,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0009_end.jpg",
+    "time": 2497.3,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0010_start.jpg",
+    "time": 2497.7,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0010_mid.jpg",
+    "time": 2516.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0010_end.jpg",
+    "time": 2535.9,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0011_start.jpg",
+    "time": 2536.2999999999997,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0011_mid.jpg",
+    "time": 2655.35,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0011_end.jpg",
+    "time": 2774.4,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0012_start.jpg",
+    "time": 2774.7999999999997,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0012_mid.jpg",
+    "time": 2870.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 12,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0012_end.jpg",
+    "time": 2966.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 13,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0013_start.jpg",
+    "time": 2967.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 13,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0013_mid.jpg",
+    "time": 3142.7,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 13,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0013_end.jpg",
+    "time": 3318.2000000000003,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 14,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0014_start.jpg",
+    "time": 3318.6,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 14,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0014_mid.jpg",
+    "time": 3446.8500000000004,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 14,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0014_end.jpg",
+    "time": 3575.1000000000004,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 15,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0015_start.jpg",
+    "time": 3575.5,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 15,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0015_mid.jpg",
+    "time": 3764.1000000000004,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 15,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0015_end.jpg",
+    "time": 3952.7000000000003,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 16,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0016_start.jpg",
+    "time": 3953.1,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 16,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0016_mid.jpg",
+    "time": 4031.3500000000004,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 16,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0016_end.jpg",
+    "time": 4109.6,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 17,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0017_start.jpg",
+    "time": 4110.0,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 17,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0017_mid.jpg",
+    "time": 4190.3,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 17,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0017_end.jpg",
+    "time": 4270.6,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 18,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0018_start.jpg",
+    "time": 4271.0,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 18,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0018_mid.jpg",
+    "time": 4326.25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 18,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0018_end.jpg",
+    "time": 4381.5,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 19,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0019_start.jpg",
+    "time": 4381.9,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 19,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0019_mid.jpg",
+    "time": 4392.4,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 19,
+    "kind": "end",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0019_end.jpg",
+    "time": 4402.900000000001,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 20,
+    "kind": "start",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0020_start.jpg",
+    "time": 4403.3,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 20,
+    "kind": "mid",
+    "path": "output/THE_KEY_FOOTPRINT_TRADING_PRINCIPLES___PART_A/frames/scene_0020_mid.jpg",
+    "time": 4440.450000000001,
+    "width": 1920,
+    "height": 1080
+  }
+]

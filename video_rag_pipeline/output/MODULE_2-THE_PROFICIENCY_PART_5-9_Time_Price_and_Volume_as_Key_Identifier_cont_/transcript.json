@@ -1,0 +1,330 @@
+[
+  {
+    "start": 0.98,
+    "end": 5.02,
+    "text": "Now what you have in front of you is something that's actually quite exciting to see.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.02,
+    "end": 6.02,
+    "text": "It's merely price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.14,
+    "end": 12.66,
+    "text": "volume and time being depicted. Again, this time not necessarily on a volume profile, but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.66,
+    "end": 17.58,
+    "text": "on what we call a price ladder. Now the reason I like to show people this is just to bring",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.58,
+    "end": 23.46,
+    "text": "you back to the basic elements of what markets are. It's merely just an auction. Now a lot",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.46,
+    "end": 27.86,
+    "text": "of you would have watched maybe a few YouTube videos of the old days when the pit guys",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.86,
+    "end": 33.38,
+    "text": "used to stand opposite each other and spit and shout and yell at each other and point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.04,
+    "end": 40.8,
+    "text": "what we have today is nothing more than a pit auction, it's just being represented",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.8,
+    "end": 46.24,
+    "text": "a little bit more differently on what we like to call a price ladder. So what you have in front",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.24,
+    "end": 52.08,
+    "text": "of you is that price ladder. As you can see on the left side we have a blue column. That blue",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.08,
+    "end": 57.76,
+    "text": "column depicts all the bids or all the buyers at various prices. So you can see the prices in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.34,
+    "end": 68.26,
+    "text": "There is a buyer representing a number of contracts. He wishes to buy at the the various prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.6,
+    "end": 75.5,
+    "text": "We then have on the red side the offers so the sellers so the prices at which sellers are willing to interact",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.06,
+    "end": 81.54,
+    "text": "We then have the high of the day which you can see is the highest try a traded price on the day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.03,
+    "end": 86.51,
+    "text": "We then have the volume profile. So again we spoke about how volume is one of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.51,
+    "end": 88.79,
+    "text": "crucial three pillars with price and time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.79,
+    "end": 92.87,
+    "text": "So what we can see is how volume is being distributed",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.87,
+    "end": 96.75,
+    "text": "over all the prices traded on the day. And again, note,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.75,
+    "end": 101.09,
+    "text": "we will talk about this volume dispersion and what it all means",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.09,
+    "end": 105.23,
+    "text": "not just in terms of interpretation but in terms of trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.23,
+    "end": 108.94,
+    "text": "Now note, as you can see, just an example,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.55,
+    "end": 116.03,
+    "text": "1607 lots are on the offer in this example. In other words, there is a seller at the price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.03,
+    "end": 124.47,
+    "text": "3079 that is willing to sell 1607 contracts. Now again, as prices move up and down and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.47,
+    "end": 128.83,
+    "text": "the volatility picks up and down and the volume picks up and down, this amount of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.65,
+    "end": 138.27,
+    "text": "We then have, obviously, what is physically traded through the market, so important to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.27,
+    "end": 139.27,
+    "text": "understand.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.27,
+    "end": 144.47,
+    "text": "A lot of the time, buyers and sellers might represent or show the market one thing, but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.47,
+    "end": 148.79,
+    "text": "when it actually comes to transacting and executing, they may do something very different.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.79,
+    "end": 154.39,
+    "text": "So, as you can see, that 6 represents the actual last trade, in other words, the last",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.39,
+    "end": 158.83,
+    "text": "traded amount of contracts that has gone through this market at any given point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.66,
+    "end": 163.3,
+    "text": "We then have the low of the day and then note the bid of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.34,
+    "end": 167.38,
+    "text": "3003 lots at the price 3069 again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.38,
+    "end": 174.88,
+    "text": "This is the price at which the buyer is willing or this is the amount of contracts at which the buyer is willing to buy at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.22,
+    "end": 182.9,
+    "text": "price study 69. So that's what a representation of price, time and volume looks like just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.9,
+    "end": 188.84,
+    "text": "on a price ladder. Now note, we will be talking a little bit more about developing or the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.61,
+    "end": 196.13,
+    "text": "because it's so important and it's crucial to understand that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.13,
+    "end": 200.29,
+    "text": "whilst volume profiling will give us an edge, it'll give us understanding and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.29,
+    "end": 201.41,
+    "text": "objectivity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.41,
+    "end": 205.21,
+    "text": "we still have to execute at the best price possible",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.21,
+    "end": 209.47,
+    "text": "and that is why we use a price ladder because it allows us to take advantage",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.47,
+    "end": 212.47,
+    "text": "of that exact concept of best price possible",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

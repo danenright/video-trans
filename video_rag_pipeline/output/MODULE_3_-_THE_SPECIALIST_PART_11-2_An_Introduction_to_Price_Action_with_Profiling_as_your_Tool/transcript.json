@@ -1,0 +1,490 @@
+[
+  {
+    "start": 0.88,
+    "end": 7.88,
+    "text": "Welcome back to part 11 guys and again I hope you really enjoyed those strategies we spoke about in part 10.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.88,
+    "end": 12.88,
+    "text": "I hope you're starting to understand now what it takes to develop unique trade strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.88,
+    "end": 17.88,
+    "text": "and what's required in order to develop real edge as we spoke about back in module 1.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.74,
+    "end": 22.52,
+    "text": "So what we're going to talk about now in part 11 is we're going to start off and I'm going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.52,
+    "end": 27.34,
+    "text": "to introduce you to the concept of price action and hopefully you can understand why",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.34,
+    "end": 32.54,
+    "text": "professional traders not only use volume profiles as their desired tool but why they",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.54,
+    "end": 36.86,
+    "text": "then execute using price action and price ladders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.86,
+    "end": 40.26,
+    "text": "So why do professional traders use price action?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.38,
+    "end": 48.48,
+    "text": "Now, traditionally the retail market would execute using things like CFDs and spread",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.48,
+    "end": 53.5,
+    "text": "markets and maybe even some futures markets, but you're always effectively playing some",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 53.5,
+    "end": 56.18,
+    "text": "form of spread or commission to the broker.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.18,
+    "end": 60.74,
+    "text": "Now as professional traders with access to the futures exchanges, we can effectively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.74,
+    "end": 63.93,
+    "text": "execute at the market price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.93,
+    "end": 68.37,
+    "text": "Straight away, this means we're no longer paying spread, and that's one of the most",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.37,
+    "end": 71.01,
+    "text": "important reasons why we execute at the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.3,
+    "end": 75.9,
+    "text": "Another very very important reason is for execution purposes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.9,
+    "end": 78.78,
+    "text": "Remember what I said, every single price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.78,
+    "end": 84.02,
+    "text": "and increment is crucial in trading. The difference between the price can mean so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.02,
+    "end": 85.5,
+    "text": "much in the big picture.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.5,
+    "end": 90.14,
+    "text": "Also when it comes to very specific trade strategies and you're executing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.14,
+    "end": 91.7,
+    "text": "with all sorts of algorithms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.7,
+    "end": 95.74,
+    "text": "as well as other professionals, speed is essential so we need to have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.74,
+    "end": 96.38,
+    "text": "access",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.38,
+    "end": 99.42,
+    "text": "to the actual market and more importantly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.14,
+    "end": 103.52,
+    "text": "very quickly and efficiently.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.52,
+    "end": 110.46,
+    "text": "These are some of the main reasons why we use price ladder as a desired tool for execution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.46,
+    "end": 115.9,
+    "text": "There are other reasons and those can be that you can develop very specific strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.9,
+    "end": 119.62,
+    "text": "just utilizing and watching the interaction between buyers and sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.3,
+    "end": 126.46,
+    "text": "As you'll see in the coming example, the price ladder effectively shows us the real volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.46,
+    "end": 129.66,
+    "text": "that buyers and sellers are transacting with one another.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.66,
+    "end": 135.42,
+    "text": "So by watching this real volume transacting, you can pick up on some early clues as to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.42,
+    "end": 141.74,
+    "text": "who's stronger, what the buyer's doing, whether he's stopping out or initiating new",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.74,
+    "end": 142.74,
+    "text": "business.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.33,
+    "end": 152.45,
+    "text": "the price ladder and ultimately this will allow you with your strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.45,
+    "end": 156.42,
+    "text": "to almost perfect what you're trying to achieve. Now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.42,
+    "end": 161.38,
+    "text": "price action is objective and factual just like volume profiling so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.38,
+    "end": 165.34,
+    "text": "like we said that you know we want to be as objective as possible in terms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.34,
+    "end": 166.3,
+    "text": "of our strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.3,
+    "end": 169.74,
+    "text": "we also you know that the price ladder is as objective as can be why",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.74,
+    "end": 170.38,
+    "text": "because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.38,
+    "end": 177.38,
+    "text": "what you see is what's physically occurring in the marketplace",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.34,
+    "end": 182.22,
+    "text": "Then, profiling is the idea, it's the strategy, it's the strategy you're trying to employ",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.22,
+    "end": 187.68,
+    "text": "into the market, but price action is the idea execution, it's how you actually physically",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.68,
+    "end": 189.68,
+    "text": "execute that strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.68,
+    "end": 193.58,
+    "text": "Remember if you're doing a strategy like for instance a breakout as we spoke about,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.58,
+    "end": 197.14,
+    "text": "it's absolutely essential which price you're entering the market at.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.14,
+    "end": 201.62,
+    "text": "This cannot be done with traditional means, this needs to be done with some form of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.74,
+    "end": 209.28,
+    "text": "Also, when you're watching the price ladder, you learn to develop what momentum looks like",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.28,
+    "end": 210.88,
+    "text": "between buyers and sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.88,
+    "end": 215.08,
+    "text": "You learn to develop intuition as to how the price is responding.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.08,
+    "end": 218.42,
+    "text": "In momentum strategies, the market's going to respond very, very differently on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.42,
+    "end": 223.92,
+    "text": "price ladder to say, reversal patterns, to say, just bracketing type markets.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.92,
+    "end": 229.05,
+    "text": "So all of this can be learned and taught using the price ladder.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.74,
+    "end": 234.48,
+    "text": "You should expect to see, in the example that we saw in the breakouts, we spoke about seeing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.48,
+    "end": 237.18,
+    "text": "a pickup in volatility and volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.18,
+    "end": 242.22,
+    "text": "This can be seen using the price ladder very very clearly and that is again another important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 242.22,
+    "end": 248.82,
+    "text": "reason why we use the price ladder whilst executing our volume profiling strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.82,
+    "end": 253.84,
+    "text": "These are just some of the reasons as to why we actually use both volume profiling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.07,
+    "end": 263.55,
+    "text": "Let's now go and look at an example of what a breakout strategy would look like in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.55,
+    "end": 267.35,
+    "text": "price ladder, and hopefully you'll get a better understanding of not just what the price ladder",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 267.35,
+    "end": 272.55,
+    "text": "looks like, but how we can actually execute on that price ladder to perfect our breakout",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0000_mid.jpg",
+    "time": 567.9666223500128,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0000_end.jpg",
+    "time": 1135.7332447000256,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0001_start.jpg",
+    "time": 1136.1332447000257,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0001_mid.jpg",
+    "time": 1233.0665704543503,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0001_end.jpg",
+    "time": 1329.999896208675,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0002_start.jpg",
+    "time": 1330.399896208675,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0002_mid.jpg",
+    "time": 1472.9665517357075,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0002_end.jpg",
+    "time": 1615.5332072627398,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0003_start.jpg",
+    "time": 1615.9332072627399,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0003_mid.jpg",
+    "time": 1734.433198000952,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0003_end.jpg",
+    "time": 1852.9331887391638,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0004_start.jpg",
+    "time": 1853.333188739164,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0004_mid.jpg",
+    "time": 1862.966521305233,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0004_end.jpg",
+    "time": 1872.5998538713025,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0005_start.jpg",
+    "time": 1872.9998538713025,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0005_mid.jpg",
+    "time": 3795.6997038334594,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0005_end.jpg",
+    "time": 5718.399553795616,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0006_start.jpg",
+    "time": 5718.799553795616,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0006_mid.jpg",
+    "time": 6802.599469214503,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0006_end.jpg",
+    "time": 7886.399384633391,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0007_start.jpg",
+    "time": 7886.79938463339,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0007_mid.jpg",
+    "time": 8215.332692316695,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/UNIT_11___Strategy_6_The_Initiative_Drive_6-15/frames/scene_0007_end.jpg",
+    "time": 8543.865999999998,
+    "width": 1366,
+    "height": 768
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0000_mid.jpg",
+    "time": 2.0416666666666665,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0000_end.jpg",
+    "time": 3.883333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0001_start.jpg",
+    "time": 4.283333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0001_mid.jpg",
+    "time": 33.395833333333336,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0001_end.jpg",
+    "time": 62.50833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0002_start.jpg",
+    "time": 62.90833333333334,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0002_mid.jpg",
+    "time": 129.25,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0002_end.jpg",
+    "time": 195.59166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0003_start.jpg",
+    "time": 195.99166666666665,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0003_mid.jpg",
+    "time": 215.89583333333331,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0003_end.jpg",
+    "time": 235.8,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0004_start.jpg",
+    "time": 236.2,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0004_mid.jpg",
+    "time": 237.77083333333331,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0004_end.jpg",
+    "time": 239.34166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0005_start.jpg",
+    "time": 239.74166666666665,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0005_mid.jpg",
+    "time": 265.2291666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0005_end.jpg",
+    "time": 290.7166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0006_start.jpg",
+    "time": 291.1166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0006_mid.jpg",
+    "time": 296.25,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0006_end.jpg",
+    "time": 301.3833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0007_start.jpg",
+    "time": 301.7833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0007_mid.jpg",
+    "time": 303.9583333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0007_end.jpg",
+    "time": 306.1333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0008_start.jpg",
+    "time": 306.5333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0008_mid.jpg",
+    "time": 310.8333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0008_end.jpg",
+    "time": 315.1333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0009_start.jpg",
+    "time": 315.5333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0009_mid.jpg",
+    "time": 331.0625,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0009_end.jpg",
+    "time": 346.5916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0010_start.jpg",
+    "time": 346.9916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0010_mid.jpg",
+    "time": 357.75,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0010_end.jpg",
+    "time": 368.5083333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0011_start.jpg",
+    "time": 368.9083333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0011_mid.jpg",
+    "time": 393.25,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0011_end.jpg",
+    "time": 417.5916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0012_start.jpg",
+    "time": 417.9916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0012_mid.jpg",
+    "time": 440.6666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 12,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0012_end.jpg",
+    "time": 463.3416666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 13,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0013_start.jpg",
+    "time": 463.7416666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 13,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0013_mid.jpg",
+    "time": 466.08333333333337,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 13,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-10_How_to_Setup_and_Use_your_free_Volume_Profile_Charts/frames/scene_0013_end.jpg",
+    "time": 468.425,
+    "width": 960,
+    "height": 528
+  }
+]

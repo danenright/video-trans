@@ -1,0 +1,18 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_12_Practical_Examples_1/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 720,
+    "height": 420
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_12_Practical_Examples_1/frames/scene_0000_mid.jpg",
+    "time": 147.57498306806636,
+    "width": 720,
+    "height": 420
+  }
+]

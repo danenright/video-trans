@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_9-26_High___Low_Volume_Areas_HVA_LVA__cont_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_9-26_High___Low_Volume_Areas_HVA_LVA__cont_/frames/scene_0000_mid.jpg",
+    "time": 121.72,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_9-26_High___Low_Volume_Areas_HVA_LVA__cont_/frames/scene_0000_end.jpg",
+    "time": 243.24,
+    "width": 1920,
+    "height": 1080
+  }
+]

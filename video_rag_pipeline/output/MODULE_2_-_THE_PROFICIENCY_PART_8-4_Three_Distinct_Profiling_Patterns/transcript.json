@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0.94,
+    "end": 6.6,
+    "text": "Now we've completed talking about the control variables, let's look at three very distinct",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.6,
+    "end": 11.42,
+    "text": "profiling patterns you can expect to see when looking at the volume profiles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.42,
+    "end": 17.34,
+    "text": "The first would be trending, the second would be short covering and the third long liquidation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.34,
+    "end": 21.38,
+    "text": "We're now going to go through each one of these individually, look at the characteristics",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.38,
+    "end": 25.62,
+    "text": "and then turn to the chalkboard so I can show you how to develop your strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

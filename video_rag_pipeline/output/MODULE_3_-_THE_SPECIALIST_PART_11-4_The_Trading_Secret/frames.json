@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_11-4_The_Trading_Secret/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_11-4_The_Trading_Secret/frames/scene_0000_mid.jpg",
+    "time": 73.3,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_11-4_The_Trading_Secret/frames/scene_0000_end.jpg",
+    "time": 146.4,
+    "width": 1920,
+    "height": 1080
+  }
+]

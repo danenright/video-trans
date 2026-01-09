@@ -1,0 +1,938 @@
+[
+  {
+    "start": 0.43,
+    "end": 5.11,
+    "text": "So, welcome back to the Blackboard Series Part 6b.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.11,
+    "end": 8.27,
+    "text": "Now what did we talk about in the early section of Part 6?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.27,
+    "end": 13.95,
+    "text": "Well, we started off talking about markets that open in balance and markets that open",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.26,
+    "end": 15.26,
+    "text": "out of balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.26,
+    "end": 19.58,
+    "text": "Now, the important thing to understand when talking about a market opening within balance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.58,
+    "end": 26.26,
+    "text": "or trading within balance and out of balance is what the implications mean for risk and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.26,
+    "end": 27.26,
+    "text": "reward.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.26,
+    "end": 33.58,
+    "text": "So, very basically, to depict the example, if we had that being our previous day's distribution",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.58,
+    "end": 38.66,
+    "text": "and this was our sort of, you know, our accepted area of volume or our, you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.14,
+    "end": 49.46,
+    "text": "If we open the next day somewhere within the previous day's accepted area where 70% of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.46,
+    "end": 53.18,
+    "text": "the volume is traded, that market is said to be in balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.06,
+    "end": 60.5,
+    "text": "imbalance with a previous day, there's a lot of acceptance between buyers and sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.5,
+    "end": 67.78,
+    "text": "at those prices and for that very reason, we have much lower risk attached to the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.78,
+    "end": 71.82,
+    "text": "aggressively moving in one direction or the other.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.82,
+    "end": 76.62,
+    "text": "Of course, this can change over a period of a session or a couple of sessions, but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.14,
+    "end": 88.46,
+    "text": "However, also remember with lower probability of risk, there's also lower probability of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.46,
+    "end": 89.46,
+    "text": "opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.46,
+    "end": 94.82,
+    "text": "In other words, we need to almost bide our time and be a lot more patient waiting for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.82,
+    "end": 96.94,
+    "text": "strategy to develop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.94,
+    "end": 98.42,
+    "text": "So that was our first example.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.42,
+    "end": 101.7,
+    "text": "We then turned our attention to markets that are out of balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.3,
+    "end": 108.78,
+    "text": "So if we open somewhere in the sort of, you know, the top quartile or somewhere in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.78,
+    "end": 113.82,
+    "text": "bottom quartile, that would be a market that is opening out of balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.82,
+    "end": 121.94,
+    "text": "Now again, the converse to imbalance is that a market out of balance shows a lot more volatility",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.94,
+    "end": 124.58,
+    "text": "as a result of being out of balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.58,
+    "end": 130.9,
+    "text": "This volatility implies that there's higher risk in taking trade setups, but equally",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.9,
+    "end": 133.74,
+    "text": "higher opportunity for opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.74,
+    "end": 135.78,
+    "text": "to take advantage of this opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.78,
+    "end": 137.78,
+    "text": "So again, it's important to understand,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.78,
+    "end": 140.22,
+    "text": "when we're in balance, that means lower risk,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.22,
+    "end": 142.38,
+    "text": "less opportunity, when we're out of balance,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.38,
+    "end": 144.02,
+    "text": "that means higher risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.05,
+    "end": 148.21,
+    "text": "but also higher or more opportunities to make money.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.21,
+    "end": 150.41,
+    "text": "So that is what we started off with.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.41,
+    "end": 152.01,
+    "text": "We then moved on and spoke about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.01,
+    "end": 155.09,
+    "text": "the four unique open trade patterns.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.09,
+    "end": 157.09,
+    "text": "I spoke about some of the characteristics",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.09,
+    "end": 159.85,
+    "text": "of these open patterns and the levels of confidence",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.85,
+    "end": 162.41,
+    "text": "they give you in the potential for opportunity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.41,
+    "end": 164.13,
+    "text": "over the course of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.13,
+    "end": 165.85,
+    "text": "Now what we're gonna quickly do",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.85,
+    "end": 168.13,
+    "text": "is I'm just gonna go over the four patterns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.13,
+    "end": 170.93,
+    "text": "with you again just to refresh your memory.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.83,
+    "end": 176.07,
+    "text": "The first one we had was an open drive which is also the most aggressive of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.07,
+    "end": 183.05,
+    "text": "patterns. So the market opens and it initiates in one direction and once the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.05,
+    "end": 190.05,
+    "text": "cash market comes in this initial what we call a tail gives us the strong",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.05,
+    "end": 195.37,
+    "text": "bias for prices to continue upward over the initial part of the session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.52,
+    "end": 198.76,
+    "text": "Most important, we said, that opening price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.76,
+    "end": 202.6,
+    "text": "becomes a key reference point for us in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 202.6,
+    "end": 205.76,
+    "text": "So that was our first most aggressive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.76,
+    "end": 208.28,
+    "text": "trade open pattern that we saw.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.28,
+    "end": 210.64,
+    "text": "Our next trade pattern that we saw",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.64,
+    "end": 212.54,
+    "text": "would be the open test drive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 212.54,
+    "end": 215.04,
+    "text": "So again, the market would open.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.04,
+    "end": 217.72,
+    "text": "It would then test a key reference point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 217.72,
+    "end": 220.68,
+    "text": "Now that reference point could be a low of day,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.68,
+    "end": 223.48,
+    "text": "it could be maybe a value area low,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.48,
+    "end": 225.68,
+    "text": "it could be a volume pointer control,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.68,
+    "end": 227.28,
+    "text": "it could be any number of things,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.28,
+    "end": 229.0,
+    "text": "it could be a low volume area,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.0,
+    "end": 233.12,
+    "text": "but merely it tests, it almost pokes to see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.12,
+    "end": 238.12,
+    "text": "is there going to be some sort of an initiative response",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 238.2,
+    "end": 240.76,
+    "text": "from buyers in this case.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.74,
+    "end": 246.46,
+    "text": "That's what it does and once it finds them or runs into that longer time frame, the marker",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.46,
+    "end": 251.94,
+    "text": "very aggressively catapults in the opposite direction and we get the initiative move.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.94,
+    "end": 256.78,
+    "text": "Again, the open test drive is quite an aggressive play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.78,
+    "end": 263.58,
+    "text": "We do tend to look for strategies that can be employed towards the upside so long",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.58,
+    "end": 267.14,
+    "text": "as this K-tail and this opening level remain.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 267.73,
+    "end": 275.29,
+    "text": "That was our second open type we could see in the markets the third open type was the open",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 275.85,
+    "end": 280.77,
+    "text": "Rejection reversal now this play type is a is similar to the open test drive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.77,
+    "end": 286.37,
+    "text": "But it really almost it can be quite a confusing player because the market will open",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.37,
+    "end": 289.33,
+    "text": "It will then move in one direction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.33,
+    "end": 293.17,
+    "text": "But it will look as though the early trend is toward the downside",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 293.73,
+    "end": 297.09,
+    "text": "But in effect what's occurring is the market is just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 297.33,
+    "end": 302.35,
+    "text": "trying to find where the liquidity is going to come from, where we're going to see some",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 302.35,
+    "end": 306.13,
+    "text": "very strong response of buying step into the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 306.13,
+    "end": 312.03,
+    "text": "And once it finds that response of buying, the market then turns around, retests that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.03,
+    "end": 317.03,
+    "text": "opening price, but more importantly catapults above the opening price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.15,
+    "end": 318.15,
+    "text": "price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 318.15,
+    "end": 322.51,
+    "text": "Now again, that low does form an important low in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 322.51,
+    "end": 329.83,
+    "text": "It is a point where we saw some very strong initiative being taken by some responsive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 329.83,
+    "end": 330.83,
+    "text": "buyers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 330.83,
+    "end": 335.87,
+    "text": "So that's our third open day type and our fourth is the open auction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.55,
+    "end": 340.19,
+    "text": "is probably the most boring of the four,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 340.19,
+    "end": 343.45,
+    "text": "and also represents maybe the least opportunity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 343.45,
+    "end": 347.25,
+    "text": "in the sense that there's no natural bias for direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 347.25,
+    "end": 350.13,
+    "text": "So the open auction is merely the market opens,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 350.13,
+    "end": 352.53,
+    "text": "it can auction up, it can auction down,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 352.53,
+    "end": 354.11,
+    "text": "it then goes up, it then goes down,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 354.11,
+    "end": 355.99,
+    "text": "and it merely just distributes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 355.99,
+    "end": 358.81,
+    "text": "in a balancing type opener.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 358.88,
+    "end": 365.2,
+    "text": "There's a high tendency to find this open in both balanced and imbalanced markets.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 365.2,
+    "end": 370.0,
+    "text": "The important thing is to identify early on, if the market's auctioning on both sides",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 370.0,
+    "end": 376.16,
+    "text": "of the open, there's a high likelihood of early balance, or let me rephrase, early",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 376.16,
+    "end": 379.04,
+    "text": "distribution in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 379.3,
+    "end": 382.34,
+    "text": "So those are the four types of opens we spoke about.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 382.34,
+    "end": 389.1,
+    "text": "We then discussed our three trade locations in the market in terms of where the previous",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 389.1,
+    "end": 392.12,
+    "text": "day's volume value area is.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 398.16,
+    "end": 402.56,
+    "text": "value area or volume value area. The first would be when we open",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 402.56,
+    "end": 405.82,
+    "text": "in balance, sorry the first would be when we open",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 405.82,
+    "end": 409.16,
+    "text": "in value, in range. So we open within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 409.16,
+    "end": 412.92,
+    "text": "the previous day's most accepted value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 412.92,
+    "end": 416.08,
+    "text": "The second would be if we open out of value",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 416.08,
+    "end": 419.4,
+    "text": "but still in range. So again we either open",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 419.4,
+    "end": 422.64,
+    "text": "below or above the value area low",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 422.64,
+    "end": 426.56,
+    "text": "and the value area high. Volume value area, volume value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 427.47,
+    "end": 432.39,
+    "text": "That would be where we still open in range but slightly out of balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 432.39,
+    "end": 436.75,
+    "text": "And the third, which is the most aggressive and the most significant, would be when we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 436.75,
+    "end": 440.87,
+    "text": "open out of value but also out of range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 440.87,
+    "end": 445.39,
+    "text": "So those are the three types of trade locations we spoke about.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 445.39,
+    "end": 451.39,
+    "text": "And we mentioned what the different trade locations imply for the potential for opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 451.52,
+    "end": 461.4,
+    "text": "Then, what we spoke about was some very, very strong strategies that you can employ when",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 461.4,
+    "end": 463.96,
+    "text": "you see gaps in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 463.96,
+    "end": 469.12,
+    "text": "Go over those examples again, go over the Blackboard Learning Series where we spoke",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 469.12,
+    "end": 475.0,
+    "text": "about gaps, develop those strategies for yourself so that you can understand and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 475.0,
+    "end": 479.94,
+    "text": "interpret and trade the gap days very effectively.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 481.01,
+    "end": 487.57,
+    "text": "part 6. Good luck with your playbook completion and we'll see you again in part 7.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_6-3_Bracketing_vs_Trending_cont_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_6-3_Bracketing_vs_Trending_cont_/frames/scene_0000_mid.jpg",
+    "time": 180.18,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_6-3_Bracketing_vs_Trending_cont_/frames/scene_0000_end.jpg",
+    "time": 360.16,
+    "width": 1920,
+    "height": 1080
+  }
+]

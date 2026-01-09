@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_7-5_Market_Auction_Excess__extremes__Gaps_Tails_Open_Tails_cont_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_7-5_Market_Auction_Excess__extremes__Gaps_Tails_Open_Tails_cont_/frames/scene_0000_mid.jpg",
+    "time": 50.82,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_7-5_Market_Auction_Excess__extremes__Gaps_Tails_Open_Tails_cont_/frames/scene_0000_end.jpg",
+    "time": 101.44,
+    "width": 1920,
+    "height": 1080
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_9-20_Volume_as_a_Market_Identifier_of_Trade_Faciliation_cont_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_9-20_Volume_as_a_Market_Identifier_of_Trade_Faciliation_cont_/frames/scene_0000_mid.jpg",
+    "time": 35.7,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_9-20_Volume_as_a_Market_Identifier_of_Trade_Faciliation_cont_/frames/scene_0000_end.jpg",
+    "time": 71.2,
+    "width": 1920,
+    "height": 1080
+  }
+]

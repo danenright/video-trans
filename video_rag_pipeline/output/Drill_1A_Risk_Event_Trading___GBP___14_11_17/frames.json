@@ -1,0 +1,18 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Drill_1A_Risk_Event_Trading___GBP___14_11_17/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Drill_1A_Risk_Event_Trading___GBP___14_11_17/frames/scene_0000_mid.jpg",
+    "time": 299.55,
+    "width": 1920,
+    "height": 1080
+  }
+]

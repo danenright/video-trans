@@ -1,0 +1,394 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.84,
+    "text": "The TTOCO order type lets traders enter two orders that are linked together.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.84,
+    "end": 8.96,
+    "text": "One of the orders is a limit order away from the market, and the other order is a stop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.96,
+    "end": 9.96,
+    "text": "order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.96,
+    "end": 13.56,
+    "text": "If one of the orders is filled, the other order is automatically canceled.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.56,
+    "end": 18.1,
+    "text": "Traders typically use the TTOCO to automate their exit strategy from an open position.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.1,
+    "end": 21.8,
+    "text": "The limit order is used to realize a profit at a predetermined level, and the stop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.8,
+    "end": 24.54,
+    "text": "order is used to limit the loss on the downside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.5,
+    "end": 33.26,
+    "text": "Let's use MDTrader to enter a TTOCO to close our position.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.26,
+    "end": 37.66,
+    "text": "From MDTrader, we select TTOCO from our order type drop-down menu.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.66,
+    "end": 41.74,
+    "text": "We are going to use a stop limit order for our stop and set pay up ticks to zero.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.3,
+    "end": 46.06,
+    "text": "With our parameters set, we need to select the price levels where our limit order and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.06,
+    "end": 49.82,
+    "text": "stop limit order will be placed. Though they can be placed in either order,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.82,
+    "end": 53.58,
+    "text": "we will first submit our limit order. We can see that the price level where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 53.58,
+    "end": 55.9,
+    "text": "this limit order will be placed is now highlighted.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.22,
+    "end": 60.22,
+    "text": "The order is not entered until the stop order portion of the OCO is placed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.22,
+    "end": 63.22,
+    "text": "As we go to select the price level for our stop limit order,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.22,
+    "end": 65.22,
+    "text": "we can see that our mouse pointer provides a visual indicator",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.22,
+    "end": 68.22,
+    "text": "to indicate where our stop order can be placed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.22,
+    "end": 71.22,
+    "text": "MDTrader prevents us from placing this stop on the wrong side of the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.22,
+    "end": 74.22,
+    "text": "and displays a no symbol whenever the mouse pointer",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.22,
+    "end": 77.22,
+    "text": "is at an invalid price level for the stop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.22,
+    "end": 79.22,
+    "text": "If the mouse pointer is at a valid price,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.22,
+    "end": 82.22,
+    "text": "our pointer becomes yellow and the letters SL appear,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.22,
+    "end": 84.22,
+    "text": "and we can place our stop limit order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.98,
+    "end": 89.82,
+    "text": "Once we select the price limit for our stop-limit order, the TTOCO parent order submits child orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.82,
+    "end": 94.54,
+    "text": "and begins working both the limit order and the stop-limit order. When we hover over either",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.54,
+    "end": 99.5,
+    "text": "of the OCO's working child orders, we see both are highlighted to indicate that they are linked.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.5,
+    "end": 104.38,
+    "text": "You can cancel or modify the price of each order independently by simply dragging and dropping.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.66,
+    "end": 110.3,
+    "text": "Once our limit order is filled, the TTOCO automatically cancels the stop-limit order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 111.54,
+    "end": 115.54,
+    "text": "We can also enter a TT-OCO order from the floating order ticket.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.54,
+    "end": 118.54,
+    "text": "Here we have a market grid displaying several contracts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.54,
+    "end": 122.54,
+    "text": "We have an open short position of 10 e-mini Dow futures contracts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.54,
+    "end": 125.54,
+    "text": "We can click on the position to launch our floating order ticket",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.54,
+    "end": 128.54,
+    "text": "with the quantity field populated with the size of our position.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.54,
+    "end": 131.54,
+    "text": "We select TT-OCO from the order type drop-down menu",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.54,
+    "end": 135.54,
+    "text": "and set our stop order type as Stop Market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.54,
+    "end": 138.54,
+    "text": "With TT-OCO selected, we are provided a new field",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.98,
+    "end": 145.11,
+    "text": "Let's enter the desired trigger price for our stop order here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.11,
+    "end": 147.71,
+    "text": "Finally, let's enter the price for our limit order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.71,
+    "end": 151.91,
+    "text": "and click Buy to enter our OCO order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.91,
+    "end": 154.21,
+    "text": "We can see our working orders in MDTrader",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.21,
+    "end": 156.11,
+    "text": "as well as in our order book.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.11,
+    "end": 158.31,
+    "text": "Our limit order at $18,368",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.31,
+    "end": 161.79,
+    "text": "and our stop trigger order at $18,380.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.79,
+    "end": 164.89,
+    "text": "Once the market trades at $18,368 and fills our order,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.89,
+    "end": 168.09,
+    "text": "the TTOCO automatically cancels the stop order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.62,
+    "end": 176.32,
+    "text": "by working both a limit order and a stop order, and automatically canceling one order when",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.32,
+    "end": 177.56,
+    "text": "the other fills.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.56,
+    "end": 180.92,
+    "text": "For more information, visit our website at TradingTechnologies.com.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

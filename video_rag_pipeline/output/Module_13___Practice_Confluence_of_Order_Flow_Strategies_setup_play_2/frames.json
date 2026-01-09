@@ -1,0 +1,98 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0000_mid.jpg",
+    "time": 36.40125068719076,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0000_end.jpg",
+    "time": 72.60250137438152,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0001_start.jpg",
+    "time": 73.00250137438152,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0001_mid.jpg",
+    "time": 250.00858988455192,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0001_end.jpg",
+    "time": 427.01467839472235,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0002_start.jpg",
+    "time": 427.41467839472233,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0002_mid.jpg",
+    "time": 569.8695797828477,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0002_end.jpg",
+    "time": 712.324481170973,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0003_start.jpg",
+    "time": 712.724481170973,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0003_mid.jpg",
+    "time": 719.9747371495326,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Module_13___Practice_Confluence_of_Order_Flow_Strategies_setup_play_2/frames/scene_0003_end.jpg",
+    "time": 727.2249931280923,
+    "width": 1920,
+    "height": 1080
+  }
+]

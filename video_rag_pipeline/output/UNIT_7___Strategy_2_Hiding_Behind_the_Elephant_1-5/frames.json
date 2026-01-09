@@ -1,0 +1,98 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0000_mid.jpg",
+    "time": 16.016016016016017,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0000_end.jpg",
+    "time": 31.832032032032036,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0001_start.jpg",
+    "time": 32.23203203203204,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0001_mid.jpg",
+    "time": 37.183016349683015,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0001_end.jpg",
+    "time": 42.134000667334,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0002_start.jpg",
+    "time": 42.534000667334006,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0002_mid.jpg",
+    "time": 240.17767767767768,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0002_end.jpg",
+    "time": 437.82135468802136,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0003_start.jpg",
+    "time": 438.22135468802134,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0003_mid.jpg",
+    "time": 464.2767767767768,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_7___Strategy_2_Hiding_Behind_the_Elephant_1-5/frames/scene_0003_end.jpg",
+    "time": 490.33219886553223,
+    "width": 1366,
+    "height": 768
+  }
+]

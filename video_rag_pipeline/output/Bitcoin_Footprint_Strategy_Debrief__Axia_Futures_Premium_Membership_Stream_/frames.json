@@ -1,0 +1,306 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0000_mid.jpg",
+    "time": 2.75,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0000_end.jpg",
+    "time": 5.3,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0001_start.jpg",
+    "time": 5.7,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0001_mid.jpg",
+    "time": 108.4,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0001_end.jpg",
+    "time": 211.10000000000002,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0002_start.jpg",
+    "time": 211.5,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0002_mid.jpg",
+    "time": 346.98333333333335,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0002_end.jpg",
+    "time": 482.4666666666667,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0003_start.jpg",
+    "time": 482.8666666666667,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0003_mid.jpg",
+    "time": 812.4333333333334,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0003_end.jpg",
+    "time": 1142.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0004_start.jpg",
+    "time": 1142.4,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0004_mid.jpg",
+    "time": 1179.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0004_end.jpg",
+    "time": 1215.6,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0005_start.jpg",
+    "time": 1216.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0005_mid.jpg",
+    "time": 1317.3333333333333,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0005_end.jpg",
+    "time": 1418.6666666666665,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0006_start.jpg",
+    "time": 1419.0666666666666,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0006_mid.jpg",
+    "time": 1679.8833333333332,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0006_end.jpg",
+    "time": 1940.7,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0007_start.jpg",
+    "time": 1941.1000000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0007_mid.jpg",
+    "time": 2062.4333333333334,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0007_end.jpg",
+    "time": 2183.766666666667,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0008_start.jpg",
+    "time": 2184.1666666666665,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0008_mid.jpg",
+    "time": 2251.05,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0008_end.jpg",
+    "time": 2317.9333333333334,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0009_start.jpg",
+    "time": 2318.333333333333,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0009_mid.jpg",
+    "time": 2368.45,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0009_end.jpg",
+    "time": 2418.566666666667,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0010_start.jpg",
+    "time": 2418.9666666666667,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0010_mid.jpg",
+    "time": 2443.2166666666667,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0010_end.jpg",
+    "time": 2467.4666666666667,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0011_start.jpg",
+    "time": 2467.8666666666663,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0011_mid.jpg",
+    "time": 2621.383333333333,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0011_end.jpg",
+    "time": 2774.9,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0012_start.jpg",
+    "time": 2775.2999999999997,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/Bitcoin_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0012_mid.jpg",
+    "time": 2786.7166666666667,
+    "width": 1280,
+    "height": 720
+  }
+]

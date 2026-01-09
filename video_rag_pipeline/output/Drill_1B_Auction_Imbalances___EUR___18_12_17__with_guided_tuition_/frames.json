@@ -1,0 +1,42 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Drill_1B_Auction_Imbalances___EUR___18_12_17__with_guided_tuition_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Drill_1B_Auction_Imbalances___EUR___18_12_17__with_guided_tuition_/frames/scene_0000_mid.jpg",
+    "time": 244.55,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Drill_1B_Auction_Imbalances___EUR___18_12_17__with_guided_tuition_/frames/scene_0000_end.jpg",
+    "time": 488.90000000000003,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Drill_1B_Auction_Imbalances___EUR___18_12_17__with_guided_tuition_/frames/scene_0001_start.jpg",
+    "time": 489.3,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Drill_1B_Auction_Imbalances___EUR___18_12_17__with_guided_tuition_/frames/scene_0001_mid.jpg",
+    "time": 577.8,
+    "width": 1920,
+    "height": 1080
+  }
+]

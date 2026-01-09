@@ -1,0 +1,1034 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0000_mid.jpg",
+    "time": 3.3125,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0000_end.jpg",
+    "time": 6.425,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0001_start.jpg",
+    "time": 6.825,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0001_mid.jpg",
+    "time": 8.708333333333332,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0001_end.jpg",
+    "time": 10.591666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0002_start.jpg",
+    "time": 10.991666666666665,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0002_mid.jpg",
+    "time": 13.104166666666666,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0002_end.jpg",
+    "time": 15.216666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0003_start.jpg",
+    "time": 15.616666666666665,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0003_mid.jpg",
+    "time": 21.895833333333332,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0003_end.jpg",
+    "time": 28.175,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0004_start.jpg",
+    "time": 28.575,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0004_mid.jpg",
+    "time": 30.3125,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0004_end.jpg",
+    "time": 32.05,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0005_start.jpg",
+    "time": 32.45,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0005_mid.jpg",
+    "time": 40.45833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0005_end.jpg",
+    "time": 48.46666666666666,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0006_start.jpg",
+    "time": 48.86666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0006_mid.jpg",
+    "time": 53.4375,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0006_end.jpg",
+    "time": 58.00833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0007_start.jpg",
+    "time": 58.40833333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0007_mid.jpg",
+    "time": 69.60416666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0007_end.jpg",
+    "time": 80.8,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0008_start.jpg",
+    "time": 81.2,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0008_mid.jpg",
+    "time": 83.83333333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0008_end.jpg",
+    "time": 86.46666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0009_start.jpg",
+    "time": 86.86666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0009_mid.jpg",
+    "time": 113.89583333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0009_end.jpg",
+    "time": 140.925,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0010_start.jpg",
+    "time": 141.325,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0010_mid.jpg",
+    "time": 142.875,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0010_end.jpg",
+    "time": 144.425,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0011_start.jpg",
+    "time": 144.825,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0011_mid.jpg",
+    "time": 158.45833333333331,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0011_end.jpg",
+    "time": 172.09166666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0012_start.jpg",
+    "time": 172.49166666666665,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0012_mid.jpg",
+    "time": 179.3125,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 12,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0012_end.jpg",
+    "time": 186.13333333333335,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 13,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0013_start.jpg",
+    "time": 186.53333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 13,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0013_mid.jpg",
+    "time": 202.08333333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 13,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0013_end.jpg",
+    "time": 217.63333333333335,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 14,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0014_start.jpg",
+    "time": 218.03333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 14,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0014_mid.jpg",
+    "time": 219.83333333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 14,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0014_end.jpg",
+    "time": 221.63333333333335,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 15,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0015_start.jpg",
+    "time": 222.03333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 15,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0015_mid.jpg",
+    "time": 245.16666666666669,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 15,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0015_end.jpg",
+    "time": 268.3,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 16,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0016_start.jpg",
+    "time": 268.7,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 16,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0016_mid.jpg",
+    "time": 271.16666666666663,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 16,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0016_end.jpg",
+    "time": 273.6333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 17,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0017_start.jpg",
+    "time": 274.0333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 17,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0017_mid.jpg",
+    "time": 293.5833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 17,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0017_end.jpg",
+    "time": 313.1333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 18,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0018_start.jpg",
+    "time": 313.5333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 18,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0018_mid.jpg",
+    "time": 320.8958333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 18,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0018_end.jpg",
+    "time": 328.2583333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 19,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0019_start.jpg",
+    "time": 328.6583333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 19,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0019_mid.jpg",
+    "time": 336.4583333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 19,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0019_end.jpg",
+    "time": 344.2583333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 20,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0020_start.jpg",
+    "time": 344.6583333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 20,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0020_mid.jpg",
+    "time": 349.3958333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 20,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0020_end.jpg",
+    "time": 354.1333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 21,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0021_start.jpg",
+    "time": 354.5333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 21,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0021_mid.jpg",
+    "time": 357.60416666666663,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 21,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0021_end.jpg",
+    "time": 360.675,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 22,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0022_start.jpg",
+    "time": 361.075,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 22,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0022_mid.jpg",
+    "time": 364.39583333333337,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 22,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0022_end.jpg",
+    "time": 367.7166666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 23,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0023_start.jpg",
+    "time": 368.1166666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 23,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0023_mid.jpg",
+    "time": 369.7916666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 23,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0023_end.jpg",
+    "time": 371.4666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 24,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0024_start.jpg",
+    "time": 371.8666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 24,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0024_mid.jpg",
+    "time": 379.75,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 24,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0024_end.jpg",
+    "time": 387.6333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 25,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0025_start.jpg",
+    "time": 388.0333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 25,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0025_mid.jpg",
+    "time": 401.25,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 25,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0025_end.jpg",
+    "time": 414.4666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 26,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0026_start.jpg",
+    "time": 414.8666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 26,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0026_mid.jpg",
+    "time": 426.14583333333337,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 26,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0026_end.jpg",
+    "time": 437.425,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 27,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0027_start.jpg",
+    "time": 437.825,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 27,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0027_mid.jpg",
+    "time": 442.72916666666663,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 27,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0027_end.jpg",
+    "time": 447.6333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 28,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0028_start.jpg",
+    "time": 448.0333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 28,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0028_mid.jpg",
+    "time": 450.0625,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 28,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0028_end.jpg",
+    "time": 452.0916666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 29,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0029_start.jpg",
+    "time": 452.4916666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 29,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0029_mid.jpg",
+    "time": 456.0625,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 29,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0029_end.jpg",
+    "time": 459.6333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 30,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0030_start.jpg",
+    "time": 460.0333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 30,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0030_mid.jpg",
+    "time": 484.3125,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 30,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0030_end.jpg",
+    "time": 508.5916666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 31,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0031_start.jpg",
+    "time": 508.9916666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 31,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0031_mid.jpg",
+    "time": 513.7083333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 31,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0031_end.jpg",
+    "time": 518.425,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 32,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0032_start.jpg",
+    "time": 518.825,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 32,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0032_mid.jpg",
+    "time": 526.0208333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 32,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0032_end.jpg",
+    "time": 533.2166666666666,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 33,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0033_start.jpg",
+    "time": 533.6166666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 33,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0033_mid.jpg",
+    "time": 539.4375,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 33,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0033_end.jpg",
+    "time": 545.2583333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 34,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0034_start.jpg",
+    "time": 545.6583333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 34,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0034_mid.jpg",
+    "time": 547.875,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 34,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0034_end.jpg",
+    "time": 550.0916666666666,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 35,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0035_start.jpg",
+    "time": 550.4916666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 35,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0035_mid.jpg",
+    "time": 552.5625,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 35,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0035_end.jpg",
+    "time": 554.6333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 36,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0036_start.jpg",
+    "time": 555.0333333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 36,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0036_mid.jpg",
+    "time": 557.2708333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 36,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0036_end.jpg",
+    "time": 559.5083333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 37,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0037_start.jpg",
+    "time": 559.9083333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 37,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0037_mid.jpg",
+    "time": 562.2083333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 37,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0037_end.jpg",
+    "time": 564.5083333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 38,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0038_start.jpg",
+    "time": 564.9083333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 38,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0038_mid.jpg",
+    "time": 567.9791666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 38,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0038_end.jpg",
+    "time": 571.05,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 39,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0039_start.jpg",
+    "time": 571.45,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 39,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0039_mid.jpg",
+    "time": 573.2916666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 39,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0039_end.jpg",
+    "time": 575.1333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 40,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0040_start.jpg",
+    "time": 575.5333333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 40,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0040_mid.jpg",
+    "time": 577.7083333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 40,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0040_end.jpg",
+    "time": 579.8833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 41,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0041_start.jpg",
+    "time": 580.2833333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 41,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0041_mid.jpg",
+    "time": 585.625,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 41,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0041_end.jpg",
+    "time": 590.9666666666666,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 42,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0042_start.jpg",
+    "time": 591.3666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 42,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0042_mid.jpg",
+    "time": 597.375,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 42,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__12_Live_Car_Auction_Video/frames/scene_0042_end.jpg",
+    "time": 603.3833333333333,
+    "width": 960,
+    "height": 524
+  }
+]

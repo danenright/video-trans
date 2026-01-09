@@ -1,0 +1,74 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_12/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_12/frames/scene_0000_mid.jpg",
+    "time": 840.6,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_12/frames/scene_0000_end.jpg",
+    "time": 1681.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_12/frames/scene_0001_start.jpg",
+    "time": 1681.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_12/frames/scene_0001_mid.jpg",
+    "time": 3282.0499999999997,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_12/frames/scene_0001_end.jpg",
+    "time": 4882.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_12/frames/scene_0002_start.jpg",
+    "time": 4883.099999999999,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_12/frames/scene_0002_mid.jpg",
+    "time": 5724.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_12/frames/scene_0002_end.jpg",
+    "time": 6565.900000000001,
+    "width": 1366,
+    "height": 768
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_11_-6/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 462
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_11_-6/frames/scene_0000_mid.jpg",
+    "time": 164.21967455621302,
+    "width": 960,
+    "height": 462
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_11_-6/frames/scene_0000_end.jpg",
+    "time": 328.23934911242605,
+    "width": 960,
+    "height": 462
+  }
+]

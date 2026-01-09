@@ -1,0 +1,1106 @@
+[
+  {
+    "start": 1.71,
+    "end": 7.31,
+    "text": "So welcome to this drill session. This is for strategy for the auction imbalances.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.13,
+    "end": 14.15,
+    "text": "I hope you've enjoyed that unit. I think auction imbalances are a wonderful aspect of the footprint tool and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.89,
+    "end": 18.29,
+    "text": "even if you don't necessarily trade the strategy,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.29,
+    "end": 25.85,
+    "text": "the standalone strategy, the actual auction imbalance can really aid you in some of your other strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.42,
+    "end": 29.66,
+    "text": "Let's just get straight onto the footprint.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.66,
+    "end": 34.66,
+    "text": "What we can see is quite a build up in volume. This is the Eurodollar 5 minute rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.66,
+    "end": 39.18,
+    "text": "Note I'm not using an imbalance rotation setting here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.18,
+    "end": 42.4,
+    "text": "You can obviously set those.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.4,
+    "end": 46.28,
+    "text": "So you're really going to be tested here, or you would have been really tested,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.28,
+    "end": 53.28,
+    "text": "in terms of identifying those imbalances.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.23,
+    "end": 57.31,
+    "text": "We can see straight away a bit of a break up comes and our first imbalance is left on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.31,
+    "end": 58.31,
+    "text": "the chart.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.31,
+    "end": 59.31,
+    "text": "So that's the first thing we can see.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.31,
+    "end": 66.15,
+    "text": "A nice little imbalance from the 60s up to the 65s, a real lack of trade taking place.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.15,
+    "end": 75.55,
+    "text": "We've got 14 by 15, 8 by 24, 3 by 47, 41 by 74, 26 by 107, quite a lot of imbalance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.55,
+    "end": 77.15,
+    "text": "on the diagonals.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.13,
+    "end": 84.47,
+    "text": "The first thing we obviously noted is that this in its own is not our strategy, our strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.47,
+    "end": 91.47,
+    "text": "is to wait for the rotation, let it come back and test ultimately that imbalance area before",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.1,
+    "end": 99.78,
+    "text": "Do note, obviously we spoke quite important, is the volume. Volume is a real identifier",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.78,
+    "end": 105.82,
+    "text": "in terms of continuation of the imbalance and how aggressive that continuation might",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.82,
+    "end": 110.64,
+    "text": "be, where if we have low volume, there's a much higher probability that the imbalance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.64,
+    "end": 113.64,
+    "text": "will reverse itself and fill itself out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.54,
+    "end": 119.66,
+    "text": "That being said we can straight away see that you know really really dark volume on this breakup",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.82,
+    "end": 122.54,
+    "text": "2370 contracts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.54,
+    "end": 124.46,
+    "text": "So we could see there's a real",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.46,
+    "end": 129.82,
+    "text": "Intent in terms of the volume and I think that's that's the first thing we need to observe high volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.18,
+    "end": 136.34,
+    "text": "You know break to the upside with an imbalance does suggest. We've got the potential for a little bit of extension",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.62,
+    "end": 144.82,
+    "text": "So what we're looking for now is that first little bit of absorption on a retest of the ultimate imbalance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.82,
+    "end": 152.22,
+    "text": "Now, the imbalance area starts, we can see obviously we've got a 3 by 51 there, and then we've got a 52 by 114.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.22,
+    "end": 159.62,
+    "text": "So depending on your settings, we can see that imbalance starts somewhere around that 118.62.5 area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.62,
+    "end": 163.62,
+    "text": "So let's get back to the next rotation, let's see what it looks like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.62,
+    "end": 165.22,
+    "text": "So our next rotation comes in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.49,
+    "end": 170.69,
+    "text": "And let's see what happens now. We're looking for a fill or we're looking firstly for a little bit of absorption",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.69,
+    "end": 173.41,
+    "text": "And then we're going to execute a market now note",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.34,
+    "end": 179.26,
+    "text": "Again, most of the time in almost every single one of the strategies we've dealt with, I",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.26,
+    "end": 182.34,
+    "text": "always sort of prefer you to not preempt the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.34,
+    "end": 186.98,
+    "text": "I prefer you to wait for a signal, wait for the market to give you the clue.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.98,
+    "end": 192.3,
+    "text": "Now the clue in this strategy is to wait for the absorption ahead of the elephant.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.3,
+    "end": 198.12,
+    "text": "So we're looking for any kind of absorption around the 62, 62 and a half marker for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.12,
+    "end": 200.7,
+    "text": "us to ultimately execute this trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.84,
+    "end": 208.08,
+    "text": "Okay, so we can see market comes down it trades a one lot at that previous dark area now again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.76,
+    "end": 213.44,
+    "text": "We might be tempted to get in here. We might be tempted to jump in and and jump on that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.27,
+    "end": 219.49,
+    "text": "And again, yes, this is one of the real factors you have to be disciplined with this trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.49,
+    "end": 220.49,
+    "text": "strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.49,
+    "end": 225.91,
+    "text": "You've got to say to yourself, if you're jumping in at this price point, you're foregoing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.91,
+    "end": 226.91,
+    "text": "two prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.91,
+    "end": 231.33,
+    "text": "Now again, in the long run two prices, or in the short run two prices might not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 231.33,
+    "end": 237.19,
+    "text": "seem like a lot, but in the long run those two prices add up equally, the lack of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.19,
+    "end": 241.41,
+    "text": "discipline shown will come out and catch you at some point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.7,
+    "end": 248.68,
+    "text": "less in terms of profit, it means you're taking two prices and more in terms of risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.68,
+    "end": 255.58,
+    "text": "So in effect the net net is actually a four tick swing in the event that it does go wrong.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 255.58,
+    "end": 259.7,
+    "text": "So just factor that in when you're obviously considering this trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 259.7,
+    "end": 266.76,
+    "text": "Okay so let's just move the tape on a little bit forward, let's get to that point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.98,
+    "end": 270.74,
+    "text": "Okay, so bang, market comes down, it trades up, right, 62 and a half straight, 9 contracts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 270.74,
+    "end": 274.38,
+    "text": "trades, comes back again, 19 contracts trades.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 274.38,
+    "end": 275.78,
+    "text": "Note what it's doing in front.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.0,
+    "end": 279.1,
+    "text": "Okay, note how we're getting quite a little bit of absorption here, quite a lot of selling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 279.1,
+    "end": 280.22,
+    "text": "coming in here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.22,
+    "end": 286.42,
+    "text": "So we're seeing the absorption taking place in a bit, the reloading's taking place, 53.76.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.42,
+    "end": 289.1,
+    "text": "So the buyers are happy to be reloading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.1,
+    "end": 294.5,
+    "text": "We've now looking, or we've got our fill, or we're trying to be a buyer of 62.5s",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 294.5,
+    "end": 298.7,
+    "text": "which we filled there, or we can lift the 63s, but we've now got our fill.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 298.7,
+    "end": 302.98,
+    "text": "So we've seen the absorption taking place in front of the elephant, and that's given",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 305.42,
+    "end": 312.18,
+    "text": "to enter. Again note the continuation of the absorption, no real buying taking place, mostly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.18,
+    "end": 318.46,
+    "text": "just selling into the 62s and a halfs and 63s. Okay, so this is the absorption we're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 318.46,
+    "end": 323.4,
+    "text": "looking out for, this is the kind of price response, the signal we're looking for in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 323.4,
+    "end": 327.04,
+    "text": "order to initiate. Now,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 326.45,
+    "end": 334.13,
+    "text": "In terms of the risk, as we said, we always keep our risk inside of the low volume area,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 334.13,
+    "end": 336.01,
+    "text": "inside of the imbalance, okay.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 336.01,
+    "end": 337.33,
+    "text": "That's the real key.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.33,
+    "end": 341.57,
+    "text": "You don't want to be stopping out one tick below ultimately where you got in because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 341.57,
+    "end": 349.53,
+    "text": "this whole area, all the way from even down to the 87's by 6's, so from sort",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 349.53,
+    "end": 353.73,
+    "text": "of 58's all the way up until 62's we've got an imbalance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 354.34,
+    "end": 359.7,
+    "text": "For me, likely to put a stop probably in around that 60, don't really want to see those zeroes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.7,
+    "end": 361.7,
+    "text": "trade out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 361.7,
+    "end": 366.14,
+    "text": "So we've got a really tight stop, you can see almost two ticks, looking for the retest",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 366.14,
+    "end": 370.74,
+    "text": "of the extreme, if not, hopefully an extension as well.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 370.74,
+    "end": 377.02,
+    "text": "So really good open-ended target here, with a very very managed tight stop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 379.22,
+    "end": 382.78,
+    "text": "Some of the metrics on the second rotation we can see the Delta quite flat",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 383.18,
+    "end": 388.5,
+    "text": "We can also see the Delta on the session still holding that positive Delta",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 388.78,
+    "end": 393.62,
+    "text": "Okay, next rotation comes in note. Now. You can see the absorption that took place",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 394.18,
+    "end": 399.62,
+    "text": "Quite strong okay. We can see the real color dynamic there some nice dark shade colors there and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.5,
+    "end": 404.88,
+    "text": "Ultimately what we're looking for now is that a little bit of a bit to come into the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 409.42,
+    "end": 415.9,
+    "text": "Okay, so this is the first then of the imbalances that you dealt with, that you saw within this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 415.9,
+    "end": 416.98,
+    "text": "practice example.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 416.98,
+    "end": 422.52,
+    "text": "Now what was interesting about this imbalance example, and the reason I don't like using",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 422.52,
+    "end": 427.34,
+    "text": "the picture perfect examples is because I don't want to give you this pretense that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 427.34,
+    "end": 430.86,
+    "text": "every one of these is going to be straight forward and you make money like straight",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 430.86,
+    "end": 431.86,
+    "text": "away.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 431.86,
+    "end": 433.7,
+    "text": "I never wanted to come across like that.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.58,
+    "end": 438.82,
+    "text": "the important part is now as you're going through your template what you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 438.82,
+    "end": 442.14,
+    "text": "should have noticed about this entire imbalance, and I'm going to fast-forward it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 442.14,
+    "end": 443.42,
+    "text": "to show you,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 443.42,
+    "end": 448.34,
+    "text": "you should have noted that this imbalance had a number of rotations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 448.34,
+    "end": 452.32,
+    "text": "Okay, so what you want to do is you want to go and highlight, well",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 452.32,
+    "end": 453.94,
+    "text": "normally imbalances",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 453.94,
+    "end": 458.24,
+    "text": "they maybe have maybe 10 minutes or two or three rotations and then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 458.24,
+    "end": 465.24,
+    "text": "they either extend on the extreme or they fail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 460.88,
+    "end": 465.36,
+    "text": "So you want to go and identify what are the good ones versus what are the bad ones.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 465.36,
+    "end": 470.76,
+    "text": "I can tell you this was a very slow imbalance, it's very unusual to have seen this many",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 470.76,
+    "end": 473.52,
+    "text": "rotations before the market then extended.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 473.52,
+    "end": 477.72,
+    "text": "I'm going to keep going through it, we can see the market keeps holding on to that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 477.72,
+    "end": 483.48,
+    "text": "lower end of that imbalance, not quite wanting to fill the imbalance, and eventually",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 485.9,
+    "end": 492.94,
+    "text": "prep itself ultimately for a move higher. So again, let me just go back one sec. Note you can count",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 492.94,
+    "end": 497.9,
+    "text": "the number of rotations guys, this is quite crucial. We've got one, two, three, four, five,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 497.9,
+    "end": 513.9,
+    "text": "six, seven, eight rotations ultimately before the market then preps itself.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 503.33,
+    "end": 509.83,
+    "text": "for the move higher. So factor that into the analysis. If you've done 10 of these examples",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 509.83,
+    "end": 514.53,
+    "text": "and you find that the Euro tends to extend after a maximum of 4 extensions and today",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 514.53,
+    "end": 519.41,
+    "text": "was 8, well then you create a new rule for yourself which is that if the market hasn't",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 519.41,
+    "end": 525.17,
+    "text": "extended by the time, potentially after 4 rotations to reduce the risk, I simply",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 525.17,
+    "end": 529.69,
+    "text": "just get out. So create some sort of a rule based approach so that you're using",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 533.36,
+    "end": 538.64,
+    "text": "Okay, what we're going to see now is then the second of our imbalances.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 538.64,
+    "end": 543.38,
+    "text": "We do get our extension, we can see the extension there, note the market now breaks out of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 543.38,
+    "end": 548.86,
+    "text": "that little tight range it's been in and we then get a number of imbalances left.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 548.86,
+    "end": 553.7,
+    "text": "Okay, so we can see a whole bunch of zeros below, another zero and a two, real strong",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 553.7,
+    "end": 555.82,
+    "text": "diagonal buy imbalances coming in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 558.46,
+    "end": 566.22,
+    "text": "0 by 37, 8 by 40, so a number of imbalances starting all the way down at 64s, all the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 566.22,
+    "end": 572.26,
+    "text": "way up until the sort of 70 area. So that's the level of imbalances.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 572.98,
+    "end": 575.9,
+    "text": "Now again, if you're still long, you don't get out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 575.9,
+    "end": 578.58,
+    "text": "The market hasn't given you a reason to get out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 578.58,
+    "end": 579.82,
+    "text": "You trail that stop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 579.82,
+    "end": 582.46,
+    "text": "Again, now we move it back.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 582.46,
+    "end": 586.92,
+    "text": "If we're not in a trade, we move our stop up into this imbalance, the next imbalance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 586.92,
+    "end": 589.84,
+    "text": "And if we're looking for a trade, well then, we rinse and repeat.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 589.84,
+    "end": 591.96,
+    "text": "So we wait for the next rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 591.96,
+    "end": 596.3,
+    "text": "We allow the market to come back and absorb, I'm just going to catch that next rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 596.3,
+    "end": 600.12,
+    "text": "So we can see we wait for the market to come back, let it test that imbalance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 602.48,
+    "end": 607.4,
+    "text": "So the market comes in, note the darker shading again, there's the absorption, we're looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 607.4,
+    "end": 613.92,
+    "text": "for our longs now at 70.5 and we wait for the rotation and extension again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 613.92,
+    "end": 619.4,
+    "text": "Alright, so it's a lovely example in the sense that it does show you two imbalances.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 619.4,
+    "end": 624.8,
+    "text": "It shows you the first imbalance that takes a long long time to retest and extend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 624.8,
+    "end": 629.32,
+    "text": "the extreme, whereas the second imbalance almost instantaneously retests that extreme",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 630.21,
+    "end": 637.17,
+    "text": "Okay, that then is obviously the end of our auction imbalance drill session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 637.17,
+    "end": 642.41,
+    "text": "So important, go back now onto those templates, make the changes you need to do, add the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 642.41,
+    "end": 646.91,
+    "text": "notes you need to add and make sure you're learning from these little drill-based sessions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 646.91,
+    "end": 651.49,
+    "text": "Of course you obviously have got the examples from the unit that we went over.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 651.49,
+    "end": 656.41,
+    "text": "You can go now and complete those and again complete a template.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 659.98,
+    "end": 665.26,
+    "text": "unit 10 and I will now see you guys in the next unit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

@@ -1,0 +1,698 @@
+[
+  {
+    "start": 1.26,
+    "end": 4.26,
+    "text": "So what are the steps for profiling success?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.26,
+    "end": 10.29,
+    "text": "Well, first and foremost we need to recognize a pattern using volume profiling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.29,
+    "end": 15.29,
+    "text": "Now not to worry, I will show you numerous patterns within this profiling course,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.29,
+    "end": 22.29,
+    "text": "as well as when you join the streaming service, every single day we will show you unique strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.29,
+    "end": 27.29,
+    "text": "that you can backtest and have a look at and develop yourself.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.79,
+    "end": 33.51,
+    "text": "So, once you have found a recognisable pattern, you need to go and do what I like to call",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.51,
+    "end": 35.83,
+    "text": "a Harry Hindsight backtest.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.83,
+    "end": 37.45,
+    "text": "What this is, it's very simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.45,
+    "end": 42.75,
+    "text": "You go and find that similar pattern or that pattern and you go and find five other",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.75,
+    "end": 45.03,
+    "text": "examples in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.34,
+    "end": 55.66,
+    "text": "And what I mean by that is you physically find out how many ticks it would cost you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.66,
+    "end": 60.54,
+    "text": "to take on that trade versus how many ticks or prices you can make on that trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.54,
+    "end": 64.18,
+    "text": "So do a little bit of a risk-reward, very basic risk-reward analysis.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.18,
+    "end": 68.78,
+    "text": "Now the reason we do it this way around and we do that first is because we can very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.26,
+    "end": 78.38,
+    "text": "A lot of patterns don't always necessarily give us the best risk reward metrics.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.38,
+    "end": 84.11,
+    "text": "So we want to know early enough, is the strategy actually worth pursuing?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.11,
+    "end": 89.87,
+    "text": "Then once we've done the Visual Harry hindsight backtest, we then need to go and do a practical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.87,
+    "end": 91.19,
+    "text": "replay backtest.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.19,
+    "end": 92.31,
+    "text": "What do I mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.31,
+    "end": 97.39,
+    "text": "We physically need to view the data as it's received live into the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.79,
+    "end": 102.41,
+    "text": "Most of you would normally do that on a day-to-day trading live markets.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.41,
+    "end": 108.75,
+    "text": "However, in this day and age with the technology available, you can actually get the data and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.75,
+    "end": 113.47,
+    "text": "replay that data in a live market type scenario.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.47,
+    "end": 118.27,
+    "text": "So with that information, what we do is we physically see how this strategy played",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.27,
+    "end": 119.27,
+    "text": "out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.27,
+    "end": 123.59,
+    "text": "We physically see how the market shows us that information in real time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.62,
+    "end": 130.3,
+    "text": "First and foremost, we want to be able to live the strategy whilst it's occurring.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.3,
+    "end": 134.42,
+    "text": "Now, the reason is because a lot of us look at a market at the end of the day and we go",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.42,
+    "end": 138.9,
+    "text": "and we say, well, that was a relatively straightforward buy or sell, you know, the strategy was",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.9,
+    "end": 140.9,
+    "text": "there, all I had to do was execute.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.18,
+    "end": 146.52,
+    "text": "But what we cannot practice just looking at a chart is the feelings and emotions of living",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.52,
+    "end": 149.26,
+    "text": "through every second or minute or couple of minutes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.26,
+    "end": 154.84,
+    "text": "So it's so important that we can go back and feel that trade out again as it occurred",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.84,
+    "end": 158.1,
+    "text": "in real time, but not risk capital in doing so.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.54,
+    "end": 165.76,
+    "text": "The second reason that we want the practical replay is that we can pick up on various observations",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.76,
+    "end": 172.08,
+    "text": "that the market is showing us in real time that can then confirm the trade strategy or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.08,
+    "end": 177.56,
+    "text": "more importantly tell us that actually the trade strategy is not occurring as it should.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.56,
+    "end": 178.56,
+    "text": "What do I mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.63,
+    "end": 191.31,
+    "text": "Now we know based on this strategy that we don't particularly want to see aggressive selling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 191.31,
+    "end": 198.11,
+    "text": "at any point on a pullback. If we do see that aggressive selling it's giving us a very early",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.11,
+    "end": 204.19,
+    "text": "clue that maybe the strategy isn't going to work out as well as we would have liked it to work",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.19,
+    "end": 211.39,
+    "text": "out. So by being able to relive the experience we're able to pick up on on very early clues",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.22,
+    "end": 216.1,
+    "text": "and when it's not working as well.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.1,
+    "end": 223.93,
+    "text": "And it's this that will give our unique trade strategy a very strong advantage or an edge.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.93,
+    "end": 228.85,
+    "text": "Once you've done the practical replay, we then set our conditions and parameters for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.85,
+    "end": 231.69,
+    "text": "early observation and potential execution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 231.69,
+    "end": 232.77,
+    "text": "So it's very simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 232.77,
+    "end": 235.33,
+    "text": "You have a trade strategy, you've back-tested it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.94,
+    "end": 243.64,
+    "text": "Remember, a unique edge or a trading strategy has exactness to it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.64,
+    "end": 245.32,
+    "text": "The process is exact.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.32,
+    "end": 249.64,
+    "text": "There's no ifs and buts, there's no maybes, there's very little subjectivity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 249.64,
+    "end": 251.62,
+    "text": "It's all objective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.62,
+    "end": 257.3,
+    "text": "So because of these parameters, this will mean that we can allow ourselves to just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.3,
+    "end": 261.94,
+    "text": "trade the trade and put in place the execution that is required.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 262.27,
+    "end": 264.19,
+    "text": "That is our fourth step.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.19,
+    "end": 269.43,
+    "text": "And our fifth step is we need to create various trading rules as well as money management rules",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 269.43,
+    "end": 271.11,
+    "text": "and risk management rules.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 271.11,
+    "end": 273.63,
+    "text": "Again, we do this before we execute.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.63,
+    "end": 277.67,
+    "text": "We don't want to be in a trade in the live markets and start thinking about where is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 277.67,
+    "end": 284.01,
+    "text": "my stop, how much am I risking on this, where is the trade wrong, what should I",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 284.01,
+    "end": 286.43,
+    "text": "be identifying whilst being in this trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.43,
+    "end": 289.75,
+    "text": "All of this is done before we execute the trade in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.05,
+    "end": 294.69,
+    "text": "Remember what I said to you in the previous slide when we spoke about edge, right? You need to have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 294.69,
+    "end": 301.41,
+    "text": "a perfected process. If you perfect the process, you will succeed in that trade strategy. It's the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 301.41,
+    "end": 305.65,
+    "text": "fact that we're not fully prepared for that trade setup, the fact that we're not entirely",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 305.65,
+    "end": 312.21,
+    "text": "sure what our risk is. That is what creates, you know, the confusion and ultimately leads to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.39,
+    "end": 322.11,
+    "text": "we want to test with small size. So once you've found a strategy that works well,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 322.11,
+    "end": 325.55,
+    "text": "you've created all the parameters, you've set in place the rules,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 325.55,
+    "end": 329.71,
+    "text": "you know exactly how the trade plays out, you then want to start testing it,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 329.71,
+    "end": 333.87,
+    "text": "putting real money in the market. Now again, when you're putting real money",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 333.87,
+    "end": 336.19,
+    "text": "in the market as opposed to simulated money,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 336.19,
+    "end": 339.55,
+    "text": "you're going to create a whole different experience because of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 342.9,
+    "end": 347.78,
+    "text": "Always lean on the fact that you've got a strong edge or a strong process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 347.78,
+    "end": 354.42,
+    "text": "If you do this, it will allow you to become less emotional and focus more on the objective",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 354.42,
+    "end": 358.03,
+    "text": "information that's coming from the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 358.03,
+    "end": 362.23,
+    "text": "Once you've found a successful strategy, don't forget, leverage up.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 362.23,
+    "end": 364.07,
+    "text": "Don't be afraid to leverage, guys.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 364.07,
+    "end": 369.07,
+    "text": "Too many traders in general are afraid of this thing called leverage.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 371.04,
+    "end": 374.32,
+    "text": "The path to success is via leverage.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 374.32,
+    "end": 378.71,
+    "text": "Leverage is what can make dreams come true.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 378.71,
+    "end": 385.71,
+    "text": "Then, last but not least, always constantly assess and upgrade and evolve your patterns.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 385.9,
+    "end": 389.9,
+    "text": "What does that mean? It means that the trade doesn't end when you make profit, the trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 389.9,
+    "end": 396.34,
+    "text": "doesn't end when you switch off your trading machine. The trade only ends when you've taken",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 396.34,
+    "end": 402.92,
+    "text": "that strategy, broken it down for the umpteenth time, and you've gone over time and time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 402.92,
+    "end": 405.16,
+    "text": "and time again. That's when the trade ends.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 405.39,
+    "end": 411.19,
+    "text": "Okay, keep upgrading those trade strategies because by upgrading them you're upgrading your edge",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 411.19,
+    "end": 417.15,
+    "text": "You're enhancing your edge and you're ensuring that you're ahead of those that are trying to develop the same edge as you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

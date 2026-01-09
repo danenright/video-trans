@@ -1,0 +1,298 @@
+[
+  {
+    "start": 1.71,
+    "end": 6.95,
+    "text": "Okay, just to continue, we'll be looking at execution strategy patterns.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.95,
+    "end": 11.93,
+    "text": "Now as I mentioned before, it is the execution strategies that our traders are concerned",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.93,
+    "end": 18.35,
+    "text": "with from these algorithmic and HFT systems where we'll be able to determine profitable",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.35,
+    "end": 25.19,
+    "text": "order flow patterns or underlying she-shift trend changes and bigger time frame trend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.19,
+    "end": 26.19,
+    "text": "changes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.66,
+    "end": 33.94,
+    "text": "um you know how they're built it's not really for for this course but if we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.94,
+    "end": 38.58,
+    "text": "understand of how these patterns are given birth from an execution",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.58,
+    "end": 45.65,
+    "text": "perspective well then we can trade around them again for these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.03,
+    "end": 50.59,
+    "text": "Execution brokers you get some really sophisticated strategies so they can really optimize their",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.59,
+    "end": 56.19,
+    "text": "price because if you have the best execution as an execution broker well then you're going to get",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.19,
+    "end": 62.83,
+    "text": "all the business from your from particular investors that are having to put orders through",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.83,
+    "end": 68.99,
+    "text": "in the marketplace. Remember our context here is in the intraday and the micro time frame of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.67,
+    "end": 76.19,
+    "text": "potentially bigger orders going through the market, but those are more",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.19,
+    "end": 79.39,
+    "text": "your type of larger distribution absorption plays",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.39,
+    "end": 82.59,
+    "text": "which we speak speak about in our absorption",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.59,
+    "end": 86.67,
+    "text": "module. So the focus is not on theory in this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.67,
+    "end": 89.87,
+    "text": "you know in this section but more in this course",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.87,
+    "end": 93.07,
+    "text": "but more the price patterns that emanate from these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.07,
+    "end": 98.03,
+    "text": "various different execution platform or the various types of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.54,
+    "end": 104.54,
+    "text": "No, and as I've said",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.69,
+    "end": 111.25,
+    "text": "From here, of all the execution, there is just a mirage of different price ladder patterns,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 111.25,
+    "end": 117.41,
+    "text": "whether it be icebergs, machine gun orders, these are all in that link that I provided",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.41,
+    "end": 123.45,
+    "text": "you, all the different types of order entry strategies, whether it being time and volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.45,
+    "end": 128.01,
+    "text": "slice orders, you need to identify the algo and its strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.97,
+    "end": 138.67,
+    "text": "I'll go in the time frame being executed. So sometimes you see an algorithm having to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.05,
+    "end": 143.93,
+    "text": "Offload in a very short period of time a lot of orders on the order book and whilst it's offloading it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.93,
+    "end": 148.05,
+    "text": "It's offloading at an extreme price that extreme price could trigger a stops",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.05,
+    "end": 153.49,
+    "text": "It's you understanding of that position of the market and given that execution a strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.49,
+    "end": 160.33,
+    "text": "That's being that's being implemented in your market at that specific time of how you go about trading trading it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.59,
+    "end": 162.81,
+    "text": "remember the human discovers and on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.18,
+    "end": 166.54,
+    "text": "unlocks the pattern then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.98,
+    "end": 170.42,
+    "text": "it's our ability to trade around it so the human has an incredible ability to pick up patterns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.42,
+    "end": 176.02,
+    "text": "in everyday life you know whether it's a pattern with a friend or a lover a pattern when you're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.02,
+    "end": 181.14,
+    "text": "playing a particular type of sport a particular type of football formation on or particular",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.14,
+    "end": 186.18,
+    "text": "rugby mall that's going on as it sucks in defense we're trying to understand and unleash",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.18,
+    "end": 193.06,
+    "text": "patterns and the marketplace is no different is our human ability to to really discover and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.29,
+    "end": 197.41,
+    "text": "patterns and therefore trade effectively around it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

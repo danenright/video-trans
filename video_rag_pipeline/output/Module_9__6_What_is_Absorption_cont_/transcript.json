@@ -1,0 +1,330 @@
+[
+  {
+    "start": 0.88,
+    "end": 4.78,
+    "text": "And let's continue to define what is absorption.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.78,
+    "end": 10.74,
+    "text": "So when large participants, such as institutional investors, need to buy and sell large amounts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.74,
+    "end": 15.78,
+    "text": "of securities for their portfolio, they can divide their large orders into smaller parts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.78,
+    "end": 20.42,
+    "text": "so that the public sees only a small portion of the order at a time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.42,
+    "end": 24.54,
+    "text": "Just as the tip of the iceberg, it's only a visible portion of a huge mass of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 24.54,
+    "end": 25.54,
+    "text": "ice.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.94,
+    "end": 35.3,
+    "text": "caused by substantial changes in stock supply and demand.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.38,
+    "end": 41.78,
+    "text": "the large order book strategies we notice that if we observe as locals a large order and it's a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.78,
+    "end": 46.34,
+    "text": "genuine large order once we've defined that it's identified that there's a high probability of being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.34,
+    "end": 51.94,
+    "text": "a large order you can effectively move the market away from that large order and therefore",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.94,
+    "end": 57.86,
+    "text": "that large order is having to execute at at worse prices so this is the really the rise",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.86,
+    "end": 63.78,
+    "text": "of the iceberg the iceberg order is that if you don't display a order that sticks out like",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.66,
+    "end": 69.76,
+    "text": "an iceberg on the price ladder, you can effectively get away more advantageous",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.76,
+    "end": 73.78,
+    "text": "prices as you don't get the market to chase. But when locals and intraday",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.78,
+    "end": 78.38,
+    "text": "traders observe the reloading of a price and absorption, we can actually",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.38,
+    "end": 82.42,
+    "text": "start trading within that iceberg and therefore it's the ability of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.42,
+    "end": 86.18,
+    "text": "trader to observe that iceberg before that iceberg disappears and you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.18,
+    "end": 91.07,
+    "text": "can actually start sculpting, extrapolating profits from the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.07,
+    "end": 94.4,
+    "text": "iceberg order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.07,
+    "end": 98.03,
+    "text": "So remember, iceberg orders are used to avoid locals and other market participants front",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.03,
+    "end": 101.09,
+    "text": "running at the order, as we've just discussed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.09,
+    "end": 103.77,
+    "text": "You get manual versus automatic iceberging.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.77,
+    "end": 107.91,
+    "text": "The most predominant one are your automatic icebergs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.91,
+    "end": 112.75,
+    "text": "So you put in an order, if you go look on the training technologies, order types,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.75,
+    "end": 116.75,
+    "text": "you go look at iceberg, how to actually construct your iceberg pattern, we'll be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.74,
+    "end": 123.42,
+    "text": "you know, in the videos and really making you understand what an iceberg order looks",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.42,
+    "end": 128.98,
+    "text": "like when we go through our price ladder order plays and strategies that we do deploy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.98,
+    "end": 133.42,
+    "text": "Other trader lingo for iceberging is reloading, so you'll hear a lot of traders, they don't",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.42,
+    "end": 136.9,
+    "text": "really call it iceberging, they say, oh, someone's reloading the bid or someone's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.66,
+    "end": 145.66,
+    "text": "So that's when a trade is making observation of a buy or seller at a price or a price zone. You can have an iceberg",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.66,
+    "end": 151.02,
+    "text": "that's distributed within five or ten ticks and so this is important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.26,
+    "end": 156.7,
+    "text": "these are other important considerations. The time frame and purpose of the iceberging ensure",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.1,
+    "end": 162.58,
+    "text": "It really ensures that it gets the best price fills without being front run if the order,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.58,
+    "end": 165.34,
+    "text": "the entire order is disclosed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.34,
+    "end": 170.94,
+    "text": "So effectively, why do institution traders use absorption order book events?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.94,
+    "end": 174.86,
+    "text": "It's the best method to observe a key absorption event.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.86,
+    "end": 179.46,
+    "text": "So really critical to understanding, you know, what is an iceberg?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.46,
+    "end": 180.46,
+    "text": "What is an absorption?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.46,
+    "end": 181.82,
+    "text": "What does reloading look like?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.38,
+    "end": 190.06,
+    "text": "and when you're seeing a rapid reloading of a price,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.06,
+    "end": 195.06,
+    "text": "which we shall illustrate in the next couple of slides.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

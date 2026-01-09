@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_11__1_Trend_Reversal_Order_Flow_Indicator/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_11__1_Trend_Reversal_Order_Flow_Indicator/frames/scene_0000_mid.jpg",
+    "time": 13.58,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_11__1_Trend_Reversal_Order_Flow_Indicator/frames/scene_0000_end.jpg",
+    "time": 26.96,
+    "width": 1920,
+    "height": 1080
+  }
+]

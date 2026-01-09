@@ -1,0 +1,194 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0000_mid.jpg",
+    "time": 10.6,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0000_end.jpg",
+    "time": 21.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0001_start.jpg",
+    "time": 21.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0001_mid.jpg",
+    "time": 28.85,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0001_end.jpg",
+    "time": 36.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0002_start.jpg",
+    "time": 36.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0002_mid.jpg",
+    "time": 274.9,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0002_end.jpg",
+    "time": 513.0999999999999,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0003_start.jpg",
+    "time": 513.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0003_mid.jpg",
+    "time": 1017.6999999999999,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0003_end.jpg",
+    "time": 1521.8999999999999,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0004_start.jpg",
+    "time": 1522.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0004_mid.jpg",
+    "time": 1582.9499999999998,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0004_end.jpg",
+    "time": 1643.6,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0005_start.jpg",
+    "time": 1644.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0005_mid.jpg",
+    "time": 1726.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0005_end.jpg",
+    "time": 1808.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0006_start.jpg",
+    "time": 1808.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0006_mid.jpg",
+    "time": 1881.9,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0006_end.jpg",
+    "time": 1955.3999999999999,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0007_start.jpg",
+    "time": 1955.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0007_mid.jpg",
+    "time": 2112.05,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_1-6/frames/scene_0007_end.jpg",
+    "time": 2268.3,
+    "width": 1366,
+    "height": 768
+  }
+]

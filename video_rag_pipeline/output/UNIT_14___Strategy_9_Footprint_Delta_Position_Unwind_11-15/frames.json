@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_11-15/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_11-15/frames/scene_0000_mid.jpg",
+    "time": 408.233,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_11-15/frames/scene_0000_end.jpg",
+    "time": 816.266,
+    "width": 1366,
+    "height": 768
+  }
+]

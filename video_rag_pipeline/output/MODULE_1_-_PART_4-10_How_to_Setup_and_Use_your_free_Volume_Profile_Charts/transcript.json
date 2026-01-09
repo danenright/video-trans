@@ -1,0 +1,858 @@
+[
+  {
+    "start": 10.38,
+    "end": 13.38,
+    "text": "Welcome to this market delta charting overview.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.38,
+    "end": 19.38,
+    "text": "Before we get started, just note that this trial will last 28 days only.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.38,
+    "end": 23.38,
+    "text": "With that in mind, if you haven't already downloaded the software,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.38,
+    "end": 26.38,
+    "text": "the link will be provided on the LMS system.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.38,
+    "end": 30.64,
+    "text": "Once you've downloaded that, do ensure you also download the setup file",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.64,
+    "end": 34.64,
+    "text": "so that you'll be able to see the exact setup that you can see in front of you.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.6,
+    "end": 41.76,
+    "text": "Now, some of the key things we're going to look at with this overview will include volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.76,
+    "end": 45.72,
+    "text": "profiles to start off with, both full and split profiles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.72,
+    "end": 49.84,
+    "text": "We'll then also take a look at basic candlestick charts and some of the tools you can use,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.84,
+    "end": 54.58,
+    "text": "as well as then the basic footprint chart.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.58,
+    "end": 59.18,
+    "text": "Now let's get started and as you can see on the left side we have what we call a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.18,
+    "end": 62.34,
+    "text": "traditional volume market profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.71,
+    "end": 69.63,
+    "text": "and some of the features you'll be able to do with this include the following",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.63,
+    "end": 73.07,
+    "text": "you can merely scroll up and down left and right across to view",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.07,
+    "end": 77.55,
+    "text": "patterns that have passed. You can then also right click on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.55,
+    "end": 83.14,
+    "text": "profile and add splits this will allow you to see the individual auctions",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.64,
+    "end": 92.64,
+    "text": "If you just want to see various auctions that have taken place at some point during the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.64,
+    "end": 99.32,
+    "text": "day, you can click on the letter which you want to separate from the rest of the profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.32,
+    "end": 105.82,
+    "text": "This will then separate all letters that come and occur after the letter you've separated.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.82,
+    "end": 110.76,
+    "text": "Note if you want to remove this again, simply right click and remove splits.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.76,
+    "end": 114.68,
+    "text": "Now you would have noticed that the scale on the right is not set to show each individual",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.38,
+    "end": 119.26,
+    "text": "you can adjust this so that you can see all the available information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.26,
+    "end": 123.14,
+    "text": "Merely just click on the left, scroll up to get to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.14,
+    "end": 126.22,
+    "text": "the to go the one way and then scroll",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.22,
+    "end": 129.66,
+    "text": "down to go the other way and make your profile smaller and larger.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.66,
+    "end": 133.26,
+    "text": "Now note, if you want to get a simple line",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.26,
+    "end": 137.3,
+    "text": "you just click on the price and this will have a pop-up line.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.3,
+    "end": 142.3,
+    "text": "You can then find the location you want to put that line and simply",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.3,
+    "end": 143.66,
+    "text": "click on that price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.02,
+    "end": 150.34,
+    "text": "Now it's important to be able to change the colors of these prices and so to do that you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.34,
+    "end": 155.02,
+    "text": "right click on the line and you go and set the horizontal line color.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.02,
+    "end": 158.18,
+    "text": "Now the reason it's important to be able to set different line colors is so that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.18,
+    "end": 161.46,
+    "text": "you can visually see when something important is approaching.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.46,
+    "end": 166.32,
+    "text": "Now I tend to have a basic four color set and that would include red lines for key",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.32,
+    "end": 172.0,
+    "text": "reference points, I'll then have orange lines when I want to identify value area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.15,
+    "end": 177.71,
+    "text": "I will then have pink lines in order to identify weekly highs and lows",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.71,
+    "end": 181.69,
+    "text": "and lastly I will have blue lines to identify",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.69,
+    "end": 186.43,
+    "text": "various tail single prints that are left in the profile as you can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.43,
+    "end": 191.31,
+    "text": "with a Y print in this example. So that's just some of the basic color lines",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 191.31,
+    "end": 198.41,
+    "text": "that I would utilize in my volume profiles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.18,
+    "end": 200.5,
+    "text": "Now that we've spoken about the closed profile, as you can see in your second set of profiles,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.5,
+    "end": 202.5,
+    "text": "those are your open profiles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 202.5,
+    "end": 208.1,
+    "text": "So again, note that just shows us the individual auctions that have taken place over the period",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.1,
+    "end": 208.78,
+    "text": "of a day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.01,
+    "end": 214.09,
+    "text": "Now as you can see in the top of the chart, you'll see that you have four different markets",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.09,
+    "end": 215.09,
+    "text": "here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.09,
+    "end": 220.41,
+    "text": "Those are the four markets that you'll be required to find examples of to include into",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.41,
+    "end": 221.41,
+    "text": "your playbook.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.41,
+    "end": 226.45,
+    "text": "Again, simply just click on it and it will automatically take you to the close profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.45,
+    "end": 229.13,
+    "text": "of the WTI oil.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.13,
+    "end": 233.05,
+    "text": "So that's the basics with regards to the volume profiles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.05,
+    "end": 235.61,
+    "text": "Let's have a look at the candlestick chart now.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.01,
+    "end": 241.03,
+    "text": "we can make it smaller and larger, we can scroll left and right.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 241.03,
+    "end": 245.33,
+    "text": "Now, first things first, if you want any specific tools",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.33,
+    "end": 249.33,
+    "text": "simply right click and add a study. There you can find",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 249.33,
+    "end": 253.21,
+    "text": "Bollinger Bands, Average to Range, Volume, Moving Averages, all",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.21,
+    "end": 256.41,
+    "text": "the same tools you'd find on any traditional charting package.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.41,
+    "end": 263.41,
+    "text": "However, note",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.95,
+    "end": 262.99,
+    "text": "The purpose of this course is volume profiling. It's not to give you a whole range of different",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 262.99,
+    "end": 267.19,
+    "text": "other tools, so don't be tempted to suddenly start populating your charts with various",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 267.19,
+    "end": 271.79,
+    "text": "types of tools. Focus on the volume profiling and the strategies that I have provided",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 272.56,
+    "end": 277.12,
+    "text": "Again, if you do want to, however, have a look at a bit of a shorter term time frame",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 277.12,
+    "end": 281.96,
+    "text": "to see how a strategy played out on the shorter time frame, you can merely click at the top",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.96,
+    "end": 287.32,
+    "text": "of your task bar and go to change interval or chart interval and adjust it according",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 287.32,
+    "end": 291.21,
+    "text": "to the time frame you want to see.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 291.21,
+    "end": 294.43,
+    "text": "That is then the basic candlestick chart.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 294.43,
+    "end": 295.99,
+    "text": "Note this little arrow in the bottom right.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 295.99,
+    "end": 300.39,
+    "text": "This will simply move the chart to the latest piece of information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 301.66,
+    "end": 305.1,
+    "text": "particularly if you are doing some backtesting and you're scrolling all the way left, all",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 305.1,
+    "end": 309.74,
+    "text": "the way left, you do sometimes want to quickly be able to come straight back to where the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 309.74,
+    "end": 312.53,
+    "text": "market is currently trading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.53,
+    "end": 317.83,
+    "text": "Then with regards to the footprint chart, again this is not imperative to have or to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.83,
+    "end": 321.75,
+    "text": "understand for the volume profiling course, but I've included it because it's a very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.75,
+    "end": 327.03,
+    "text": "popular tool to be able to see the interaction between buyers and sellers at those key",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 327.03,
+    "end": 328.11,
+    "text": "points.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 328.58,
+    "end": 335.22,
+    "text": "Note, if the strategy talks about 163.60 being an important area in the market, go and have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 335.22,
+    "end": 340.06,
+    "text": "a look at how the buyers and sellers interact around that reference point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 340.06,
+    "end": 344.38,
+    "text": "This will allow you to start to develop basic understanding of price response in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 344.38,
+    "end": 345.38,
+    "text": "the price ladder.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 345.38,
+    "end": 352.07,
+    "text": "So that is the basic tools you're going to be able to utilize with this charting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 352.07,
+    "end": 353.62,
+    "text": "package.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 354.24,
+    "end": 359.2,
+    "text": "Let's go and actually do an example, find an example, copy that picture so that you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.2,
+    "end": 364.88,
+    "text": "get a basic understanding of how you can utilize this tool for your playbook and going further",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 364.88,
+    "end": 366.28,
+    "text": "forward.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 366.28,
+    "end": 369.57,
+    "text": "So in the example we're going to look at the German Bund.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 369.57,
+    "end": 374.67,
+    "text": "Now note, we spoke about a strategy where we have a break of a consolidation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 374.67,
+    "end": 378.97,
+    "text": "So take for example what we've seen here, we had a consolidated inside day, the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 383.23,
+    "end": 388.75,
+    "text": "we then opened and the market broke below the previous day and extended upon the range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 389.5,
+    "end": 393.74,
+    "text": "Now what we want to point out is we want to be able to add some splits and go and view how the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 393.74,
+    "end": 399.34,
+    "text": "market actually did what it did and also look at some of the potential shifts in volatility.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 399.98,
+    "end": 403.98,
+    "text": "Once you've found the pattern and you wish to add it to your playbook you simply want to get",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 405.42,
+    "end": 410.9,
+    "text": "Snap the part of the chart you wish to add to your playbook, simply file save as onto",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 410.9,
+    "end": 416.39,
+    "text": "your desktop and add it into your playbook as explained previously.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 416.39,
+    "end": 421.63,
+    "text": "That's the basics of how you'd utilize this market profiling tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 421.63,
+    "end": 424.63,
+    "text": "Remember guys, ensure that you keep this simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 424.63,
+    "end": 429.39,
+    "text": "Don't start over complicating it by adding all sorts of various tools and various other",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 429.39,
+    "end": 431.11,
+    "text": "interpretations to it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 431.11,
+    "end": 433.47,
+    "text": "You're simply going to complex this.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 434.37,
+    "end": 437.97,
+    "text": "A few other things, make sure you save.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 437.97,
+    "end": 438.97,
+    "text": "Always save your charts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 438.97,
+    "end": 441.29,
+    "text": "In the top right here you can see the save button.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 441.29,
+    "end": 446.09,
+    "text": "Also, if you're struggling to find something or struggling to interpret something, the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 446.09,
+    "end": 448.77,
+    "text": "helpful support menu, they're incredibly good.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 448.77,
+    "end": 452.99,
+    "text": "You merely click on the support and you go to the live chat and within a couple",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 452.99,
+    "end": 457.17,
+    "text": "of seconds you will be able to talk to one of their very helpful technical staff.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 457.17,
+    "end": 459.61,
+    "text": "I hope this has been helpful for you.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 459.61,
+    "end": 461.37,
+    "text": "Good luck and enjoy the charting package.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

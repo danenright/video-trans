@@ -1,0 +1,346 @@
+[
+  {
+    "start": 0.78,
+    "end": 5.06,
+    "text": "We're now going to move on to the section of control variables.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.06,
+    "end": 9.72,
+    "text": "You get two main categories of control variables.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.72,
+    "end": 14.82,
+    "text": "One will be control variables that show strength and the other that shows weakness.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.82,
+    "end": 20.8,
+    "text": "This is again, very important principles that you need to think about when looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.8,
+    "end": 22.94,
+    "text": "at the auction process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.94,
+    "end": 28.38,
+    "text": "The first we'll discuss are strong variable control identifiers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.18,
+    "end": 36.22,
+    "text": "point of control location. So straight away, where that volume point of control is, it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.22,
+    "end": 43.22,
+    "text": "identifies where the fairest price is on the day. So again, this is a very early clue as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.58,
+    "end": 51.77,
+    "text": "to where buyers and sellers feel fair value is.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.01,
+    "end": 54.77,
+    "text": "The second control variable is the closing price on the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.77,
+    "end": 59.69,
+    "text": "So again, if we close at the absolute extreme, whether it's the top or the bottom, that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.69,
+    "end": 68.69,
+    "text": "showing us an identifier of strength that's being shown by either the buyers or the sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.98,
+    "end": 73.86,
+    "text": "Then the location of the value area as well as the shape of the value area, so if we have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.86,
+    "end": 80.1,
+    "text": "a value area that's situated towards the top end or the bottom end of the day, again that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.1,
+    "end": 86.1,
+    "text": "showing us that there's high likelihood for at least a continuation, whether it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.1,
+    "end": 93.22,
+    "text": "a drift or a trend, at least some form of a continuation or movement in the direction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.62,
+    "end": 100.34,
+    "text": "and then obviously the shape of the value area, you know long elongated value areas, you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.34,
+    "end": 106.7,
+    "text": "we tend to show us probably a lot more one directional type trade, whereas when we have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.7,
+    "end": 111.3,
+    "text": "narrow small little value areas, again that's showing us a little bit more muted balanced",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 111.3,
+    "end": 111.94,
+    "text": "type trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.78,
+    "end": 118.64,
+    "text": "And then range, expansion and volume, like we said, you know, when we have the expansion",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.64,
+    "end": 123.48,
+    "text": "of volatility, you know, that's quite an important control variable we want to pay attention",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.48,
+    "end": 129.6,
+    "text": "to, as well as when we have relatively higher volume or lower volume, that's again showing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.6,
+    "end": 132.6,
+    "text": "us a control variable we need to pay attention to.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.94,
+    "end": 138.38,
+    "text": "Our open type, so if we have open drives and open test drives, again that's showing us",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.38,
+    "end": 145.91,
+    "text": "strength or a strong control variable early on in the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.91,
+    "end": 149.97,
+    "text": "And then our trend characteristics, if we see those trend characteristics that we spoke",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.05,
+    "end": 164.33,
+    "text": "characteristics are early identifiers that there is control by either the buyers and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.33,
+    "end": 165.97,
+    "text": "sellers in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.97,
+    "end": 172.77,
+    "text": "And then last, tails, these tails are crucial, they do give us an early identifier of strength",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.77,
+    "end": 179.29,
+    "text": "in the market and we need to pay attention to these variables as they can be indicative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.93,
+    "end": 189.57,
+    "text": "To summarise, the man who insists upon seeing perfect cleanliness before he decides, never",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.57,
+    "end": 190.57,
+    "text": "decides.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.57,
+    "end": 195.65,
+    "text": "So again, it brings you back to this concept of if you're waiting for too much information,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.65,
+    "end": 199.45,
+    "text": "it's highly likely that one, you're not going to be able to take full advantage",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.45,
+    "end": 203.49,
+    "text": "of the opportunity, but a lot of the time you might miss the opportunity altogether.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.49,
+    "end": 208.09,
+    "text": "And that's why we want to differentiate between what control variables are showing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 212.21,
+    "end": 215.21,
+    "text": "are showing us weakness and a lack of confidence.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.21,
+    "end": 218.05,
+    "text": "Identifying these variables early on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.05,
+    "end": 222.41,
+    "text": "will allow us to develop strategies that we can take on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.41,
+    "end": 225.53,
+    "text": "early and not wait for too much information. So",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.53,
+    "end": 228.85,
+    "text": "let's have a look now at some of the control variables that show",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.85,
+    "end": 229.85,
+    "text": "weakness.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

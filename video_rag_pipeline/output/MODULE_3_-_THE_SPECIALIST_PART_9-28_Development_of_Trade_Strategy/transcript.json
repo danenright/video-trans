@@ -1,0 +1,978 @@
+[
+  {
+    "start": 1.17,
+    "end": 7.09,
+    "text": "Now, once you have completed that, we then move on to the risk management and money management",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.09,
+    "end": 8.57,
+    "text": "side of things.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.57,
+    "end": 12.81,
+    "text": "Ultimately, what you want to think about here is how much of your day do you want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.81,
+    "end": 14.83,
+    "text": "to risk on this strategy?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.83,
+    "end": 18.57,
+    "text": "What sort of size do you want to put onto the strategy?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.57,
+    "end": 23.47,
+    "text": "How are you going to manage when you go on-side or off-side?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.47,
+    "end": 25.13,
+    "text": "Are you going to pyramid?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.13,
+    "end": 26.93,
+    "text": "Are you willing to average?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.02,
+    "end": 35.54,
+    "text": "These are all sorts of considerations you need to take into account when determining",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.54,
+    "end": 39.14,
+    "text": "your risk management and money management style.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.14,
+    "end": 45.24,
+    "text": "Now again, different setups, different strategies will have completely different risk parameters.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.24,
+    "end": 49.26,
+    "text": "If you're doing a momentum trade setup, the risk is far tighter.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.26,
+    "end": 54.1,
+    "text": "If you're doing, say, a high volume area setup, remember we spoke about a lot of two-way",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.86,
+    "end": 63.74,
+    "text": "it's important to make sure you understand the risk profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.74,
+    "end": 67.58,
+    "text": "for each individual strategy. Once you've done that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.58,
+    "end": 70.86,
+    "text": "we then move on to the execution methodology.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.86,
+    "end": 75.14,
+    "text": "Now this is one of the most crucial parts because every single price,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.14,
+    "end": 78.86,
+    "text": "every single increment in the market is effectively money gained",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.86,
+    "end": 82.91,
+    "text": "or lost. So the question you need to be asking yourself is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.91,
+    "end": 86.63,
+    "text": "how do you enter? Are you aggressive like in the low-volume area?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.18,
+    "end": 94.75,
+    "text": "Okay, are you entering with limit orders or are you entering with stop orders?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.75,
+    "end": 100.51,
+    "text": "Then stop placement, where in the strategy, in other words, the stop placement is very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.51,
+    "end": 101.51,
+    "text": "simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.51,
+    "end": 104.35,
+    "text": "I get this question very often where people ask, you know, where do you stop at for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.35,
+    "end": 106.23,
+    "text": "a certain number of prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.23,
+    "end": 108.11,
+    "text": "It's very simple and listen to me carefully.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.37,
+    "end": 116.69,
+    "text": "you stop out where the trade strategy is invalidated, in other words, it's no longer validated by",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.69,
+    "end": 120.61,
+    "text": "what you initially got into the trade for.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.61,
+    "end": 125.47,
+    "text": "So in simple terms, again, with the breakout trade setup that we spoke about, if you're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.47,
+    "end": 130.09,
+    "text": "expecting an aggressive move up and you're not expecting to go very far offside because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.09,
+    "end": 134.25,
+    "text": "you are going with momentum, the minute you do go offside, or the minute you do",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.57,
+    "end": 144.37,
+    "text": "That is the point at which you exit, not the point of a predetermined stop, not this business of a trailing stop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.37,
+    "end": 149.27,
+    "text": "You exit where the trade strategy is no longer valid, and that is what a stop is.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.27,
+    "end": 153.27,
+    "text": "It's the point that stops you out of a trade that is no longer valid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.27,
+    "end": 156.47,
+    "text": "There is no hard fast rule when it comes to stop placement.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.47,
+    "end": 161.5,
+    "text": "The hard fast rule is very simply, you get out when the trade is invalid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.31,
+    "end": 168.99,
+    "text": "where look at where you want to target notes where are you getting out of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.99,
+    "end": 170.51,
+    "text": "trade and taking profit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.51,
+    "end": 171.31,
+    "text": "again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.31,
+    "end": 173.27,
+    "text": "there's no hard fast rule there's no",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.27,
+    "end": 176.25,
+    "text": "risk reward of two to one three to one four to one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.25,
+    "end": 178.03,
+    "text": "that's what the textbooks teach you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.03,
+    "end": 182.39,
+    "text": "that's what these gurus teach you about taking ten to one risk reward",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.39,
+    "end": 185.25,
+    "text": "okay i'm gonna tell you something that's all rubbish",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.25,
+    "end": 186.23,
+    "text": "you take",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.23,
+    "end": 187.63,
+    "text": "that you take your profit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.63,
+    "end": 190.11,
+    "text": "where the market tells you to take your profit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.11,
+    "end": 192.03,
+    "text": "again what i mean by that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.14,
+    "end": 198.16,
+    "text": "The market's going higher and higher and higher, we can see the breakout, we can see the initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.16,
+    "end": 199.88,
+    "text": "from buyers in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.88,
+    "end": 205.58,
+    "text": "The minute we see responsive selling into the market, that's the point at which we exit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.58,
+    "end": 208.04,
+    "text": "That's the point at which we take our profits.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.04,
+    "end": 209.04,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.04,
+    "end": 213.0,
+    "text": "Because we can see sellers, other time frame or other participants stepping into",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.0,
+    "end": 216.04,
+    "text": "the market taking the opposite side trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.04,
+    "end": 220.0,
+    "text": "That is the point at which we need to get out of our breakout setup.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 224.14,
+    "end": 227.79,
+    "text": "we get out when the market tells us to get out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.79,
+    "end": 232.03,
+    "text": "Now, once you've done the execution methodology, we then move on to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 232.03,
+    "end": 236.27,
+    "text": "expectation analysis and emotional tracking.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 236.27,
+    "end": 239.95,
+    "text": "So crucial, another important section which I'm not sure many of you have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.95,
+    "end": 243.87,
+    "text": "thought about before. So, what is this? Well, simply, what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.87,
+    "end": 247.15,
+    "text": "do you expect to see? What's the kind of interaction, the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.88,
+    "end": 255.88,
+    "text": "We spoke a little bit about time in module 2. We spoke about how crucial time is at measuring the success of a trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 255.88,
+    "end": 268.52,
+    "text": "Remember, if you're trading a momentum type play, the time expected to see success is far slower than, for instance, if you're trading, say, a bracketing high volume area trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.52,
+    "end": 276.52,
+    "text": "This is crucial to understanding because when you have an expectation analysis, when the market does what you don't expect it to do,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.42,
+    "end": 281.3,
+    "text": "That's a very, very early clue that something is actually not quite like you thought it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.3,
+    "end": 282.42,
+    "text": "might have been.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.42,
+    "end": 283.86,
+    "text": "That is the time you want to exit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 283.86,
+    "end": 286.1,
+    "text": "That is the time you want to reduce risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.1,
+    "end": 291.42,
+    "text": "When there's uncertainty or a lower probability of success, that's where you exit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 291.42,
+    "end": 295.82,
+    "text": "You enter because there's a high probability of an event occurring and you exit because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 295.82,
+    "end": 299.58,
+    "text": "the probability of success is diminishing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 304.29,
+    "end": 308.29,
+    "text": "Not many traders think about this in terms of their emotional tracking.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 308.29,
+    "end": 310.74,
+    "text": "So what do I mean by this?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 310.74,
+    "end": 312.74,
+    "text": "Certain traders are very good at sitting off-site.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.74,
+    "end": 314.74,
+    "text": "Certain traders are very good at taking risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 314.74,
+    "end": 317.74,
+    "text": "Certain traders don't mind going a long way off-site.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.74,
+    "end": 320.74,
+    "text": "But then there's certain traders that hate taking risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 320.74,
+    "end": 322.74,
+    "text": "And that's okay, guys.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 322.74,
+    "end": 326.74,
+    "text": "I'm not suggesting at any point that you take any one of my 11 strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 326.74,
+    "end": 330.74,
+    "text": "and employ them as though they are the Holy Grail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 330.54,
+    "end": 338.02,
+    "text": "You need to understand yourself. You need to understand how you assess and how you take risk. So every strategy you develop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 338.42,
+    "end": 345.74,
+    "text": "Understand the emotional aspects surrounding that strategy and the risk you're going to be taking. If you struggle to sit in trades for a long time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 345.74,
+    "end": 350.54,
+    "text": "That's fine. Yes, that is a weakness, but rather focus on your strengths",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 350.94,
+    "end": 355.9,
+    "text": "Okay, if you struggle sitting in trades, well don't develop your strategies around sitting in trades",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 356.26,
+    "end": 359.34,
+    "text": "Develop your strategies based on the strengths that you have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.58,
+    "end": 365.58,
+    "text": "based on your emotional strengths. Then we discuss the time required for success,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 365.58,
+    "end": 370.7,
+    "text": "how long do you expect it to take till you achieve success. And then lastly, the overall",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 370.7,
+    "end": 376.06,
+    "text": "process. In other words, you want to be understanding what the process is surrounding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 376.06,
+    "end": 382.74,
+    "text": "your overall strategy. Now, important to understand is that in addition to knowing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 382.74,
+    "end": 387.46,
+    "text": "the market, you have to know yourself. That is what this number six is all about,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 390.18,
+    "end": 395.66,
+    "text": "You need to know yourself because it's yourself that is going to be leveraging up, it's yourself",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 395.66,
+    "end": 400.58,
+    "text": "that's going to be taking risk, it's yourself that's going to cause self-doubt when maybe",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.58,
+    "end": 404.47,
+    "text": "a strategy isn't quite working out like you expect it to.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 404.47,
+    "end": 410.37,
+    "text": "That is why we pay attention and do this emotional tracking within our trade strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 410.37,
+    "end": 411.37,
+    "text": "development.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 411.37,
+    "end": 417.35,
+    "text": "Lastly, step number seven, constant evaluation and improvement.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 419.57,
+    "end": 423.49,
+    "text": "At the end of the day, you need to go over that strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 423.49,
+    "end": 427.01,
+    "text": "You need to go look point for point how that strategy played out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 427.01,
+    "end": 428.49,
+    "text": "You need to annotate it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 428.49,
+    "end": 431.41,
+    "text": "You need to look how the buyers and sellers interacted.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 431.41,
+    "end": 436.49,
+    "text": "You need to find any sort of observation that was either as you expected or not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 436.49,
+    "end": 438.21,
+    "text": "as you expected.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 438.21,
+    "end": 442.29,
+    "text": "Because it's this constant analysis and self-evaluation that is one, going to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 442.29,
+    "end": 446.35,
+    "text": "improve this trade strategy over the long run, but more importantly, it's going to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 449.02,
+    "end": 453.98,
+    "text": "That is where real edge is developed, is in mastering a strategy, in understanding every",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 453.98,
+    "end": 457.69,
+    "text": "angle, every element of the strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 457.69,
+    "end": 462.65,
+    "text": "Most important, trade strategies come into favor and they go out of favor.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 462.65,
+    "end": 465.61,
+    "text": "Sometimes they're working very well for a long period of time, sometimes they're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 465.61,
+    "end": 467.81,
+    "text": "not working so well.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 467.81,
+    "end": 473.27,
+    "text": "By constantly self-evaluating, we can pick up when all of a sudden these trade strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 473.27,
+    "end": 477.69,
+    "text": "aren't working so well, and then we don't employ them as aggressively.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 478.98,
+    "end": 481.98,
+    "text": "when these trade strategies aren't working so well.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 481.98,
+    "end": 485.58,
+    "text": "That is the seven-step process to developing a trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 485.58,
+    "end": 488.7,
+    "text": "Now a lot of you should be sitting there and saying, well, actually a lot of these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 488.7,
+    "end": 490.9,
+    "text": "things I've never thought about.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 490.9,
+    "end": 494.0,
+    "text": "You should be thinking about them. You should be developing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 494.0,
+    "end": 498.22,
+    "text": "every single one of your trade strategies in this exact manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 498.22,
+    "end": 501.52,
+    "text": "When we go through the rest of Module 3,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 501.52,
+    "end": 504.88,
+    "text": "you're going to see how I assess every single trade strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 508.94,
+    "end": 514.7,
+    "text": "Now, go and develop your trade strategy in the way that I've just shown you and hopefully",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 514.7,
+    "end": 518.3,
+    "text": "you can start developing some highly effective trade strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

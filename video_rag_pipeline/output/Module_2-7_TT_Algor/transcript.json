@@ -1,0 +1,402 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "The TT platform gives users the ability",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2.0,
+    "end": 5.18,
+    "text": "to customize their trade execution with TT algos.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.18,
+    "end": 7.14,
+    "text": "TT algos are synthetic order types",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.14,
+    "end": 8.6,
+    "text": "that provide functionality beyond",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.6,
+    "end": 11.08,
+    "text": "what is natively supported by many exchanges.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.08,
+    "end": 12.88,
+    "text": "With TT algos, you can trigger orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.88,
+    "end": 14.32,
+    "text": "when certain conditions are met",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.32,
+    "end": 16.68,
+    "text": "and reduce the impact of your orders on the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.68,
+    "end": 18.72,
+    "text": "You can trigger orders on price action,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.72,
+    "end": 20.8,
+    "text": "slice orders into smaller increments,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.8,
+    "end": 22.72,
+    "text": "submit or cancel orders based on the fills",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.72,
+    "end": 24.12,
+    "text": "of other orders, and more.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 24.22,
+    "end": 28.3,
+    "text": "TT algos are accessible from the order ticket using the order type drop-down,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.3,
+    "end": 32.54,
+    "text": "as well as from MDTrader through the order pane. At the top of the order type list,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.54,
+    "end": 36.62,
+    "text": "we see our standard order types supported by the exchange for the selected instrument.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.62,
+    "end": 42.18,
+    "text": "Beneath, we have our TT algos. We'd like to place an order to buy 200",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.18,
+    "end": 46.66,
+    "text": "euro stocks futures on Eurex, but we don't want to disclose our entire order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.66,
+    "end": 49.46,
+    "text": "Eurex does not natively support an iceberg order type,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.46,
+    "end": 52.34,
+    "text": "but with TT algos we can select the TT iceberg.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.62,
+    "end": 56.86,
+    "text": "Clicking our desired algo displays a flyout menu where we can enter our parameters.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.86,
+    "end": 61.26,
+    "text": "For our TT iceberg order, let's submit our order in increments of 25 at a time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.26,
+    "end": 65.66,
+    "text": "by setting the display to 25. When finished, we close our flyout menu.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.66,
+    "end": 68.46,
+    "text": "If we want to change our settings, we simply click Edit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.46,
+    "end": 72.78,
+    "text": "With our algo selected, we can place our TT iceberg order by clicking on the desired",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.78,
+    "end": 77.66,
+    "text": "price level in MDTrader. We see in our order book that TT algos consist of parent",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.98,
+    "end": 83.46,
+    "text": "The parent order is the synthetic order that resides on the Elgo server and can submit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.46,
+    "end": 86.18,
+    "text": "either single or multiple child orders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.18,
+    "end": 89.74,
+    "text": "Child orders are the native orders that are actually placed on the exchange.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.74,
+    "end": 95.18,
+    "text": "In our parent order, we see our order type of TT Iceberg, our order quantity of 200,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.18,
+    "end": 99.72,
+    "text": "our working quantity of 25, and our undisclosed quantity of 175.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.72,
+    "end": 102.86,
+    "text": "We can see our child order is a 25-lot limit order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.27,
+    "end": 108.67,
+    "text": "The parent order will submit another child order of 25 into the market and so on until",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.67,
+    "end": 112.6,
+    "text": "the total order quantity of 200 is filled.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.6,
+    "end": 117.54,
+    "text": "For TT algos that we use frequently, we can create custom order type buttons in MDTrader.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.54,
+    "end": 121.68,
+    "text": "We right-click in our MDTrader to access the Settings menu and can then select Order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.68,
+    "end": 122.84,
+    "text": "Type buttons.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.84,
+    "end": 127.0,
+    "text": "We click the green Add icon and open the drop-down menu to view the list of order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.0,
+    "end": 128.88,
+    "text": "types and TT algos.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.88,
+    "end": 131.12,
+    "text": "Let's select our TT iceberg algo.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.43,
+    "end": 136.59,
+    "text": "we can see a preview of the button to the right.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.59,
+    "end": 138.43,
+    "text": "When finished, we click OK.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.43,
+    "end": 141.71,
+    "text": "We would like this button to appear on all future MDTrader widgets,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.71,
+    "end": 144.43,
+    "text": "so we are going to select Set as Global Defaults.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.43,
+    "end": 148.19,
+    "text": "To make our button available, we click Apply and then Save.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.19,
+    "end": 152.67,
+    "text": "As you can see, we now have our TT Iceberg button in our MDTrader order pane.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.67,
+    "end": 157.23,
+    "text": "When we click this button, we are provided the TT Iceberg algo order parameters.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.23,
+    "end": 159.47,
+    "text": "Let's again set our display to 25.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.84,
+    "end": 164.16,
+    "text": "Our custom order button is highlighted yellow indicating that this algo order type is active",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.16,
+    "end": 168.72,
+    "text": "and ready to be placed in the market. For more information on the algos available through TT,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.72,
+    "end": 171.52,
+    "text": "visit our website at TradingTechnologies.com.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

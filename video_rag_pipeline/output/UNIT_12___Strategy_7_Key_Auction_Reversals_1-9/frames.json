@@ -1,0 +1,218 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0000_mid.jpg",
+    "time": 11.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0000_end.jpg",
+    "time": 22.400000000000002,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0001_start.jpg",
+    "time": 22.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0001_mid.jpg",
+    "time": 200.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0001_end.jpg",
+    "time": 378.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0002_start.jpg",
+    "time": 378.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0002_mid.jpg",
+    "time": 1138.75,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0002_end.jpg",
+    "time": 1899.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0003_start.jpg",
+    "time": 1899.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0003_mid.jpg",
+    "time": 2147.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0003_end.jpg",
+    "time": 2394.7000000000003,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0004_start.jpg",
+    "time": 2395.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0004_mid.jpg",
+    "time": 2509.15,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0004_end.jpg",
+    "time": 2623.2000000000003,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0005_start.jpg",
+    "time": 2623.6,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0005_mid.jpg",
+    "time": 2717.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0005_end.jpg",
+    "time": 2811.2000000000003,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0006_start.jpg",
+    "time": 2811.6,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0006_mid.jpg",
+    "time": 2815.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0006_end.jpg",
+    "time": 2819.2000000000003,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0007_start.jpg",
+    "time": 2819.6,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0007_mid.jpg",
+    "time": 2824.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0007_end.jpg",
+    "time": 2828.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0008_start.jpg",
+    "time": 2828.7999999999997,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0008_mid.jpg",
+    "time": 5597.45,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_1-9/frames/scene_0008_end.jpg",
+    "time": 8366.099999999999,
+    "width": 1366,
+    "height": 768
+  }
+]

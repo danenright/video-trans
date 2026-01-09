@@ -1,0 +1,218 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0000_mid.jpg",
+    "time": 31.38,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0000_end.jpg",
+    "time": 62.559999999999995,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0001_start.jpg",
+    "time": 62.96,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0001_mid.jpg",
+    "time": 126.44,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0001_end.jpg",
+    "time": 189.92000000000002,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0002_start.jpg",
+    "time": 190.32,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0002_mid.jpg",
+    "time": 466.56,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0002_end.jpg",
+    "time": 742.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0003_start.jpg",
+    "time": 743.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0003_mid.jpg",
+    "time": 780.46,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0003_end.jpg",
+    "time": 817.7199999999999,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0004_start.jpg",
+    "time": 818.12,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0004_mid.jpg",
+    "time": 858.52,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0004_end.jpg",
+    "time": 898.92,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0005_start.jpg",
+    "time": 899.32,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0005_mid.jpg",
+    "time": 1144.16,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0005_end.jpg",
+    "time": 1389.0,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0006_start.jpg",
+    "time": 1389.4,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0006_mid.jpg",
+    "time": 1403.1,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0006_end.jpg",
+    "time": 1416.8,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0007_start.jpg",
+    "time": 1417.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0007_mid.jpg",
+    "time": 1982.3,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0007_end.jpg",
+    "time": 2547.4,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0008_start.jpg",
+    "time": 2547.7999999999997,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0008_mid.jpg",
+    "time": 2606.6,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/HOW_TO_USE_THE_BASIC_ELEMENTS_OF_THE_FOOTPRINT_TOOL/frames/scene_0008_end.jpg",
+    "time": 2665.4,
+    "width": 1920,
+    "height": 1080
+  }
+]

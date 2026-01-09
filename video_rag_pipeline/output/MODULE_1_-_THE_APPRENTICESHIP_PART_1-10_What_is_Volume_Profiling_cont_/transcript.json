@@ -1,0 +1,58 @@
+[
+  {
+    "start": 0.94,
+    "end": 4.96,
+    "text": "Let's look at an example now of what a volume profile looks like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.96,
+    "end": 10.2,
+    "text": "Firstly, as you can see the first chart, we've got traditional candlesticks.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.2,
+    "end": 16.36,
+    "text": "Now as you can see that price is depicted on the right, each candle is a time based",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.36,
+    "end": 20.16,
+    "text": "candle and at the bottom we can see the volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.16,
+    "end": 26.4,
+    "text": "Now if we put this into a volume profile you can see it's the exact same information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.79,
+    "end": 36.31,
+    "text": "It's this volume profile chart that will allow us to easily identify patterns and remain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.31,
+    "end": 37.23,
+    "text": "objective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

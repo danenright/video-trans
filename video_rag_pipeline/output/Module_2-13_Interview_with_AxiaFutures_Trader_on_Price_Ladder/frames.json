@@ -1,0 +1,1034 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0000_mid.jpg",
+    "time": 4.8125,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0000_end.jpg",
+    "time": 9.425,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0001_start.jpg",
+    "time": 9.825,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0001_mid.jpg",
+    "time": 11.541666666666668,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0001_end.jpg",
+    "time": 13.258333333333335,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0002_start.jpg",
+    "time": 13.658333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0002_mid.jpg",
+    "time": 16.145833333333332,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0002_end.jpg",
+    "time": 18.633333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0003_start.jpg",
+    "time": 19.03333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0003_mid.jpg",
+    "time": 23.1875,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0003_end.jpg",
+    "time": 27.34166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0004_start.jpg",
+    "time": 27.741666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0004_mid.jpg",
+    "time": 29.6875,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0004_end.jpg",
+    "time": 31.633333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0005_start.jpg",
+    "time": 32.03333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0005_mid.jpg",
+    "time": 38.854166666666664,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0005_end.jpg",
+    "time": 45.675,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0006_start.jpg",
+    "time": 46.075,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0006_mid.jpg",
+    "time": 48.375,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0006_end.jpg",
+    "time": 50.675,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0007_start.jpg",
+    "time": 51.075,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0007_mid.jpg",
+    "time": 58.520833333333336,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0007_end.jpg",
+    "time": 65.96666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0008_start.jpg",
+    "time": 66.36666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0008_mid.jpg",
+    "time": 67.97916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0008_end.jpg",
+    "time": 69.59166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0009_start.jpg",
+    "time": 69.99166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0009_mid.jpg",
+    "time": 78.39583333333334,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0009_end.jpg",
+    "time": 86.8,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0010_start.jpg",
+    "time": 87.2,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0010_mid.jpg",
+    "time": 89.10416666666666,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0010_end.jpg",
+    "time": 91.00833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0011_start.jpg",
+    "time": 91.40833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0011_mid.jpg",
+    "time": 98.4375,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0011_end.jpg",
+    "time": 105.46666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0012_start.jpg",
+    "time": 105.86666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0012_mid.jpg",
+    "time": 107.77083333333334,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 12,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0012_end.jpg",
+    "time": 109.675,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 13,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0013_start.jpg",
+    "time": 110.075,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 13,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0013_mid.jpg",
+    "time": 116.875,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 13,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0013_end.jpg",
+    "time": 123.675,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 14,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0014_start.jpg",
+    "time": 124.075,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 14,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0014_mid.jpg",
+    "time": 125.64583333333334,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 14,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0014_end.jpg",
+    "time": 127.21666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 15,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0015_start.jpg",
+    "time": 127.61666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 15,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0015_mid.jpg",
+    "time": 137.5625,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 15,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0015_end.jpg",
+    "time": 147.50833333333335,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 16,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0016_start.jpg",
+    "time": 147.90833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 16,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0016_mid.jpg",
+    "time": 150.35416666666669,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 16,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0016_end.jpg",
+    "time": 152.8,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 17,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0017_start.jpg",
+    "time": 153.2,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 17,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0017_mid.jpg",
+    "time": 163.85416666666669,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 17,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0017_end.jpg",
+    "time": 174.50833333333335,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 18,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0018_start.jpg",
+    "time": 174.90833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 18,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0018_mid.jpg",
+    "time": 176.85416666666669,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 18,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0018_end.jpg",
+    "time": 178.8,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 19,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0019_start.jpg",
+    "time": 179.2,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 19,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0019_mid.jpg",
+    "time": 190.64583333333331,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 19,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0019_end.jpg",
+    "time": 202.09166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 20,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0020_start.jpg",
+    "time": 202.49166666666665,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 20,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0020_mid.jpg",
+    "time": 204.41666666666666,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 20,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0020_end.jpg",
+    "time": 206.34166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 21,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0021_start.jpg",
+    "time": 206.74166666666665,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 21,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0021_mid.jpg",
+    "time": 221.75,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 21,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0021_end.jpg",
+    "time": 236.75833333333335,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 22,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0022_start.jpg",
+    "time": 237.15833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 22,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0022_mid.jpg",
+    "time": 240.0,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 22,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0022_end.jpg",
+    "time": 242.84166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 23,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0023_start.jpg",
+    "time": 243.24166666666665,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 23,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0023_mid.jpg",
+    "time": 258.2083333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 23,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0023_end.jpg",
+    "time": 273.175,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 24,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0024_start.jpg",
+    "time": 273.575,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 24,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0024_mid.jpg",
+    "time": 276.66666666666663,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 24,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0024_end.jpg",
+    "time": 279.7583333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 25,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0025_start.jpg",
+    "time": 280.1583333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 25,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0025_mid.jpg",
+    "time": 298.3333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 25,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0025_end.jpg",
+    "time": 316.5083333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 26,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0026_start.jpg",
+    "time": 316.9083333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 26,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0026_mid.jpg",
+    "time": 319.75,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 26,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0026_end.jpg",
+    "time": 322.5916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 27,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0027_start.jpg",
+    "time": 322.9916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 27,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0027_mid.jpg",
+    "time": 333.2916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 27,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0027_end.jpg",
+    "time": 343.5916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 28,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0028_start.jpg",
+    "time": 343.9916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 28,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0028_mid.jpg",
+    "time": 346.1041666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 28,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0028_end.jpg",
+    "time": 348.2166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 29,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0029_start.jpg",
+    "time": 348.6166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 29,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0029_mid.jpg",
+    "time": 362.7916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 29,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0029_end.jpg",
+    "time": 376.9666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 30,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0030_start.jpg",
+    "time": 377.3666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 30,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0030_mid.jpg",
+    "time": 379.45833333333337,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 30,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0030_end.jpg",
+    "time": 381.55,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 31,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0031_start.jpg",
+    "time": 381.95,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 31,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0031_mid.jpg",
+    "time": 398.85416666666663,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 31,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0031_end.jpg",
+    "time": 415.7583333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 32,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0032_start.jpg",
+    "time": 416.1583333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 32,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0032_mid.jpg",
+    "time": 418.79166666666663,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 32,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0032_end.jpg",
+    "time": 421.425,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 33,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0033_start.jpg",
+    "time": 421.825,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 33,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0033_mid.jpg",
+    "time": 434.1875,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 33,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0033_end.jpg",
+    "time": 446.55,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 34,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0034_start.jpg",
+    "time": 446.95,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 34,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0034_mid.jpg",
+    "time": 449.60416666666663,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 34,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0034_end.jpg",
+    "time": 452.2583333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 35,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0035_start.jpg",
+    "time": 452.6583333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 35,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0035_mid.jpg",
+    "time": 470.9375,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 35,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0035_end.jpg",
+    "time": 489.2166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 36,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0036_start.jpg",
+    "time": 489.6166666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 36,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0036_mid.jpg",
+    "time": 492.25,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 36,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0036_end.jpg",
+    "time": 494.8833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 37,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0037_start.jpg",
+    "time": 495.2833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 37,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0037_mid.jpg",
+    "time": 510.08333333333337,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 37,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0037_end.jpg",
+    "time": 524.8833333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 38,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0038_start.jpg",
+    "time": 525.2833333333334,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 38,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0038_mid.jpg",
+    "time": 527.2083333333334,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 38,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0038_end.jpg",
+    "time": 529.1333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 39,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0039_start.jpg",
+    "time": 529.5333333333334,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 39,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0039_mid.jpg",
+    "time": 554.3333333333334,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 39,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0039_end.jpg",
+    "time": 579.1333333333333,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 40,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0040_start.jpg",
+    "time": 579.5333333333334,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 40,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0040_mid.jpg",
+    "time": 582.75,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 40,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0040_end.jpg",
+    "time": 585.9666666666666,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 41,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0041_start.jpg",
+    "time": 586.3666666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 41,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0041_mid.jpg",
+    "time": 597.4791666666666,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 41,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0041_end.jpg",
+    "time": 608.5916666666666,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 42,
+    "kind": "start",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0042_start.jpg",
+    "time": 608.9916666666667,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 42,
+    "kind": "mid",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0042_mid.jpg",
+    "time": 612.4791666666666,
+    "width": 960,
+    "height": 528
+  },
+  {
+    "scene_idx": 42,
+    "kind": "end",
+    "path": "output/Module_2-13_Interview_with_AxiaFutures_Trader_on_Price_Ladder/frames/scene_0042_end.jpg",
+    "time": 615.9666666666666,
+    "width": 960,
+    "height": 528
+  }
+]

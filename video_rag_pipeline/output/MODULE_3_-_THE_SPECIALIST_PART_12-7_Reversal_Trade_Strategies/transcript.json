@@ -1,0 +1,434 @@
+[
+  {
+    "start": 1.2,
+    "end": 5.96,
+    "text": "Welcome to the final section of strategies that we are going to talk about in part 12",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.96,
+    "end": 7.95,
+    "text": "module 3.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.95,
+    "end": 9.75,
+    "text": "So reversal trade strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.75,
+    "end": 11.56,
+    "text": "Let's define them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.56,
+    "end": 15.84,
+    "text": "Firstly, what sort of timeframe players are you expecting to see in the reversal",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.84,
+    "end": 17.12,
+    "text": "trade strategies?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.12,
+    "end": 21.48,
+    "text": "Again, you're going to see all timeframe participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.48,
+    "end": 25.9,
+    "text": "The reason is that, let's say for instance a market is moving lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.9,
+    "end": 29.92,
+    "text": "As this market is moving lower, we may have algorithmic, short-term and day traders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.12,
+    "end": 37.48,
+    "text": "As prices move lower and lower they could then run into both swing traders as well as longer",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.48,
+    "end": 39.8,
+    "text": "term influential players.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.8,
+    "end": 44.0,
+    "text": "These longer term influential players turn the market back around in a very aggressive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.0,
+    "end": 49.72,
+    "text": "nature and as they do so both algorithmic and short term traders and day traders tend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.72,
+    "end": 55.17,
+    "text": "to exit those original short positions, buying the market higher up.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.11,
+    "end": 65.91,
+    "text": "In terms of initiative and responsive, we tend to see both initiative as well as responsive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.91,
+    "end": 71.79,
+    "text": "Firstly, we see short-term day traders, as well as algorithmic, moving prices lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.79,
+    "end": 76.23,
+    "text": "They then run into longer timeframe responsive buyers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.23,
+    "end": 80.87,
+    "text": "Those responsive buyers turn prices back around and then begin to initiate a move",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.45,
+    "end": 88.85,
+    "text": "In terms of the time objective, reversal strategies can sometimes take a long time to reverse,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.85,
+    "end": 91.57,
+    "text": "but they can also take a short period of time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.57,
+    "end": 95.45,
+    "text": "Again, it depends on the type of strategy you're trying to achieve.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.45,
+    "end": 99.61,
+    "text": "Make sure you interpret and understand what the time allocation is based on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.61,
+    "end": 101.57,
+    "text": "strategy you are trying to create.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.06,
+    "end": 107.26,
+    "text": "In terms of volume and volatility, reversal strategies can show very very high volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.26,
+    "end": 112.7,
+    "text": "and volatility as you will see in the examples I show you, but equally they can sometimes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.7,
+    "end": 117.22,
+    "text": "show a real lack of volume and volatility as momentum disappears.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.22,
+    "end": 123.15,
+    "text": "Again, make sure when you develop your strategies you interpret them accordingly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.15,
+    "end": 128.75,
+    "text": "In terms of risk reward, reversal strategies can have very very high risk reward.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.73,
+    "end": 137.97,
+    "text": "you are technically still against the short-term trend, so it's imperative that you manage risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.97,
+    "end": 143.73,
+    "text": "Always remember, it doesn't matter how good a point of entry is, if you do not manage the risk,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.73,
+    "end": 148.61,
+    "text": "the markets can remain irrational for a lot longer than you think. Always manage risk,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.61,
+    "end": 154.53,
+    "text": "particularly when it comes to reversal pattern plays. Then when it comes to momentum,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.08,
+    "end": 163.24,
+    "text": "So what we're looking for is confirmation that a market has found some sort of a top",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.24,
+    "end": 164.72,
+    "text": "or a bottom.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.72,
+    "end": 170.12,
+    "text": "Once it's done that, not only are we reducing risk, but we can then go with the momentum",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.12,
+    "end": 173.23,
+    "text": "in the opposite direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.23,
+    "end": 175.79,
+    "text": "Now let's define reversals.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.85,
+    "end": 185.41,
+    "text": "So, the reversals we're going to talk about are not necessarily where momentum disappears",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.41,
+    "end": 190.21,
+    "text": "and the momentum fades, but we're going to talk about where the market moves to prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.21,
+    "end": 195.07,
+    "text": "where the lower prices or higher prices, and we see influential participants enter",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.07,
+    "end": 199.02,
+    "text": "the market and initiate in the opposite direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.02,
+    "end": 204.11,
+    "text": "Those are the kinds of strategies we are going to develop under the reversal strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.11,
+    "end": 209.07,
+    "text": "Then, if there's positioning in the market, this is what creates the effective",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.44,
+    "end": 214.12,
+    "text": "Take the example again, as prices are moving lower, day traders and short-term algorithms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.12,
+    "end": 218.32,
+    "text": "run into responsive initiative buyers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.32,
+    "end": 223.48,
+    "text": "Once these buyers begin to initiate, they then force a response out of any short-term",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.48,
+    "end": 227.16,
+    "text": "trader and squeeze them out of those positions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.16,
+    "end": 231.21,
+    "text": "That positioning is what creates the aggressive reversal.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 231.21,
+    "end": 234.17,
+    "text": "Lastly, the short-term trend.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.95,
+    "end": 243.55,
+    "text": "tend to be on a short term basis, so we can see as a short term trend shift quite quickly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.55,
+    "end": 248.23,
+    "text": "This can be within a medium or longer term trend. The important thing to understand is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.23,
+    "end": 253.88,
+    "text": "that we are looking for reversals within the short term trend. The two strategies we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.88,
+    "end": 257.86,
+    "text": "are going to develop going forward now, and for the rest of Module 3, are one,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.37,
+    "end": 268.53,
+    "text": "Let's get started and begin with Gap Day, Gapful Trading Strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

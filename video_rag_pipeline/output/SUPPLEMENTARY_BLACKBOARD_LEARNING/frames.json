@@ -1,0 +1,170 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0000_mid.jpg",
+    "time": 177.45,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0000_end.jpg",
+    "time": 354.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0001_start.jpg",
+    "time": 355.09999999999997,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0001_mid.jpg",
+    "time": 600.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0001_end.jpg",
+    "time": 845.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0002_start.jpg",
+    "time": 845.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0002_mid.jpg",
+    "time": 847.75,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0002_end.jpg",
+    "time": 849.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0003_start.jpg",
+    "time": 850.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0003_mid.jpg",
+    "time": 946.9,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0003_end.jpg",
+    "time": 1043.6,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0004_start.jpg",
+    "time": 1044.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0004_mid.jpg",
+    "time": 1070.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0004_end.jpg",
+    "time": 1096.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0005_start.jpg",
+    "time": 1096.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0005_mid.jpg",
+    "time": 1123.8000000000002,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0005_end.jpg",
+    "time": 1151.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0006_start.jpg",
+    "time": 1151.6000000000001,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0006_mid.jpg",
+    "time": 1151.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/SUPPLEMENTARY_BLACKBOARD_LEARNING/frames/scene_0006_end.jpg",
+    "time": 1151.8,
+    "width": 1366,
+    "height": 768
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "start": 1.23,
+    "end": 6.99,
+    "text": "Let's now have that discussion about the traditional value area versus the volume value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.99,
+    "end": 14.35,
+    "text": "What I'm going to do is I'm going to just briefly explain how market profiling originally",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.35,
+    "end": 18.31,
+    "text": "came about, but then more importantly I'm going to give you the advantages of using",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.31,
+    "end": 25.19,
+    "text": "the volume profile instead of the traditional value area that was used back in the days.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.19,
+    "end": 30.15,
+    "text": "And I would like you to make up your mind as to what you think is more important.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.67,
+    "end": 36.93,
+    "text": "Briefly, profiling in the beginning when it was first created as a visual chart, it included",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.93,
+    "end": 39.87,
+    "text": "the most important pillars of auction theory.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.87,
+    "end": 43.61,
+    "text": "These were price, time and dispersion of trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.61,
+    "end": 48.61,
+    "text": "The original value area included the dispersion of trade over an area of prices known as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.61,
+    "end": 50.61,
+    "text": "the value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.61,
+    "end": 55.17,
+    "text": "This area shows where 70% of trade has been facilitated.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.11,
+    "end": 66.23,
+    "text": "However, as volume became more important with the expansion of the markets and market participants,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.23,
+    "end": 71.15,
+    "text": "traders wanted to add an additional element being volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.15,
+    "end": 78.43,
+    "text": "In modern day profiling, we now have a fourth element, and those four will include not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.43,
+    "end": 82.59,
+    "text": "just price, time and dispersion of trade, but also volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.12,
+    "end": 88.72,
+    "text": "So the basic if you look at a basic distribution which you have on the chart in front of you as you can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.02,
+    "end": 92.96,
+    "text": "the volume area is nothing more than where 70% of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.9,
+    "end": 97.8,
+    "text": "Trade is facilitated in a distribution now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.34,
+    "end": 104.22,
+    "text": "The important thing to understand is not whether it's wrong or right to do one or the other,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.22,
+    "end": 109.12,
+    "text": "it's about sticking with one or picking one and then sticking with your methodology.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.12,
+    "end": 114.9,
+    "text": "So let's look at some of the advantages of using volume as a preferred choice for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.9,
+    "end": 118.38,
+    "text": "your value area instead of the traditional value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.38,
+    "end": 119.86,
+    "text": "The first one.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.86,
+    "end": 124.7,
+    "text": "Most participants nowadays have converted to using only volume value areas and I'll",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.7,
+    "end": 126.16,
+    "text": "explain to you why.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.04,
+    "end": 133.18,
+    "text": "Using volume value area means we can incorporate all the different time zone sessions into our analysis",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.48,
+    "end": 139.52,
+    "text": "Now what I mean by that if you look at some of the the key US markets for instance the US",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.6,
+    "end": 144.42,
+    "text": "Equity index the S&P 500 or the Nasdaq or the US bond market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.04,
+    "end": 147.8,
+    "text": "Nowadays they're trading almost 24 hours",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.04,
+    "end": 154.28,
+    "text": "So the key question you have to ask yourself any trade that is done outside of the cash put session",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.4,
+    "end": 156.4,
+    "text": "How important is this trade?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.82,
+    "end": 163.58,
+    "text": "That's the question you have to ask yourself. Now being able to use volume as a guide instead of just traditional values",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.74,
+    "end": 167.82,
+    "text": "You're able to almost use a relative benchmark",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.02,
+    "end": 171.82,
+    "text": "because we're in the low or in the in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.02,
+    "end": 176.56,
+    "text": "time periods when there's no cache session",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.56,
+    "end": 180.3,
+    "text": "and very little volume, this will be depicted on a chart.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.3,
+    "end": 184.3,
+    "text": "However, if there's high volume outside of these cache per session hours,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 184.3,
+    "end": 187.22,
+    "text": "at least that's telling you there is something genuine going on.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.22,
+    "end": 190.5,
+    "text": "So using the volume instead of the traditional",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.5,
+    "end": 194.78,
+    "text": "will sort of almost allow you to be able to use your charts 24 hours as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.78,
+    "end": 201.9,
+    "text": "opposed to just certain sessions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.07,
+    "end": 202.55,
+    "text": "The next benefit, volume shows actual intention of buyers and sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 202.55,
+    "end": 207.67,
+    "text": "As change occurs with price moving, buyers and sellers need to react with volume, hence",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.67,
+    "end": 208.75,
+    "text": "showing their intent.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.75,
+    "end": 213.75,
+    "text": "In other words, we can use volume as a key gauge for the intention of buyers and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.75,
+    "end": 214.75,
+    "text": "sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.75,
+    "end": 215.75,
+    "text": "What do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.75,
+    "end": 219.19,
+    "text": "In other words, as price is changing, buyers and sellers are going to transact",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.74,
+    "end": 225.76,
+    "text": "Now, at certain points, certain reference points, we're going to see higher volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.76,
+    "end": 228.12,
+    "text": "At certain reference points, we're going to see lower volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.12,
+    "end": 233.2,
+    "text": "By having this additional element, we can make better decisions about what buyers and sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.2,
+    "end": 234.2,
+    "text": "are actually doing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.83,
+    "end": 240.59,
+    "text": "The next benefit is using volume instead of time as a key determinant for fair value.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.59,
+    "end": 245.27,
+    "text": "We have a metric that can be used to make relative comparisons and that's one of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.27,
+    "end": 247.23,
+    "text": "key highlights guys.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.23,
+    "end": 253.23,
+    "text": "Volume you can compare on a relative basis, whereas time, because markets are now pretty",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.23,
+    "end": 259.23,
+    "text": "much 24 hours, it's not as easy to compare over a 24 hour session because sometimes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.43,
+    "end": 269.31,
+    "text": "you have no one in the market. So using time is not the best relative tool when",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 269.31,
+    "end": 276.55,
+    "text": "in comparison to volume. Therefore when talking about the volume value area from",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.55,
+    "end": 280.79,
+    "text": "this point or the value area, I will always be referring to the volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.79,
+    "end": 285.11,
+    "text": "value area. I will no longer refer to a traditional value area as I do not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 285.11,
+    "end": 292.19,
+    "text": "believe this is beneficial in this era of trading going forward.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.53,
+    "end": 295.73,
+    "text": "Let's now have a look. I'm going to show you on a distribution how it would",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 295.73,
+    "end": 300.73,
+    "text": "look different if I used a volume value and a traditional value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

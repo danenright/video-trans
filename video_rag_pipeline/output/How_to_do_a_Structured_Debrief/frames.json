@@ -1,0 +1,594 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0000_mid.jpg",
+    "time": 225.7,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0000_end.jpg",
+    "time": 451.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0001_start.jpg",
+    "time": 451.59999999999997,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0001_mid.jpg",
+    "time": 457.62,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0001_end.jpg",
+    "time": 463.64,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0002_start.jpg",
+    "time": 464.03999999999996,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0002_mid.jpg",
+    "time": 494.62,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0002_end.jpg",
+    "time": 525.1999999999999,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0003_start.jpg",
+    "time": 525.6,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0003_mid.jpg",
+    "time": 576.12,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0003_end.jpg",
+    "time": 626.64,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0004_start.jpg",
+    "time": 627.0400000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0004_mid.jpg",
+    "time": 657.6400000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0004_end.jpg",
+    "time": 688.24,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0005_start.jpg",
+    "time": 688.6400000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0005_mid.jpg",
+    "time": 690.62,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0005_end.jpg",
+    "time": 692.5999999999999,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0006_start.jpg",
+    "time": 693.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0006_mid.jpg",
+    "time": 718.48,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0006_end.jpg",
+    "time": 743.9599999999999,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0007_start.jpg",
+    "time": 744.36,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0007_mid.jpg",
+    "time": 756.12,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0007_end.jpg",
+    "time": 767.88,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0008_start.jpg",
+    "time": 768.2800000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0008_mid.jpg",
+    "time": 771.6400000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0008_end.jpg",
+    "time": 775.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0009_start.jpg",
+    "time": 775.4000000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0009_mid.jpg",
+    "time": 777.96,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0009_end.jpg",
+    "time": 780.52,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0010_start.jpg",
+    "time": 780.9200000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0010_mid.jpg",
+    "time": 783.1800000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0010_end.jpg",
+    "time": 785.4399999999999,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0011_start.jpg",
+    "time": 785.84,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0011_mid.jpg",
+    "time": 787.9200000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0011_end.jpg",
+    "time": 790.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0012_start.jpg",
+    "time": 790.4000000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0012_mid.jpg",
+    "time": 793.1800000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 12,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0012_end.jpg",
+    "time": 795.9599999999999,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 13,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0013_start.jpg",
+    "time": 796.36,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 13,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0013_mid.jpg",
+    "time": 798.76,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 13,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0013_end.jpg",
+    "time": 801.16,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 14,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0014_start.jpg",
+    "time": 801.5600000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 14,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0014_mid.jpg",
+    "time": 803.4200000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 14,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0014_end.jpg",
+    "time": 805.28,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 15,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0015_start.jpg",
+    "time": 805.6800000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 15,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0015_mid.jpg",
+    "time": 809.62,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 15,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0015_end.jpg",
+    "time": 813.56,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 16,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0016_start.jpg",
+    "time": 813.96,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 16,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0016_mid.jpg",
+    "time": 842.74,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 16,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0016_end.jpg",
+    "time": 871.52,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 17,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0017_start.jpg",
+    "time": 871.9200000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 17,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0017_mid.jpg",
+    "time": 877.58,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 17,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0017_end.jpg",
+    "time": 883.24,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 18,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0018_start.jpg",
+    "time": 883.6400000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 18,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0018_mid.jpg",
+    "time": 885.02,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 18,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0018_end.jpg",
+    "time": 886.4,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 19,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0019_start.jpg",
+    "time": 886.8000000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 19,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0019_mid.jpg",
+    "time": 895.98,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 19,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0019_end.jpg",
+    "time": 905.16,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 20,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0020_start.jpg",
+    "time": 905.5600000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 20,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0020_mid.jpg",
+    "time": 911.34,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 20,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0020_end.jpg",
+    "time": 917.12,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 21,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0021_start.jpg",
+    "time": 917.5200000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 21,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0021_mid.jpg",
+    "time": 936.76,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 21,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0021_end.jpg",
+    "time": 956.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 22,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0022_start.jpg",
+    "time": 956.4000000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 22,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0022_mid.jpg",
+    "time": 970.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 22,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0022_end.jpg",
+    "time": 984.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 23,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0023_start.jpg",
+    "time": 984.4000000000001,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 23,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0023_mid.jpg",
+    "time": 999.3,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 23,
+    "kind": "end",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0023_end.jpg",
+    "time": 1014.1999999999999,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 24,
+    "kind": "start",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0024_start.jpg",
+    "time": 1014.6,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 24,
+    "kind": "mid",
+    "path": "output/How_to_do_a_Structured_Debrief/frames/scene_0024_mid.jpg",
+    "time": 1110.72,
+    "width": 1280,
+    "height": 720
+  }
+]

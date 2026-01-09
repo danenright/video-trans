@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-11_The_Future_of_Volume_Profiling_as_a_Tool/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-11_The_Future_of_Volume_Profiling_as_a_Tool/frames/scene_0000_mid.jpg",
+    "time": 141.12,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-11_The_Future_of_Volume_Profiling_as_a_Tool/frames/scene_0000_end.jpg",
+    "time": 282.04,
+    "width": 1920,
+    "height": 1080
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "start": 1.1,
+    "end": 6.7,
+    "text": "Excellent, congratulations on completing part 1 of module 1.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.7,
+    "end": 12.76,
+    "text": "It's now time for me to check that you understand the principles we've dealt with in part 1.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.76,
+    "end": 15.31,
+    "text": "So answer the following questions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.31,
+    "end": 20.2,
+    "text": "What will you do to be a part of the 5% who succeed at trading?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.2,
+    "end": 24.07,
+    "text": "Why do professional traders use volume profiling?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.62,
+    "end": 35.62,
+    "text": "And what is the difference and importance between subjective and objective analysis?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.62,
+    "end": 42.71,
+    "text": "Make sure you answer these questions first, and then next up we're going to practically apply the principles from part one.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

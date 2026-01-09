@@ -1,0 +1,138 @@
+[
+  {
+    "start": 1.01,
+    "end": 6.01,
+    "text": "Now, before we look at the various trading strategies around absorption observations",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.01,
+    "end": 8.61,
+    "text": "on the price ladder, let's start defining it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.61,
+    "end": 11.29,
+    "text": "So what is absorption?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.29,
+    "end": 16.69,
+    "text": "It's the passive or active buy or sell orders that take the form of the following order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.69,
+    "end": 18.29,
+    "text": "book strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.29,
+    "end": 22.31,
+    "text": "Iceberging, which we'll be going into a little bit more detail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.52,
+    "end": 27.84,
+    "text": "please click on that link so you can see the definition of a time slice order and also how",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.84,
+    "end": 32.96,
+    "text": "to execute it on your trading technology platform. Then you also get volume slice orders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.76,
+    "end": 38.0,
+    "text": "Again, click on that link to understand what a volume slice",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.74,
+    "end": 42.38,
+    "text": "order is and remember the most recognized order book strategy for absorption",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.38,
+    "end": 45.9,
+    "text": "order book events is iceberging and again this is when",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.9,
+    "end": 48.86,
+    "text": "someone is trying to hide their orders away",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.86,
+    "end": 53.58,
+    "text": "by by not displaying their entire order and then as the market trades into",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 53.58,
+    "end": 56.38,
+    "text": "it the price effectively starts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.55,
+    "end": 65.55,
+    "text": "The following is the definition of iceberging via Investopedia.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.55,
+    "end": 70.55,
+    "text": "An iceberg order is a large single order that has been divided into smaller lots,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.55,
+    "end": 76.55,
+    "text": "usually through the use of an automated program for the purpose of hiding an actual order quantity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

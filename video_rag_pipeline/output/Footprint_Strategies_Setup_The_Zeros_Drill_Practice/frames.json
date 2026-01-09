@@ -1,0 +1,194 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0000_mid.jpg",
+    "time": 2.3125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0000_end.jpg",
+    "time": 4.425,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0001_start.jpg",
+    "time": 4.825,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0001_mid.jpg",
+    "time": 303.75,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0001_end.jpg",
+    "time": 602.675,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0002_start.jpg",
+    "time": 603.075,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0002_mid.jpg",
+    "time": 606.3125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0002_end.jpg",
+    "time": 609.55,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0003_start.jpg",
+    "time": 609.95,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0003_mid.jpg",
+    "time": 1729.8125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0003_end.jpg",
+    "time": 2849.675,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0004_start.jpg",
+    "time": 2850.075,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0004_mid.jpg",
+    "time": 3136.875,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0004_end.jpg",
+    "time": 3423.675,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0005_start.jpg",
+    "time": 3424.075,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0005_mid.jpg",
+    "time": 3430.625,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0005_end.jpg",
+    "time": 3437.175,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0006_start.jpg",
+    "time": 3437.575,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0006_mid.jpg",
+    "time": 4209.3125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0006_end.jpg",
+    "time": 4981.05,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0007_start.jpg",
+    "time": 4981.45,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0007_mid.jpg",
+    "time": 4987.375,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Drill_Practice/frames/scene_0007_end.jpg",
+    "time": 4993.3,
+    "width": 1600,
+    "height": 900
+  }
+]

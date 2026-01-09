@@ -1,0 +1,314 @@
+[
+  {
+    "start": 0.75,
+    "end": 6.17,
+    "text": "So in essence, with the little fishies there, the control variable that shows weakness is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.17,
+    "end": 9.35,
+    "text": "anything that I like to think of as an anomaly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.35,
+    "end": 15.19,
+    "text": "So anything that's almost counter-intuitive to the principle, that effectively is a weak",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.19,
+    "end": 20.57,
+    "text": "control variable and those weak control variables tend to be overcome.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.57,
+    "end": 28.61,
+    "text": "So again, an anomaly is a single price or price level that lacks symmetry.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.35,
+    "end": 37.01,
+    "text": "this and the anomalies are created through a combination of time, volume and price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.01,
+    "end": 41.89,
+    "text": "Now when we see these anomalies it's not so much a case that they get corrected straight",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.56,
+    "end": 48.54,
+    "text": "at some point in future they will get corrected. And that's why we want to identify between",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.54,
+    "end": 54.06,
+    "text": "strong or strength in the control variable as opposed to weakness in the control variable.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.06,
+    "end": 58.6,
+    "text": "When there's strength, we do not go against it. We develop strategies that continue",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.6,
+    "end": 64.86,
+    "text": "with the strength, with the time frame or the participant that's in control. Equally,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.86,
+    "end": 71.22,
+    "text": "when we have weak control variables, we want to look to go counter and fill out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.86,
+    "end": 78.55,
+    "text": "correct the anomaly. Now one of the anomalies would be when value is established at one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.55,
+    "end": 83.33,
+    "text": "end of the profile but the market closes well away from the value at the end of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.33,
+    "end": 88.63,
+    "text": "So just imagine for the entire session the market accepts that value has been accepted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.63,
+    "end": 94.33,
+    "text": "between price 10 and 15 but the market somehow manages to close up at around 20s. This",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.66,
+    "end": 104.66,
+    "text": "Then when we have bad highs and bad lows, we spoke about this in previous sections.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.66,
+    "end": 111.58,
+    "text": "Again, seeing double TPO's at the high or the low or seeing very high volume or relatively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 111.58,
+    "end": 115.52,
+    "text": "high volume transact at the highest prices and the lowest prices of the day is very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.52,
+    "end": 119.0,
+    "text": "unusual and that anomaly tends to get corrected.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.08,
+    "end": 124.96,
+    "text": "when we have the volume point of control and the value area at opposite sides of the profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.96,
+    "end": 129.6,
+    "text": "Again, if the market accepts value at the lower bound, but somehow manages to shift",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.6,
+    "end": 136.26,
+    "text": "the highest traded volume at the highest price of the day, that's a very unusual pattern.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.26,
+    "end": 140.72,
+    "text": "We have seen this data, we've spoken about it, it is the double distribution day and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.72,
+    "end": 145.82,
+    "text": "a lot of the time when we see this, we do tend to see the low volume area filled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.82,
+    "end": 149.04,
+    "text": "out in the next couple of sessions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.9,
+    "end": 153.82,
+    "text": "And then a low volume area within a value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.82,
+    "end": 163.9,
+    "text": "So it's very unusual that a market very aggressively goes and leaves a very aggressive area away",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.9,
+    "end": 166.3,
+    "text": "from a value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.3,
+    "end": 169.7,
+    "text": "It does tend to fill out the value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.7,
+    "end": 174.42,
+    "text": "So if at the end of the day you see a value area that's got a lot of low volume traded",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.42,
+    "end": 177.74,
+    "text": "areas, that point will eventually be traded out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.83,
+    "end": 185.25,
+    "text": "Now the important thing to note is that these structural weaknesses are often revisited and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.25,
+    "end": 189.77,
+    "text": "completed or filled out during the current or following trading session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.77,
+    "end": 195.57,
+    "text": "So that's the major differentiation between strong control variables and weak control",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.57,
+    "end": 196.63,
+    "text": "variables.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.63,
+    "end": 202.07,
+    "text": "Strong control variables tend to show us strength and confidence and give us early",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.43,
+    "end": 213.87,
+    "text": "to show us a little bit of weakness in the auction process and thus they get corrected",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.87,
+    "end": 215.79,
+    "text": "and filled out over time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

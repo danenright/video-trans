@@ -1,0 +1,266 @@
+[
+  {
+    "start": 1.58,
+    "end": 7.82,
+    "text": "Advanced order and execution types. Now we're not here to focus on all the very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.82,
+    "end": 11.82,
+    "text": "sophisticated type order types that you can get in the marketplace but for any",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.82,
+    "end": 14.1,
+    "text": "of you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.71,
+    "end": 18.55,
+    "text": "People that really want to understand almost the algorithmic nature of orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.59,
+    "end": 23.95,
+    "text": "Then you're more than welcome to go have a look and look at the TTL go design lab",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.95,
+    "end": 30.27,
+    "text": "And that rate describes various different types of order execution types given certain what-if as scenarios",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.27,
+    "end": 34.05,
+    "text": "For example if the market crosses over this moving average",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.67,
+    "end": 36.67,
+    "text": "You order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.53,
+    "end": 43.73,
+    "text": "you enter x amount of lots into the markets and there are various other ways you know of all",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.73,
+    "end": 48.93,
+    "text": "different types of indicators and oscillators but we're really focusing on order flow patterns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.93,
+    "end": 64.11,
+    "text": "throughout this course and how to execute it from a discretionary approach but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.0,
+    "end": 58.62,
+    "text": "You can have a look there is a link over here of all the different types order types",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.62,
+    "end": 64.54,
+    "text": "We focus on some key ones that we observe in the marketplace on a on a daily basis",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.54,
+    "end": 69.04,
+    "text": "But the reason why I wanted you just to briefly look over this it really makes you understand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.36,
+    "end": 76.04,
+    "text": "Of why you get all these different types of so-called funky orders in the market and the more you get these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.48,
+    "end": 82.42,
+    "text": "funky orders and different types when a price reloads which we talked about absorption later in the module or when",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.6,
+    "end": 88.4,
+    "text": "certain speed at a certain time at a certain amount. You'll understand it when",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.4,
+    "end": 93.48,
+    "text": "you read through the link later on on this slide but again just to let you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.48,
+    "end": 96.0,
+    "text": "know that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.31,
+    "end": 100.91,
+    "text": "a powerful platform is one that is linked directly to the exchange, has servers at the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.91,
+    "end": 106.75,
+    "text": "exchange, and ensuring that wherever you connect it from with your price ladder platform, that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.75,
+    "end": 109.29,
+    "text": "the IP address goes directly to the exchange.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.29,
+    "end": 112.47,
+    "text": "You don't want to go through an intermediary because then you're missing out on the speed",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.47,
+    "end": 114.99,
+    "text": "and when you miss out on the speed, you miss out on the best price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.99,
+    "end": 118.77,
+    "text": "When you miss out on the best price, it's costing you a lot of money.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.62,
+    "end": 129.22,
+    "text": "exclusively used. We use two main platforms but the one exclusively used",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.22,
+    "end": 135.59,
+    "text": "from all our traders is the Trading Technologies platform. So just click on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.59,
+    "end": 139.27,
+    "text": "the link and when you see the link just make sure you can go through all",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.27,
+    "end": 143.83,
+    "text": "those order types and again go and experiment on your platform just so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.83,
+    "end": 147.15,
+    "text": "you understand all the different methods because it might be one that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.15,
+    "end": 151.35,
+    "text": "really attracts you and makes you understand how what your order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.99,
+    "end": 161.07,
+    "text": "So, as I've mentioned, just go through the main ones and once you've done that, then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.07,
+    "end": 165.95,
+    "text": "I want you to go on to the next slide when we talk about the lingo in the marketplace.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

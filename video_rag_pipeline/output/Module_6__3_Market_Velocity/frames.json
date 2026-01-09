@@ -1,0 +1,50 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_6__3_Market_Velocity/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 516
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_6__3_Market_Velocity/frames/scene_0000_mid.jpg",
+    "time": 453.5935827965784,
+    "width": 960,
+    "height": 516
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_6__3_Market_Velocity/frames/scene_0000_end.jpg",
+    "time": 906.9871655931568,
+    "width": 960,
+    "height": 516
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Module_6__3_Market_Velocity/frames/scene_0001_start.jpg",
+    "time": 907.3871655931569,
+    "width": 960,
+    "height": 516
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Module_6__3_Market_Velocity/frames/scene_0001_mid.jpg",
+    "time": 950.2511331493031,
+    "width": 960,
+    "height": 516
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Module_6__3_Market_Velocity/frames/scene_0001_end.jpg",
+    "time": 993.1151007054493,
+    "width": 960,
+    "height": 516
+  }
+]

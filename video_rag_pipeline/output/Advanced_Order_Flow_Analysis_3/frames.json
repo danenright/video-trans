@@ -1,0 +1,74 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Advanced_Order_Flow_Analysis_3/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Advanced_Order_Flow_Analysis_3/frames/scene_0000_mid.jpg",
+    "time": 33.28,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Advanced_Order_Flow_Analysis_3/frames/scene_0000_end.jpg",
+    "time": 66.36,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Advanced_Order_Flow_Analysis_3/frames/scene_0001_start.jpg",
+    "time": 66.76,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Advanced_Order_Flow_Analysis_3/frames/scene_0001_mid.jpg",
+    "time": 556.16,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Advanced_Order_Flow_Analysis_3/frames/scene_0001_end.jpg",
+    "time": 1045.56,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Advanced_Order_Flow_Analysis_3/frames/scene_0002_start.jpg",
+    "time": 1045.96,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Advanced_Order_Flow_Analysis_3/frames/scene_0002_mid.jpg",
+    "time": 1049.02,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Advanced_Order_Flow_Analysis_3/frames/scene_0002_end.jpg",
+    "time": 1052.08,
+    "width": 1280,
+    "height": 720
+  }
+]

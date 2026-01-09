@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_5-4_A_Graphical_Depiction_of_the_Market_Place/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_5-4_A_Graphical_Depiction_of_the_Market_Place/frames/scene_0000_mid.jpg",
+    "time": 213.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_5-4_A_Graphical_Depiction_of_the_Market_Place/frames/scene_0000_end.jpg",
+    "time": 426.2,
+    "width": 1920,
+    "height": 1080
+  }
+]

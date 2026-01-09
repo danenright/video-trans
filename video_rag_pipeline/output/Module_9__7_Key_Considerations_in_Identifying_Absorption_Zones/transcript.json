@@ -1,0 +1,282 @@
+[
+  {
+    "start": 1.07,
+    "end": 5.51,
+    "text": "Let's look at key considerations in identifying absorption zones.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.51,
+    "end": 9.31,
+    "text": "Firstly is understanding the relative speed of your market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.31,
+    "end": 14.17,
+    "text": "Now when a market is oscillating in a certain range and then it meets a certain price point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.17,
+    "end": 21.03,
+    "text": "or a price zone and all of a sudden the orders start accelerating but the actual",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.03,
+    "end": 25.35,
+    "text": "price is not budging and the market is not advancing on the upside or declining on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.35,
+    "end": 29.73,
+    "text": "the downside and the speed of orders that are going through would generally mean",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.67,
+    "end": 35.35,
+    "text": "or decline but it's not well that's one of your key first key considerations in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.35,
+    "end": 40.47,
+    "text": "understanding the relative speed of the markets is so important in determining",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.47,
+    "end": 44.71,
+    "text": "whether there's an iceberg order or not and also understanding the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.71,
+    "end": 49.33,
+    "text": "auctioning rate versus time spent so you know the the greater the velocity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.33,
+    "end": 53.47,
+    "text": "of the auction the orders that are being traded through versus a time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.33,
+    "end": 64.41,
+    "text": "Per minute and and the market isn't advancing usually a thousand watts per minute would normally result in the market moving",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.41,
+    "end": 70.43,
+    "text": "You know three to four to five ticks as it takes out the relative average order size on the order book",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.43,
+    "end": 74.77,
+    "text": "But now it's not even moving one more than one tick well therefore already",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.85,
+    "end": 81.57,
+    "text": "You're observing a potential iceberg in play and and now it's determining how big is that iceberg below the surface",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.76,
+    "end": 87.04,
+    "text": "and then also knowing when the counter side has exhausted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 87.04,
+    "end": 90.04,
+    "text": "has exhausted its ammunition once it speeds up sides",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.04,
+    "end": 94.24,
+    "text": "so if there is an iceberg order and new trading within it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.86,
+    "end": 101.14,
+    "text": "But also understanding once the iceberg starts, you know, once it really starts exhausting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.14,
+    "end": 102.14,
+    "text": "the other side of the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.14,
+    "end": 107.98,
+    "text": "So if you have an iceberg on the sell side sitting on the offer at 50 and all of a sudden",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.98,
+    "end": 113.42,
+    "text": "all the buyers are effectively trying to lift the offer and the iceberg keeps on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.42,
+    "end": 117.62,
+    "text": "reloading then the buyers just start becoming lethargic and they've not been able to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.62,
+    "end": 122.22,
+    "text": "buy as aggressively as they did and then it's now moved from 1,000 lots per minute",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.14,
+    "end": 129.26,
+    "text": "100 lots per minute then all of a sudden once the price starts declining there will be that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.26,
+    "end": 132.86,
+    "text": "paying threshold point for those people who've lost the battle against the iceberg when all",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.86,
+    "end": 137.1,
+    "text": "the orders have to start unraveling and you'll see that in the videos that we look at and this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.1,
+    "end": 141.74,
+    "text": "is really important is knowing when the iceberg is effectively won its battle in that specific",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.41,
+    "end": 148.87,
+    "text": "Also understanding the seasonal times of days and months, you know a lot of times you'll get iceberg",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.39,
+    "end": 155.99,
+    "text": "Patterns when the markets highly active and incredibly aggressive and then it's easy to to observe the patterns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.99,
+    "end": 157.83,
+    "text": "And when do those occur that occurs, you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.83,
+    "end": 164.91,
+    "text": "The beginning part of the month when risk is being put on the table when there's a technical a technical order flow such as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.11,
+    "end": 167.11,
+    "text": "month-end trades",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.15,
+    "end": 173.01,
+    "text": "Regardless of you know, what time is just really important to understand the seasonal trends of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.01,
+    "end": 177.89,
+    "text": "various markets of when certain types of iceberg absorption patterns can occur.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

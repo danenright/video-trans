@@ -1,0 +1,50 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_1___The_Footprint_Tool_18/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 512
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_1___The_Footprint_Tool_18/frames/scene_0000_mid.jpg",
+    "time": 91.08886653252851,
+    "width": 960,
+    "height": 512
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_1___The_Footprint_Tool_18/frames/scene_0000_end.jpg",
+    "time": 181.97773306505704,
+    "width": 960,
+    "height": 512
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_1___The_Footprint_Tool_18/frames/scene_0001_start.jpg",
+    "time": 182.37773306505701,
+    "width": 960,
+    "height": 512
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_1___The_Footprint_Tool_18/frames/scene_0001_mid.jpg",
+    "time": 215.20556673373576,
+    "width": 960,
+    "height": 512
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_1___The_Footprint_Tool_18/frames/scene_0001_end.jpg",
+    "time": 248.03340040241451,
+    "width": 960,
+    "height": 512
+  }
+]

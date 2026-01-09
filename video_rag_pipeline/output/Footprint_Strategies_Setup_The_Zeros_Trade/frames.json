@@ -1,0 +1,506 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0000_mid.jpg",
+    "time": 1.5,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0000_end.jpg",
+    "time": 2.8,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0001_start.jpg",
+    "time": 3.2,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0001_mid.jpg",
+    "time": 501.875,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0001_end.jpg",
+    "time": 1000.55,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0002_start.jpg",
+    "time": 1000.95,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0002_mid.jpg",
+    "time": 1002.75,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0002_end.jpg",
+    "time": 1004.55,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0003_start.jpg",
+    "time": 1004.95,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0003_mid.jpg",
+    "time": 1647.75,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0003_end.jpg",
+    "time": 2290.55,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0004_start.jpg",
+    "time": 2290.95,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0004_mid.jpg",
+    "time": 2293.6875,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0004_end.jpg",
+    "time": 2296.425,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0005_start.jpg",
+    "time": 2296.825,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0005_mid.jpg",
+    "time": 2304.375,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0005_end.jpg",
+    "time": 2311.925,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0006_start.jpg",
+    "time": 2312.325,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0006_mid.jpg",
+    "time": 2314.375,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0006_end.jpg",
+    "time": 2316.425,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0007_start.jpg",
+    "time": 2316.825,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0007_mid.jpg",
+    "time": 2325.4375,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0007_end.jpg",
+    "time": 2334.05,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0008_start.jpg",
+    "time": 2334.45,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0008_mid.jpg",
+    "time": 2341.8125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0008_end.jpg",
+    "time": 2349.175,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0009_start.jpg",
+    "time": 2349.575,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0009_mid.jpg",
+    "time": 2508.875,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0009_end.jpg",
+    "time": 2668.175,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0010_start.jpg",
+    "time": 2668.575,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0010_mid.jpg",
+    "time": 3200.375,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0010_end.jpg",
+    "time": 3732.175,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0011_start.jpg",
+    "time": 3732.575,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0011_mid.jpg",
+    "time": 3739.8125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0011_end.jpg",
+    "time": 3747.05,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0012_start.jpg",
+    "time": 3747.45,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0012_mid.jpg",
+    "time": 4126.75,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 12,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0012_end.jpg",
+    "time": 4506.05,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 13,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0013_start.jpg",
+    "time": 4506.45,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 13,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0013_mid.jpg",
+    "time": 4622.3125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 13,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0013_end.jpg",
+    "time": 4738.175,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 14,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0014_start.jpg",
+    "time": 4738.575,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 14,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0014_mid.jpg",
+    "time": 4829.0,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 14,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0014_end.jpg",
+    "time": 4919.425,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 15,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0015_start.jpg",
+    "time": 4919.825,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 15,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0015_mid.jpg",
+    "time": 4927.8125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 15,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0015_end.jpg",
+    "time": 4935.8,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 16,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0016_start.jpg",
+    "time": 4936.2,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 16,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0016_mid.jpg",
+    "time": 4940.3125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 16,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0016_end.jpg",
+    "time": 4944.425,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 17,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0017_start.jpg",
+    "time": 4944.825,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 17,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0017_mid.jpg",
+    "time": 5362.625,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 17,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0017_end.jpg",
+    "time": 5780.425,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 18,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0018_start.jpg",
+    "time": 5780.825,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 18,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0018_mid.jpg",
+    "time": 6603.25,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 18,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0018_end.jpg",
+    "time": 7425.675,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 19,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0019_start.jpg",
+    "time": 7426.075,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 19,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0019_mid.jpg",
+    "time": 7712.6875,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 19,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0019_end.jpg",
+    "time": 7999.3,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 20,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0020_start.jpg",
+    "time": 7999.7,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 20,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0020_mid.jpg",
+    "time": 8003.0625,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 20,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup_The_Zeros_Trade/frames/scene_0020_end.jpg",
+    "time": 8006.425,
+    "width": 1600,
+    "height": 900
+  }
+]

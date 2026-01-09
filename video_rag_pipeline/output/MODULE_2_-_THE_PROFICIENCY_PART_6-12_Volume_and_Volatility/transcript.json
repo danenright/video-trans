@@ -1,0 +1,418 @@
+[
+  {
+    "start": 1.42,
+    "end": 7.18,
+    "text": "Two concepts that a lot of people like to use, but more often they don't understand,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.18,
+    "end": 9.38,
+    "text": "is volume and volatility.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.38,
+    "end": 13.26,
+    "text": "We're going to talk about volume and volatility, and I'm going to show you how to use these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.26,
+    "end": 14.26,
+    "text": "two tools.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.82,
+    "end": 18.9,
+    "text": "to your advantage, not just in volume profiling, but in any trading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.9,
+    "end": 21.6,
+    "text": "So what we're going to talk about firstly is volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.6,
+    "end": 28.52,
+    "text": "Now remember what we said, volume is showing us how good or how successful the auction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.52,
+    "end": 30.56,
+    "text": "process is taking place.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.97,
+    "end": 39.37,
+    "text": "trade. So, if there is a high amount of volume, the market's doing a good job. Why? Because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.37,
+    "end": 44.81,
+    "text": "it's facilitating buyers and sellers, or it's facilitating a high amount of trade. So,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.03,
+    "end": 52.03,
+    "text": "Volume on its own means nothing. It tells us nothing. If you just look at volume, you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.03,
+    "end": 57.71,
+    "text": "have high volume, you have low volume, that does not tell us anything about future prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.71,
+    "end": 64.51,
+    "text": "We need to see the advertisement of prices with the volume to have any kind of meaningful",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.74,
+    "end": 76.1,
+    "text": "High volume means trade is being facilitated well, low volume means there's a high probability",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.1,
+    "end": 77.74,
+    "text": "for mean reversion.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.74,
+    "end": 80.48,
+    "text": "In other words, remember we said volume is like force.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.48,
+    "end": 86.78,
+    "text": "When there's a lot of force in the market, we should be seeing prices move aggressively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.77,
+    "end": 94.67,
+    "text": "Okay, if it's not moving aggressive or if it is moving aggressively up and down but on lower volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.67,
+    "end": 99.33,
+    "text": "It's very likely that we're going to revisit those prices at some point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.33,
+    "end": 103.35,
+    "text": "Why because it's not new business taking those prices up or down",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.35,
+    "end": 111.01,
+    "text": "So the fact that it's not new business means it's highly likely that we do retest those prices again at some point now notes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 111.45,
+    "end": 116.53,
+    "text": "Volume is a relative tool. So it's all about understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.04,
+    "end": 121.44,
+    "text": "how volume is changing over a given period of time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.44,
+    "end": 125.0,
+    "text": "So what I mean by that, if you're sitting, and let's take for example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.0,
+    "end": 128.56,
+    "text": "a weekly type strategy where the market's moving",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.56,
+    "end": 132.68,
+    "text": "relatively sideways on lower volume, all of a sudden",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.68,
+    "end": 136.7,
+    "text": "on any given day the market volume doubles what we've seen over the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.7,
+    "end": 138.28,
+    "text": "average of the last 10",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.28,
+    "end": 145.28,
+    "text": "trading sessions. This...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.32,
+    "end": 146.32,
+    "text": "very aggressive relative change in volume is telling us that new business is being brought",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.32,
+    "end": 152.88,
+    "text": "into the market. Now how it impacts prices is all determined on a number of factors like",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.88,
+    "end": 159.74,
+    "text": "trade location and where we are trading within a bracket and all sorts of things. So on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.74,
+    "end": 163.48,
+    "text": "its own it doesn't mean something but the fact that there is a strong relative change",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.48,
+    "end": 167.52,
+    "text": "in volume, that is something we want to identify and pay attention to.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.95,
+    "end": 172.67,
+    "text": "But then just some of the things I would use volume for and I'd pay attention to is, as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.67,
+    "end": 175.35,
+    "text": "you can see in the example provided, I've got two colours there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.35,
+    "end": 178.23,
+    "text": "I've got a red line and an orange line on the volume bars.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.23,
+    "end": 184.55,
+    "text": "Now that for me is showing what is relatively high or relatively low volume based on a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 184.55,
+    "end": 189.19,
+    "text": "previous number of sessions and I identify that because it's easy for me to then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.19,
+    "end": 193.31,
+    "text": "see when all of a sudden there's a high amount of volume or new business coming",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.18,
+    "end": 199.9,
+    "text": "Equally, I have moving averages on the volume so I can see how on average the volume is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.9,
+    "end": 204.42,
+    "text": "changing and I can see if there's a sudden relative shift in volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.19,
+    "end": 217.19,
+    "text": "in terms of the volume. Sometimes volume will be sitting in, say, doing roughly 20,000 contracts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 217.19,
+    "end": 222.19,
+    "text": "every half hour for a number of half hours. So if you know what the average is and then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.19,
+    "end": 229.19,
+    "text": "the sudden shift, you can quickly pick up on the shift in the relative change that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.19,
+    "end": 233.43,
+    "text": "is occurring within the volume. And more importantly, you can then develop strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.79,
+    "end": 242.97,
+    "text": "So, to finish, remember high relative volume is indicative of initiative being taken from",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 242.97,
+    "end": 248.11,
+    "text": "the buyers or the sellers which happen to be influential participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.11,
+    "end": 254.47,
+    "text": "So when you see a relatively strong shift in the volume towards the upside, we can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 254.47,
+    "end": 258.51,
+    "text": "a little bit of initiative coming into the market and then we need to be cautious going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 258.51,
+    "end": 264.87,
+    "text": "against that initiative and that is why we sort of talk a lot about volume quite extensively.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.98,
+    "end": 268.9,
+    "text": "Let's now have a look at what we mean by volatility.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

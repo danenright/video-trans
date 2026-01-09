@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_6-27_6AP_Rule_Trade_Strategy/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_6-27_6AP_Rule_Trade_Strategy/frames/scene_0000_mid.jpg",
+    "time": 319.6875,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_6-27_6AP_Rule_Trade_Strategy/frames/scene_0000_end.jpg",
+    "time": 639.175,
+    "width": 960,
+    "height": 540
+  }
+]

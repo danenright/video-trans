@@ -1,0 +1,50 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Risk_Event_Trading___EUR_EU_CPI___30_11_17/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Risk_Event_Trading___EUR_EU_CPI___30_11_17/frames/scene_0000_mid.jpg",
+    "time": 5.1,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Risk_Event_Trading___EUR_EU_CPI___30_11_17/frames/scene_0000_end.jpg",
+    "time": 10.0,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Risk_Event_Trading___EUR_EU_CPI___30_11_17/frames/scene_0001_start.jpg",
+    "time": 10.399999999999999,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Risk_Event_Trading___EUR_EU_CPI___30_11_17/frames/scene_0001_mid.jpg",
+    "time": 523.15,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Risk_Event_Trading___EUR_EU_CPI___30_11_17/frames/scene_0001_end.jpg",
+    "time": 1035.8999999999999,
+    "width": 1920,
+    "height": 1080
+  }
+]

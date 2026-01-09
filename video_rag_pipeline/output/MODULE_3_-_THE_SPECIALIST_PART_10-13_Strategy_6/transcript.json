@@ -1,0 +1,962 @@
+[
+  {
+    "start": 0.08,
+    "end": 6.4,
+    "text": "Welcome then to strategy six, the final in our momentum series.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.4,
+    "end": 10.4,
+    "text": "This is the wide initial balance distribution play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.4,
+    "end": 14.96,
+    "text": "Now before we move into the actual play and discuss it in terms of the characteristics",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.96,
+    "end": 21.36,
+    "text": "and its conditions, let's just talk briefly about the concept of control identifiers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.36,
+    "end": 27.56,
+    "text": "Now we spent a lot of time in module two talking about these control identifiers for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.49,
+    "end": 33.83,
+    "text": "What you may have noticed is that throughout these four momentum strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.83,
+    "end": 39.03,
+    "text": "we tend to see a lot of these control identifiers. Now some of those control",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.03,
+    "end": 48.18,
+    "text": "identifiers are single prints, low volume areas, tails, volatility where we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.18,
+    "end": 61.21,
+    "text": "have range expansion, the one-time framing and lastly engulfing TPO's.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.5,
+    "end": 66.78,
+    "text": "It's important that you always sort of make a note, as you're trading throughout the day,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.78,
+    "end": 70.26,
+    "text": "if you ever see any of these control identifiers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.26,
+    "end": 76.86,
+    "text": "And the reason is that these control identifiers are showing us a shift in the manner in which",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.86,
+    "end": 80.98,
+    "text": "buyers and sellers are interacting with one another.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.98,
+    "end": 86.78,
+    "text": "When you see these control identifiers, it's most likely they are presenting potential",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.88,
+    "end": 95.84,
+    "text": "With that in mind, let's now move on to the Wide Initial Balance Distribution Trade Setup.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.84,
+    "end": 102.0,
+    "text": "Now where we begin with this is firstly with the definition of the word wide.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.0,
+    "end": 107.88,
+    "text": "What I will say is this is very much a relative term, so what you need to understand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.88,
+    "end": 116.06,
+    "text": "about this trade strategy is you need to know what is the average current range",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.42,
+    "end": 121.74,
+    "text": "Now, there's a number of ways in which you can do this.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.74,
+    "end": 129.14,
+    "text": "One, I have a tendency to use just a simple moving average of a desired time within each",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.14,
+    "end": 130.14,
+    "text": "market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.14,
+    "end": 135.66,
+    "text": "So, for instance, in the Bund, I can tell you what the average range is between 7",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.66,
+    "end": 137.06,
+    "text": "and 8 a.m.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.06,
+    "end": 141.66,
+    "text": "In the E-Money S&Ps, I can tell you what the average range is from 11 p.m. at night",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.66,
+    "end": 152.3,
+    "text": "Now, by knowing what the average range is within these time frames, I can see when there",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.3,
+    "end": 157.9,
+    "text": "is a relatively wide initial range within the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.9,
+    "end": 164.42,
+    "text": "Now, when I see these initial ranges being particularly wide, there are two types of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.42,
+    "end": 171.81,
+    "text": "trade strategies that exist, and they look as follows.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.17,
+    "end": 177.41,
+    "text": "The first is we have the wide initial range, the market then has a volatile range within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.41,
+    "end": 180.85,
+    "text": "that wide initial range for the remainder of the period.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.85,
+    "end": 186.69,
+    "text": "So we see the market sort of having an attempt to extend on the aggressive high failing,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.69,
+    "end": 193.49,
+    "text": "rolling over and attempting to extend along the low failing and continuously moving within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.84,
+    "end": 202.2,
+    "text": "The second example is where we have a wide initial balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 202.2,
+    "end": 208.6,
+    "text": "The market attempts the extension with the direction of the short term trend, fails,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.6,
+    "end": 214.28,
+    "text": "comes back inside and merely just distributes for the rest of the day within a range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.28,
+    "end": 219.52,
+    "text": "Now you should straight away notice that in the first example we tend to get a very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.52,
+    "end": 224.4,
+    "text": "volatile range within the entire range whereas in the second example we merely",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.1,
+    "end": 230.74,
+    "text": "test one's extreme and then range within the top half or bottom half for the remainder",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 230.74,
+    "end": 231.74,
+    "text": "of the session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 231.74,
+    "end": 237.82,
+    "text": "Now in terms of the trade opportunity, it's important before we show you the trade opportunity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.82,
+    "end": 243.58,
+    "text": "to understand why this wide initial balance actually occurs so that you can then understand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.58,
+    "end": 247.02,
+    "text": "how you are supposed to take risk on this trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.02,
+    "end": 250.78,
+    "text": "So the reasons why it does occur can be a number.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 252.03,
+    "end": 257.35,
+    "text": "fundamental reasons. So let's say overnight new fundamental news hits the market and the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.35,
+    "end": 263.02,
+    "text": "market opens and moves very aggressively in one direction. It could also be for technical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.02,
+    "end": 268.98,
+    "text": "reasons. So the market may open beyond a key technical level and as a result we have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.98,
+    "end": 271.62,
+    "text": "a lot of stops being initiated on the open.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 272.14,
+    "end": 276.28,
+    "text": "It could also be because there is early initiative taken.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.28,
+    "end": 281.5,
+    "text": "So we see long-term time-frame participants entering very early in the market to get business",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.5,
+    "end": 282.5,
+    "text": "done.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.5,
+    "end": 288.42,
+    "text": "Now, the important thing to understand in all three of these examples is the reason",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 288.42,
+    "end": 296.38,
+    "text": "the market fails to, as it shows initiative early on, but the reason it fails to continue",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 300.96,
+    "end": 309.24,
+    "text": "Now, as a basic example, let's say, for instance, the oil market opens and gaps up $3 on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 309.24,
+    "end": 310.6,
+    "text": "overnight session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 310.6,
+    "end": 317.2,
+    "text": "Now, this relative change could be anything from, say, 4% to 5% to 6% change in early",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 318.05,
+    "end": 324.69,
+    "text": "Now, as a result of the very aggressive shift in relative value, this means that it's very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 324.69,
+    "end": 331.49,
+    "text": "difficult to expect further initiative over the period of that day, and more often than",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 331.49,
+    "end": 338.03,
+    "text": "not, that is why we tend to distribute, as I'll show you in the trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 338.03,
+    "end": 339.11,
+    "text": "So what is the trade strategy?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 339.11,
+    "end": 340.23,
+    "text": "Well, it's simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 340.23,
+    "end": 346.75,
+    "text": "As you can see in the example on your right, this is the second of the two.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 344.78,
+    "end": 349.66,
+    "text": "Now, what occurs here is we can see the very wide initial balance early on.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 349.66,
+    "end": 353.64,
+    "text": "Now, note this is roughly 10 handles in the e-mini S&P.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 353.64,
+    "end": 358.46,
+    "text": "On average, at that point, the average wide initial balance, or the average, sorry, initial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 358.46,
+    "end": 361.08,
+    "text": "balance was roughly 5 handles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 361.08,
+    "end": 368.9,
+    "text": "So we had double the average initial balance in the session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 365.47,
+    "end": 371.13,
+    "text": "Now as you can see, the market or the cash session then opened up, it then attempted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 371.13,
+    "end": 377.07,
+    "text": "the extension lower before then settling into a range for the remainder of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 377.07,
+    "end": 379.03,
+    "text": "So the trade strategy is simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 379.03,
+    "end": 383.45,
+    "text": "We are looking at the extreme as our key entry point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 383.45,
+    "end": 388.37,
+    "text": "The minute the market can no longer sustain the break below that entry point, we are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 393.07,
+    "end": 397.55,
+    "text": "Now remember I said to you in these two examples, the one is slightly easier than the other",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 397.55,
+    "end": 400.05,
+    "text": "and the reason is very simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.05,
+    "end": 403.99,
+    "text": "In this example, which is the harder of the two, whilst we still want to take the buy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 403.99,
+    "end": 410.15,
+    "text": "trade, we can see that the relative reward that we're going to receive for being right",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 410.15,
+    "end": 414.03,
+    "text": "is relatively skewed to the risk we're going to have to take.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 414.03,
+    "end": 415.03,
+    "text": "What do I mean?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 421.52,
+    "end": 427.4,
+    "text": "Now, in terms of reward, because this market doesn't fully trade the entire distribution,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 427.4,
+    "end": 434.2,
+    "text": "we don't have as much upside as we would like, so the risk-reward is skewed toward a one-to-one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 434.2,
+    "end": 435.2,
+    "text": "type play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.2,
+    "end": 441.69,
+    "text": "Let's have a look at the second example so I can show you when we do have the easier",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 441.69,
+    "end": 447.09,
+    "text": "of the two options, why this option gives us far better risk-reward opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 449.65,
+    "end": 455.01,
+    "text": "As you can see, this is the rotation, so in terms of the execution style, once that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 455.01,
+    "end": 460.21,
+    "text": "market re-enters the range, we're then looking for buy-side trades.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 460.21,
+    "end": 465.55,
+    "text": "Now again, note how this market actually ended up stopping us out, so again, this trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 465.55,
+    "end": 471.81,
+    "text": "strategy did fail in this example before eventually giving us potential upside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 471.81,
+    "end": 476.77,
+    "text": "So it is important to understand and differentiate between the two different variations of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 478.16,
+    "end": 482.16,
+    "text": "In this example, there's a much lower probability of success.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 482.16,
+    "end": 487.66,
+    "text": "However, we do still want to take the trade as the risk-reward is there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 487.66,
+    "end": 491.66,
+    "text": "And, we won't know that this has failed until the end of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 491.66,
+    "end": 499.16,
+    "text": "So, we cannot assume that the market will do this type of a pattern instead of the full distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 499.16,
+    "end": 504.61,
+    "text": "Now, let's take a look at what the more successful profitable strategy would look like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 504.82,
+    "end": 510.22,
+    "text": "As you can see in this example, the market has a wide initial balance, and a wide initial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 510.22,
+    "end": 516.54,
+    "text": "balance, and the market, ultimately, the cash opens, it tests to the downside, and once",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 516.54,
+    "end": 523.42,
+    "text": "it fails, the next TPO being the imprint, re-enters the initial range, and we then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 523.42,
+    "end": 526.02,
+    "text": "rotate all the way to the other side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 531.38,
+    "end": 535.26,
+    "text": "and we would have a target towards the upside anywhere around",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 535.26,
+    "end": 538.96,
+    "text": "the top end of the distribution, maybe even an extension",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 538.96,
+    "end": 542.94,
+    "text": "and notice how that would give us potential for a 60 tick target.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 542.94,
+    "end": 546.11,
+    "text": "So this is important to understand because this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 546.11,
+    "end": 550.43,
+    "text": "illustrates why we take the trade regardless of what we think the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 550.43,
+    "end": 551.75,
+    "text": "outcome may be.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 551.75,
+    "end": 555.23,
+    "text": "The risk reward is there when it works.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 555.23,
+    "end": 558.23,
+    "text": "When it doesn't work, we are losing a bit, yes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 558.16,
+    "end": 564.11,
+    "text": "But when it does work, which occurs more often than not, we are making a success of it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 564.11,
+    "end": 568.27,
+    "text": "This is then our strategy six, the wide initial balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 568.27,
+    "end": 572.23,
+    "text": "Remember to learn to differentiate between what wide means.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 572.23,
+    "end": 577.59,
+    "text": "Once you've done that, make sure you interpret your execution style, your management style,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 577.59,
+    "end": 580.59,
+    "text": "and then also your expectation style.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 580.94,
+    "end": 587.74,
+    "text": "With this trade, a lot of what this trade is all about is the psychology of the trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 587.74,
+    "end": 593.54,
+    "text": "What tends to occur, because we get this very aggressive wide move initially, market participants",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 593.54,
+    "end": 599.88,
+    "text": "tend to be a little bit too aggressive, or they come in with maybe a fundamental bias",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 599.88,
+    "end": 604.74,
+    "text": "in their mind, looking for short-side trades only, or looking potentially for long-side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 604.74,
+    "end": 605.54,
+    "text": "trades only.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 605.79,
+    "end": 611.35,
+    "text": "As a result, what tends to occur is they miss the bigger picture, which is that we have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 611.35,
+    "end": 614.06,
+    "text": "a wide initial range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 614.06,
+    "end": 618.78,
+    "text": "Make sure you manage the sort of emotions that you can expect to see on the day type",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 618.78,
+    "end": 622.84,
+    "text": "where you have a wide initial range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 622.84,
+    "end": 626.34,
+    "text": "That then concludes our momentum strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 626.34,
+    "end": 631.54,
+    "text": "Let's now go and take a look at the replay example of the 10-year German Bund.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

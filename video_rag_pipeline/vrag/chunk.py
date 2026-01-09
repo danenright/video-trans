@@ -208,11 +208,13 @@ def build_chunks(
 def build_chunks_from_transcript(
     video_id: str,
     transcript: Sequence[TranscriptSeg],
+    frames: Sequence[FrameRef] | None = None,
     *,
     target_words: int = 350,
     max_words: int = 650,
     overlap_words: int = 60,
     max_seconds: float = 180.0,
+    attach_frame_refs: bool = True,
     meta: dict[str, Any] | None = None,
 ) -> list[Chunk]:
     """
@@ -223,10 +225,12 @@ def build_chunks_from_transcript(
     Args:
         video_id: Video identifier
         transcript: List of transcript segments
+        frames: Optional list of frame references for attaching screenshots
         target_words: Target word count per chunk
         max_words: Maximum word count per chunk
         overlap_words: Word overlap between chunks
         max_seconds: Maximum chunk duration in seconds
+        attach_frame_refs: Whether to attach frame paths to chunks
         meta: Optional metadata
 
     Returns:
@@ -237,6 +241,15 @@ def build_chunks_from_transcript(
 
     if not transcript:
         return chunks
+
+    # Sort frames by time for efficient lookup
+    sorted_frames = sorted(frames or [], key=lambda f: f.time)
+
+    def _get_frames_for_range(start: float, end: float) -> list[str]:
+        """Get frame paths that fall within a time range."""
+        if not sorted_frames or not attach_frame_refs:
+            return []
+        return [f.path for f in sorted_frames if start <= f.time <= end]
 
     current_segs: list[TranscriptSeg] = []
     current_words = 0
@@ -256,8 +269,13 @@ def build_chunks_from_transcript(
                 start = current_segs[0].start
                 end = current_segs[-1].end
                 text = _join_transcript(current_segs)
+                frame_refs = _get_frames_for_range(start, end)
 
                 chunk_id = Chunk.generate_id(video_id, len(chunks), start, end)
+                chunk_meta = {**meta, "chunk_idx": len(chunks)}
+                if frame_refs:
+                    chunk_meta["frame_refs"] = frame_refs
+
                 chunks.append(
                     Chunk(
                         chunk_id=chunk_id,
@@ -266,7 +284,7 @@ def build_chunks_from_transcript(
                         end=end,
                         text=text,
                         transcript=text,
-                        metadata={**meta, "chunk_idx": len(chunks)},
+                        metadata=chunk_meta,
                     )
                 )
 
@@ -295,8 +313,13 @@ def build_chunks_from_transcript(
         start = current_segs[0].start
         end = current_segs[-1].end
         text = _join_transcript(current_segs)
+        frame_refs = _get_frames_for_range(start, end)
 
         chunk_id = Chunk.generate_id(video_id, len(chunks), start, end)
+        chunk_meta = {**meta, "chunk_idx": len(chunks)}
+        if frame_refs:
+            chunk_meta["frame_refs"] = frame_refs
+
         chunks.append(
             Chunk(
                 chunk_id=chunk_id,
@@ -305,7 +328,7 @@ def build_chunks_from_transcript(
                 end=end,
                 text=text,
                 transcript=text,
-                metadata={**meta, "chunk_idx": len(chunks)},
+                metadata=chunk_meta,
             )
         )
 

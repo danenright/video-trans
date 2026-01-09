@@ -46,12 +46,14 @@ tesseract --version
 
 ### Python Package
 
+> **Note**: On macOS, use `python3` instead of `python`. The `python` command may not exist by default.
+
 > **Important**: Use a dedicated virtual environment to avoid dependency conflicts.
 > This package requires numpy 2.x and pydantic 2.x which may conflict with older packages like spacy, pandas<2, or numba.
 
 ```bash
 # Create a FRESH virtual environment (recommended)
-python -m venv vrag-env
+python3 -m venv vrag-env
 source vrag-env/bin/activate  # Linux/macOS
 # or: vrag-env\Scripts\activate  # Windows
 
@@ -69,10 +71,10 @@ pip install -e ".[dev]"
 
 ```bash
 # Check imports work
-python -c "from vrag.schema import Chunk; print('OK')"
+python3 -c "from vrag.schema import Chunk; print('OK')"
 
 # Check CLI works
-python run_pipeline.py --help
+python3 run_pipeline.py --help
 ```
 
 ## Quick Start
@@ -81,7 +83,7 @@ python run_pipeline.py --help
 
 2. **Run the pipeline**:
 ```bash
-python run_pipeline.py --input ./videos --output ./output
+python3 run_pipeline.py --input ./videos --output ./output
 ```
 
 3. **Find outputs** in `./output/<video_id>/`:
@@ -152,7 +154,7 @@ Each line in `chunks.jsonl`:
 ## CLI Options
 
 ```bash
-python run_pipeline.py --help
+python3 run_pipeline.py --help
 
 Options:
   -i, --input PATH    Input directory with MP4 files
@@ -244,7 +246,7 @@ pandas requires numpy<2, but you have numpy 2.2.6 which is incompatible.
 **Solution**: Always use a fresh virtual environment:
 ```bash
 # Create isolated environment
-python -m venv vrag-env
+python3 -m venv vrag-env
 source vrag-env/bin/activate
 pip install -e .
 ```
@@ -265,9 +267,8 @@ tesseract --version
 ### CUDA/GPU Issues
 
 If transcription or captioning is slow, check GPU availability:
-```python
-import torch
-print(torch.cuda.is_available())  # Should be True for GPU
+```bash
+python3 -c "import torch; print(torch.cuda.is_available())"  # Should be True for GPU
 ```
 
 For CPU-only systems, the pipeline will work but be slower. Consider using smaller models:

@@ -1,0 +1,186 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0000_mid.jpg",
+    "time": 3.5,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0000_end.jpg",
+    "time": 6.8,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0001_start.jpg",
+    "time": 7.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0001_mid.jpg",
+    "time": 15.72,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0001_end.jpg",
+    "time": 24.240000000000002,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0002_start.jpg",
+    "time": 24.64,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0002_mid.jpg",
+    "time": 26.12,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0002_end.jpg",
+    "time": 27.6,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0003_start.jpg",
+    "time": 28.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0003_mid.jpg",
+    "time": 55.379999999999995,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0003_end.jpg",
+    "time": 82.75999999999999,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0004_start.jpg",
+    "time": 83.16,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0004_mid.jpg",
+    "time": 140.6,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0004_end.jpg",
+    "time": 198.04000000000002,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0005_start.jpg",
+    "time": 198.44,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0005_mid.jpg",
+    "time": 206.92000000000002,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0005_end.jpg",
+    "time": 215.4,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0006_start.jpg",
+    "time": 215.79999999999998,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0006_mid.jpg",
+    "time": 221.39999999999998,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0006_end.jpg",
+    "time": 227.0,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0007_start.jpg",
+    "time": 227.39999999999998,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/Breakout_Footprint_Strategy_Debrief__Axia_Futures_Premium_Membership_Stream_/frames/scene_0007_mid.jpg",
+    "time": 230.68,
+    "width": 1280,
+    "height": 720
+  }
+]

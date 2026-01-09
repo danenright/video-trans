@@ -1,0 +1,634 @@
+[
+  {
+    "start": 1.33,
+    "end": 6.03,
+    "text": "Okay, now the exciting part trading strategies around large orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.57,
+    "end": 15.2,
+    "text": "The objective when you observe these large orders is to is to front-run genuine large orders for an entirely leveraged profit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.2,
+    "end": 18.2,
+    "text": "We have some of our traders here at AXIA futures who observe",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.78,
+    "end": 26.46,
+    "text": "large orders in some very thick liquid markets and what they try and do is they have a one tick risk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.46,
+    "end": 31.1,
+    "text": "and a one tick reward but they're doing it with such large size you know for example in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.12,
+    "end": 42.28,
+    "text": "order, 4,000 lot genuine order and with that 4,000 lots that they then execute a front-run trade just above it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.28,
+    "end": 46.8,
+    "text": "they're looking for one tick and they'll do it with a two, three hundred lots sometimes just for that one tick and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 47.0,
+    "end": 49.0,
+    "text": "so it's a very highly leveraged trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.56,
+    "end": 53.72,
+    "text": "provided your experience and your ability to interpret",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 53.72,
+    "end": 59.92,
+    "text": "what is a genuine large order and what is not. Your ability to interpret that will determine the success of your trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.92,
+    "end": 64.2,
+    "text": "and that's only a process of observation and experience and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.53,
+    "end": 68.14,
+    "text": "and solid deliberate learning.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.78,
+    "end": 73.34,
+    "text": "We're going to be looking at a couple of strategies in the next slide on some videos",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.74,
+    "end": 79.58,
+    "text": "But we're going to be looking at you know, some some front running strategies and the main ones really is as I mentioned before",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.82,
+    "end": 84.3,
+    "text": "The explosive one tick front run. It's the it's the it's the fill and run",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.38,
+    "end": 85.74,
+    "text": "So the moment you see that large order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.74,
+    "end": 87.26,
+    "text": "So for example on the previous slide",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 87.26,
+    "end": 92.14,
+    "text": "We saw that 2000 at the moment that comes in you determine that's that's a genuine order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.3,
+    "end": 97.66,
+    "text": "you place a bit directly above it the moment you get filled you get out for a tick or three ticks and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.1,
+    "end": 102.46,
+    "text": "and so really the mathematics of that trade is you're leveraging your size in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.46,
+    "end": 106.98,
+    "text": "order to get the full, given the type of liquidity environment that you have and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.98,
+    "end": 110.58,
+    "text": "a lot of times large orders come in when the markets in that high state of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.58,
+    "end": 114.38,
+    "text": "panic and the moment you see it sometimes large orders start chasing the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.38,
+    "end": 117.4,
+    "text": "book up the page and you'll get it sometimes when there's an OPEC",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.4,
+    "end": 120.46,
+    "text": "breaking meeting on crude oil when all of a sudden you see a large order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.46,
+    "end": 123.54,
+    "text": "come to the market a thousand lot and what you do you place an order just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.54,
+    "end": 126.7,
+    "text": "above it so a thousand lot comes in on the buy side you place an order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.31,
+    "end": 131.15,
+    "text": "and then you get filled and the market moves up then all of a sudden the thousand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.15,
+    "end": 134.51,
+    "text": "lot is not being filled that chases up the market again it's not getting full",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.51,
+    "end": 137.91,
+    "text": "so you you run in front of that order sometimes you can get a quick 20 tick",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.91,
+    "end": 141.49,
+    "text": "move when you notice a large order not being filled those are sometimes the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.49,
+    "end": 149.17,
+    "text": "best trades when a large order excuse me is not being filled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.79,
+    "end": 152.51,
+    "text": "Then there's the front-run position after a fast sprint. We won't be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.51,
+    "end": 155.87,
+    "text": "looking at a video. I'd rather let you find this in the marketplace but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.87,
+    "end": 159.51,
+    "text": "effectively what that is is if you've had a large order sitting at a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.51,
+    "end": 164.31,
+    "text": "particular price all day and therefore kind of ticks the box of a genuine",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.31,
+    "end": 168.15,
+    "text": "order, what you're effectively looking for is if you see the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.15,
+    "end": 171.71,
+    "text": "moving 60 ticks, say in this instance in the oil market,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.71,
+    "end": 176.39,
+    "text": "moving incredibly quickly towards an order. If that market is moving very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.39,
+    "end": 181.55,
+    "text": "order there's a very strong likelihood that the market will bounce directly off",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.55,
+    "end": 184.71,
+    "text": "their large order because it's not moving towards slowly it's not building",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 184.71,
+    "end": 189.09,
+    "text": "time above their large order because the moment you build time there is there is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.09,
+    "end": 192.23,
+    "text": "there is a lot of energy for the market to trade through it because it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.23,
+    "end": 196.07,
+    "text": "it's building a good structure above it so when a market almost vacuums",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.07,
+    "end": 199.39,
+    "text": "towards the level moves fast it's easier to bounce because it's moving from",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.39,
+    "end": 202.93,
+    "text": "far where whereas when it's moving slowly towards it and builds above it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 202.93,
+    "end": 205.59,
+    "text": "it's not going to bounce as quickly but it's not bouncing from far it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.62,
+    "end": 211.9,
+    "text": "from close. So those fast sprint large order trades are some that don't exist too often",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.9,
+    "end": 216.78,
+    "text": "but when you observe them they are great trading strategies and high probability plays.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 217.71,
+    "end": 221.61,
+    "text": "then there's the hiding behind the elephant trade so once the large order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.61,
+    "end": 226.85,
+    "text": "has been identified and the large order you know the front run starts failing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.85,
+    "end": 230.67,
+    "text": "and all of sudden you start seeing participants hitting that large order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 230.67,
+    "end": 233.87,
+    "text": "or that large order starts disintegrating with with trades that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.87,
+    "end": 236.75,
+    "text": "are going through it the moment you see the large order just about to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 236.75,
+    "end": 240.23,
+    "text": "disappear you have to react quickly enough by in this instance say the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.23,
+    "end": 245.29,
+    "text": "large orders of 2,000 lots sitting at a bit at 50 the market is bouncing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.31,
+    "end": 251.79,
+    "text": "that large order the moment it trades the moment it trades out the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.79,
+    "end": 256.31,
+    "text": "blips down the moment it blips down on the balance probability what happens is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.31,
+    "end": 260.03,
+    "text": "it blips down because everyone's having to start covering who are front running",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 260.03,
+    "end": 263.27,
+    "text": "it blips down and then you have to wait until you find that first little",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.27,
+    "end": 268.31,
+    "text": "absorption zone which will be talking on on the in later on in the module",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.31,
+    "end": 272.71,
+    "text": "the moment the market blips down and you see the market starting to reload",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.53,
+    "end": 282.17,
+    "text": "order, you bid it and then invariably the market retests where that large order was taken out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.17,
+    "end": 286.49,
+    "text": "So that's called the hiding behind the elephant and we'll be looking at that in the next",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.49,
+    "end": 288.99,
+    "text": "video after this slide.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 288.99,
+    "end": 291.09,
+    "text": "And then you can get synthetic skulls via TT.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 291.09,
+    "end": 297.11,
+    "text": "You can have more automated strategies such as you can have the same type of hiding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 297.11,
+    "end": 301.73,
+    "text": "behind the elephant or if you hit the large order, so for example if you're looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 304.11,
+    "end": 309.23,
+    "text": "disappears uh the large order disappears and the market blips down as soon as you hit that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 309.23,
+    "end": 313.23,
+    "text": "larger as soon as you get filled you have an automatic exit so the moment you get filled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 313.23,
+    "end": 317.31,
+    "text": "you put an automatic exit for that quick for that quick fill because the market could react",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 319.31,
+    "end": 323.51,
+    "text": "And then we talk about the hit and run plus a quick synthetic exit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 323.51,
+    "end": 327.39,
+    "text": "So the hit-and-run strategy is you observe the large order the large order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 328.27,
+    "end": 332.19,
+    "text": "People are unable to front-run the large order the large order is now being traded out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 332.19,
+    "end": 335.39,
+    "text": "You join as that large order gets taken out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 335.47,
+    "end": 339.55,
+    "text": "You follow that large order and we'll be looking at in the next in the next video",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 339.95,
+    "end": 347.15,
+    "text": "The video analysis of the ladder of a large order hit-and-run strategy and as that large order gets taken out it blips down",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 347.15,
+    "end": 349.15,
+    "text": "But this we make a lot more sense",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 348.91,
+    "end": 351.97,
+    "text": "when we look at the latter video next.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

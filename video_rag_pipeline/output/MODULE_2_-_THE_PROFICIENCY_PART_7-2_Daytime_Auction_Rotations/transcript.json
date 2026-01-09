@@ -1,0 +1,490 @@
+[
+  {
+    "start": 0.59,
+    "end": 7.11,
+    "text": "Welcome to part 7 guys and I hope you managed to get that playbook done and it's all updated",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.11,
+    "end": 12.77,
+    "text": "and starting to take a real good shape now as we move through to the back end of module",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.77,
+    "end": 13.77,
+    "text": "2.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.77,
+    "end": 17.31,
+    "text": "So what we're going to talk about in module 2 is we're going to start off by talking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.31,
+    "end": 22.29,
+    "text": "about the types of auction rotations, weak and strong control factors that you see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.29,
+    "end": 24.37,
+    "text": "within the various auctions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 24.37,
+    "end": 27.91,
+    "text": "We're then going to turn our attention to the volume point of control, talk a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.19,
+    "end": 36.87,
+    "text": "off with the brief introduction of high and low volume areas. Now, before we move on to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.87,
+    "end": 42.67,
+    "text": "part seven, I really want to just take a moment to sort of go back over the quote we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.67,
+    "end": 49.47,
+    "text": "just saw from George Soros. I think it's quite pertinent to traders and not just trading,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.47,
+    "end": 54.27,
+    "text": "but what George Soros was saying was that he's progressed and he's been successful",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.91,
+    "end": 62.71,
+    "text": "I just want to share with you when I was growing as a trader, at one point I think after two",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.71,
+    "end": 67.15,
+    "text": "years in my career, I stopped and I looked at a lot of the strategies I had developed",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.15,
+    "end": 73.87,
+    "text": "and I very quickly realized that the strategies I had developed were based on the mistakes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.87,
+    "end": 76.23,
+    "text": "I made so early on in my career.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.23,
+    "end": 81.03,
+    "text": "So for instance, I used to be someone that would sit there and I would have these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.19,
+    "end": 91.29,
+    "text": "Time and time and time again I would lose so much money fading trend days.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.29,
+    "end": 96.79,
+    "text": "All of a sudden I developed a strategy of how to trade a trend day, how to recognize",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.79,
+    "end": 101.75,
+    "text": "initiative price response and how to take advantage of trend days.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.75,
+    "end": 107.19,
+    "text": "Merely recognizing my mistake of losing money on trend days helped me to formulate the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.19,
+    "end": 115.11,
+    "text": "Ultimately, by recognising the mistake, I became successful and was finally able to not lose",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.11,
+    "end": 120.39,
+    "text": "money from trading, from fading trend days, but rather make money from going with the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.39,
+    "end": 121.59,
+    "text": "momentum on trend day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.19,
+    "end": 128.83,
+    "text": "It's so pertinent that you understand that quote as you will again, you know, whether",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.83,
+    "end": 134.21,
+    "text": "you're a beginner trader or whether you're an expert trader, you would realize this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.21,
+    "end": 139.33,
+    "text": "fact yourself as you're going through your career or as you are already quite established",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.33,
+    "end": 141.23,
+    "text": "in your career.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.23,
+    "end": 144.53,
+    "text": "So let's get to it, our daytime auction rotations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.53,
+    "end": 148.83,
+    "text": "Now you need to think of the marketplace as a game in which time frame buyers and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.07,
+    "end": 155.53,
+    "text": "In its simplest sense, when buy is in control, prices rise.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.53,
+    "end": 157.83,
+    "text": "When sellers are in control, prices fall.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.83,
+    "end": 161.07,
+    "text": "This is the basic premise of auctions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.07,
+    "end": 166.35,
+    "text": "Now, when only one participant is in control, the market tends to one time frame.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.96,
+    "end": 172.72,
+    "text": "When neither party is in complete control, price fluctuates up and down as one side pulls",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.72,
+    "end": 175.52,
+    "text": "and tires, then the other side steps in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.52,
+    "end": 179.76,
+    "text": "When control is shared, we exhibit a rotating market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.76,
+    "end": 185.24,
+    "text": "Now these two markets can be highlighted as either two time framing markets where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.24,
+    "end": 191.68,
+    "text": "neither participant has control or one time framing markets where we see initiative from",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 191.68,
+    "end": 195.08,
+    "text": "one time frame and full control from that one time frame.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.22,
+    "end": 201.86,
+    "text": "Now note, one time framing is an aggressive pattern. Volume is therefore not important.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.86,
+    "end": 206.1,
+    "text": "So you do not want to be fading a one time framing pattern.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.82,
+    "end": 212.14,
+    "text": "The reason I say volume is not important is that when we see this one time framing it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 212.14,
+    "end": 218.64,
+    "text": "could be a result, well it's generally a result of one time frame needs to execute over",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.64,
+    "end": 219.64,
+    "text": "the period of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.64,
+    "end": 225.28,
+    "text": "Now if he gets the desired liquidity then we tend to see the one time framing being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.28,
+    "end": 227.86,
+    "text": "slightly less aggressive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.86,
+    "end": 232.1,
+    "text": "If he doesn't get the required liquidity we can see the one time framing being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.06,
+    "end": 240.86,
+    "text": "It's important that you understand that one-time framing doesn't have to be on high or low",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.86,
+    "end": 241.86,
+    "text": "volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 241.86,
+    "end": 244.54,
+    "text": "What is important is that we do not fade it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.8,
+    "end": 257.16,
+    "text": "what these time-frame, whether it's one time-framing or two time-framing trades look like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.16,
+    "end": 261.96,
+    "text": "What's important to understand is that we need to, by identifying whether in one time-framing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 261.96,
+    "end": 266.5,
+    "text": "or two time-framing, we have to make sure when it's one time-framing, we don't have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 266.5,
+    "end": 274.5,
+    "text": "to rush in because if we can early identify it one time-framing, then we can take advantage",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.5,
+    "end": 283.58,
+    "text": "Now, some of the time frame transition factors that we are going to talk about is one, the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 283.58,
+    "end": 288.5,
+    "text": "need to be ahead of confirmation, so sometimes when you're taking on a trade strategy, you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 288.5,
+    "end": 295.54,
+    "text": "need to be a little bit ahead as opposed to behind, and then sometimes another transition",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 295.54,
+    "end": 298.9,
+    "text": "factor will be when we have volatility expansion.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 298.9,
+    "end": 305.1,
+    "text": "So again, both these sort of factors can tell us when there's a sudden shift between",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 306.1,
+    "end": 311.26,
+    "text": "markets and one time framing markets. Let's now take a look at an example of what one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 311.26,
+    "end": 315.46,
+    "text": "time framing and two time framing as well as volatility shifts might look like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

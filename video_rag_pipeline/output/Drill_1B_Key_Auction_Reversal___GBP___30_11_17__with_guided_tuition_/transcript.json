@@ -1,0 +1,866 @@
+[
+  {
+    "start": 1.26,
+    "end": 10.43,
+    "text": "So welcome then to unit 12 strategy 7 drill session. Now this is obviously the key auction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.43,
+    "end": 17.51,
+    "text": "reversal strategy. Before we get straight into it, bear in mind we spoke of two variations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.51,
+    "end": 25.15,
+    "text": "One of the variations was where we had either a V or inverse symmetrical reversal and the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.15,
+    "end": 30.97,
+    "text": "second was where we have an outside candle coming off of the top of the session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.62,
+    "end": 36.9,
+    "text": "We obviously spoke about the two variations in a sense of what they mean and the implications",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.9,
+    "end": 37.9,
+    "text": "thereof.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.9,
+    "end": 43.24,
+    "text": "In essence they do both form very, very strong highs and lows in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.24,
+    "end": 48.94,
+    "text": "It's just simply how quickly, in other words time is the basic difference between the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.94,
+    "end": 51.38,
+    "text": "two variations of the strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.11,
+    "end": 57.15,
+    "text": "The example we're looking at won't be the symmetry based strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.15,
+    "end": 62.03,
+    "text": "We obviously did deal with that in the unit session so you can watch that replay back.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.03,
+    "end": 64.47,
+    "text": "This is simply an outside candle.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.47,
+    "end": 68.57,
+    "text": "So let's pay attention closely to this current rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.57,
+    "end": 71.99,
+    "text": "We can see obviously it opened relatively close to the low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.99,
+    "end": 78.79,
+    "text": "The market's gone but quite aggressively left quite a strong low volume area, also",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.31,
+    "end": 85.99,
+    "text": "Note now what we're going to talk about in terms of the strategy. Bear in mind, when",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.99,
+    "end": 88.51,
+    "text": "we get that rejection or that reversal...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.62,
+    "end": 94.58,
+    "text": "whether it's either one of the variations, we always want to see a lot of volume and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.58,
+    "end": 96.38,
+    "text": "a lot of initiative.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.38,
+    "end": 101.94,
+    "text": "It's an initiative, initiative price response trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.94,
+    "end": 106.1,
+    "text": "So what we can see now is initially we've got that initiative, the market's moved",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.1,
+    "end": 107.98,
+    "text": "quite aggressively higher.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.98,
+    "end": 110.18,
+    "text": "We know it's initiative for a number of reasons.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.18,
+    "end": 115.38,
+    "text": "One, we can see the relative pick up in volume as well as price, so we can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.94,
+    "end": 123.1,
+    "text": "prices over which we're auctioning. We've obviously got the imbalance in the middle,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.1,
+    "end": 127.5,
+    "text": "as well as now this auction higher up. So we can see that initiative coming into the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.5,
+    "end": 134.5,
+    "text": "market. It then runs into a block of offer, so it runs into a real big liquidity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.66,
+    "end": 138.34,
+    "text": "bucket that's sitting just above the recent highs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.34,
+    "end": 143.58,
+    "text": "And straight away as soon as the market identifies that it's run into that bucket and it's extended",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.58,
+    "end": 149.42,
+    "text": "upon the morning's highs, we see the sellers step in quite aggressively, quite intentionally.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.42,
+    "end": 151.9,
+    "text": "So note initially the market went bid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.9,
+    "end": 155.66,
+    "text": "We saw quite a lot of buying above those 35.50s.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.66,
+    "end": 161.7,
+    "text": "Once we got above those 35.50s, note now how we're only seeing selling into the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.03,
+    "end": 166.09,
+    "text": "We've now re-entered that imbalance, and we can see the market beginning the process",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.09,
+    "end": 168.75,
+    "text": "of filling out the imbalance now.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.42,
+    "end": 175.14,
+    "text": "Again, what is lovely about this trade strategy is we don't have to rush in, we don't have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.14,
+    "end": 177.78,
+    "text": "to be preemptive, we don't have to guess.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.78,
+    "end": 183.22,
+    "text": "Once we get the weak close and the outside candle close here, we simply want to wait",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.22,
+    "end": 188.46,
+    "text": "for that little pull back, wait for the market to bounce, and when we see that absorption",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 188.46,
+    "end": 190.3,
+    "text": "we do want to bounce.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.3,
+    "end": 194.74,
+    "text": "Now I just want to go back a couple of frames and note something.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.74,
+    "end": 198.58,
+    "text": "So note as we've come down here, note where those secondary buyers are.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.04,
+    "end": 203.88,
+    "text": "We spoke in terms of this trade strategy of the three key responses.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.88,
+    "end": 206.76,
+    "text": "The initial initiative drive we've mentioned.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.76,
+    "end": 212.92,
+    "text": "We then run into responsive sellers providing liquidity, which we noted from 35.50 up to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 212.92,
+    "end": 214.84,
+    "text": "35.55.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.84,
+    "end": 220.4,
+    "text": "Once the market goes offered on initiative, we then find those secondary buyers, which",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.22,
+    "end": 234.22,
+    "text": "And the key was that this secondary bit of buy side response, once we get below that,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.22,
+    "end": 237.82,
+    "text": "we should see the initiative continue and that's exactly what we're getting.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.82,
+    "end": 240.66,
+    "text": "We're getting this initiative continue lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.66,
+    "end": 245.98,
+    "text": "Now in terms of trade strategy, we spoke about execution point and that is exactly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.98,
+    "end": 246.98,
+    "text": "where we want to execute.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.98,
+    "end": 251.26,
+    "text": "We want to execute at that point where we had that secondary buying.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.95,
+    "end": 255.35,
+    "text": "Let's pay attention to this, I'm just going to move this on a little bit so we can get",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 255.35,
+    "end": 259.51,
+    "text": "to that point where we do see the retest and see how it responds.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 259.51,
+    "end": 263.59,
+    "text": "Okay, so we can see the market goes back but now a little bit of absorption on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.59,
+    "end": 269.37,
+    "text": "low, a little bit of thinning out, and straight away it trades into that secondary",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 269.37,
+    "end": 274.03,
+    "text": "response area that we saw at 44.43.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 278.83,
+    "end": 283.79,
+    "text": "So the moment we saw that lack of wanting to initiate above that error, we've got to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 283.79,
+    "end": 284.79,
+    "text": "be quite aggressive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 284.79,
+    "end": 290.83,
+    "text": "Note the absorption in front of it now, 42 is trading 118 lots, a little bit up at 43,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.83,
+    "end": 298.31,
+    "text": "35 trade, 39 trade, 45 trade, 55 trade, 68 trade, okay, and bang, we're now filled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 298.31,
+    "end": 305.11,
+    "text": "at that price that we want to be filled at, which is ultimately the secondary response",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 308.45,
+    "end": 313.53,
+    "text": "down. Now, in terms of stop, it's very simple. We do not want to be trading back inside this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 313.53,
+    "end": 318.53,
+    "text": "bucket positioning. What I did say, however, is you can be a little bit...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 318.82,
+    "end": 325.56,
+    "text": "more open with the stop simply because you're going to get some very significant reward",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 325.56,
+    "end": 331.28,
+    "text": "when we continue the initiation in the opposite direction. So just do bear that in mind. Don't",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 331.28,
+    "end": 337.14,
+    "text": "keep a stop too tight. Anyway I'd say above that current high is a good enough stop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.14,
+    "end": 343.18,
+    "text": "It is 10 ticks in terms of this market which is the EURUSD. So let's have a look",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 344.61,
+    "end": 351.05,
+    "text": "Now note we said we want to see initiative once we get below ultimately that lower end",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 351.05,
+    "end": 352.69,
+    "text": "of that candle.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 352.69,
+    "end": 357.65,
+    "text": "So if we get below those 29s, below that 16x0, we want to see the market begin the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 357.65,
+    "end": 360.37,
+    "text": "process of initiation lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 360.37,
+    "end": 366.62,
+    "text": "Now one thing to factor in, the delta on the day is positive 1500 still.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 366.62,
+    "end": 370.2,
+    "text": "That does, you know, we should factor that in because it does mean that if we do",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 371.42,
+    "end": 376.94,
+    "text": "we can obviously unwind the remainder of that Delta. So there really are a lot of factors",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 376.94,
+    "end": 384.3,
+    "text": "in our favor within this current play of the key auction reversal. Now note, obviously",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 384.3,
+    "end": 388.46,
+    "text": "once we did start to go off there again, see the imbalance again, a little bit of sell",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 388.46,
+    "end": 394.14,
+    "text": "side imbalance coming into the market, and then let's just follow this through a little",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 394.14,
+    "end": 399.06,
+    "text": "bit. So again the next rotation opens up and we're going to just see this rotation",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 401.02,
+    "end": 406.44,
+    "text": "out. Okay, so we can see the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 406.44,
+    "end": 409.56,
+    "text": "attempting to fill this little bit of a distribution out now.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 409.56,
+    "end": 414.22,
+    "text": "I'm just going to fast-forward this along. A little bit of absorption coming in the low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 414.22,
+    "end": 418.66,
+    "text": "No real aggressive second leg of initiative just yet.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 418.66,
+    "end": 423.56,
+    "text": "Again, we see the market come up, and again we see the market stop and test",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 423.56,
+    "end": 430.56,
+    "text": "at that point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 424.46,
+    "end": 429.5,
+    "text": "previous area where the sellers now got stuck in. So initially we had buyers responding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 429.5,
+    "end": 435.06,
+    "text": "on the first pullback. Now that area where sellers responded, i.e. any kind of aggressive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.06,
+    "end": 442.35,
+    "text": "buying being absorbed, we've seen the market now stop and pause at this area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 440.78,
+    "end": 446.98,
+    "text": "We can really see the market responding and respecting these price points, and the important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 446.98,
+    "end": 451.94,
+    "text": "thing to understand is obviously, note the lack of symmetry, I think that's the real",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 451.94,
+    "end": 452.94,
+    "text": "key here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 452.94,
+    "end": 459.86,
+    "text": "It doesn't look as pretty as say a V or inverse V reversal, but ultimately the principle",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 459.86,
+    "end": 463.14,
+    "text": "underlying the trade strategy is exactly the same.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 463.44,
+    "end": 468.36,
+    "text": "Okay guys, in terms of then the target, well like we said, we're looking for that unwind",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 468.36,
+    "end": 472.78,
+    "text": "of the delta, or at least the initiative second, the initiative leg lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 472.78,
+    "end": 477.34,
+    "text": "You won't see it within this video, it does come, you can go and view that on the 30th",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 477.34,
+    "end": 480.34,
+    "text": "of November 2017.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 480.82,
+    "end": 484.44,
+    "text": "In terms of the stop, obviously we always want to be trailing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 484.44,
+    "end": 490.76,
+    "text": "Once we saw the market, all these sellers stepping in at lower prices, lower prices, lower prices,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 490.76,
+    "end": 495.18,
+    "text": "we can now shift our stop a little bit lower to the 135.45.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 495.33,
+    "end": 500.93,
+    "text": "Okay, that being said the last thing then to pay attention to is what happens the next",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 500.93,
+    "end": 506.25,
+    "text": "day. So we spoke about three key principles, which is if we get the week closed and it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 506.25,
+    "end": 512.45,
+    "text": "a high volume day as well as the delta in the direction of the rejection, we are on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 512.45,
+    "end": 516.69,
+    "text": "for a second day continuation in the direction of the rejection.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 516.88,
+    "end": 522.98,
+    "text": "Okay, so just factor that in, go and have a look what happened on the 1st of December",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 522.98,
+    "end": 528.82,
+    "text": "and see how that euro responded the day after a key auction rejection reversal.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 528.82,
+    "end": 532.94,
+    "text": "Okay guys, thank you very much and I will see you guys all in unit 13.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

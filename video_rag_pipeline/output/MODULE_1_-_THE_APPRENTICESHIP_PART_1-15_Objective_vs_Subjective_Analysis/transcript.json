@@ -1,0 +1,418 @@
+[
+  {
+    "start": 1.2,
+    "end": 5.88,
+    "text": "This is by far one of the most important principles you're going to learn in part one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.92,
+    "end": 12.53,
+    "text": "Objective versus subjective analysis. So what is the difference between the two? Well",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.13,
+    "end": 15.57,
+    "text": "subjective or subjectivity is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.53,
+    "end": 17.85,
+    "text": "influenced or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.85,
+    "end": 21.25,
+    "text": "Feelings or opinions or intuitive or instinctive?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.77,
+    "end": 28.68,
+    "text": "It's this opinion we have about something having to occur because we feel it should",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.36,
+    "end": 33.84,
+    "text": "Now, where do these subjective ideas come from?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.84,
+    "end": 40.28,
+    "text": "Well, first and foremost they come from very big fundamentals, whether that's data that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.28,
+    "end": 46.12,
+    "text": "moves the markets, whether that's companies producing new products, or whether that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.02,
+    "end": 52.7,
+    "text": "a new big thing, a new big trend in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.7,
+    "end": 57.14,
+    "text": "All these sorts of fundamentals give us these ideas, these opinions",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.14,
+    "end": 60.3,
+    "text": "or this instinct that something should go up or down.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.3,
+    "end": 66.22,
+    "text": "Subjectivity also comes from CNBC and Bloomberg and analysts. Why? Because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.22,
+    "end": 69.62,
+    "text": "well we see these high-profile individuals on the TV and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.62,
+    "end": 73.66,
+    "text": "and writing articles in the newspapers and we think well because they're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.66,
+    "end": 74.62,
+    "text": "experts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.11,
+    "end": 81.47,
+    "text": "and all of a sudden we put ourselves in these subjective ideas or in the subjective mindset",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.47,
+    "end": 89.74,
+    "text": "that something should occur because someone high profile said it. Then, most important, subjective",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.74,
+    "end": 94.7,
+    "text": "is because of opinions, the opinions of your peers, of other traders, of what other people",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.7,
+    "end": 101.42,
+    "text": "think, of people on Twitter, right? All these things together put us into a subjective mindset",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.14,
+    "end": 109.66,
+    "text": "Now, what's the counter to that? What's the opposite to that? It's objective. Okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.06,
+    "end": 115.34,
+    "text": "Objective is not influenced. It's factual based. It's unbiased. It's neutral.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.38,
+    "end": 123.78,
+    "text": "Fair-minded, open-minded, impersonal and unemotional. As we can see, it's the complete opposite of subjective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.98,
+    "end": 130.22,
+    "text": "It's fact-based. It's exact. There's no idea or opinion about it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.58,
+    "end": 133.18,
+    "text": "So, where does objectivity come from?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.18,
+    "end": 137.94,
+    "text": "Well, we can get objectivity from volume market profiling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.94,
+    "end": 141.82,
+    "text": "We can get objectivity from price action, in other words, what we're physically seeing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.82,
+    "end": 143.65,
+    "text": "prices do.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.65,
+    "end": 147.97,
+    "text": "We can get objectivity from various trading strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.97,
+    "end": 151.89,
+    "text": "If we have a trading strategy where we have exact execution, there's no ifs and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.89,
+    "end": 152.89,
+    "text": "buts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.89,
+    "end": 153.89,
+    "text": "There's A and B.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.89,
+    "end": 159.53,
+    "text": "So, the question you have to ask yourself is very simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.39,
+    "end": 167.27,
+    "text": "In every single trade you take, in every single strategy you develop, are you being objective?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.27,
+    "end": 171.81,
+    "text": "Every time you click on that mouse, you should be able to say, I'm being objective in this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.81,
+    "end": 174.84,
+    "text": "approach, in this process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.84,
+    "end": 177.44,
+    "text": "And is your trading strategy exact?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.44,
+    "end": 180.52,
+    "text": "If it isn't exact, guys, you do not have an edge.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.52,
+    "end": 184.72,
+    "text": "You might have a good idea, of course, but you do not have an edge.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 184.72,
+    "end": 188.72,
+    "text": "In other words, in the long run, that trading strategy is going to cause you to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.75,
+    "end": 196.07,
+    "text": "Now, as we can see from the funny little picture, whilst it's simple, it's highly effective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.07,
+    "end": 199.75,
+    "text": "As we can see, the wonderful boyfriend and girlfriend are sitting down, eating a piece",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.75,
+    "end": 200.99,
+    "text": "of cake.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.99,
+    "end": 206.22,
+    "text": "Now, we can see that, you know, the boy is looking at the cake thinking, oh, my",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.22,
+    "end": 210.7,
+    "text": "girlfriend can't cook or bake at all, and he's thinking, well, you know, her food's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.7,
+    "end": 214.26,
+    "text": "not very good, and this cake's going to be terrible.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.5,
+    "end": 226.58,
+    "text": "However, if we compare that to the number of, you know, round dough balls on the plate,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.58,
+    "end": 229.28,
+    "text": "we can see that factually there are four of them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.28,
+    "end": 234.78,
+    "text": "It's objective, it's exact, it's not opinionated, it's an exact thing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.78,
+    "end": 239.54,
+    "text": "And that's the major difference between subjective and objective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.54,
+    "end": 241.86,
+    "text": "Subjective is opinionated.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 241.86,
+    "end": 243.1,
+    "text": "Objective is fact based.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

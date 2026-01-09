@@ -1,0 +1,1090 @@
+[
+  {
+    "start": 2.35,
+    "end": 7.39,
+    "text": "Alright guys so welcome to this drill by session before we actually move into the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.39,
+    "end": 13.17,
+    "text": "drills and the sets of questions let's first just briefly have a little bit of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.17,
+    "end": 17.85,
+    "text": "an overview of exactly what it is we dealt with throughout Unity. So to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.85,
+    "end": 22.13,
+    "text": "summarize in terms of the tool the two basic elements of setting up the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.13,
+    "end": 25.93,
+    "text": "tool that we are going to utilize throughout this course is number one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.93,
+    "end": 29.53,
+    "text": "obviously the rotation",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.03,
+    "end": 33.95,
+    "text": "And within that rotation factor, we spoke about two different types of rotations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.95,
+    "end": 40.31,
+    "text": "The first was a bar type rotation, which is predominantly a time-based rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.31,
+    "end": 44.11,
+    "text": "And then the second was the point and figure.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.11,
+    "end": 48.35,
+    "text": "Now once we spoke about the rotation, we then moved on to looking at the different",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.35,
+    "end": 51.39,
+    "text": "types of source footprints we can create.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.39,
+    "end": 53.95,
+    "text": "And we have five different footprint sources.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.75,
+    "end": 64.03,
+    "text": "The second that was the volume the third was the imbalance source the fourth",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.63,
+    "end": 66.39,
+    "text": "was the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.39,
+    "end": 68.23,
+    "text": "profile source and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.23,
+    "end": 72.53,
+    "text": "Lastly we spoke about the most important one which was the third times",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.75,
+    "end": 79.03,
+    "text": "Mask source now most importantly guys as I mentioned throughout this course and all the examples",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.03,
+    "end": 83.23,
+    "text": "We are going to utilize both sets of rotations for different strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.63,
+    "end": 90.67,
+    "text": "in terms of the source we are predominantly going to focus on the bid times by ask as well as develop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.67,
+    "end": 96.75,
+    "text": "a specific strategy utilizing the imbalance. Now just to note the reason we don't utilize",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.75,
+    "end": 102.83,
+    "text": "the delta volume profile is very simply because you can get all of that information within the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.83,
+    "end": 110.38,
+    "text": "bid times by ask source. Okay so that's what we dealt with in unit two so you should now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.42,
+    "end": 118.18,
+    "text": "relatively easy to utilize, you should be able to move between the different markets",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.18,
+    "end": 119.18,
+    "text": "quite easily.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.18,
+    "end": 126.22,
+    "text": "Last but not least, I really, really want to ensure that you can not just utilize the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.22,
+    "end": 131.36,
+    "text": "tool, but also that you understand the intricacy behind the tool, and that's what this drill",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.36,
+    "end": 132.36,
+    "text": "is all about.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.36,
+    "end": 137.46,
+    "text": "It's going to test that you actually understand what it is you're exactly seeing in that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.46,
+    "end": 138.46,
+    "text": "footprint tool.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.71,
+    "end": 146.07,
+    "text": "You know, if it is simple, great. That means you understand the basics of the tool",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.33,
+    "end": 150.67,
+    "text": "You know, that's fine. Brilliant move on to unit three if however, you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.67,
+    "end": 156.73,
+    "text": "You still struggling a little bit trying to understand the tool and this will be a perfect drill session",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.73,
+    "end": 161.93,
+    "text": "So straight into question number one or as you can see on the left side here",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.93,
+    "end": 167.93,
+    "text": "I've got a hypothetical footprint. So this is our footprint on the left and on the right side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.93,
+    "end": 169.97,
+    "text": "We've got the prices now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.64,
+    "end": 175.12,
+    "text": "I want you to answer the following question so question number one what is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.12,
+    "end": 180.22,
+    "text": "the volume traded at each price so tell me what is the total volume traded at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.22,
+    "end": 186.96,
+    "text": "each price question number two what is the Delta traded at each price is it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.96,
+    "end": 193.04,
+    "text": "positive or negative question number three which color should each price be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.04,
+    "end": 198.72,
+    "text": "so if you were to color in each one of these prices 40 41",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.14,
+    "end": 204.67,
+    "text": "40, 41, 42, 43. What color would it be? Red or blue? Question number four. Which",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.67,
+    "end": 209.25,
+    "text": "shade should each price be? Now remember we spoke about the number of shades and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.25,
+    "end": 214.35,
+    "text": "how that is the relative amount of volume traded in each price. So go and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.35,
+    "end": 219.93,
+    "text": "put each one of those prices in either a light shade, a medium shade or a dark",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.93,
+    "end": 225.73,
+    "text": "shade. Now just again to cast your memory back.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 224.05,
+    "end": 229.65,
+    "text": "that there's only two colors that it can be that's red and blue and from each one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.65,
+    "end": 235.65,
+    "text": "of those colors you're going to have a light a medium and a dark shape okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.65,
+    "end": 241.43,
+    "text": "question number five what is the cumulative Delta over these six prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 241.43,
+    "end": 248.69,
+    "text": "and question number six identify the imbalances between prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.17,
+    "end": 252.39,
+    "text": "Okay, I'm gonna give you a little tip there. It's diagonal in nature. So again, if you don't get this, that's okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 252.39,
+    "end": 256.71,
+    "text": "I will do a guided tuition session with you after this and your bonus question",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.19,
+    "end": 261.06,
+    "text": "And I don't know if I've mentioned this but if you do get this right, congratulations",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 261.1,
+    "end": 268.48,
+    "text": "But what does the zero represent at price 42? So what does that zero represent at price 42?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 269.36,
+    "end": 276.36,
+    "text": "pauses video now take a moment go through those questions think about it and when you come back and you start playing again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.58,
+    "end": 283.5,
+    "text": "I'm gonna go through each answer individually right guys so back into it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 283.5,
+    "end": 288.2,
+    "text": "now let's move straight on to the answers I hope you found that useful the first",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 288.2,
+    "end": 292.66,
+    "text": "thing is what is the volume traded each price so very simply as we spoke about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 292.66,
+    "end": 298.46,
+    "text": "the total volume is simply what was traded what was sold at price 45",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 298.46,
+    "end": 303.3,
+    "text": "versus what was bought at price 45 and we can see the sum total of volume is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 307.63,
+    "end": 313.37,
+    "text": "In the second example, we can see it's very simply 710 contracts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 313.37,
+    "end": 326.61,
+    "text": "We then have 367 contracts, then 650, then 1,030, and lastly 1,350, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 326.61,
+    "end": 327.61,
+    "text": "Nice and straightforward.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 327.61,
+    "end": 328.61,
+    "text": "Hopefully you got that right.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 328.61,
+    "end": 332.53,
+    "text": "Now, the next thing is what is the delta at each price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 334.06,
+    "end": 341.82,
+    "text": "you simply subtract the two from each other so 300 in the first example except you now need to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 341.82,
+    "end": 347.34,
+    "text": "add either a positive or a negative delta so remember the delta is merely the interaction or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 347.34,
+    "end": 353.74,
+    "text": "who won the battle at that price so the first example we can see there was more buying at 45",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 353.74,
+    "end": 360.46,
+    "text": "than there was selling therefore it will be a positive 300 delta and likewise for the next",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 362.59,
+    "end": 365.59,
+    "text": "and it was positive 190 delta.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 365.59,
+    "end": 371.11,
+    "text": "We then have minus 145 delta, as the sellers won price 43.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 371.11,
+    "end": 377.39,
+    "text": "We then have positive 650 delta, positive 870 delta,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 377.39,
+    "end": 381.63,
+    "text": "and last but not least, negative 650 delta.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 381.63,
+    "end": 384.85,
+    "text": "OK, so straight away you can see, obviously,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 384.85,
+    "end": 387.45,
+    "text": "that the delta varies at each price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 387.45,
+    "end": 391.65,
+    "text": "Now, the next step was, which color should each price be?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 392.67,
+    "end": 399.59,
+    "text": "or blue. Now the color just simply shows us whether it was buyers who won at that price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 399.59,
+    "end": 404.91,
+    "text": "or sellers who won at that price. So when the color is red, obviously the sellers won",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 404.91,
+    "end": 410.93,
+    "text": "and when the color is blue, the buyers won. By one we mean there was a positive impact",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 410.93,
+    "end": 418.03,
+    "text": "on the delta. So very clearly, very easily, we've got a blue, a blue, a red, a blue,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 420.88,
+    "end": 428.08,
+    "text": "Okay, and then the next question is what should each shape be at each price now this again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 428.08,
+    "end": 430.0,
+    "text": "If you found this a little bit tricky, that's okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 430.72,
+    "end": 437.96,
+    "text": "Important thing to understand is that the shades are based on the relative amount of volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 437.96,
+    "end": 444.52,
+    "text": "Okay, so an algorithm is designed effectively to go and add a shade based on the relative volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 444.52,
+    "end": 449.84,
+    "text": "So it's one prices volume relative to the next the price that has the darkest",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 450.27,
+    "end": 455.27,
+    "text": "color will ultimately have the most amount of volume versus the lighter. So if I was",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 455.27,
+    "end": 461.07,
+    "text": "to draw this on a scale it's simply just the least amount of volume toward the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 461.07,
+    "end": 464.43,
+    "text": "most amount of volume. So the darker the shade the higher the volume at a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 464.43,
+    "end": 469.59,
+    "text": "price and obviously counter the lower the volume the lighter the price. Okay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 469.59,
+    "end": 474.07,
+    "text": "so again if we were to put this into a shade it's very simple. We can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 474.07,
+    "end": 478.59,
+    "text": "the volume, trade of the total volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 476.86,
+    "end": 483.5,
+    "text": "and we can simply see that the highest volume is 1350 therefore that will be a very dark",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 483.5,
+    "end": 490.46,
+    "text": "shade. We can also see that relatively speaking 1100 is a relatively dark shade. On the flip",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 490.46,
+    "end": 496.54,
+    "text": "side we can see that 367 is a relatively low volume relative to all the other prices therefore",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 496.54,
+    "end": 504.22,
+    "text": "it will get a light shade. In between we have got obviously a medium shade with 650 and 710",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 504.58,
+    "end": 508.34,
+    "text": "and obviously then a thousand and thirty we could pretty much interpret",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 508.34,
+    "end": 512.98,
+    "text": "as a dark shade as well so that's how you would see the shades",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 512.98,
+    "end": 516.26,
+    "text": "it's based on the total of volume note obviously",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 516.26,
+    "end": 519.78,
+    "text": "the higher the amount of volume trending at a price obviously the darker",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 519.78,
+    "end": 522.98,
+    "text": "the shade and likewise the lighter will be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 522.98,
+    "end": 527.06,
+    "text": "allocated to the lower relative volume all right then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 529.31,
+    "end": 535.67,
+    "text": "very simple to get the cubit of Delta you're just going to add up all of these prices together",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 535.67,
+    "end": 541.81,
+    "text": "and you will find out over this series of six prices within this rotation we can very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 541.81,
+    "end": 546.87,
+    "text": "clearly see that the buyers have won this rotation and they've had a net impact or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 546.87,
+    "end": 550.83,
+    "text": "net positive impact on the market in this rotation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 551.44,
+    "end": 555.92,
+    "text": "Alright, and lastly, identify the imbalances between prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 555.92,
+    "end": 559.84,
+    "text": "Now again, don't worry too much about this, we will spend quite a bit of time on this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 559.84,
+    "end": 565.38,
+    "text": "when we move on to imbalance strategy, but very simply we can see there are some imbalances",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 565.38,
+    "end": 567.38,
+    "text": "and this is definitely one of them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 568.24,
+    "end": 574.16,
+    "text": "imbalances always go in that direction not in the opposite direction and the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 574.16,
+    "end": 578.16,
+    "text": "imbalance is none other than when there's a really big relative difference",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 578.16,
+    "end": 583.2,
+    "text": "between buyers buying a price versus sellers selling a price so we can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 583.2,
+    "end": 591.08,
+    "text": "buyers bought 650 at 42 versus sellers selling only 80 at 41 as a result",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 591.08,
+    "end": 594.52,
+    "text": "there's a really big imbalance between how much was sold at the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 598.08,
+    "end": 603.28,
+    "text": "best offer okay and obviously an imbalance obviously you know one man's imbalance might",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 603.28,
+    "end": 608.0,
+    "text": "be another man's you know non-imbalanced so it's important and we will talk about this later on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 608.0,
+    "end": 613.76,
+    "text": "to distinguish how much is an imbalance but as a basic rule of thumb i like to work on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 614.88,
+    "end": 620.0,
+    "text": "you know numbers anything five times okay so five x anything that's five times",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 620.0,
+    "end": 624.8,
+    "text": "for me would be considered an imbalance so straight away we can see no imbalance there",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 626.8,
+    "end": 632.72,
+    "text": "potential imbalance there no imbalance and no imbalance so if you got the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 632.72,
+    "end": 637.72,
+    "text": "answer right that that was the imbalance congratulations okay then to answer the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 637.72,
+    "end": 642.8,
+    "text": "bonus question very simply what does the zero represent at price 42 it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 642.8,
+    "end": 646.54,
+    "text": "very simple guys and again don't stress too much about this I don't think I",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 646.54,
+    "end": 650.96,
+    "text": "went over with you guys just yet but a zero represents a little bit of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 650.96,
+    "end": 653.6,
+    "text": "stops",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 652.06,
+    "end": 656.06,
+    "text": "Okay, so you all know what stops are, you know what they look like, you get annoyed when you get",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 656.06,
+    "end": 661.58,
+    "text": "stocked out, but when this is zero, effectively what it's telling us is that as the market began",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 661.58,
+    "end": 668.3,
+    "text": "to move either up or down, it skipped completely over this price. In other words, there was no",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 668.3,
+    "end": 675.02,
+    "text": "single selling going into the 42s at any point. Okay, so what it's saying is that once the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 677.6,
+    "end": 684.52,
+    "text": "Obviously, the buyers were so aggressive, so intentional to get a board that ultimately",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 684.52,
+    "end": 689.0,
+    "text": "they very quickly skipped over this price that sellers were not able to even sell a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 689.0,
+    "end": 692.78,
+    "text": "single contract at price 42.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 692.78,
+    "end": 695.38,
+    "text": "Alright guys, thank you for joining to this drill-based session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 695.38,
+    "end": 699.74,
+    "text": "I hope you've got a much better understanding now of the basic elements of the footprint.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 699.74,
+    "end": 703.54,
+    "text": "Again, we're going to move into unit 3 now, we're going to start talking about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 707.02,
+    "end": 711.98,
+    "text": "Once we do that, you're going to start to recognize how powerful the footprint tool is.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 711.98,
+    "end": 714.22,
+    "text": "Good luck and I'll see you again in unit three.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

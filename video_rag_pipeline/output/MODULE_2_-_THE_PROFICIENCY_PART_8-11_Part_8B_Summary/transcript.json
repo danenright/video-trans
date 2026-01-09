@@ -1,0 +1,1338 @@
+[
+  {
+    "start": 0.21,
+    "end": 6.77,
+    "text": "Hey guys and welcome to the blackboard learning series again for the final part of module two",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.99,
+    "end": 9.53,
+    "text": "We're going to do something very exciting now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.57,
+    "end": 15.77,
+    "text": "We're going to actually take you through a typical volume profile template example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.77,
+    "end": 22.73,
+    "text": "I'm going to show you what I as a trader would do on a day-to-day basis to ensure that I'm not missing any",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.21,
+    "end": 25.21,
+    "text": "elements or objective",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.45,
+    "end": 28.67,
+    "text": "Facts that are coming via the volume profiling tool",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.23,
+    "end": 32.65,
+    "text": "Then we're going to talk, in fact, what we're going to do is we're going to first talk about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.65,
+    "end": 35.39,
+    "text": "deliberate practice and we'll come back to the template example.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.39,
+    "end": 41.31,
+    "text": "So just with regards to deliberate practice, it's crucial, crucial, crucial that you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.31,
+    "end": 44.47,
+    "text": "understand that trading is like any skill.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.28,
+    "end": 47.8,
+    "text": "time to develop your skillset.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 47.8,
+    "end": 54.04,
+    "text": "It takes time to develop your patterns and it'll take time to develop consistency in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.04,
+    "end": 55.04,
+    "text": "marketplace.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.04,
+    "end": 59.96,
+    "text": "So the important thing is that you put in place deliberate practice measures.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.96,
+    "end": 65.26,
+    "text": "Now the reason we have, you know, sort of we want to deliberately practice things is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.26,
+    "end": 70.88,
+    "text": "because one, when we're deliberately practicing something, it's helping us develop routine.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.88,
+    "end": 72.64,
+    "text": "It's helping us develop discipline.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.64,
+    "end": 79.0,
+    "text": "helping us develop trust in what we are doing and trying to achieve.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.7,
+    "end": 85.26,
+    "text": "There's various ways you can exhibit deliberate practice, just like a sportsman or a footballer",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.26,
+    "end": 89.94,
+    "text": "will kick a corner kick 20, 30, 40 times in one session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.94,
+    "end": 95.52,
+    "text": "We need to watch various strategies time and time and time again, and we need to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.52,
+    "end": 102.0,
+    "text": "see these patterns in various markets, in various trade locations, in various contexts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.0,
+    "end": 107.22,
+    "text": "When we do this, when we identify the same pattern across multiple different asset",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.3,
+    "end": 112.7,
+    "text": "you're going to become masters of that strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.7,
+    "end": 117.28,
+    "text": "And that is why we want to do this exact practice.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.28,
+    "end": 120.36,
+    "text": "More importantly, we can also do playback functionality.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.36,
+    "end": 122.54,
+    "text": "Playback functionality allows us",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.54,
+    "end": 125.42,
+    "text": "to look at how a day type played out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.42,
+    "end": 128.2,
+    "text": "So what we can do is look at a day type in the beginning.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.2,
+    "end": 131.04,
+    "text": "We can then have our hypothesis in place",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.04,
+    "end": 132.6,
+    "text": "and then fast forward the day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.6,
+    "end": 134.96,
+    "text": "over a period of say a half an hour or hour",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.96,
+    "end": 137.82,
+    "text": "and try and trade the day as it is occurring.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.19,
+    "end": 141.95,
+    "text": "put ourselves in a position as though we were allocating real capital.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.83,
+    "end": 146.15,
+    "text": "And, then last but not least, back testing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.15,
+    "end": 151.59,
+    "text": "Back testing is a great form of deliberate practice where we're constantly looking at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.59,
+    "end": 157.51,
+    "text": "our strategies, constantly developing and evolving them as the conditions vary and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.51,
+    "end": 159.59,
+    "text": "adjust in the marketplace.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.59,
+    "end": 164.95,
+    "text": "So that's what we spoke about with regards to the deliberate practice.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.95,
+    "end": 169.43,
+    "text": "Now let's turn our attention to something a little more exciting and let's bring up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.76,
+    "end": 177.92,
+    "text": "template. So as you can see in front of you, we have a traditional daily trading sheet.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.92,
+    "end": 182.08,
+    "text": "Now what I'm going to go through is just the basics of what a daily trading sheet would",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.08,
+    "end": 187.84,
+    "text": "look like, but then I'm going to spend some time on the basic premise of a template,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.84,
+    "end": 193.8,
+    "text": "of how to take everything we've learned so far in module one, in module two,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.8,
+    "end": 199.36,
+    "text": "and almost summarize it in a very short space. And by summarizing it like that,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.07,
+    "end": 206.95,
+    "text": "information, put it into a few little lines and come out with a very good understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.95,
+    "end": 211.11,
+    "text": "as well as hypothesis and strategies we can employ.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.11,
+    "end": 215.61,
+    "text": "So a typical trading sheet will always start with our week's goals.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.61,
+    "end": 220.59,
+    "text": "Now I see so many traders that don't have goals in mind.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.59,
+    "end": 225.27,
+    "text": "You have to have goals and those goals can be short term, they can be long term,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.27,
+    "end": 226.63,
+    "text": "it doesn't really matter.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 230.29,
+    "end": 232.78,
+    "text": "mind.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 232.78,
+    "end": 238.42,
+    "text": "What we then typically look at is the calendar, what is likely to occur over the period of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 238.42,
+    "end": 239.42,
+    "text": "the session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.42,
+    "end": 245.86,
+    "text": "Again, the calendar or key data will bring volatility and will bring range expansion",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.86,
+    "end": 246.9,
+    "text": "into the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.22,
+    "end": 253.94,
+    "text": "We then start off typically our day by registering where the closes and the opening calls might",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.94,
+    "end": 254.94,
+    "text": "be.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 254.94,
+    "end": 258.78,
+    "text": "Now, again, this might differ for various traders, but important if you're trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 258.78,
+    "end": 262.76,
+    "text": "the European session, you need to know what happened in the overnight session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 262.76,
+    "end": 267.46,
+    "text": "If you're trading the US session, you need to know how the European session is traded.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 271.01,
+    "end": 273.93,
+    "text": "We then want to look at some of the key, in this example,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.93,
+    "end": 276.39,
+    "text": "some of the key overnight indicators being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.39,
+    "end": 278.61,
+    "text": "maybe the Asian equity indices, you know,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 278.61,
+    "end": 282.25,
+    "text": "maybe the yen given it's a highly traded currency,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.25,
+    "end": 285.07,
+    "text": "but it's also a good correlation currency",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 285.07,
+    "end": 286.65,
+    "text": "with risk on and risk off,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.65,
+    "end": 290.29,
+    "text": "as well as the gold, the dollar, and the VIX.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.29,
+    "end": 293.77,
+    "text": "Again, this is not necessarily the, you know,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 293.77,
+    "end": 296.73,
+    "text": "the indications or the indicators you need to look at,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 296.73,
+    "end": 298.81,
+    "text": "but you need to look at indications",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 300.4,
+    "end": 304.56,
+    "text": "with what the market has done whilst you've been away.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 304.56,
+    "end": 311.2,
+    "text": "So that's the first part that we would typically do pre-open of the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 311.2,
+    "end": 318.14,
+    "text": "Then we would move on to utilising or creating our template using volume profiling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.55,
+    "end": 328.55,
+    "text": "We would start off by identifying the previous or the potential for day type.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 328.55,
+    "end": 332.91,
+    "text": "So straight away, this would be done somewhere between the first hour of trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 332.91,
+    "end": 338.79,
+    "text": "We would try and identify what kind of day type did we exhibit on the previous day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 338.79,
+    "end": 340.11,
+    "text": "It was normal distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 340.24,
+    "end": 343.64,
+    "text": "non-trend, neutral day, normal variation,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 343.64,
+    "end": 345.12,
+    "text": "trend day, double distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 345.12,
+    "end": 348.04,
+    "text": "So straight away, we look at the previous day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 348.04,
+    "end": 349.88,
+    "text": "and we try and create for ourselves",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 349.88,
+    "end": 351.72,
+    "text": "a little bit of understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 351.72,
+    "end": 355.66,
+    "text": "as to what we could potentially expect today.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 355.66,
+    "end": 356.84,
+    "text": "We then look at the open.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 356.84,
+    "end": 358.24,
+    "text": "So we look at the first out trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 358.24,
+    "end": 360.36,
+    "text": "How does the market open today",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 360.36,
+    "end": 362.78,
+    "text": "based on what we had yesterday?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 362.78,
+    "end": 365.68,
+    "text": "Is it a strong convicted open with an open drive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 365.68,
+    "end": 367.54,
+    "text": "or is it more an open auction?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 367.92,
+    "end": 372.88,
+    "text": "We then look at what kind of a nature is the market and what type of context is the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 372.88,
+    "end": 374.36,
+    "text": "currently bracketing?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 374.36,
+    "end": 380.12,
+    "text": "Are we seeing a lot of overlapping type profiles or are we seeing trending profiles where we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 380.12,
+    "end": 381.84,
+    "text": "have very little overlap?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 381.84,
+    "end": 385.98,
+    "text": "We would then look at our value area location.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 385.98,
+    "end": 391.6,
+    "text": "So over the past couple of days or over yesterday to today, where are we opening",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 396.27,
+    "end": 399.89,
+    "text": "and then how much value area overlap again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 399.89,
+    "end": 402.71,
+    "text": "We'll talk a little bit more about this in module three.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 402.71,
+    "end": 405.67,
+    "text": "And then we're gonna talk about some of the key identifiers,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 405.67,
+    "end": 408.59,
+    "text": "the control identifiers like low volume areas",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 408.59,
+    "end": 410.01,
+    "text": "or high volume areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 410.1,
+    "end": 413.96,
+    "text": "Excess points in the previous days like tails gaps open closed gaps",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 414.54,
+    "end": 418.22,
+    "text": "Volume point of control what location is what shape is it?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 418.22,
+    "end": 424.58,
+    "text": "Is it protruding is it are there a number of prices that could have been the volume point of control and then any of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 424.74,
+    "end": 428.02,
+    "text": "Anomalies we could have seen over the previous day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 428.51,
+    "end": 431.09,
+    "text": "We'll then talk about initiative buying and selling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 431.09,
+    "end": 435.75,
+    "text": "So we'll look at the previous day's auctions, we'll look how the market auction and look",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.75,
+    "end": 440.21,
+    "text": "where the initiative came in, where the response came in, try and get an understanding of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 440.21,
+    "end": 445.69,
+    "text": "where the interaction points were coming between buyers and sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 446.02,
+    "end": 450.78,
+    "text": "And lastly, we'll look for our key reference points in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 450.78,
+    "end": 455.52,
+    "text": "Now, these reference points can be a high and a low, they can be major support and resistance,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 455.52,
+    "end": 459.3,
+    "text": "they can be major trend line breaks, they could be any number of factors.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 459.3,
+    "end": 464.54,
+    "text": "The important thing is we want to identify what are those key reference points.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 464.54,
+    "end": 470.8,
+    "text": "What is our expectation in terms of control identifiers around those key reference points?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 471.17,
+    "end": 483.77,
+    "text": "Once we have completed all of this, this analysis, this understanding, we then have a process whereby we can develop our strategy for the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 483.97,
+    "end": 488.85,
+    "text": "Now, again, you can do this as you can see in this example of a trade sheet.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 488.85,
+    "end": 493.19,
+    "text": "You can see this is done predominantly for German Bunds and European stocks.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 493.19,
+    "end": 498.29,
+    "text": "This can be done across any multitude of markets, whether it's oil, gold, Euro stocks,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 498.29,
+    "end": 501.33,
+    "text": "E-Money, S&Ps, it does not matter.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 501.33,
+    "end": 507.65,
+    "text": "The important thing to understand here is the process is the same regardless.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 512.9,
+    "end": 518.18,
+    "text": "Lastly, on a typical trading sheet, you would also have your trotting routine.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 518.18,
+    "end": 523.22,
+    "text": "So again, just keeping you within a process, you know, where are the key weekly markers?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 523.22,
+    "end": 525.02,
+    "text": "You know, where are your key volume lines?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 525.02,
+    "end": 528.66,
+    "text": "So in other words, to be able to have relative volume, we need to know what is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 532.54,
+    "end": 537.8,
+    "text": "What is the volume price analysis, our profile analysis, our delta accumulation analysis,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 537.8,
+    "end": 542.24,
+    "text": "our anomalies, and our basic initiative and response of buying.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 542.24,
+    "end": 549.16,
+    "text": "So again, just bringing ourselves into an objective process understanding of what the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 549.16,
+    "end": 551.54,
+    "text": "market is telling us.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 551.54,
+    "end": 553.32,
+    "text": "And I like that quote there at the bottom.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 553.32,
+    "end": 558.3,
+    "text": "That quote almost summarizes the whole point of me showing you this template, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 558.35,
+    "end": 561.13,
+    "text": "Failing to plan is planning to fail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 561.13,
+    "end": 563.63,
+    "text": "If you're not willing to plan properly,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 563.63,
+    "end": 565.13,
+    "text": "you're going to fail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 565.13,
+    "end": 569.09,
+    "text": "You are behind everyone who has planned better than you.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 569.09,
+    "end": 571.89,
+    "text": "That is why we plan because then we are prepared",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 571.89,
+    "end": 575.51,
+    "text": "and we trust in what we are trying to do and achieve.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 575.62,
+    "end": 580.02,
+    "text": "And then just a few other things you would typically find, sometimes if you're battling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 580.02,
+    "end": 584.46,
+    "text": "with something, for instance if you're battling with patience, sometimes it's wonderful to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 584.46,
+    "end": 589.82,
+    "text": "go and write down what it is you understand about patience.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 589.95,
+    "end": 595.35,
+    "text": "When you start to write your thoughts down and your beliefs and your understandings,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 595.35,
+    "end": 601.71,
+    "text": "then you're going to open your mind up to development, you're going to open your mind",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 601.71,
+    "end": 607.15,
+    "text": "up to almost that thing you're struggling with will almost become your strength.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 607.15,
+    "end": 612.51,
+    "text": "And that is why we start to break down maybe the key troubles into these basic",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 614.32,
+    "end": 619.92,
+    "text": "Don't forget guys, as human beings we have a natural tendency to fear things we don't",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 619.92,
+    "end": 621.64,
+    "text": "understand.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 621.64,
+    "end": 627.16,
+    "text": "So by writing them down, by writing down what it means to you, you will develop understanding.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 627.66,
+    "end": 632.18,
+    "text": "And then some other things you would typically find are maybe three tier longer term goals",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 632.18,
+    "end": 634.68,
+    "text": "or maybe a routine.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 634.68,
+    "end": 636.9,
+    "text": "What is your key routine to success?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 636.9,
+    "end": 643.88,
+    "text": "What type of routine do you need to show to effectively be successful in your endeavor?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 643.88,
+    "end": 646.16,
+    "text": "And then obviously your rules of trading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 646.16,
+    "end": 652.36,
+    "text": "What are your key identifiable rules of trading that you need to ensure you're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 652.36,
+    "end": 655.82,
+    "text": "constantly doing in order to achieve success?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 656.26,
+    "end": 658.98,
+    "text": "That's where we're going to finish this, guys.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 658.98,
+    "end": 665.1,
+    "text": "I cannot stress enough to you how important it is to understand that having a structure",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 665.1,
+    "end": 670.26,
+    "text": "in place like a template, like a two-page thing you need to complete every day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 670.51,
+    "end": 675.91,
+    "text": "that is going to not only is that deliberate practice, but that is going to help you to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 675.91,
+    "end": 680.59,
+    "text": "see the market through the same hourglass every single morning.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 680.59,
+    "end": 686.51,
+    "text": "And if you do that, you are going to be able to develop some extremely good habits,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 686.51,
+    "end": 693.03,
+    "text": "some extremely good processes, but ultimately some extremely good winning characteristics",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 693.03,
+    "end": 694.27,
+    "text": "and strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 694.77,
+    "end": 699.31,
+    "text": "So that's the end of part eight now, and I hope you've enjoyed part eight.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 699.31,
+    "end": 704.53,
+    "text": "It's been a very good part where we've sort of started with principles and we then started",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 704.53,
+    "end": 709.53,
+    "text": "to slowly develop key trading strategies on that principles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 709.53,
+    "end": 713.33,
+    "text": "Get excited guys, we're about to start module three.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 713.33,
+    "end": 718.79,
+    "text": "Module three is very practical, lots of examples, a lot of playback functionality.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 724.37,
+    "end": 728.87,
+    "text": "a whole lot more. Good luck and I look forward to seeing you guys in Module 3.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

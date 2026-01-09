@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_1_PART_2__10_Time_frame_Participants_cont_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_1_PART_2__10_Time_frame_Participants_cont_/frames/scene_0000_mid.jpg",
+    "time": 77.74,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_1_PART_2__10_Time_frame_Participants_cont_/frames/scene_0000_end.jpg",
+    "time": 155.28,
+    "width": 1920,
+    "height": 1080
+  }
+]

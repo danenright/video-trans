@@ -1,0 +1,434 @@
+[
+  {
+    "start": 0.91,
+    "end": 7.51,
+    "text": "We're now going to discuss volume as a market identifier of trade facilitation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.51,
+    "end": 11.43,
+    "text": "Now again, remember that concept of price, time and volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.43,
+    "end": 16.71,
+    "text": "Price advertises the opportunity, time regulates each opportunity and measures the degree",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.71,
+    "end": 22.39,
+    "text": "of confidence, and volume measures the degree of success of each auction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.39,
+    "end": 26.99,
+    "text": "I'm sure by now you know that definition very well as we have discussed it throughout",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.3,
+    "end": 34.2,
+    "text": "But the basic premise remains the same. Every single volume profile consists of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.2,
+    "end": 36.52,
+    "text": "volume, price and time and that's why",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.52,
+    "end": 40.44,
+    "text": "it's paramount we keep repeating this. More important is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.44,
+    "end": 45.12,
+    "text": "the degree of success unlocks vital information about future price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.12,
+    "end": 46.12,
+    "text": "movements. In other words,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.12,
+    "end": 50.12,
+    "text": "volume that measures the degree of success, it's important we assess this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.12,
+    "end": 53.46,
+    "text": "degree of success as that will tell us potentially",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.39,
+    "end": 60.17,
+    "text": "So what do we mean by that? Let's take a basic example. If for instance a new comment",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.17,
+    "end": 64.75,
+    "text": "comes out or a new piece of information hits the market and we see a very big surge in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.75,
+    "end": 69.23,
+    "text": "volume as well as price direction, that is telling us something very vital which",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.23,
+    "end": 76.3,
+    "text": "is that the market feels this new information is particularly important.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.45,
+    "end": 79.53,
+    "text": "Had we seen this type of move on relatively lower volume, that could suggest to us a number",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.53,
+    "end": 85.85,
+    "text": "of other factors such as a potential squeeze or liquidation, or maybe just a very uncertain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.85,
+    "end": 88.94,
+    "text": "market as to what was occurring.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.94,
+    "end": 93.26,
+    "text": "Then perhaps the most important skill you must master to become a successful trader",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.68,
+    "end": 103.78,
+    "text": "Remember guys, it's all well and good looking at a chart, looking at where price is trading,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.78,
+    "end": 108.34,
+    "text": "but you need to be able to understand where price is trading relative to something, where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.34,
+    "end": 114.68,
+    "text": "volume is relative to previous volume, where the market has come from relative to where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.68,
+    "end": 115.68,
+    "text": "it has been.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.68,
+    "end": 120.22,
+    "text": "So understanding these elements in its own is not that powerful, but understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.28,
+    "end": 128.24,
+    "text": "So let's look at some of the key volume metrics you will be exposed to in volume profiles",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.24,
+    "end": 131.16,
+    "text": "and which you can develop various strategies on.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.16,
+    "end": 134.44,
+    "text": "Firstly, the volume point of control.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.44,
+    "end": 138.72,
+    "text": "Remember this is the point or the price at which the most volume has been traded",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.72,
+    "end": 140.64,
+    "text": "over a period of day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.32,
+    "end": 151.52,
+    "text": "relative to other days or relative to other prices, or are there a number of prices that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.52,
+    "end": 155.92,
+    "text": "could have been the volume point of control? Where is the volume point of control situated?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.92,
+    "end": 162.5,
+    "text": "In value, out of value, high of the day, low of the day. Then, volume profile at price as a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.5,
+    "end": 170.02,
+    "text": "percentage of the day's volume. So again, how much volume is at each price relative to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.94,
+    "end": 178.28,
+    "text": "90% or 80% of the day's volume is transacted in the low bound of the day, that's telling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.28,
+    "end": 182.78,
+    "text": "us something very very important about the way market perceives fair value, or at least",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.78,
+    "end": 186.14,
+    "text": "which prices the market is perceiving fair value at.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.14,
+    "end": 190.34,
+    "text": "Then the volume value area, in other words, what's the size of the volume value area,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.34,
+    "end": 197.34,
+    "text": "where is it located, how is it located, at which prices is it located.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.88,
+    "end": 200.46,
+    "text": "Again, most important is not just the value area or the volume value area on its own,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.46,
+    "end": 205.76,
+    "text": "but where is the volume value area situated relative to other value areas, relative to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.76,
+    "end": 210.72,
+    "text": "other day's distributions, relative to where we're trading on the week and the month.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.72,
+    "end": 215.72,
+    "text": "So it's important to put everything in relative terms when assessing the information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.27,
+    "end": 219.75,
+    "text": "Then, low volume extremes versus bad highs and lows.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.75,
+    "end": 225.31,
+    "text": "So again, we've spoken about these bad highs, bad lows, so remember we shouldn't be transacting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.31,
+    "end": 230.71,
+    "text": "high volume at lows and highs, but rather we should be seeing quite a quick auction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 230.71,
+    "end": 233.51,
+    "text": "from these bad highs and lows.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.51,
+    "end": 235.95,
+    "text": "And then, the total daily volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.95,
+    "end": 239.35,
+    "text": "In other words, how is the volume being dispersed from day to day?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.35,
+    "end": 240.71,
+    "text": "Is it relatively high?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.71,
+    "end": 242.25,
+    "text": "Is it relatively low?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.82,
+    "end": 250.02,
+    "text": "And what is the price response once we have a relatively low volume day?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.02,
+    "end": 256.64,
+    "text": "So again, remember, it's all about understanding the relative implications of the change in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.64,
+    "end": 257.16,
+    "text": "volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

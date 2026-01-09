@@ -1,0 +1,170 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0000_mid.jpg",
+    "time": 5.25,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0000_end.jpg",
+    "time": 10.3,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0001_start.jpg",
+    "time": 10.7,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0001_mid.jpg",
+    "time": 15.5,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0001_end.jpg",
+    "time": 20.3,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0002_start.jpg",
+    "time": 20.7,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0002_mid.jpg",
+    "time": 39.9375,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0002_end.jpg",
+    "time": 59.175,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0003_start.jpg",
+    "time": 59.575,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0003_mid.jpg",
+    "time": 72.08333333333334,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0003_end.jpg",
+    "time": 84.59166666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0004_start.jpg",
+    "time": 84.99166666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0004_mid.jpg",
+    "time": 101.02083333333334,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0004_end.jpg",
+    "time": 117.05,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0005_start.jpg",
+    "time": 117.45,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0005_mid.jpg",
+    "time": 132.08333333333331,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0005_end.jpg",
+    "time": 146.71666666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0006_start.jpg",
+    "time": 147.11666666666665,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0006_mid.jpg",
+    "time": 149.41666666666666,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-18_Final_Thought/frames/scene_0006_end.jpg",
+    "time": 151.71666666666667,
+    "width": 960,
+    "height": 540
+  }
+]

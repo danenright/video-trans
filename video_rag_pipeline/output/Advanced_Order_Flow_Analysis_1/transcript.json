@@ -1,0 +1,866 @@
+[
+  {
+    "start": 0.62,
+    "end": 8.38,
+    "text": "Good afternoon and welcome to the central bank analysis debrief as it was central bank day both yesterday and today",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.6,
+    "end": 15.22,
+    "text": "We are going to go through one of those central banks being at the Bank of England for Thursday the 2nd of February",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.22,
+    "end": 21.36,
+    "text": "So let's get straight into it and let's have a little chat about what came out with the Bank of England today. So",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.81,
+    "end": 26.37,
+    "text": "First, first, foremost, let's just go over the statement, do a little bit of statement analysis,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.37,
+    "end": 32.05,
+    "text": "try and pick out what shifted, what changed, what was market moving in the statement from the Bank",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.05,
+    "end": 38.77,
+    "text": "of England today. So as you can very early on see, the vote to keep QE as well as to keep",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.77,
+    "end": 46.13,
+    "text": "rates at 25 basis point remained as it was in January at 9-0. So no one on the board was",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.09,
+    "end": 57.27,
+    "text": "program. However, there was a comment about some policy members are a little closer to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.27,
+    "end": 63.85,
+    "text": "their limits of tolerance of an inflation overshoot. So again, we've heard that the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.85,
+    "end": 69.13,
+    "text": "Bank of England is willing to accept an inflation overshoot, but they do have a tolerance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.13,
+    "end": 74.75,
+    "text": "level. And we actually heard now today that there were two members, or sorry, a few members,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.75,
+    "end": 79.41,
+    "text": "some members that were actually getting a lot closer to that level of tolerance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.3,
+    "end": 85.5,
+    "text": "surprise, there are two hawks on the board, their wage growth hawks, so it's very likely",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.5,
+    "end": 92.14,
+    "text": "that this would have been Kristin Forbes as well as McCafferty and McCafferty. So",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.14,
+    "end": 97.48,
+    "text": "that's pretty much the hawks sort of getting their sort of stance in the statement.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.48,
+    "end": 101.82,
+    "text": "In terms of obviously going forward, obviously the Bank of England said that monetary policy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.94,
+    "end": 109.56,
+    "text": "kept that guidance, that forward guidance in the market, you know, they're reluctant",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.56,
+    "end": 115.76,
+    "text": "to sort of lean the market towards hikes or cuts, so again, they kept that phrase there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.76,
+    "end": 119.98,
+    "text": "And then the major changes in the statement actually came in the Bank of England's forecast",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.98,
+    "end": 124.74,
+    "text": "of inflation on the two-year horizon and the three-year horizon now.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.74,
+    "end": 129.34,
+    "text": "If you cast your mind back into the November QR report, the Bank of England was talking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.24,
+    "end": 139.36,
+    "text": "Today they came out and actually lowered that forecast to 2.56, as well as obviously their",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.36,
+    "end": 145.76,
+    "text": "three-year forecast for inflation came down to 2.36 from 2.5.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.76,
+    "end": 150.48,
+    "text": "Now the reason this is key or the reason the actual Carney sort of said the Bank of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.48,
+    "end": 156.96,
+    "text": "England made these forecasts was because of the value of sterling and he explicitly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.98,
+    "end": 166.98,
+    "text": "in them revising down their inflation forecast.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.98,
+    "end": 174.42,
+    "text": "So again, he did make mention that they could adjust these forecasts just as easily if the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.42,
+    "end": 176.5,
+    "text": "sterling appreciates or depreciates.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.5,
+    "end": 181.74,
+    "text": "So it sounded like a very flexible Bank of England today that can hike or cut rates",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.74,
+    "end": 183.42,
+    "text": "at this current point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.42,
+    "end": 188.02,
+    "text": "And a lot of it remains to be seen as to how things go forward with regard to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.96,
+    "end": 196.36,
+    "text": "Just as a summary there, it's almost the case if we start to see excessive appreciation",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.36,
+    "end": 203.16,
+    "text": "in sterling, that could cause lower inflation numbers and that would keep the Bank of England",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.16,
+    "end": 204.52,
+    "text": "from doing anything hawkish.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.88,
+    "end": 211.38,
+    "text": "And conversely, if we saw much weaker sterling, that would affect inflation to the upside",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.38,
+    "end": 217.28,
+    "text": "and we could then likely see the Bank of England act in a more dovish manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 217.28,
+    "end": 221.88,
+    "text": "Okay, so that was pretty much the statement analysis from the Bank of England.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.88,
+    "end": 224.28,
+    "text": "Just let's look over two or three charts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 224.28,
+    "end": 229.88,
+    "text": "So as we can see on the daily sterling, the market took it as relatively dovish.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.29,
+    "end": 239.29,
+    "text": "longs that were in the market that had played for that very important break this morning.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.29,
+    "end": 243.61,
+    "text": "So there were some very, very poorly positioned longs, so whilst the move looked excessive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.61,
+    "end": 247.41,
+    "text": "to the downside, a lot of it probably also had to do with some of the short-term positioning",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.41,
+    "end": 248.41,
+    "text": "in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.41,
+    "end": 253.05,
+    "text": "If we zoom in a little bit closer and look at a five-minute chart of the sterling,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.05,
+    "end": 256.73,
+    "text": "we can see very quickly once the market had digested it within the first five",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.73,
+    "end": 262.69,
+    "text": "minutes we had dropped almost a good hundred pips and more importantly we then got some",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.04,
+    "end": 266.96,
+    "text": "some follow-through over the rest of the session before the market started to settle",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 266.96,
+    "end": 271.32,
+    "text": "into a tighter 30-40 per per range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 271.32,
+    "end": 274.68,
+    "text": "All in all, the market digested the Bank of England as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 274.68,
+    "end": 278.88,
+    "text": "somewhat more dovish, particularly on their inflation forecasts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 278.88,
+    "end": 284.38,
+    "text": "If we go and have a look over some of the ladders,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 284.38,
+    "end": 288.34,
+    "text": "we'll notice that we'll be able to see some of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 288.34,
+    "end": 291.34,
+    "text": "potential plays that we could have seen today.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 291.22,
+    "end": 302.15,
+    "text": "What you're looking at in front of you is the ladders from today.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 302.15,
+    "end": 306.59,
+    "text": "On the left we've got the gilts, we've then got the German Buns in the middle and the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 310.24,
+    "end": 315.24,
+    "text": "go through a little bit of price action, particularly pay attention to the sterling and see what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 315.24,
+    "end": 321.24,
+    "text": "happened as the information came out. Remember obviously there was quite a lot of information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.24,
+    "end": 326.02,
+    "text": "that came out but the key takeaway was the inflation change. So we've pushed play, let's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 326.02,
+    "end": 330.64,
+    "text": "see what happens now as this information comes out to the market. First and foremost,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 330.64,
+    "end": 334.94,
+    "text": "note how thin the market is, very little in the market, very little price response.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.41,
+    "end": 345.01,
+    "text": "and we can see that the market has you know gone quite aggressively bid and we can then see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 345.01,
+    "end": 352.93,
+    "text": "all of a sudden the market has now gone offered and slowly starting to turn around so again we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 352.93,
+    "end": 357.89,
+    "text": "can see the market got up to 15s came all the way back down to 86 this has now gone back bid",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 357.89,
+    "end": 362.13,
+    "text": "let's see how it plays out once it gets back to these 86 area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 362.72,
+    "end": 369.36,
+    "text": "Again, we can see the cable bounces off those 86s, goes back a bit up the page and we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 369.36,
+    "end": 374.24,
+    "text": "see someone holding that cable marker around the 86 level.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 374.24,
+    "end": 380.56,
+    "text": "So let's just keep an eye on this 86 level, let's see how this plays out as we get through",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 380.56,
+    "end": 381.56,
+    "text": "these 86s.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 386.96,
+    "end": 390.08,
+    "text": "Probably a little bit of digestional information still.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 390.08,
+    "end": 395.5,
+    "text": "And note, once we took the 86ers, a little bit of stops and more importantly, some follow",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 395.5,
+    "end": 396.5,
+    "text": "through.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 396.5,
+    "end": 400.26,
+    "text": "So we can see the market's taken the 6ers and we've followed through all the way down",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.26,
+    "end": 407.35,
+    "text": "towards the 86ers and the market continues to move lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 407.35,
+    "end": 411.95,
+    "text": "So again, note the market's now coming back but if we were just keeping on these 86ers,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 414.7,
+    "end": 419.5,
+    "text": "and we can now see the cables starting to slowly but surely continue filtering down the page.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 419.5,
+    "end": 424.7,
+    "text": "So, had a very key little area around those 86s acted as a good little support before",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 424.7,
+    "end": 426.74,
+    "text": "it now turned into resistance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 426.74,
+    "end": 432.46,
+    "text": "If we fast forward this, we can see the market continues to leak, continues to sell",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 432.46,
+    "end": 434.9,
+    "text": "off, you know, continued sell side action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 434.9,
+    "end": 435.9,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 439.73,
+    "end": 445.45,
+    "text": "Bank of England a little bit dovish on the 2 yen theorizing for inflation so we sold",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 445.45,
+    "end": 451.73,
+    "text": "all the way off from the 86s all the way down to the new lows of 40s and as per that chart",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 451.73,
+    "end": 456.49,
+    "text": "we can see the market continued lower and lower throughout the session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 456.49,
+    "end": 462.1,
+    "text": "That's pretty much our latter replay series, what you will note if we go back to that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 464.3,
+    "end": 469.26,
+    "text": "A lot of the time, the reason we watch these letters so often is that a lot of the time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 469.26,
+    "end": 474.8,
+    "text": "when you watch them back you actually realize that you do have a lot more time to respond",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 474.8,
+    "end": 475.8,
+    "text": "than you think.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 475.8,
+    "end": 479.96,
+    "text": "So let's just go back through this and start this off again and see how much time we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 479.96,
+    "end": 483.08,
+    "text": "actually had to respond before the number.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 483.08,
+    "end": 492.34,
+    "text": "So let's just get this back to the starting point and we can see what we can do here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 491.04,
+    "end": 496.36,
+    "text": "Sorry guys, just trying to find this point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 496.36,
+    "end": 498.32,
+    "text": "Okay, yeah we are ready to go again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 498.32,
+    "end": 500.0,
+    "text": "Let's see how much time we have now.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 500.0,
+    "end": 505.52,
+    "text": "So the information has come out in the market and we've gone at 10 minutes 15 seconds.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 505.52,
+    "end": 510.72,
+    "text": "So note now, you're going to get a good 30-40 seconds to digest the information,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 510.72,
+    "end": 514.8,
+    "text": "read the information, and then more importantly, act on the information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 516.21,
+    "end": 520.61,
+    "text": "So we can see the markets come down to those 86s first time down, no, it's already been",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 520.61,
+    "end": 526.09,
+    "text": "20 seconds since the information's been released and the market goes back bid and again comes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 526.09,
+    "end": 531.86,
+    "text": "down to those 86s and again this is now almost 30 seconds into the release so we can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 531.86,
+    "end": 537.15,
+    "text": "the markets gone bid off those 86s again for a third time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 539.86,
+    "end": 545.96,
+    "text": "to digest the information and ultimately break down below those 86s where the real opportunity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 545.96,
+    "end": 546.96,
+    "text": "exists.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 546.96,
+    "end": 549.88,
+    "text": "You know, a lot of all this you're seeing has a lot of noise, alright.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 549.88,
+    "end": 556.12,
+    "text": "The real meat comes when someone of influence has had time to digest the information and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 556.12,
+    "end": 557.44,
+    "text": "act accordingly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 557.44,
+    "end": 562.8,
+    "text": "So there it goes, as we can see, you know, at 11 minutes and 10 seconds, you know,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 562.8,
+    "end": 568.08,
+    "text": "almost a good minute later we can see we break down below those 86s and a good sort",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 569.17,
+    "end": 575.57,
+    "text": "minutes later the market is all the way at the low of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

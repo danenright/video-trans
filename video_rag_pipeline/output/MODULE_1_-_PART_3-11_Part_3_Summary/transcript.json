@@ -1,0 +1,1138 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.8,
+    "text": "Welcome to part three summary, guys, and...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2.88,
+    "end": 5.84,
+    "text": "I hope you enjoyed a lot of the principles we went over.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.84,
+    "end": 11.24,
+    "text": "As you can see now, we're finally getting to sort of utilize the tool a little bit,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.24,
+    "end": 16.46,
+    "text": "start to sort of finally understand what volume profiling looks like and actually we've",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.46,
+    "end": 21.52,
+    "text": "got a template now in which we can start building our understanding of volume profiling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.52,
+    "end": 25.4,
+    "text": "However, let's just have a little summary, let's go through some of the principles",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.4,
+    "end": 29.64,
+    "text": "we've dealt with and then you can get on to doing your tests and your quizzes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.74,
+    "end": 35.86,
+    "text": "Where we started off with, we spoke about the volume profiling elements, what makes up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.86,
+    "end": 37.1,
+    "text": "a volume profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.1,
+    "end": 45.1,
+    "text": "So the tool, and we said it consists of the open, the close, the high and the low, the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.1,
+    "end": 53.02,
+    "text": "initial balance, the value area high and value area low, and then we spoke about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.42,
+    "end": 67.2,
+    "text": "the volume pointer control, we spoke about the tails, single prints and last",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.2,
+    "end": 74.25,
+    "text": "but not least the profile shape. Now it's very important we're going to give",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.25,
+    "end": 78.73,
+    "text": "you quite a few questions that you can go and practice this but what you need",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.73,
+    "end": 83.65,
+    "text": "to be able to do before you move on to part 4 and before you begin module",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.8,
+    "end": 94.12,
+    "text": "any template based on any market and identify every one of these parameters.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.12,
+    "end": 99.48,
+    "text": "Now I'll tell you why as traders we, when you start with the profiling tool, why we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.48,
+    "end": 103.92,
+    "text": "spend so much time learning to identify every one of these elements.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.4,
+    "end": 107.56,
+    "text": "It's so important if, you know, just by doing a basic,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.56,
+    "end": 110.58,
+    "text": "what's the high low and the range at the end of the day?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.58,
+    "end": 113.0,
+    "text": "So by knowing what the daily range is,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.0,
+    "end": 115.82,
+    "text": "is if you, let's say, for 10 days in a row,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.82,
+    "end": 120.4,
+    "text": "realize that your market has got, say, a 50 tick range,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.4,
+    "end": 122.98,
+    "text": "all of a sudden, let's say you come in one morning",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.98,
+    "end": 124.9,
+    "text": "and your market does a 100 tick range,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.9,
+    "end": 128.76,
+    "text": "or, alternatively, it does, say, 50 ticks",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.76,
+    "end": 131.26,
+    "text": "in the first hour of trade, so.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.23,
+    "end": 136.13,
+    "text": "In the first hour, suddenly, you do 50 ticks when the normal average daily range of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.13,
+    "end": 139.17,
+    "text": "last 10 days has been, say, 50.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.17,
+    "end": 142.45,
+    "text": "Straight away, you're going to recognize that difference.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.66,
+    "end": 149.02,
+    "text": "That difference, just that little bit of extra understanding, can mean the difference between",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.02,
+    "end": 154.66,
+    "text": "you making a vital mistake or not, you fading a strong trend or not, you getting out of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.66,
+    "end": 157.26,
+    "text": "a good trade or a bad trade or not.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.26,
+    "end": 161.7,
+    "text": "That is why we spend so much time on each one of these variables.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.08,
+    "end": 168.12,
+    "text": "Okay, when you get to your playbook, you're going to have a few examples and so you will",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.12,
+    "end": 174.56,
+    "text": "be able to practice, but make sure guys, go into the markets, go utilize your demo account",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.56,
+    "end": 179.44,
+    "text": "on your TT profiles and make sure you're able to do this time and time and time again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.44,
+    "end": 181.8,
+    "text": "What I will say, you will get quicker at it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.8,
+    "end": 186.0,
+    "text": "You will learn to quickly identify all the volume profiling elements.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 188.66,
+    "end": 194.16,
+    "text": "We then moved on and we started to talk about splitting your profile per auction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.16,
+    "end": 199.14,
+    "text": "Now this is crucial and I'll explain to you why we split it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.14,
+    "end": 205.96,
+    "text": "Remember obviously most of what we've done in part 3 is very basic profiling tool, but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.96,
+    "end": 210.52,
+    "text": "what you will start to see as we get on towards module 2 and 3 is you can develop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.52,
+    "end": 217.6,
+    "text": "very unique specific strategies just based on the individual rotations or auctions within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.66,
+    "end": 222.21,
+    "text": "So just to remind you, what is the split?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.21,
+    "end": 227.09,
+    "text": "Well, instead of having, for instance, one big distribution as we look at it,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.09,
+    "end": 231.17,
+    "text": "that big distribution is made up of lots of different",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 231.17,
+    "end": 235.65,
+    "text": "half an hour distributions. So instead of looking at it as one big",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.65,
+    "end": 239.57,
+    "text": "picture, we open it up so we can see what each one of these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.57,
+    "end": 243.81,
+    "text": "distributions looks like. Now some of the reasons or the reasons why",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.51,
+    "end": 254.03,
+    "text": "Okay, so by opening it up, we can very quickly determine who's in control.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 254.03,
+    "end": 258.63,
+    "text": "If I had a look at this example in the up move, we can see very clearly that buyers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 258.63,
+    "end": 259.93,
+    "text": "are in control.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 259.93,
+    "end": 264.91,
+    "text": "So if we're going to be utilizing, say, a specific strategy where we want to fade,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.91,
+    "end": 270.11,
+    "text": "we must recognize that we're fading against the buyers who are in control.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 270.38,
+    "end": 273.74,
+    "text": "Okay, so that's the first reason why we tend to split our auctions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.74,
+    "end": 275.3,
+    "text": "We then spoke about hidden tails.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 275.3,
+    "end": 280.14,
+    "text": "So a lot of the time, a traditional tail, as we spoke, you would find at the extremes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.14,
+    "end": 282.54,
+    "text": "of the market, at the high or the low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.54,
+    "end": 289.78,
+    "text": "However, sometimes within a distribution, you can see a hidden tail, an area where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.78,
+    "end": 293.62,
+    "text": "market very quickly navigates away from an area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 293.62,
+    "end": 298.42,
+    "text": "Now, we will talk more about hidden tails within the profile as we move on towards",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 299.7,
+    "end": 306.97,
+    "text": "The third reason why we want to split is we can see volatility expanding or contracting.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 306.97,
+    "end": 307.97,
+    "text": "What do I mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 307.97,
+    "end": 314.33,
+    "text": "So within our basic example here again, let's say the market goes up in this sort of fashion.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 316.18,
+    "end": 323.42,
+    "text": "These are relatively small candles and they are contained well within the previous candle's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 323.42,
+    "end": 324.42,
+    "text": "range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 324.42,
+    "end": 327.38,
+    "text": "So we can see that's contained in that range, that in that range, that in that range, that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 327.38,
+    "end": 328.38,
+    "text": "in that range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 334.1,
+    "end": 339.58,
+    "text": "and overlapped all five of the previous candles, we can see the volatility expanding.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 339.58,
+    "end": 343.42,
+    "text": "So it went from contracting to suddenly expanding.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 343.42,
+    "end": 350.02,
+    "text": "Now just knowing that again we can develop some very key strategies around this contraction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 350.02,
+    "end": 353.1,
+    "text": "of volatility and expansion of volatility.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 353.65,
+    "end": 359.13,
+    "text": "And then we spoke about price being accepted, so a lot of the time we can see the auctions",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.13,
+    "end": 363.79,
+    "text": "doing this, and then coming back, and then doing this, and then coming back.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 363.79,
+    "end": 369.15,
+    "text": "And by the time 4pm hits, you look at it and you say to yourself, well it was a relatively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 369.15,
+    "end": 373.23,
+    "text": "balanced day where the market spent the day sort of auctioning up and down and up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 373.23,
+    "end": 377.91,
+    "text": "and down, you don't want to be recognizing that at 4pm, you want to recognize that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 377.91,
+    "end": 382.27,
+    "text": "earlier in the day so you're not spending the day buying highs and selling lows",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 383.25,
+    "end": 389.17,
+    "text": "momentum or a lack of initiation at the extremes. And then the last one we spoke",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 389.17,
+    "end": 395.33,
+    "text": "about was sort of the overlapping versus one time framing type distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 395.33,
+    "end": 400.77,
+    "text": "Again, another type control factor. So that is why we split the profiles per",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.77,
+    "end": 405.37,
+    "text": "auction. Do note we will develop some very key strategies by",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 405.37,
+    "end": 411.0,
+    "text": "just opening up the profiles as we go along in module 2 and 3. Then we spoke",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 411.74,
+    "end": 420.5,
+    "text": "traditional value areas versus the, I like to call them the modern day volume value areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 420.5,
+    "end": 423.14,
+    "text": "We went through a few of the advantages.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 423.14,
+    "end": 426.52,
+    "text": "Now I'm just going to go through those advantages briefly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 426.52,
+    "end": 431.7,
+    "text": "Note when we use volume value areas, we can include all time zones.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 431.7,
+    "end": 436.22,
+    "text": "Don't forget guys, volume effectively shows trade being facilitated.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 436.8,
+    "end": 444.44,
+    "text": "At a certain price, we're going to see varying volume, sometimes the market will take a lot",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 444.44,
+    "end": 448.4,
+    "text": "of volume at a certain price and sometimes it will take very little volume at a certain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 448.4,
+    "end": 449.4,
+    "text": "price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 449.4,
+    "end": 453.56,
+    "text": "And it's this lack of volume or acceptance of volume that tells us how trade is being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 453.56,
+    "end": 457.0,
+    "text": "facilitated at the advertised prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 457.0,
+    "end": 460.6,
+    "text": "So that's why we also use the volume barrier.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 460.6,
+    "end": 464.92,
+    "text": "And then obviously we said that the most important is that when we utilize volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 466.66,
+    "end": 471.58,
+    "text": "as our key, sort of, you know, one of our key pillars in the profile,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 471.58,
+    "end": 475.18,
+    "text": "we can effectively do a relative analysis.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 475.18,
+    "end": 480.32,
+    "text": "Alright, it's very difficult if you're utilizing volume values, it's very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 480.32,
+    "end": 480.96,
+    "text": "difficult",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 480.96,
+    "end": 484.52,
+    "text": "to create a relative approach, whereas",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 484.52,
+    "end": 491.52,
+    "text": "because you're using volume,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 486.35,
+    "end": 490.85,
+    "text": "you can create a relative approach far easier.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 490.85,
+    "end": 493.63,
+    "text": "So that was some of the reasons why we utilized",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 493.63,
+    "end": 497.77,
+    "text": "the volume value areas instead of the traditional value areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 497.77,
+    "end": 501.25,
+    "text": "We then finished off part three,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 501.25,
+    "end": 504.65,
+    "text": "and we spoke about our key three proponents",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 504.65,
+    "end": 508.55,
+    "text": "of the profile,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 508.55,
+    "end": 512.94,
+    "text": "and we said they include fair value,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 517.46,
+    "end": 524.58,
+    "text": "and last but not least, excess. Now, again, I'm sure most of you understand this, but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 524.58,
+    "end": 529.96,
+    "text": "the best way to explain it is with a volume profile. Okay, so yeah, we have just a typical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 529.96,
+    "end": 535.74,
+    "text": "normal distribution and as you can see, the market spends most of its time within the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 538.18,
+    "end": 543.18,
+    "text": "Now, that middle section is what we would like to call fair value, and fair value is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 543.18,
+    "end": 547.82,
+    "text": "nothing more than where the market accepts price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 547.82,
+    "end": 553.86,
+    "text": "Buyers and sellers are accepting this area as the fairest price based on all available",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 553.86,
+    "end": 555.7,
+    "text": "information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 555.7,
+    "end": 560.82,
+    "text": "Where prices are quickly rejected from the high, we like to call that premium.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 565.18,
+    "end": 571.02,
+    "text": "The reason we call this discount a premium is because when price is advertised at a certain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 571.02,
+    "end": 576.34,
+    "text": "location, whether it's at the low or the high, because for instance sellers feel this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 576.34,
+    "end": 583.62,
+    "text": "is a very high price, they step in to take advantage of that advertised price and they",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 583.62,
+    "end": 588.58,
+    "text": "very quickly sell the market back down in hope of buying it back lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 591.2,
+    "end": 596.04,
+    "text": "and we have vice versa the discount prices at the low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 596.04,
+    "end": 604.12,
+    "text": "An excess price then is where a market tends to move very quickly away from what is even",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 604.12,
+    "end": 605.12,
+    "text": "deemed fair value.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 605.12,
+    "end": 609.68,
+    "text": "So let's say for instance this is our fair value over a long period of time and all",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 614.14,
+    "end": 620.62,
+    "text": "absolutely crazy and and stop accepting you know any kind of fair value and we get this excess we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 620.62,
+    "end": 627.82,
+    "text": "get this you know markets lost the plot and we start to trade beyond prices that are regarded",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 627.82,
+    "end": 634.46,
+    "text": "as a premium when we do go beyond a point where you know the markets become a bit illogical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 634.46,
+    "end": 639.5,
+    "text": "we start to talk about excess the important thing to understand about excess is that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 639.5,
+    "end": 642.22,
+    "text": "it's not so much you want to be selling this on the way up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 642.64,
+    "end": 648.8,
+    "text": "But what you want to note is that when a market finds an excess point, when it finally does",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 648.8,
+    "end": 649.8,
+    "text": "turn around",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 650.11,
+    "end": 653.65,
+    "text": "The pullback provides a very good opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 653.65,
+    "end": 654.65,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 654.65,
+    "end": 660.39,
+    "text": "Because we know that excess highs and excess lows tend to cap and support the market for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 660.39,
+    "end": 662.75,
+    "text": "a longer period of time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 662.75,
+    "end": 669.05,
+    "text": "We know once that market finally finds itself and stops being illogical, once it turns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 669.05,
+    "end": 677.51,
+    "text": "over we can sell that market for quite a few time periods and take advantage of excess",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 677.51,
+    "end": 678.75,
+    "text": "highs and lows.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 679.23,
+    "end": 685.85,
+    "text": "Alright guys, that's a wrap-up of part three. So again go and test yourself now go through those concept checkers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 686.07,
+    "end": 690.31,
+    "text": "Make sure you update your playbook. Keep working on that playbook",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 690.31,
+    "end": 696.41,
+    "text": "Keep working on those templates and building your volume profiles. Good luck, and I'll see you in part four",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

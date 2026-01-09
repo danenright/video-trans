@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_10-4_Volume_Profile_Trading_Routine/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_10-4_Volume_Profile_Trading_Routine/frames/scene_0000_mid.jpg",
+    "time": 243.41666666666666,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_10-4_Volume_Profile_Trading_Routine/frames/scene_0000_end.jpg",
+    "time": 486.6333333333333,
+    "width": 960,
+    "height": 540
+  }
+]

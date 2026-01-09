@@ -1,0 +1,1138 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.48,
+    "text": "Welcome to the replay series for the 11 unique trading strategies we are going to develop",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.48,
+    "end": 7.08,
+    "text": "throughout Module 3.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.08,
+    "end": 11.28,
+    "text": "Some important things to understand before we begin is, why do we utilize the replay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.28,
+    "end": 12.28,
+    "text": "function?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.28,
+    "end": 17.62,
+    "text": "Well, first and foremost, by having a replay function, we can deliberately practice very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.76,
+    "end": 25.56,
+    "text": "Then secondly, when you have a replay function, you're able to, through time, through speeding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.56,
+    "end": 32.64,
+    "text": "up time, you're able to visualize what certain patterns are going to do over a sped up time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.64,
+    "end": 36.12,
+    "text": "You can enhance your learning curve so much quicker.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.12,
+    "end": 41.44,
+    "text": "And thirdly, by having a replay function, this can help you through a series of a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.44,
+    "end": 42.44,
+    "text": "number of examples.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.44,
+    "end": 47.8,
+    "text": "It can help you to build confidence to stay in the various patterns that you are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.22,
+    "end": 54.54,
+    "text": "Now, two things to just keep in mind, whilst I'll be showing you various live signals",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.54,
+    "end": 60.02,
+    "text": "that the profile will show you over a sped up time frame, it's important to understand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.02,
+    "end": 63.86,
+    "text": "that it's never going to be as straightforward as I'm going to illustrate to you and that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.86,
+    "end": 66.94,
+    "text": "is one of the things you must keep in the back of your mind.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.45,
+    "end": 73.57,
+    "text": "textbook type examples and while sometimes the market does give you these really easier",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.57,
+    "end": 79.13,
+    "text": "opportunities, it's not always going to be that easy and that's why by having a replay",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.13,
+    "end": 86.13,
+    "text": "function you will have say 10, 20, 30 examples of each strategy and you will learn to decipher",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.13,
+    "end": 92.05,
+    "text": "between all the various different methods or ways in which the same principle can play",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.05,
+    "end": 93.05,
+    "text": "out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.05,
+    "end": 97.69,
+    "text": "That is why we have these replay functions available to us.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.22,
+    "end": 100.34,
+    "text": "Let's get into it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.34,
+    "end": 104.86,
+    "text": "What we're going to discuss as we go through each and every one of these replay functions",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.86,
+    "end": 110.58,
+    "text": "is first and foremost we're going to talk about some of the characteristics.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.58,
+    "end": 118.88,
+    "text": "We're then going to talk about some of the execution style and we're going to talk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.52,
+    "end": 124.16,
+    "text": "some of the management style.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.16,
+    "end": 128.36,
+    "text": "So these are the three key pillars we're going to build as we go through each and every",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.36,
+    "end": 132.52,
+    "text": "one of the 11 strategies that we're going to develop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.52,
+    "end": 137.54,
+    "text": "Now let's get straight into our first strategy that we spoke about was the low volume area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.54,
+    "end": 141.88,
+    "text": "Now first and foremost what I want to do before we actually push play is I want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.88,
+    "end": 146.32,
+    "text": "to just develop a little bit of context, give you a little bit of understanding.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.24,
+    "end": 152.82,
+    "text": "Each one of these strategies, whilst they have very specific characteristics, execution",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.82,
+    "end": 159.32,
+    "text": "methodology and money management, every single one of them needs to be put into a precise",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.32,
+    "end": 165.52,
+    "text": "exact context because it's this context that is going to determine how the strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.52,
+    "end": 168.0,
+    "text": "will actually play out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.0,
+    "end": 173.44,
+    "text": "Remember we spoke about we had three different types of low volume area strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.0,
+    "end": 183.06,
+    "text": "which occurred on the breakout.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.06,
+    "end": 187.72,
+    "text": "So the most confident was where we had a break out of the previous day's range",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.72,
+    "end": 190.72,
+    "text": "and we had a low volume area developing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.72,
+    "end": 197.72,
+    "text": "The second one we spoke about was where we had a breakout within range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.72,
+    "end": 205.23,
+    "text": "So within the previous day's range the market left a low volume area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.83,
+    "end": 213.19,
+    "text": "was where we had a low volume area at the end of a day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.19,
+    "end": 218.83,
+    "text": "Now these three are three various types of context that you'll find a low volume area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.83,
+    "end": 219.83,
+    "text": "strategy within.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.83,
+    "end": 225.45,
+    "text": "The one we're going to discuss in this example is where we have a low volume area within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.45,
+    "end": 227.35,
+    "text": "the previous day's range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 232.82,
+    "end": 236.4,
+    "text": "Now, what we're going to do is let's play this forward, and I'm just going to point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 236.4,
+    "end": 242.86,
+    "text": "out some of the characteristics, some of the early identifiers, the observations that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 242.86,
+    "end": 250.75,
+    "text": "show us that something is occurring in this setup.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.75,
+    "end": 258.46,
+    "text": "Now, if you watch quite closely, the market opens, and we can see that the market just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 261.63,
+    "end": 266.03,
+    "text": "Now, remember, bear in mind, if we drew the previous day's picture, we would see something",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 266.03,
+    "end": 270.59,
+    "text": "a little bit like this, where we had quite a lot of value accepted at the low and our",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 270.59,
+    "end": 272.87,
+    "text": "low volume area at the high of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 272.87,
+    "end": 276.67,
+    "text": "Now, bear in mind, we said to ourselves, when we have a low volume area, this shows",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.67,
+    "end": 277.67,
+    "text": "us initiative.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 277.67,
+    "end": 282.43,
+    "text": "Now, straight away, we can see the market tries to form a double bottom.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.43,
+    "end": 286.79,
+    "text": "And notice how once the cash comes in, the cash market takes us all the way back",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.18,
+    "end": 293.06,
+    "text": "distribution. So what we're looking for now, given that the previous day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 293.06,
+    "end": 296.18,
+    "text": "we had the low volume area at the high of the day, we're looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 296.18,
+    "end": 301.1,
+    "text": "for any sort of rejection or speed off the lows to become",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 301.1,
+    "end": 304.94,
+    "text": "a buyer. Now as we can see straight away both on the M",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 304.94,
+    "end": 308.1,
+    "text": "and the end print the market is giving us relatively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 308.1,
+    "end": 313.09,
+    "text": "easy buy side opportunity. So again if I can illustrate the previous day's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 313.09,
+    "end": 313.97,
+    "text": "context.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 313.97,
+    "end": 320.27,
+    "text": "So as you can see the market is trying to fill in the low volume area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 320.45,
+    "end": 322.93,
+    "text": "from the previous day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 322.93,
+    "end": 328.41,
+    "text": "And every time it comes in towards the low of the day, the market gets lifted quite easily",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 328.41,
+    "end": 331.14,
+    "text": "and quite aggressively.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 331.14,
+    "end": 336.06,
+    "text": "As we can see now, we have a higher low being formed on the P-print.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 336.06,
+    "end": 339.02,
+    "text": "Again we can see a higher low formed off the Q-print.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 339.02,
+    "end": 344.02,
+    "text": "And notice how the auction, we're starting to see a little bit of volume and volatility",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 348.69,
+    "end": 355.93,
+    "text": "Now, note, the R print comes and it tests the initial balance high before then continuing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 355.93,
+    "end": 358.15,
+    "text": "higher and making a new high on the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 358.15,
+    "end": 362.87,
+    "text": "So what we can see here is not only are prices being bought up off the lows relatively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 362.87,
+    "end": 367.95,
+    "text": "easily but any sort of a pullback now as we've seen a little bit of buy side auction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 367.95,
+    "end": 372.63,
+    "text": "come into the market, that too is being easily bought up.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 372.63,
+    "end": 375.07,
+    "text": "Again, note the one time framing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 378.5,
+    "end": 385.26,
+    "text": "and now the aspirant all making a series of higher lows and higher highs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 385.55,
+    "end": 391.05,
+    "text": "Now again, what we want to observe is when this pattern breaks down, which it does finally",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 391.05,
+    "end": 392.11,
+    "text": "on the T print.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 392.11,
+    "end": 396.01,
+    "text": "So had we been looking for longs, whether it was on the M and the N print, whether",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 396.01,
+    "end": 400.51,
+    "text": "it was on an extension of the initial balance high, whatever it may have been, we'd be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.51,
+    "end": 404.99,
+    "text": "looking for longs as a result of the low volume area left on the previous day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 404.99,
+    "end": 409.51,
+    "text": "So because of the initiative left on the previous day, we'd be looking for longs",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 409.51,
+    "end": 414.15,
+    "text": "when the market shows us in the indication that there is buy side in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 414.58,
+    "end": 418.58,
+    "text": "Now as we can see, the market is still struggling to make ground lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 418.58,
+    "end": 424.3,
+    "text": "We can see that the sellers are not committing to lower prices and the buyers keep absorbing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 424.3,
+    "end": 427.7,
+    "text": "and keep reloading on any sort of a pullback.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 427.7,
+    "end": 432.94,
+    "text": "So yeah, we can see both an R and S, a T and a U and now a V print that are constantly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 432.94,
+    "end": 435.42,
+    "text": "holding onto higher ground.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.42,
+    "end": 440.69,
+    "text": "So what we're looking for is we're looking for either buy side opportunity towards the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 441.68,
+    "end": 447.4,
+    "text": "or we're looking to remain in longs so long as we can hold on to this little bit of support",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 447.4,
+    "end": 449.2,
+    "text": "barrier being formed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 449.2,
+    "end": 455.0,
+    "text": "Now once the W print comes in we can see that the market is now taking out the 50%",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 455.0,
+    "end": 459.84,
+    "text": "of the day but it's also now starting to hold on to lower prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 459.84,
+    "end": 464.56,
+    "text": "We no longer want to be buying higher prices now but rather flattening our position",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 464.56,
+    "end": 469.72,
+    "text": "until we get the potential opportunity to buy in and around the lows again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 470.42,
+    "end": 475.56,
+    "text": "Let's watch now what the market does when it comes and retests in and around the low",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 475.56,
+    "end": 476.56,
+    "text": "of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 476.56,
+    "end": 479.12,
+    "text": "Again, note the auction process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 479.12,
+    "end": 484.32,
+    "text": "Notice how we shifted from having a lot of two-sided trade to one-time framing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 484.32,
+    "end": 492.11,
+    "text": "Again, we can see the V print, the W and the X print all showing us one-time framing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 492.11,
+    "end": 498.55,
+    "text": "Okay, again notice how quickly the market, once it got to lower prices, we saw a very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 500.16,
+    "end": 501.16,
+    "text": "of price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 501.16,
+    "end": 505.3,
+    "text": "So the first thing you have to say to yourself with regards to a characteristic of this trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 505.3,
+    "end": 513.88,
+    "text": "setup is that lower prices get picked up relatively easily.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 513.88,
+    "end": 517.56,
+    "text": "Now in noting that whenever you see this trade setup what you want to say to yourself",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 517.56,
+    "end": 523.24,
+    "text": "is that when the market is offering lower prices ahead of a low volume area that seems",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 526.99,
+    "end": 531.83,
+    "text": "pays out relatively quickly. So we saw both on the X print, we saw it on the M and N print",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 531.83,
+    "end": 536.93,
+    "text": "and now let's see it on the B print as it plays out live. So as you can see the B print",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 536.93,
+    "end": 542.01,
+    "text": "made a new low on the day and straight away it got lifted back up on the market very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 542.01,
+    "end": 547.57,
+    "text": "quickly reversed in the opposite direction. So we can see it on the M print, the N print,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 547.57,
+    "end": 552.17,
+    "text": "the X print and the B print. So the market's given us four separate opportunities to get",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 557.33,
+    "end": 567.35,
+    "text": "The question is, the second characteristic is, we see a lot of buying both passive and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 567.35,
+    "end": 574.74,
+    "text": "initiative, and that we saw both the initiative of the lows, but then also the passive at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 574.74,
+    "end": 577.41,
+    "text": "the higher prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 577.41,
+    "end": 581.85,
+    "text": "So as you guys can see, very clearly in terms of characteristics, we can see how",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 586.18,
+    "end": 590.26,
+    "text": "to be buyers, both easy buyers at low prices but then also",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 590.26,
+    "end": 593.78,
+    "text": "sort of more passive buyers at higher prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 593.78,
+    "end": 597.74,
+    "text": "As you can see the most important thing to understand is that a low volume area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 597.74,
+    "end": 601.74,
+    "text": "shows a natural bias or tendency towards one side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 601.74,
+    "end": 605.26,
+    "text": "and that is why we developed this trade strategy because it gives us",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 605.26,
+    "end": 608.26,
+    "text": "relatively easier opportunity and understanding.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 608.9,
+    "end": 613.02,
+    "text": "Now, where we want to just finish off is in terms of execution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 613.02,
+    "end": 617.34,
+    "text": "So in terms of the execution style, well what you need to note straight away is, note how",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 617.34,
+    "end": 624.02,
+    "text": "if you were aggressive at M, N, X, B, C and D, notice how we'd be aggressive at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 631.6,
+    "end": 636.28,
+    "text": "That's the key to trading this strategy is to notice where is the trade location that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 636.28,
+    "end": 642.2,
+    "text": "I can afford to be aggressive and where is the trade location that I need to be passive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 642.2,
+    "end": 648.05,
+    "text": "Then in terms of management style, what we want to do is we want to be executing at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 648.05,
+    "end": 653.53,
+    "text": "the market in and around lower prices, but then when we get towards higher prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 653.53,
+    "end": 655.05,
+    "text": "we want to be taking profit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 658.38,
+    "end": 664.24,
+    "text": "What we're looking for is, if we buy at these prices, can we get a profile distribution?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 664.24,
+    "end": 666.46,
+    "text": "If we buy at these X's, can we get the profile?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 666.46,
+    "end": 668.84,
+    "text": "If we buy at the B's, can we get the profile?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 668.84,
+    "end": 672.66,
+    "text": "So in essence, what we're looking, when we buy off the lows, we're just looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 672.66,
+    "end": 674.9,
+    "text": "for a distribution play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 674.9,
+    "end": 679.42,
+    "text": "We're looking to buy low and take profits in and around the high of the distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 679.89,
+    "end": 686.37,
+    "text": "So, that's the low volume area strategy that we've developed throughout the beginning parts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 686.37,
+    "end": 691.17,
+    "text": "of Module 3, and that's the execution style and the characteristics you can expect to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 691.17,
+    "end": 698.37,
+    "text": "see when not just finding this low volume area, but also executing this low volume area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 698.37,
+    "end": 704.73,
+    "text": "That concludes the first of our strategies throughout this replay series.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 704.73,
+    "end": 709.09,
+    "text": "I hope you've enjoyed it, and I hope to see you guys again in Strategy 2.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

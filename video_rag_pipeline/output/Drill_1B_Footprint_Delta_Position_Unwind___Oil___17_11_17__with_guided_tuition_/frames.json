@@ -1,0 +1,42 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Drill_1B_Footprint_Delta_Position_Unwind___Oil___17_11_17__with_guided_tuition_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Drill_1B_Footprint_Delta_Position_Unwind___Oil___17_11_17__with_guided_tuition_/frames/scene_0000_mid.jpg",
+    "time": 116.85,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Drill_1B_Footprint_Delta_Position_Unwind___Oil___17_11_17__with_guided_tuition_/frames/scene_0000_end.jpg",
+    "time": 233.5,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Drill_1B_Footprint_Delta_Position_Unwind___Oil___17_11_17__with_guided_tuition_/frames/scene_0001_start.jpg",
+    "time": 233.89999999999998,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Drill_1B_Footprint_Delta_Position_Unwind___Oil___17_11_17__with_guided_tuition_/frames/scene_0001_mid.jpg",
+    "time": 282.35,
+    "width": 1920,
+    "height": 1080
+  }
+]

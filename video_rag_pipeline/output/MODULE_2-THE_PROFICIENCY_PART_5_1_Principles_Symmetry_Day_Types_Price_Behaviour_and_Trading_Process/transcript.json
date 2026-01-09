@@ -1,0 +1,50 @@
+[
+  {
+    "start": 1.04,
+    "end": 5.32,
+    "text": "Welcome back and congratulations on finishing Module 1.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.32,
+    "end": 8.92,
+    "text": "We're now going to begin Module 2, the proficiency.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.92,
+    "end": 13.68,
+    "text": "In Module 2 we're going to focus on some core principles and a lot of practical examples",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.68,
+    "end": 18.56,
+    "text": "and then most importantly we're going to finally start developing some key volume profiling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.56,
+    "end": 19.96,
+    "text": "strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.96,
+    "end": 21.68,
+    "text": "Good luck and I hope you enjoy Module 2.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

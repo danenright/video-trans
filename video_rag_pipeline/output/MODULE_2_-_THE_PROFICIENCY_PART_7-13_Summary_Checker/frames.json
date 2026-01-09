@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_7-13_Summary_Checker/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_7-13_Summary_Checker/frames/scene_0000_mid.jpg",
+    "time": 29.74,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_7-13_Summary_Checker/frames/scene_0000_end.jpg",
+    "time": 59.279999999999994,
+    "width": 1920,
+    "height": 1080
+  }
+]

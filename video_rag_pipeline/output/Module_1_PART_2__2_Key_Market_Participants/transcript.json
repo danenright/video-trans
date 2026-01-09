@@ -1,0 +1,530 @@
+[
+  {
+    "start": 1.1,
+    "end": 7.55,
+    "text": "Welcome to part 2. I hope you managed to complete the playbook from part 1 easily.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.55,
+    "end": 10.55,
+    "text": "In part 2 we're going to discuss 3 main principles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.55,
+    "end": 13.55,
+    "text": "The first will be key market participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.55,
+    "end": 16.55,
+    "text": "The second will be key timeframe participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.55,
+    "end": 20.55,
+    "text": "And the third will be the basic auction process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.55,
+    "end": 23.55,
+    "text": "So let's get to it. Key market participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.55,
+    "end": 29.51,
+    "text": "It is obvious that there is a buyer for every seller and a seller for every buyer.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.68,
+    "end": 35.32,
+    "text": "Whilst it is obvious, what many fail to understand is what time frame buyer or seller is making",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.32,
+    "end": 37.16,
+    "text": "the sale or purchase.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.16,
+    "end": 43.42,
+    "text": "This powerful piece of knowledge unlocks key information about potential for future direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.42,
+    "end": 44.88,
+    "text": "What do we mean by this?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.88,
+    "end": 50.34,
+    "text": "Well simply put, if we were to observe prices going higher in the market, the basic",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.34,
+    "end": 54.66,
+    "text": "assumption would be that there are buyers or more buyers than sellers in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.81,
+    "end": 64.17,
+    "text": "shorts that are covering their shorts and buying out of those shorts which is taking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.17,
+    "end": 66.41,
+    "text": "the market higher.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.41,
+    "end": 70.69,
+    "text": "Understanding what moves prices or what time frame is moving prices or which participants",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.69,
+    "end": 74.44,
+    "text": "is key to unlocking future direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.44,
+    "end": 79.0,
+    "text": "By observing the auction process unfolding via volume profiling, we can begin to assess",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.39,
+    "end": 88.51,
+    "text": "It's imperative, guys, as we go through the rest of this module and the strategies in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.51,
+    "end": 93.39,
+    "text": "Module 2 and 3, that you understand how these different participants are interacting.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.39,
+    "end": 97.95,
+    "text": "Because it's this interaction that is going to lead to success or failure of the various",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.95,
+    "end": 99.77,
+    "text": "trade setups.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.77,
+    "end": 102.37,
+    "text": "Let's talk about the three major participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.37,
+    "end": 106.68,
+    "text": "Commercial, Speculative and Automated.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.68,
+    "end": 109.78,
+    "text": "The first and most influential, Commercial.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.6,
+    "end": 118.2,
+    "text": "large institutions like banks and hedges or hedging strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.2,
+    "end": 123.18,
+    "text": "Now, in order to understand how commercial participants move the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.18,
+    "end": 126.28,
+    "text": "we need to first look at the characteristics that define",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.28,
+    "end": 129.62,
+    "text": "commercial participants. The first characteristic",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.62,
+    "end": 135.28,
+    "text": "not price sensitive. What does this mean? If we would take a basic example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.28,
+    "end": 139.18,
+    "text": "of a hedge fund. Let's say they get into a long position",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.18,
+    "end": 142.74,
+    "text": "and the price starts to go against them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.12,
+    "end": 146.6,
+    "text": "They're not too concerned about which price they get out at.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.6,
+    "end": 147.6,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.6,
+    "end": 149.8,
+    "text": "Because their objective is to just lock in profits.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.8,
+    "end": 154.32,
+    "text": "So once they get out, they are executing at the best price possible regardless of where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.32,
+    "end": 155.81,
+    "text": "it is.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.81,
+    "end": 160.17,
+    "text": "Equally, if we take the example of a pension fund, every month they need to rebalance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.17,
+    "end": 161.97,
+    "text": "their portfolios.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.97,
+    "end": 165.77,
+    "text": "If at the end of the month they find themselves short of bonds, they have to buy those",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.98,
+    "end": 172.82,
+    "text": "So, they are not going to be calling up the banks and worrying too much about price, they're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.82,
+    "end": 176.81,
+    "text": "merely going to execute at the best price possible.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.81,
+    "end": 181.95,
+    "text": "This lack of being price sensitive can sometimes drive markets beyond certain points that we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.95,
+    "end": 187.59,
+    "text": "are used to, and it's important to understand why they're being driven in such a way.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.59,
+    "end": 190.38,
+    "text": "Our next characteristic, natural hedging.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.38,
+    "end": 194.94,
+    "text": "A lot of the large institutions tend to execute via hedging strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.51,
+    "end": 204.01,
+    "text": "This can sometimes create confusion, as we would expect all bond markets to be highly correlated,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.01,
+    "end": 207.01,
+    "text": "yet sometimes they move in opposite directions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.01,
+    "end": 213.01,
+    "text": "It's important to understand these hedges, as this can cause us a lot of frustration in various setups.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.01,
+    "end": 216.01,
+    "text": "The next characteristic, capital preservation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.01,
+    "end": 224.51,
+    "text": "Again, a crucial understanding for commercial paper is that they are expected to preserve capital at all costs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 224.54,
+    "end": 229.9,
+    "text": "and that is why sometimes we can see some very aggressive moves in one direction and the other",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.9,
+    "end": 236.06,
+    "text": "as these large institutions enter into the market with paper in order to preserve capital",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.68,
+    "end": 243.92,
+    "text": "trade value. Large commercial institutions don't always participate in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.92,
+    "end": 250.32,
+    "text": "They rarely participate within the middle of ranges. They tend to be found at the lows and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.42,
+    "end": 260.66,
+    "text": "Because their objective is to buy when a market is perceived cheap or at a discount and sell when a market is at a premium",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 261.02,
+    "end": 263.02,
+    "text": "or at a high price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.74,
+    "end": 268.06,
+    "text": "It's important to understanding that they trade around these values because sometimes as traders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.06,
+    "end": 275.2,
+    "text": "we expect paper to enter the market or commercial participants to enter the market every day. Yet more often than not they're only there",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 275.58,
+    "end": 277.98,
+    "text": "over the period of a week on the odd occasion.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 279.86,
+    "end": 283.9,
+    "text": "Then they influence market prices, highly crucial to understand.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 284.22,
+    "end": 287.98,
+    "text": "commercial participants can move prices up or down.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 287.98,
+    "end": 292.06,
+    "text": "So crucial to understand as they are probably the single most important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 292.06,
+    "end": 297.02,
+    "text": "participant that can move the market. If they can influence prices up or down",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 297.02,
+    "end": 300.14,
+    "text": "we need to always be aware of when they enter the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 300.14,
+    "end": 304.06,
+    "text": "and definitely not go against them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

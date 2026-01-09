@@ -1,0 +1,18 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Failed_Break_S_R___Oil_17_11_17/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Failed_Break_S_R___Oil_17_11_17/frames/scene_0000_mid.jpg",
+    "time": 331.5,
+    "width": 1920,
+    "height": 1080
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "idx": 0,
+    "start": 0.0,
+    "end": 3.0,
+    "start_frame": 0,
+    "end_frame": 24
+  },
+  {
+    "idx": 1,
+    "start": 3.0,
+    "end": 1000.75,
+    "start_frame": 24,
+    "end_frame": 8006
+  },
+  {
+    "idx": 2,
+    "start": 1000.75,
+    "end": 1004.75,
+    "start_frame": 8006,
+    "end_frame": 8038
+  },
+  {
+    "idx": 3,
+    "start": 1004.75,
+    "end": 2290.75,
+    "start_frame": 8038,
+    "end_frame": 18326
+  },
+  {
+    "idx": 4,
+    "start": 2290.75,
+    "end": 2296.625,
+    "start_frame": 18326,
+    "end_frame": 18373
+  },
+  {
+    "idx": 5,
+    "start": 2296.625,
+    "end": 2312.125,
+    "start_frame": 18373,
+    "end_frame": 18497
+  },
+  {
+    "idx": 6,
+    "start": 2312.125,
+    "end": 2316.625,
+    "start_frame": 18497,
+    "end_frame": 18533
+  },
+  {
+    "idx": 7,
+    "start": 2316.625,
+    "end": 2334.25,
+    "start_frame": 18533,
+    "end_frame": 18674
+  },
+  {
+    "idx": 8,
+    "start": 2334.25,
+    "end": 2349.375,
+    "start_frame": 18674,
+    "end_frame": 18795
+  },
+  {
+    "idx": 9,
+    "start": 2349.375,
+    "end": 2668.375,
+    "start_frame": 18795,
+    "end_frame": 21347
+  },
+  {
+    "idx": 10,
+    "start": 2668.375,
+    "end": 3732.375,
+    "start_frame": 21347,
+    "end_frame": 29859
+  },
+  {
+    "idx": 11,
+    "start": 3732.375,
+    "end": 3747.25,
+    "start_frame": 29859,
+    "end_frame": 29978
+  },
+  {
+    "idx": 12,
+    "start": 3747.25,
+    "end": 4506.25,
+    "start_frame": 29978,
+    "end_frame": 36050
+  },
+  {
+    "idx": 13,
+    "start": 4506.25,
+    "end": 4738.375,
+    "start_frame": 36050,
+    "end_frame": 37907
+  },
+  {
+    "idx": 14,
+    "start": 4738.375,
+    "end": 4919.625,
+    "start_frame": 37907,
+    "end_frame": 39357
+  },
+  {
+    "idx": 15,
+    "start": 4919.625,
+    "end": 4936.0,
+    "start_frame": 39357,
+    "end_frame": 39488
+  },
+  {
+    "idx": 16,
+    "start": 4936.0,
+    "end": 4944.625,
+    "start_frame": 39488,
+    "end_frame": 39557
+  },
+  {
+    "idx": 17,
+    "start": 4944.625,
+    "end": 5780.625,
+    "start_frame": 39557,
+    "end_frame": 46245
+  },
+  {
+    "idx": 18,
+    "start": 5780.625,
+    "end": 7425.875,
+    "start_frame": 46245,
+    "end_frame": 59407
+  },
+  {
+    "idx": 19,
+    "start": 7425.875,
+    "end": 7999.5,
+    "start_frame": 59407,
+    "end_frame": 63996
+  },
+  {
+    "idx": 20,
+    "start": 7999.5,
+    "end": 8006.625,
+    "start_frame": 63996,
+    "end_frame": 64053
+  }
+]

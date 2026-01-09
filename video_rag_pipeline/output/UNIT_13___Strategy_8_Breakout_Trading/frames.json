@@ -1,0 +1,386 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0000_mid.jpg",
+    "time": 9.95,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0000_end.jpg",
+    "time": 19.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0001_start.jpg",
+    "time": 20.099999999999998,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0001_mid.jpg",
+    "time": 27.599999999999998,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0001_end.jpg",
+    "time": 35.099999999999994,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0002_start.jpg",
+    "time": 35.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0002_mid.jpg",
+    "time": 38.25,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0002_end.jpg",
+    "time": 41.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0003_start.jpg",
+    "time": 41.400000000000006,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0003_mid.jpg",
+    "time": 197.54999999999998,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0003_end.jpg",
+    "time": 353.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0004_start.jpg",
+    "time": 354.09999999999997,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0004_mid.jpg",
+    "time": 420.25,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0004_end.jpg",
+    "time": 486.40000000000003,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0005_start.jpg",
+    "time": 486.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0005_mid.jpg",
+    "time": 1337.75,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0005_end.jpg",
+    "time": 2188.7000000000003,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0006_start.jpg",
+    "time": 2189.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0006_mid.jpg",
+    "time": 2305.9,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0006_end.jpg",
+    "time": 2422.7000000000003,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0007_start.jpg",
+    "time": 2423.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0007_mid.jpg",
+    "time": 2512.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0007_end.jpg",
+    "time": 2602.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0008_start.jpg",
+    "time": 2602.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0008_mid.jpg",
+    "time": 2611.9,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0008_end.jpg",
+    "time": 2621.1000000000004,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0009_start.jpg",
+    "time": 2621.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0009_mid.jpg",
+    "time": 2625.55,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0009_end.jpg",
+    "time": 2629.6000000000004,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0010_start.jpg",
+    "time": 2630.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0010_mid.jpg",
+    "time": 2631.55,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0010_end.jpg",
+    "time": 2633.1000000000004,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0011_start.jpg",
+    "time": 2633.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0011_mid.jpg",
+    "time": 3053.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0011_end.jpg",
+    "time": 3473.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0012_start.jpg",
+    "time": 3473.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0012_mid.jpg",
+    "time": 3490.45,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 12,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0012_end.jpg",
+    "time": 3507.2000000000003,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 13,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0013_start.jpg",
+    "time": 3507.6,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 13,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0013_mid.jpg",
+    "time": 3510.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 13,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0013_end.jpg",
+    "time": 3514.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 14,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0014_start.jpg",
+    "time": 3514.3999999999996,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 14,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0014_mid.jpg",
+    "time": 4296.95,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 14,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0014_end.jpg",
+    "time": 5079.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 15,
+    "kind": "start",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0015_start.jpg",
+    "time": 5079.9,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 15,
+    "kind": "mid",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0015_mid.jpg",
+    "time": 5433.35,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 15,
+    "kind": "end",
+    "path": "output/UNIT_13___Strategy_8_Breakout_Trading/frames/scene_0015_end.jpg",
+    "time": 5786.8,
+    "width": 1366,
+    "height": 768
+  }
+]

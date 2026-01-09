@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_9__10_Trading_Strategies_around_Order_Book_Absorption_Events_3/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_9__10_Trading_Strategies_around_Order_Book_Absorption_Events_3/frames/scene_0000_mid.jpg",
+    "time": 122.76,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_9__10_Trading_Strategies_around_Order_Book_Absorption_Events_3/frames/scene_0000_end.jpg",
+    "time": 245.32000000000002,
+    "width": 1920,
+    "height": 1080
+  }
+]

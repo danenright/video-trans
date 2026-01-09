@@ -1,0 +1,418 @@
+[
+  {
+    "start": 1.17,
+    "end": 7.29,
+    "text": "We're now going to finish off part 5 of module 2 and just talk a little bit about the trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.29,
+    "end": 10.93,
+    "text": "process with volume profiling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.93,
+    "end": 15.77,
+    "text": "And we've spoken about this a little bit earlier in module 1 and we spoke about how",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.77,
+    "end": 18.93,
+    "text": "you'd go about utilizing volume profiling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.93,
+    "end": 23.31,
+    "text": "Now I'm going to give you almost just an understanding of the purpose as to why we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.31,
+    "end": 25.63,
+    "text": "use volume profiling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.79,
+    "end": 34.91,
+    "text": "or a little bit of trading logic and a little bit of understanding or instinct.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.91,
+    "end": 40.71,
+    "text": "Now this instinct, or you can almost call it subjective understanding, it's important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.04,
+    "end": 49.92,
+    "text": "in order to execute a trade. You have to then have some form of structure or objective understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.92,
+    "end": 57.44,
+    "text": "and this is where the volume profile is absolutely crucial. We use the volume profile to confirm",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.44,
+    "end": 63.6,
+    "text": "and bolster our confidence about our understanding. So let's take for example that we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.66,
+    "end": 69.06,
+    "text": "Have a trend a trend day and you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.06,
+    "end": 73.08,
+    "text": "We we can see that the markets trying to move up quite aggressively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.18,
+    "end": 77.94,
+    "text": "We need to you know before we can just execute and hit the market and be aggressive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.94,
+    "end": 83.1,
+    "text": "we need to see some form of understanding whether it's and maybe a low volume area or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.26,
+    "end": 86.74,
+    "text": "a very aggressive initiative being taken or maybe",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 87.02,
+    "end": 94.06,
+    "text": "You know the markets not respecting any previous pivots from previous day. We need to see these this objectivity before",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.26,
+    "end": 100.76,
+    "text": "we can take on our trading logic or our subjective understanding of the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.76,
+    "end": 106.04,
+    "text": "Once we have that structure, time is then very crucial and we're going to talk about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.04,
+    "end": 112.36,
+    "text": "the elements of time in some detail but the basic essence of time is that time regulates",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.36,
+    "end": 113.36,
+    "text": "an opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.36,
+    "end": 117.64,
+    "text": "Now I've never really gone beyond telling you it regulates the opportunity so what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.46,
+    "end": 125.64,
+    "text": "Well, for instance, let's say that we identify a day type as being a trending day type.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.64,
+    "end": 131.92,
+    "text": "Now note, in a trending day type we know that a market should see constant initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.92,
+    "end": 137.56,
+    "text": "all day long and we should form lots of little distributions as prices move higher",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.56,
+    "end": 139.32,
+    "text": "and higher and higher.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.32,
+    "end": 144.36,
+    "text": "However, if we know by logic that we should move higher and higher over the period",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.36,
+    "end": 152.5,
+    "text": "When we start spending too much time within one little distribution, all of a sudden time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.5,
+    "end": 158.88,
+    "text": "is telling us that the likelihood of a normal traditional trend day is diminishing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.88,
+    "end": 163.84,
+    "text": "And that is how time regulates each one of the opportunities we take.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.14,
+    "end": 167.58,
+    "text": "Another very good example of where time is crucial.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.58,
+    "end": 172.88,
+    "text": "If we are looking for an inside daybreak as we've spoken about in previous examples,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.88,
+    "end": 178.64,
+    "text": "we know that we expect to see quite a bit of initiative and follow through once we take",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.64,
+    "end": 181.24,
+    "text": "up the previous day's extreme.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.08,
+    "end": 192.44,
+    "text": "and spends a long long time distributing right above the previous day's high, this is telling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.44,
+    "end": 198.68,
+    "text": "us that the market or the breakout of the market is not as strong as we had expected.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.68,
+    "end": 203.24,
+    "text": "Again, as we can see, time regulates this opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.46,
+    "end": 210.86,
+    "text": "That is why time is crucial because it allows us to not just, you know, manage our positioning",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.86,
+    "end": 216.89,
+    "text": "but it allows us almost a benchmark in which we can measure our expectations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.89,
+    "end": 223.25,
+    "text": "Note, one last thing, markets tend to give various amounts of information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.25,
+    "end": 227.95,
+    "text": "I have a little bit of a saying, if something is very obvious to the naked eye and everyone",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.91,
+    "end": 233.83,
+    "text": "The probability of success is a lot lower, and that's what we're trying to say here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.83,
+    "end": 242.51,
+    "text": "The more obvious or the more information that the market is showing you, the less likelihood",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 242.51,
+    "end": 246.63,
+    "text": "there is of success and thus diminishing returns.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.63,
+    "end": 250.27,
+    "text": "In other words, if you're seeing a lot of information, if it's becoming more and more",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.27,
+    "end": 255.77,
+    "text": "obvious, the probability or the likelihood of continuation to profit is becoming less",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.53,
+    "end": 261.85,
+    "text": "Important you understand that because what volume profiling will teach you to do is almost",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 261.85,
+    "end": 267.45,
+    "text": "be slightly ahead of the curve, almost be at the front end of receiving information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 267.45,
+    "end": 274.39,
+    "text": "so that you can take advantage of the opportunity before it starts to show too much information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 274.39,
+    "end": 281.7,
+    "text": "So to summarise and to end off part 5, logic creates the impetus, time generates",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.51,
+    "end": 290.83,
+    "text": "Good luck with the concept checkers, make sure you spend a lot of time filling in that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.83,
+    "end": 293.83,
+    "text": "playbook and we'll see you again in part 6.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

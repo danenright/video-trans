@@ -1,0 +1,98 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0000_mid.jpg",
+    "time": 1088.55,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0000_end.jpg",
+    "time": 2176.9,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0001_start.jpg",
+    "time": 2177.2999999999997,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0001_mid.jpg",
+    "time": 2181.95,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0001_end.jpg",
+    "time": 2186.6000000000004,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0002_start.jpg",
+    "time": 2187.0,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0002_mid.jpg",
+    "time": 2192.1000000000004,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0002_end.jpg",
+    "time": 2197.2000000000003,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0003_start.jpg",
+    "time": 2197.6,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0003_mid.jpg",
+    "time": 2302.75,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Drill_1A_Hide_Behind_the_Elephant___Oil___20_11_17/frames/scene_0003_end.jpg",
+    "time": 2407.9,
+    "width": 1920,
+    "height": 1080
+  }
+]

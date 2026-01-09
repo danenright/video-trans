@@ -1,0 +1,98 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0000_mid.jpg",
+    "time": 1.5416666666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0000_end.jpg",
+    "time": 2.8833333333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0001_start.jpg",
+    "time": 3.2833333333333337,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0001_mid.jpg",
+    "time": 48.854166666666664,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0001_end.jpg",
+    "time": 94.425,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0002_start.jpg",
+    "time": 94.825,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0002_mid.jpg",
+    "time": 116.35416666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0002_end.jpg",
+    "time": 137.88333333333335,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0003_start.jpg",
+    "time": 138.28333333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0003_mid.jpg",
+    "time": 139.5,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Sliced_Order/frames/scene_0003_end.jpg",
+    "time": 140.71666666666667,
+    "width": 960,
+    "height": 540
+  }
+]

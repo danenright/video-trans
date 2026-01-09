@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.62,
+    "end": 7.4,
+    "text": "Now let's define HFT or High Frequency Trading Systems.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.4,
+    "end": 14.84,
+    "text": "Now effectively an HFT is an algorithm that operates at extremely high speeds, it's talking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.84,
+    "end": 21.3,
+    "text": "almost about nanoseconds and it is important because there will be a whole bunch of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.3,
+    "end": 27.56,
+    "text": "different algorithms all with the same strategy, but the ones that are able to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.75,
+    "end": 34.59,
+    "text": "at a quicker speed will get the price that they want. So it's almost a race to, you know, on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.59,
+    "end": 41.87,
+    "text": "technology, on latency, and how fast their orders go from the broker to the exchanges and back",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.34,
+    "end": 50.3,
+    "text": "that all an HFT is, is just an algorithm on time steroids, just really wanting to get those orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.3,
+    "end": 55.18,
+    "text": "filled as quickly as possible. I've given some links there to describe a little bit more about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.18,
+    "end": 61.1,
+    "text": "almost the technicalities of algorithms, I mean so on HFT systems, the co-location,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.1,
+    "end": 68.7,
+    "text": "a co-location meaning of their service being located at the exchanges and then the order,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.3,
+    "end": 78.72,
+    "text": "striking distance to the exchange because their servers are at the exchange so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.72,
+    "end": 85.06,
+    "text": "look into those those various links that I have provided over here will give you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.06,
+    "end": 90.78,
+    "text": "a really nice broad understanding of of the HTT systems and really the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.78,
+    "end": 96.26,
+    "text": "importance of speed for them in order to really optimize their performance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.26,
+    "end": 99.34,
+    "text": "and there's a whole",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.87,
+    "end": 101.55,
+    "text": "There's a whole variety of types of different HFT systems.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.55,
+    "end": 105.07,
+    "text": "I've provided some further links and further reading there but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.07,
+    "end": 108.75,
+    "text": "I'm not going to be going into this in detail just for you to understand.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.75,
+    "end": 112.51,
+    "text": "These are just another form of execution strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.51,
+    "end": 116.91,
+    "text": "that do exist in the marketplace and therefore exist on our price ladder",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.91,
+    "end": 120.51,
+    "text": "and it's when we observe them that we're able to trade around them",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.24,
+    "end": 128.34,
+    "text": "Various different types of orders at particular times of the days and then how do you trade around those orders?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

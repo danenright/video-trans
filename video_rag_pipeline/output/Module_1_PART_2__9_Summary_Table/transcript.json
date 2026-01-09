@@ -1,0 +1,346 @@
+[
+  {
+    "start": 1.23,
+    "end": 6.99,
+    "text": "Now that we've dealt with the 5 market timeframe participants, let's summarise them and get",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.99,
+    "end": 10.15,
+    "text": "a very good overview of these 5 participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.15,
+    "end": 10.65,
+    "text": "Remember",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.98,
+    "end": 14.98,
+    "text": "In order to understand the strategies we're going to use at the back end of this module,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.98,
+    "end": 19.94,
+    "text": "and module two and three, we need to understand the five different participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.94,
+    "end": 25.46,
+    "text": "More importantly, we need to understand how these participants interact with one another,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.46,
+    "end": 30.74,
+    "text": "where they tend to interact, and what type of change in price brings them into the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.74,
+    "end": 33.94,
+    "text": "marketplace. So let's look at the summary table.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.46,
+    "end": 40.06,
+    "text": "As we can see, we have the scalper, the day trader, the short term trader, intermediate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.06,
+    "end": 42.46,
+    "text": "swing and long term investors.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.46,
+    "end": 49.38,
+    "text": "I've summarised this in the 6 key characteristics that you can find amongst these 5 participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.38,
+    "end": 51.9,
+    "text": "For example, the scalper.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.9,
+    "end": 58.14,
+    "text": "The scalper tends to be pure price action and technical, whereas the day trader tends",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.59,
+    "end": 65.43,
+    "text": "The short-term trader is technical and then fundamental.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.43,
+    "end": 70.63,
+    "text": "The intermediate swing trader finds a happy balance between fundamentals and technicals,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.63,
+    "end": 75.95,
+    "text": "whereas the long-term investor is purely fundamental and uses the technical to confirm",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.95,
+    "end": 78.07,
+    "text": "the fundamental backdrop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.07,
+    "end": 81.67,
+    "text": "If we then look at the second characteristic being the time frame.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.67,
+    "end": 84.95,
+    "text": "Scalpers tend to react on a second-to-minute type time frame.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.95,
+    "end": 87.39,
+    "text": "Day traders minute two hours.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.0,
+    "end": 96.76,
+    "text": "The intermediate swing trader days and the long-term investor days to months to years.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.76,
+    "end": 99.92,
+    "text": "We then turn to the liquidity provider or user.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.92,
+    "end": 104.6,
+    "text": "Scalpers tend to use liquidity, or sorry, scalpers tend to provide liquidity to the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.6,
+    "end": 105.6,
+    "text": "market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.6,
+    "end": 109.92,
+    "text": "Day traders provide liquidity to the market, short-term traders provide liquidity to the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.92,
+    "end": 110.92,
+    "text": "market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.92,
+    "end": 115.12,
+    "text": "Intermediate swing traders provide both liquidity and they use the liquidity, whereas",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.12,
+    "end": 118.84,
+    "text": "long-term investor paper traders are liquidity users.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.54,
+    "end": 123.94,
+    "text": "Our next characteristic is price sensitive vs non-sensitive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.94,
+    "end": 129.26,
+    "text": "As we can see scalpers are extremely price sensitive, whereas day traders are price sensitive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.26,
+    "end": 131.86,
+    "text": "but not as much as the scalper.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.86,
+    "end": 137.16,
+    "text": "Short term traders are relatively less price sensitive than the day trader.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.16,
+    "end": 143.18,
+    "text": "Intermediate swing traders are not sensitive and neither are the long term paper investors.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.18,
+    "end": 147.7,
+    "text": "In terms of order size and volume, scalpers tend to be the smallest, with day traders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.38,
+    "end": 154.78,
+    "text": "Short-term tend to be relatively small, whereas intermediate and swing traders tend to have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.78,
+    "end": 160.74,
+    "text": "larger orders and the largest orders and highest volume comes from the long-term investors",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.74,
+    "end": 162.83,
+    "text": "and paper traders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.83,
+    "end": 167.53,
+    "text": "In terms of influential and price and not influential, as we can see, the scalper",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.99,
+    "end": 174.75,
+    "text": "The day trader is not influential, the short-term trader is not influential, the intermediate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.75,
+    "end": 180.51,
+    "text": "swing trader is influential to an extent, but the most influential is the long-term",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.51,
+    "end": 181.55,
+    "text": "investor.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.55,
+    "end": 186.07,
+    "text": "They can move their markets wherever they like and however they like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.07,
+    "end": 190.27,
+    "text": "That's a wonderful summary to keep close by as we go through not just the rest",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0000_mid.jpg",
+    "time": 4.520833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0000_end.jpg",
+    "time": 8.841666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0001_start.jpg",
+    "time": 9.241666666666665,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0001_mid.jpg",
+    "time": 16.0,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0001_end.jpg",
+    "time": 22.758333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0002_start.jpg",
+    "time": 23.15833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0002_mid.jpg",
+    "time": 100.97916666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0002_end.jpg",
+    "time": 178.8,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0003_start.jpg",
+    "time": 179.2,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0003_mid.jpg",
+    "time": 181.1875,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0003_end.jpg",
+    "time": 183.175,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0004_start.jpg",
+    "time": 183.575,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0004_mid.jpg",
+    "time": 185.875,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_8-14/frames/scene_0004_end.jpg",
+    "time": 188.175,
+    "width": 960,
+    "height": 524
+  }
+]

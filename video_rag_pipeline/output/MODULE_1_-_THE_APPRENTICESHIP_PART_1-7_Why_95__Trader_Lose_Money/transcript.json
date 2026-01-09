@@ -1,0 +1,778 @@
+[
+  {
+    "start": 1.04,
+    "end": 5.52,
+    "text": "Hi guys, part one, why 95% of traders lose money?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.97,
+    "end": 11.33,
+    "text": "Now, this is one of the first discussions I would have with any young trader or any of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.33,
+    "end": 16.41,
+    "text": "the guys I would mentor and the reason I go over this first is I almost want to get rid",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.41,
+    "end": 22.05,
+    "text": "of a lot of these hidden fallacies within the trading environment.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.05,
+    "end": 27.37,
+    "text": "I think a lot of people seem to think or there's this illusion that trading is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.37,
+    "end": 33.09,
+    "text": "easy and you can make a lot of money quick and that it's an amazingly fun job.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.57,
+    "end": 40.29,
+    "text": "to discuss early on so that I can kind of just bring you back to reality. Now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.29,
+    "end": 45.84,
+    "text": "there's a couple of key characteristics that define the 95% of people that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.84,
+    "end": 52.12,
+    "text": "fail so in essence if we knew why 95% of people fail so long as we don't do",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.12,
+    "end": 56.56,
+    "text": "that so long as we avoid those pitfalls surely by that definition we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.56,
+    "end": 60.08,
+    "text": "should then be part of the 5% that succeed. So what are these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.74,
+    "end": 67.78,
+    "text": "what I'm going to say is going to sound a little bit counter-intuitive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.78,
+    "end": 72.18,
+    "text": "However, in the beginning of your career when you start trading, when you're learning about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.18,
+    "end": 77.38,
+    "text": "the markets, trying to understand the markets, in essence you need to over trade a little bit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.38,
+    "end": 83.14,
+    "text": "Why? Because the quicker you make mistakes, the more often you make mistakes, the quicker",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.14,
+    "end": 88.58,
+    "text": "you're going to be able to learn from those mistakes. So as a trader in the beginning,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.58,
+    "end": 90.18,
+    "text": "be aggressive, be assertive,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.5,
+    "end": 96.58,
+    "text": "But do this on a demo account, do this on an account that is not real money.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.58,
+    "end": 101.06,
+    "text": "Once you've made those mistakes, once you enter the live market with real money, we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.06,
+    "end": 102.68,
+    "text": "no longer overtrade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.68,
+    "end": 106.56,
+    "text": "What we do is we take our edge, we take our strategy and implement it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.56,
+    "end": 111.12,
+    "text": "We don't force new strategies in the market, we don't force ourselves in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 111.12,
+    "end": 114.22,
+    "text": "So the first characteristic is overtrading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.22,
+    "end": 118.08,
+    "text": "The second characteristic is trading without a defined edge.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.72,
+    "end": 129.72,
+    "text": "A lot of traders out there think they have an edge, they think that they bought because they read it on Twitter or they heard that there's this new tool out there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.72,
+    "end": 139.72,
+    "text": "However, that's not a defined edge. A defined edge is where you look at a market, you have a logical process and you execute based on that process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.72,
+    "end": 143.75,
+    "text": "That is an edge and that is what you're required to succeed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.59,
+    "end": 149.95,
+    "text": "Now a lot of traders they they have a no defined edge because they tend to try a little bit more",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.35,
+    "end": 154.63,
+    "text": "Subjectively versus objectively and we're going to talk about this a little later on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.0,
+    "end": 160.4,
+    "text": "Emotional decision-making now. I know a lot of you would have experienced this before",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.96,
+    "end": 167.2,
+    "text": "This is one of the key pitfalls for most new traders. They get into a bad trade. They get into a sticky position",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.2,
+    "end": 170.36,
+    "text": "They're unsure what to do. They don't cut the position",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.36,
+    "end": 173.92,
+    "text": "They hold the position and the next thing I do a lot more damage now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.46,
+    "end": 179.1,
+    "text": "It's not the financial damage that does the most damage, it's the psychological damage.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.1,
+    "end": 183.74,
+    "text": "In other words, the scar that is developed as a result of a bad decision.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.74,
+    "end": 188.22,
+    "text": "So emotional decision making is one of the reasons why traders never fully recover and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 188.22,
+    "end": 191.01,
+    "text": "eventually fail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 191.01,
+    "end": 192.13,
+    "text": "Ego.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.13,
+    "end": 193.49,
+    "text": "We need not speak about this.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.49,
+    "end": 197.21,
+    "text": "If you're a trader, to an extent, you probably need to have a little bit of an",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.21,
+    "end": 198.21,
+    "text": "ego.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.21,
+    "end": 201.41,
+    "text": "You need to have a little bit of surety and confidence in your ability.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.38,
+    "end": 208.14,
+    "text": "It's okay to be confident, but not be overconfident.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.14,
+    "end": 213.14,
+    "text": "The minute you step out of the realm of what you're used to doing, the minute you start",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.14,
+    "end": 217.38,
+    "text": "trading more size than you used to, or you start slacking and thinking you know it all",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 217.38,
+    "end": 221.58,
+    "text": "and stop learning, that is when the market catches up with you, and that is when the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.58,
+    "end": 225.26,
+    "text": "market takes money away from you.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.26,
+    "end": 228.02,
+    "text": "Then, not enough time spent on interpretation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.02,
+    "end": 229.7,
+    "text": "I see this all the time, guys.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.7,
+    "end": 234.02,
+    "text": "So many traders out there, they tend to look at the markets and just trade the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.43,
+    "end": 239.47,
+    "text": "but they never actually go back and look at the trades they did, look at the execution,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.47,
+    "end": 245.31,
+    "text": "look at how they did things, how they managed certain trades. It's only through managing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.19,
+    "end": 250.59,
+    "text": "or at least spending time on your interpretation and understanding of the markets are you going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.59,
+    "end": 258.35,
+    "text": "to fully develop yourself and more importantly become successful. They fight trends. 95% of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 258.35,
+    "end": 263.71,
+    "text": "people end up fighting trends. Now it's okay to be a counter trend, it's okay to fade a trend.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.11,
+    "end": 269.03,
+    "text": "But what it's not okay to do is when you've identified strength in a market or momentum",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 269.03,
+    "end": 272.09,
+    "text": "in a market, it's not okay to fade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 272.09,
+    "end": 278.13,
+    "text": "So remember, it's fine to go against the trend, but do it when you understand that you are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 278.13,
+    "end": 282.81,
+    "text": "against the trend so that you can manage yourself accordingly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.81,
+    "end": 284.05,
+    "text": "Take big losses.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 284.05,
+    "end": 289.37,
+    "text": "Again, as day traders, as professional traders, our number one job is money management.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.7,
+    "end": 294.54,
+    "text": "So, if we're not managing our money correctly, if we're losing 10-20% of our portfolio in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 294.54,
+    "end": 300.02,
+    "text": "any single day, we are never going to succeed in the long term because it's very unlikely",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 300.02,
+    "end": 305.5,
+    "text": "or very unusual for a trader to make 20% return on his portfolio in one day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 305.5,
+    "end": 308.66,
+    "text": "So remember, if you're not going to make 20% in one day, you shouldn't be losing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 308.66,
+    "end": 311.58,
+    "text": "20% in one day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 311.58,
+    "end": 318.14,
+    "text": "Again, a very important one and a lot of you would year this and you can almost",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 319.36,
+    "end": 324.42,
+    "text": "Complete dependence on tools right there's a lot of you out there that seem to think that you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 325.14,
+    "end": 330.94,
+    "text": "Having these tools is what gives you the edge it isn't guys the tools are merely reference points",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 330.98,
+    "end": 336.96,
+    "text": "Okay, a tool is merely telling you or adding value or to the information that you're already receiving",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.76,
+    "end": 340.08,
+    "text": "Remember markets are forward pricing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 340.29,
+    "end": 345.81,
+    "text": "Markets are always, you know, looking to reprice themselves based on new information coming in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 345.81,
+    "end": 349.57,
+    "text": "So a tool that's telling you, for instance, a moving average, that's telling you where the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 349.57,
+    "end": 355.25,
+    "text": "price was on average over the last 20 minutes or 20 timeframes, that is lagging information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 355.25,
+    "end": 359.57,
+    "text": "The market's fully priced that. So just remember, tools are reference points and they're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.57,
+    "end": 371.82,
+    "text": "not there to make important decisions on. The search for certainty. Very important.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 372.18,
+    "end": 377.22,
+    "text": "A lot of traders are always looking for exactness in trading. They're looking for complete certainty.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 377.22,
+    "end": 380.74,
+    "text": "The markets don't offer you certainty. The markets don't offer you guaranteed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 381.38,
+    "end": 386.26,
+    "text": "They offer you probability. Just knowing this notion, guys, just stepping away from the idea",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 386.26,
+    "end": 391.94,
+    "text": "that, you know, that this exactness that will almost open you up a little bit to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 391.94,
+    "end": 396.88,
+    "text": "trading a lot better. So just remember the markets only offer probabilities, not certainties.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 397.39,
+    "end": 403.91,
+    "text": "Then, market profiling is a holistic, objective, factual, contact-based understanding of market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 403.91,
+    "end": 404.91,
+    "text": "activity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 404.91,
+    "end": 405.91,
+    "text": "What does that mean?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 405.91,
+    "end": 408.84,
+    "text": "It means the market doesn't care what you think.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 408.84,
+    "end": 410.92,
+    "text": "The market doesn't care whether you're right or wrong.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 410.92,
+    "end": 413.06,
+    "text": "The market doesn't care how much money you got.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 413.06,
+    "end": 418.52,
+    "text": "It doesn't matter how intelligent you are, or how smart or tall or wonderful you are.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 418.52,
+    "end": 422.07,
+    "text": "The market is just purely price going up and down.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 422.07,
+    "end": 426.35,
+    "text": "If you remember this, guys, you're going to keep this job a lot more simple than",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 427.76,
+    "end": 433.92,
+    "text": "The number one reason why a lot of people fail is they overcomplicate the trading process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 433.92,
+    "end": 438.53,
+    "text": "Just remember, price can only go up and down.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 438.53,
+    "end": 441.57,
+    "text": "It's us that makes that up and down a lot more difficult.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 441.57,
+    "end": 444.52,
+    "text": "Keep it simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 444.52,
+    "end": 451.55,
+    "text": "To highlight, to be successful, you have to do what 95% of people do all the time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 451.55,
+    "end": 452.55,
+    "text": "Sorry.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 452.55,
+    "end": 457.98,
+    "text": "To be successful, you have to do what 95% of people don't do.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

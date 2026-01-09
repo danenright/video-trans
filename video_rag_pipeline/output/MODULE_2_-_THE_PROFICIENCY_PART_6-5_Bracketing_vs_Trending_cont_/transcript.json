@@ -1,0 +1,658 @@
+[
+  {
+    "start": 1.3,
+    "end": 8.3,
+    "text": "So the example we've used is basically in an upward auction we assess whether higher",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.3,
+    "end": 12.86,
+    "text": "prices are cutting off activity or creating increased interest.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.86,
+    "end": 17.5,
+    "text": "Now remember what I said to you, the objective of any market is to facilitate trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.5,
+    "end": 21.74,
+    "text": "So when prices move higher, is it bringing in new business?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.68,
+    "end": 31.32,
+    "text": "or is it getting responsive sellers into the market and that's the question you have to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.32,
+    "end": 36.42,
+    "text": "answer yourself because if it's facilitating new business there's a high probability that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.42,
+    "end": 41.38,
+    "text": "we're going to get strong initiative and momentum continuation, whereas if it's cutting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.38,
+    "end": 47.1,
+    "text": "off activity it's likely we're going to get some form of reversion type opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 47.1,
+    "end": 51.78,
+    "text": "So if high prices are increasing the bidding, so more buyers coming in, the risk of being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 53.74,
+    "end": 57.94,
+    "text": "If short, the odds of suffering a loss are greatly increased.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.94,
+    "end": 62.1,
+    "text": "So again, just coming back to that concept of just knowing whether or not we're bracketing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.1,
+    "end": 69.78,
+    "text": "or trending can increase or decrease the odds of success and obviously compounding potential",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.78,
+    "end": 70.78,
+    "text": "losses.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.78,
+    "end": 74.02,
+    "text": "So that's important to understand and that's why we spend quite a bit of time understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.02,
+    "end": 77.7,
+    "text": "the principle and the premise behind bracketing and trending markets.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.7,
+    "end": 79.78,
+    "text": "So what you've got is the example here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.78,
+    "end": 80.78,
+    "text": "It's a candlestick chart.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.34,
+    "end": 88.1,
+    "text": "and not necessarily a volume profile, it's because it's a good way to illustrate what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.1,
+    "end": 94.86,
+    "text": "we mean by looking at bracketing and trending. More importantly I can show you what the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.86,
+    "end": 99.96,
+    "text": "volatility will look like or the range expansion will look like when we do have a little",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.96,
+    "end": 104.1,
+    "text": "bit of initiative and then return back to bracketing. So looking at examples you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.97,
+    "end": 110.97,
+    "text": "Initially, the market spends in this little box, in this blue box, you can see the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.97,
+    "end": 115.25,
+    "text": "just almost pinging off a lower bound and an upper bound, a note.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.25,
+    "end": 116.73,
+    "text": "Not support, not resistance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.73,
+    "end": 122.13,
+    "text": "So what we get is we get buyers that respond at lower prices and they then initiate until",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.13,
+    "end": 124.97,
+    "text": "such a point as they run into responsive sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.09,
+    "end": 129.29,
+    "text": "When they run into those responsive sellers, they then back off, and we then start to see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.29,
+    "end": 134.19,
+    "text": "sellers initiating until they run into, again, responsive buyers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.19,
+    "end": 137.61,
+    "text": "So that's what we get initially, a little bit of two-way trade, and we keep pinging",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.61,
+    "end": 139.45,
+    "text": "between these two points.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.45,
+    "end": 144.33,
+    "text": "Then all of a sudden, you can see three relatively aggressive candles as we move",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.04,
+    "end": 151.96,
+    "text": "Now note, the first thing to understand is, look at the size of the three candles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.96,
+    "end": 155.6,
+    "text": "Now the reason I like to talk about candles in this respect, and I will show you this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.6,
+    "end": 160.64,
+    "text": "in profile examples later on, but look at the size and the length of those candles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.64,
+    "end": 165.52,
+    "text": "Note how they're the biggest three candles we have in this entire, you know, since",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.52,
+    "end": 167.44,
+    "text": "the beginning of this chart.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.44,
+    "end": 171.72,
+    "text": "Now that already shows us initiative, it shows us that we're seeing a little bit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.72,
+    "end": 175.28,
+    "text": "of control factor coming in on the short side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.86,
+    "end": 180.58,
+    "text": "Again, straight away, one of the clues you need to pick up, when a market moves outside",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.58,
+    "end": 186.28,
+    "text": "of a bracket, remember what we said, we need excessive force to get the market to move",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.28,
+    "end": 189.38,
+    "text": "away from what it deems fair value.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.38,
+    "end": 193.74,
+    "text": "And then as you can see, remember, we get the initiative from the sellers until such",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.74,
+    "end": 197.5,
+    "text": "a point as it runs into responsive buying.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.5,
+    "end": 201.86,
+    "text": "Once it runs into that responsive buying, sellers will then ease off the initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.95,
+    "end": 208.87,
+    "text": "Note then we move into our second bracketing example where the market just trades between",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.87,
+    "end": 209.63,
+    "text": "two points.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.73,
+    "end": 214.23,
+    "text": "Now what I want to point out is that when we do have initiative moves, and this is a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.23,
+    "end": 218.31,
+    "text": "little bit of a clue or a hint as to what we're going to be talking about in strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.31,
+    "end": 223.99,
+    "text": "later on, but when there is initiative, that initiative point or that break point becomes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.99,
+    "end": 229.87,
+    "text": "an extremely important pivot in the market that sellers or whoever initiated needs",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.87,
+    "end": 231.11,
+    "text": "to defend.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 231.11,
+    "end": 235.91,
+    "text": "So as you can see, the first time we retest that break point or that dotted line,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.02,
+    "end": 245.7,
+    "text": "respects it and we see not just buyers back off the initiation, but we see sellers stepping",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.7,
+    "end": 248.22,
+    "text": "in and initiating fresh shorts again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.22,
+    "end": 252.66,
+    "text": "So again, we can see the market enters a second bracketing example.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.36,
+    "end": 258.72,
+    "text": "Finally, once we take out that key pivot where the seller's initially initiated, no other",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 258.72,
+    "end": 262.04,
+    "text": "market then moves back into the original bracket.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 262.04,
+    "end": 266.88,
+    "text": "Now again, this is not something that's new, you're going to see this very very often,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 266.88,
+    "end": 269.28,
+    "text": "you know the market moving in and out of bracketing areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 269.28,
+    "end": 273.88,
+    "text": "The important thing to understand is when are we bracketing and when are we initiating",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.88,
+    "end": 274.48,
+    "text": "or trending.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 275.06,
+    "end": 280.74,
+    "text": "So again, we then have our third box, another example of bracketing between buyers and sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.74,
+    "end": 285.74,
+    "text": "Again, note how when we saw the initiation in the first box, that key level where that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 285.74,
+    "end": 291.46,
+    "text": "dotted line is now acts again as an area where we have responsive buying.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 291.46,
+    "end": 297.82,
+    "text": "So what was initially sort of almost called support then became resistance and has now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 297.82,
+    "end": 298.98,
+    "text": "become support again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 299.15,
+    "end": 304.83,
+    "text": "And then again, note how once we take out that area, we get initiative again from the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 304.83,
+    "end": 309.87,
+    "text": "sellers until they run into responsive buyers, etc, etc, etc.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 309.87,
+    "end": 313.75,
+    "text": "So this continues to occur over a period of time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 313.75,
+    "end": 318.83,
+    "text": "So what I want to point out and illustrate to you is that trade location, we're going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 318.83,
+    "end": 323.31,
+    "text": "to talk a lot about trade location in the coming slides, trade location defines",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 323.31,
+    "end": 324.31,
+    "text": "our risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 325.74,
+    "end": 331.82,
+    "text": "If we are looking for buy side trades, in that first box for instance, in the first",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 331.82,
+    "end": 337.02,
+    "text": "bracket, if we're looking for buy side trades towards the high, momentum trades, we're taking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.02,
+    "end": 338.86,
+    "text": "on a lot more risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 338.86,
+    "end": 342.3,
+    "text": "Equally, if we're looking for sell side trades towards the bottom of it, we are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 342.3,
+    "end": 343.9,
+    "text": "taking on high risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 344.8,
+    "end": 352.12,
+    "text": "Once we break and show the force behind the selling and the initiative, then there's a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 352.12,
+    "end": 357.32,
+    "text": "high probability opportunity to look for momentum plays or trending type plays.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 357.32,
+    "end": 359.0,
+    "text": "Just note the crucial difference there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.0,
+    "end": 364.68,
+    "text": "It's okay to interpret a market being sideways and having a potential to break, but it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 364.68,
+    "end": 369.68,
+    "text": "imperative that you don't preempt the break, but rather wait for those clues, wait",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

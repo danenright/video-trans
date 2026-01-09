@@ -1,0 +1,170 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0000_mid.jpg",
+    "time": 16.9,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0000_end.jpg",
+    "time": 33.599999999999994,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0001_start.jpg",
+    "time": 34.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0001_mid.jpg",
+    "time": 732.55,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0001_end.jpg",
+    "time": 1431.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0002_start.jpg",
+    "time": 1431.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0002_mid.jpg",
+    "time": 2011.8000000000002,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0002_end.jpg",
+    "time": 2592.1000000000004,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0003_start.jpg",
+    "time": 2592.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0003_mid.jpg",
+    "time": 2594.6000000000004,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0003_end.jpg",
+    "time": 2596.7000000000003,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0004_start.jpg",
+    "time": 2597.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0004_mid.jpg",
+    "time": 2686.75,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0004_end.jpg",
+    "time": 2776.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0005_start.jpg",
+    "time": 2776.7999999999997,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0005_mid.jpg",
+    "time": 2833.05,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0005_end.jpg",
+    "time": 2889.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0006_start.jpg",
+    "time": 2889.7,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0006_mid.jpg",
+    "time": 2900.45,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/UNIT_9___Strategy_4_Auction_Imbalances_1-6/frames/scene_0006_end.jpg",
+    "time": 2911.2000000000003,
+    "width": 1366,
+    "height": 768
+  }
+]

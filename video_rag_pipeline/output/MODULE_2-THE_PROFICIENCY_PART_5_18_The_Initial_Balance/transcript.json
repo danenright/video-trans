@@ -1,0 +1,586 @@
+[
+  {
+    "start": 1.2,
+    "end": 5.1,
+    "text": "Let's now talk about the initial balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.1,
+    "end": 8.26,
+    "text": "Before we get started with talking about the initial balance, I think I need to paint a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.26,
+    "end": 15.02,
+    "text": "little bit of a picture of maybe what the markets used to be like as they sort of became",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.02,
+    "end": 16.02,
+    "text": "electronic.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.02,
+    "end": 20.94,
+    "text": "Now the important thing to understand is that the markets never used to be almost",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.94,
+    "end": 21.94,
+    "text": "24 hours.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.94,
+    "end": 26.78,
+    "text": "Nowadays, you can pretty much trade around the clock in most markets.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.38,
+    "end": 32.94,
+    "text": "When the initial balance or the concept of the initial balance was first developed back",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.94,
+    "end": 39.78,
+    "text": "in the pit days, it used to include the first hour of trade when there were only, for instance,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.78,
+    "end": 41.94,
+    "text": "eight or nine hours of trade in a day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.74,
+    "end": 50.96,
+    "text": "It did play a far more important role back in the day, however, it still offers very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.96,
+    "end": 56.54,
+    "text": "early opportunity and information for us and that's why we need to understand the initial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.54,
+    "end": 62.27,
+    "text": "balance and some of the patterns we can recognize from the initial balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.27,
+    "end": 65.27,
+    "text": "So what is the initial balance?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.78,
+    "end": 67.18,
+    "text": "It's simply the pre-cash session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.18,
+    "end": 72.34,
+    "text": "Now we will go through our four markets that we trade or that we speak about throughout",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.34,
+    "end": 78.04,
+    "text": "the course, which are the E-Mini S&P 500, the German Buns, the WTI Oil and the Euro",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.04,
+    "end": 79.04,
+    "text": "Dollar FX.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.04,
+    "end": 83.22,
+    "text": "So I will show you four charts of what the initial balance will look like, but it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.3,
+    "end": 94.32,
+    "text": "take what I say as the most important thing. What's important is understanding the logic",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.32,
+    "end": 99.5,
+    "text": "and the principle behind why we look at the initial balance. So the initial balance is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.5,
+    "end": 106.54,
+    "text": "the pre-cash session. The session before the cash market opens is known as the initial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.77,
+    "end": 118.63,
+    "text": "The entire overnight session for US products and the overnight session of the FX and commodities markets now remember",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.91,
+    "end": 125.07,
+    "text": "Obviously European markets do shut the futures do shut so when they open the very next morning",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.39,
+    "end": 132.41,
+    "text": "That first hour of trade before or the trade before the cash markets come in that period is the initial balance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.79,
+    "end": 137.11,
+    "text": "With regards to US products they trade overnight now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.65,
+    "end": 143.63,
+    "text": "Obviously the cash markets are shut at that point, so that period from where the futures",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.63,
+    "end": 149.19,
+    "text": "trade up until the point that the cash begins to trade, that period is known as the initial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.19,
+    "end": 150.99,
+    "text": "balance period.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.99,
+    "end": 156.35,
+    "text": "And then obviously with regards to the FX or commodity markets, the same is because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.35,
+    "end": 162.03,
+    "text": "they 24 hours predominantly, the session from the overnight all the way up until",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.96,
+    "end": 173.24,
+    "text": "So, any future session that does not include the cash markets will be the initial balance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.24,
+    "end": 174.86,
+    "text": "or the overnight session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.86,
+    "end": 179.22,
+    "text": "So a lot of the time you'll hear professionals talking about the overnight session or the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.22,
+    "end": 180.34,
+    "text": "overnight market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.34,
+    "end": 183.7,
+    "text": "So that is the period when the cash is shut.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.49,
+    "end": 192.35,
+    "text": "The initial balance represents the earliest reference points on the day and that is why",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.35,
+    "end": 193.91,
+    "text": "it's closely watched.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.91,
+    "end": 196.99,
+    "text": "They create important early pivots for us.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.03,
+    "end": 203.83,
+    "text": "The initial balance is the first opportunity for traders to liquidate, hedge and initiate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.83,
+    "end": 206.03,
+    "text": "trade after the market has been shut.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.03,
+    "end": 210.99,
+    "text": "So again, this is more relevant to the European markets because they tend to shut for a lot",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.99,
+    "end": 211.99,
+    "text": "longer.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.99,
+    "end": 218.35,
+    "text": "So, you know, if they're shutting from 9pm at night till 7am the next morning, there's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.35,
+    "end": 225.67,
+    "text": "a good 10 hour period in which very little can be done to hedge or to take on or to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.63,
+    "end": 233.35,
+    "text": "and there's a lot of time to strategize and make early decisions. Again, that's why we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.35,
+    "end": 240.23,
+    "text": "tend to focus a lot more on initial balance strategies in the European session, but you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.23,
+    "end": 244.19,
+    "text": "do get some very important strategies in the US session too, and the commodities",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 244.19,
+    "end": 250.15,
+    "text": "and equities and the FX, and that is why we are actually teaching you about the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.15,
+    "end": 250.91,
+    "text": "initial balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.76,
+    "end": 257.92,
+    "text": "Then, initial balance, they do traditionally imply low volume, so what you would typically",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.92,
+    "end": 263.56,
+    "text": "find is low volume, lack of liquidity in the overnight or initial balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.56,
+    "end": 267.52,
+    "text": "Now this is a crucial element to understand because if this is the norm, if this is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 267.52,
+    "end": 273.36,
+    "text": "the tradition, if this is what we usually see, when we see something else, i.e. volatility",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.36,
+    "end": 278.88,
+    "text": "or volume, then you need to be switched on because it's giving you very early identifiers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.36,
+    "end": 281.76,
+    "text": "lies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 283.18,
+    "end": 288.1,
+    "text": "Again, the initial balance, relative strategies are highly effective.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 288.1,
+    "end": 293.78,
+    "text": "What we mean by that is, if you're used to the initial balance trading say 10,000 contracts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 293.78,
+    "end": 298.98,
+    "text": "on average every single morning, that morning that you see 30 or 40,000 contracts, you need",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 298.98,
+    "end": 301.18,
+    "text": "to be switched on because something has changed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 301.18,
+    "end": 306.46,
+    "text": "Their relative indicators are telling us that something has changed, there's early action",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 306.46,
+    "end": 307.46,
+    "text": "in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 307.46,
+    "end": 309.56,
+    "text": "The same can be said for the range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.78,
+    "end": 317.66,
+    "text": "there we've got the volume and we note the average volume, so when it spikes above the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.66,
+    "end": 321.1,
+    "text": "average volume we know there's potential for opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.1,
+    "end": 322.78,
+    "text": "And it's the same to be said for the range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 322.78,
+    "end": 327.9,
+    "text": "If you're used to a 10 price range every single morning or in the overnight session,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 327.9,
+    "end": 333.06,
+    "text": "the minute it does 20 or 30 prices, again that represents opportunity that you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 333.06,
+    "end": 334.22,
+    "text": "take advantage of.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 335.6,
+    "end": 340.6,
+    "text": "And then the initial balance represents an early identifier.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 340.6,
+    "end": 342.72,
+    "text": "That is the reason we pay attention to it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 342.72,
+    "end": 349.2,
+    "text": "It gives us early bit of information that we can then plot and set our path for the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 349.2,
+    "end": 349.9,
+    "text": "rest of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

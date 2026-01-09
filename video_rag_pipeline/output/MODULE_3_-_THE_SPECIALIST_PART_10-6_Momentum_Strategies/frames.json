@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_10-6_Momentum_Strategies/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_10-6_Momentum_Strategies/frames/scene_0000_mid.jpg",
+    "time": 128.06,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_10-6_Momentum_Strategies/frames/scene_0000_end.jpg",
+    "time": 255.92000000000002,
+    "width": 1920,
+    "height": 1080
+  }
+]

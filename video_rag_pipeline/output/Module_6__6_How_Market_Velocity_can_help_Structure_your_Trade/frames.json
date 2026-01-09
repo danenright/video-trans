@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_6__6_How_Market_Velocity_can_help_Structure_your_Trade/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_6__6_How_Market_Velocity_can_help_Structure_your_Trade/frames/scene_0000_mid.jpg",
+    "time": 173.3,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_6__6_How_Market_Velocity_can_help_Structure_your_Trade/frames/scene_0000_end.jpg",
+    "time": 346.40000000000003,
+    "width": 1920,
+    "height": 1080
+  }
+]

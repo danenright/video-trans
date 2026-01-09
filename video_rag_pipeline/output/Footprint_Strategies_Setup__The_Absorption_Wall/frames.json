@@ -1,0 +1,98 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0000_mid.jpg",
+    "time": 163.3125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0000_end.jpg",
+    "time": 326.425,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0001_start.jpg",
+    "time": 326.825,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0001_mid.jpg",
+    "time": 331.5625,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0001_end.jpg",
+    "time": 336.3,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0002_start.jpg",
+    "time": 336.7,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0002_mid.jpg",
+    "time": 1068.3125,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0002_end.jpg",
+    "time": 1799.925,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0003_start.jpg",
+    "time": 1800.325,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0003_mid.jpg",
+    "time": 1809.75,
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Footprint_Strategies_Setup__The_Absorption_Wall/frames/scene_0003_end.jpg",
+    "time": 1819.175,
+    "width": 1600,
+    "height": 900
+  }
+]

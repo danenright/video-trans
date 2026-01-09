@@ -1,0 +1,730 @@
+[
+  {
+    "start": 1.49,
+    "end": 9.94,
+    "text": "Welcome to part 12, strategy 11, the final in our series of 11 unique trading strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.94,
+    "end": 15.38,
+    "text": "Before we move on to the actual strategy, do bear in mind however this is a reversal",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.38,
+    "end": 16.66,
+    "text": "strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.66,
+    "end": 21.94,
+    "text": "By this definition, we are going counter to the prevailing trend.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.94,
+    "end": 26.66,
+    "text": "Now remember as we spoke about in the previous strategy, it's important that we always",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.48,
+    "end": 37.84,
+    "text": "Also of key importance is that we always try to attempt to perfect our timing and we do",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.84,
+    "end": 45.29,
+    "text": "this as we did in the previous strategy by having a key control identifier.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.29,
+    "end": 50.17,
+    "text": "Now again I will show you what this control identifier is and how we utilize it to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.17,
+    "end": 52.54,
+    "text": "perfect entry.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.54,
+    "end": 55.09,
+    "text": "So on to the trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.24,
+    "end": 66.84,
+    "text": "Now, as you can see in the example provided, a tail is nothing more than a TPO or a single",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.84,
+    "end": 71.16,
+    "text": "TPO that comes off either the high or the low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.16,
+    "end": 76.6,
+    "text": "Now keep in mind this tail can also be hidden in nature, so don't forget, when a tail",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.6,
+    "end": 83.28,
+    "text": "is hidden it's not as obvious but still has the same sort of principle as a regular",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.28,
+    "end": 85.14,
+    "text": "tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.73,
+    "end": 93.27,
+    "text": "in determining the potential for opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.27,
+    "end": 99.37,
+    "text": "As a basic rule of thumb, the larger the tail, the bigger the reward for opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.37,
+    "end": 105.05,
+    "text": "The smaller the tail does not imply there's less opportunity, but the probability of a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.05,
+    "end": 107.89,
+    "text": "large winner is less likely.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.89,
+    "end": 112.89,
+    "text": "So that's the key characteristic to understand with regards to the tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.46,
+    "end": 118.78,
+    "text": "Now, also don't forget, and this is not so much a trade strategy we will develop at this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.78,
+    "end": 125.86,
+    "text": "point, but another trade strategy is potentially once we take out that tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.86,
+    "end": 131.5,
+    "text": "Remember, tails become very key reference points in the market, and by that definition",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.5,
+    "end": 138.02,
+    "text": "we do tend to see a whole host of stopouts above and below tails.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.02,
+    "end": 141.18,
+    "text": "Let's take a look now at the two types of tails you can expect to see in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.31,
+    "end": 150.23,
+    "text": "Don't forget, the size of the tail is important, but more important is the type of tail that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.23,
+    "end": 151.36,
+    "text": "we see.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.36,
+    "end": 158.98,
+    "text": "So the first type of tail you're going to see is the symmetrical tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.98,
+    "end": 162.3,
+    "text": "This tail looks a little bit like this.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.3,
+    "end": 168.26,
+    "text": "Now what creates the symmetry is we tend to see an aggressive move up towards an",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.26,
+    "end": 169.42,
+    "text": "extreme.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.14,
+    "end": 179.1,
+    "text": "This initiative and response of selling together",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.1,
+    "end": 181.7,
+    "text": "takes the market quite aggressively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.7,
+    "end": 184.51,
+    "text": "in the opposite direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 184.51,
+    "end": 186.67,
+    "text": "The second type of tail you can expect to see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.67,
+    "end": 190.18,
+    "text": "is a non-symmetrical tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.18,
+    "end": 193.38,
+    "text": "As the name suggests, this is a tail",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.38,
+    "end": 196.76,
+    "text": "that we come up in a relatively straight manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.76,
+    "end": 199.54,
+    "text": "The market then doesn't reverse",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.54,
+    "end": 201.86,
+    "text": "in an equal and opposite type manner,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.86,
+    "end": 205.8,
+    "text": "but rather sort of grinds in the opposite direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.92,
+    "end": 211.68,
+    "text": "Now, the reason we differentiate between these two types of tails is because each tail will",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.68,
+    "end": 216.08,
+    "text": "have a slightly different execution methodology.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.08,
+    "end": 221.72,
+    "text": "The first type, the symmetrical, we would need to be relatively more aggressive in terms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.72,
+    "end": 224.24,
+    "text": "of our execution and entry.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 224.24,
+    "end": 229.56,
+    "text": "So once we see the market respond aggressively off an extreme, we need to be looking to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 232.54,
+    "end": 237.84,
+    "text": "Whereas in a non-symmetrical, we can afford to be a little more passive on our entry and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.84,
+    "end": 242.81,
+    "text": "rather sell into any kind of a counter move.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 242.81,
+    "end": 246.81,
+    "text": "Now before we actually take a look at some of the examples of the tails you can expect",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 252.18,
+    "end": 257.56,
+    "text": "Now, the single most important rule in order to achieve the success of the strategy, as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.56,
+    "end": 265.38,
+    "text": "well as the control identifier, is we need the candle to confirm the tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 265.38,
+    "end": 270.5,
+    "text": "In other words, a tail is only confirmed once it's actually closed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 270.5,
+    "end": 272.38,
+    "text": "So what do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 272.38,
+    "end": 277.82,
+    "text": "If we see, as in the example, we see the Y-print come up the page, moves aggressively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.87,
+    "end": 289.23,
+    "text": "This is very suggestive of a reversal type candle, but only once that close has occurred",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.23,
+    "end": 298.22,
+    "text": "can we then look to execute either in a symmetrical tail manner or in a non-symmetrical tail manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 298.22,
+    "end": 303.02,
+    "text": "Now, once the candle's closed, as you can see in this example, we see the Y-print",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 303.02,
+    "end": 309.02,
+    "text": "come up the page, it then closes and we can then execute our short side trades.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 309.2,
+    "end": 314.58,
+    "text": "With this in mind, let's take a look at the execution methodology.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 314.58,
+    "end": 320.06,
+    "text": "Once the candle is closed, we merely look to place in this example our short side trades",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 320.06,
+    "end": 324.93,
+    "text": "with our stop originally or initially above the high.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 324.93,
+    "end": 329.65,
+    "text": "Now important to understand is, when we have a symmetrical type tail, we can afford",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 329.65,
+    "end": 331.05,
+    "text": "to trail the stop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 331.05,
+    "end": 332.05,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.14,
+    "end": 344.14,
+    "text": "In the other example where we have non-symmetrical, we need to keep the stop in its original position",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 344.14,
+    "end": 350.76,
+    "text": "until such a point that the market shows us a confirmed turning point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 350.76,
+    "end": 359.37,
+    "text": "Let's now move on and have a look at the different types of tails in an example.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.37,
+    "end": 365.25,
+    "text": "As you can see in the examples provided, the first example we have two nicely graphically",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 365.25,
+    "end": 367.09,
+    "text": "depicted tails.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 368.69,
+    "end": 371.05,
+    "text": "and the Q's at the lows.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 371.05,
+    "end": 376.77,
+    "text": "Now again, remember, we said the size of the tail is relatively important, but also the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 376.77,
+    "end": 379.29,
+    "text": "type of the tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 379.29,
+    "end": 387.32,
+    "text": "In this example, we can see we have got a non-symmetrical type tail, meaning that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 387.32,
+    "end": 394.1,
+    "text": "once the marker does turn, whilst it does effectively reverse, we do see a much slower,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 396.26,
+    "end": 402.78,
+    "text": "Again, we enter only once we are confirmed a tail, we place our stop above the high or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 402.78,
+    "end": 409.3,
+    "text": "the low, and we look to trade this trade back in towards the distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 409.3,
+    "end": 417.74,
+    "text": "In the second example, you can see not just what an aggressive symmetrical tail looks",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 421.49,
+    "end": 427.89,
+    "text": "So as you can see, this tail is hidden because, well traditionally, a non-hidden tail is one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 427.89,
+    "end": 429.85,
+    "text": "where we can see the single prints.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 429.85,
+    "end": 435.89,
+    "text": "In this example, we can see the Z prints move higher, but then the very next candle, the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.89,
+    "end": 439.11,
+    "text": "A prints aggressively reverse.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 439.11,
+    "end": 444.19,
+    "text": "Now whilst this isn't visually a tail, it is a hidden tail as we still have the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 448.24,
+    "end": 453.64,
+    "text": "Key to understanding when we do have this symmetrical reversal tail is the aggressive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 453.64,
+    "end": 459.72,
+    "text": "nature at which we have to enter, which we can see in the third example.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 459.72,
+    "end": 465.12,
+    "text": "Notice how the Z print moves quite aggressively higher, it closes, and the A print reverses",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 465.12,
+    "end": 468.72,
+    "text": "in the opposite direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 468.72,
+    "end": 473.36,
+    "text": "Once that Z print's closed and the A print opens, we then look for short side trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 476.78,
+    "end": 483.12,
+    "text": "Note the price action response on the next candle, quite volatile relative to the rest",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 483.12,
+    "end": 486.08,
+    "text": "of the candles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 486.08,
+    "end": 494.08,
+    "text": "This then concludes our examples of our various types of tail reversal examples we can see.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 494.08,
+    "end": 499.04,
+    "text": "Let's now move on to the replay series and have a look at how this tail reversal can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

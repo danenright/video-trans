@@ -1,0 +1,962 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0000_mid.jpg",
+    "time": 4.800338993690951,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0000_end.jpg",
+    "time": 9.400677987381902,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0001_start.jpg",
+    "time": 9.800677987381901,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0001_mid.jpg",
+    "time": 13.420947769860952,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0001_end.jpg",
+    "time": 17.04121755234,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0002_start.jpg",
+    "time": 17.44121755234,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0002_mid.jpg",
+    "time": 40.642870146583384,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0002_end.jpg",
+    "time": 63.84452274082676,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0003_start.jpg",
+    "time": 64.24452274082677,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0003_mid.jpg",
+    "time": 66.18467387551398,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0003_end.jpg",
+    "time": 68.12482501020119,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0004_start.jpg",
+    "time": 68.5248250102012,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0004_mid.jpg",
+    "time": 97.30687168461031,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0004_end.jpg",
+    "time": 126.08891835901943,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0005_start.jpg",
+    "time": 126.48891835901944,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0005_mid.jpg",
+    "time": 128.78909491823347,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0005_end.jpg",
+    "time": 131.0892714774475,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0006_start.jpg",
+    "time": 131.4892714774475,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0006_mid.jpg",
+    "time": 146.5703506073637,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0006_end.jpg",
+    "time": 161.6514297372799,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0007_start.jpg",
+    "time": 162.05142973727988,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0007_mid.jpg",
+    "time": 163.6715582723877,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0007_end.jpg",
+    "time": 165.29168680749555,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0008_start.jpg",
+    "time": 165.69168680749553,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0008_mid.jpg",
+    "time": 186.47316849241975,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0008_end.jpg",
+    "time": 207.25465017734393,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0009_start.jpg",
+    "time": 207.6546501773439,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0009_mid.jpg",
+    "time": 209.5547984870837,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0009_end.jpg",
+    "time": 211.45494679682352,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0010_start.jpg",
+    "time": 211.8549467968235,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0010_mid.jpg",
+    "time": 228.51613751216297,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0010_end.jpg",
+    "time": 245.17732822750244,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0011_start.jpg",
+    "time": 245.57732822750242,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0011_mid.jpg",
+    "time": 247.47747653724224,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0011_end.jpg",
+    "time": 249.37762484698203,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0012_start.jpg",
+    "time": 249.777624846982,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0012_mid.jpg",
+    "time": 293.6607379390439,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 12,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0012_end.jpg",
+    "time": 337.5438510311058,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 13,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0013_start.jpg",
+    "time": 337.9438510311058,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 13,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0013_mid.jpg",
+    "time": 339.50397532879254,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 13,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0013_end.jpg",
+    "time": 341.0640996264792,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 14,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0014_start.jpg",
+    "time": 341.4640996264792,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 14,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0014_mid.jpg",
+    "time": 362.94563074798333,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 14,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0014_end.jpg",
+    "time": 384.42716186948746,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 15,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0015_start.jpg",
+    "time": 384.82716186948744,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 15,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0015_mid.jpg",
+    "time": 387.26734831601743,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 15,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0015_end.jpg",
+    "time": 389.7075347625475,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 16,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0016_start.jpg",
+    "time": 390.10753476254746,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 16,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0016_mid.jpg",
+    "time": 422.9898709940676,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 16,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0016_end.jpg",
+    "time": 455.8722072255878,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 17,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0017_start.jpg",
+    "time": 456.27220722558775,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 17,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0017_mid.jpg",
+    "time": 458.21235836027495,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 17,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0017_end.jpg",
+    "time": 460.1525094949622,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 18,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0018_start.jpg",
+    "time": 460.5525094949622,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 18,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0018_mid.jpg",
+    "time": 515.7364206346715,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 18,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0018_end.jpg",
+    "time": 570.9203317743809,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 19,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0019_start.jpg",
+    "time": 571.320331774381,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 19,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0019_mid.jpg",
+    "time": 573.2604829090681,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 19,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0019_end.jpg",
+    "time": 575.2006340437553,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 20,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0020_start.jpg",
+    "time": 575.6006340437553,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 20,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0020_mid.jpg",
+    "time": 609.0030069995919,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 20,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0020_end.jpg",
+    "time": 642.4053799554285,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 21,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0021_start.jpg",
+    "time": 642.8053799554286,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 21,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0021_mid.jpg",
+    "time": 645.6455946514329,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 21,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0021_end.jpg",
+    "time": 648.4858093474371,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 22,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0022_start.jpg",
+    "time": 648.8858093474372,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 22,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0022_mid.jpg",
+    "time": 676.0077387865281,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 22,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0022_end.jpg",
+    "time": 703.1296682256191,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 23,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0023_start.jpg",
+    "time": 703.5296682256192,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 23,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0023_mid.jpg",
+    "time": 706.6299012837817,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 23,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0023_end.jpg",
+    "time": 709.7301343419442,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 24,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0024_start.jpg",
+    "time": 710.1301343419443,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 24,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0024_mid.jpg",
+    "time": 742.6524451489375,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 24,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0024_end.jpg",
+    "time": 775.1747559559308,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 25,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0025_start.jpg",
+    "time": 775.5747559559309,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 25,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0025_mid.jpg",
+    "time": 778.4149706519352,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 25,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0025_end.jpg",
+    "time": 781.2551853479393,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 26,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0026_start.jpg",
+    "time": 781.6551853479394,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 26,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0026_mid.jpg",
+    "time": 813.9374792052481,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 26,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0026_end.jpg",
+    "time": 846.2197730625569,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 27,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0027_start.jpg",
+    "time": 846.619773062557,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 27,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0027_mid.jpg",
+    "time": 848.7199354970338,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 27,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0027_end.jpg",
+    "time": 850.8200979315106,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 28,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0028_start.jpg",
+    "time": 851.2200979315107,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 28,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0028_mid.jpg",
+    "time": 871.7815640792242,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 28,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0028_end.jpg",
+    "time": 892.3430302269375,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 29,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0029_start.jpg",
+    "time": 892.7430302269375,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 29,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0029_mid.jpg",
+    "time": 894.8431926614144,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 29,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0029_end.jpg",
+    "time": 896.9433550958912,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 30,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0030_start.jpg",
+    "time": 897.3433550958913,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 30,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0030_mid.jpg",
+    "time": 962.7279865971939,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 30,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0030_end.jpg",
+    "time": 1028.1126180984966,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 31,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0031_start.jpg",
+    "time": 1028.5126180984967,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 31,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0031_mid.jpg",
+    "time": 1031.1528186697637,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 31,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0031_end.jpg",
+    "time": 1033.7930192410308,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 32,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0032_start.jpg",
+    "time": 1034.193019241031,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 32,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0032_mid.jpg",
+    "time": 1077.9761252707242,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 32,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0032_end.jpg",
+    "time": 1121.7592313004175,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 33,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0033_start.jpg",
+    "time": 1122.1592313004176,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 33,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0033_mid.jpg",
+    "time": 1124.7994318716846,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 33,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0033_end.jpg",
+    "time": 1127.4396324429517,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 34,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0034_start.jpg",
+    "time": 1127.8396324429518,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 34,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0034_mid.jpg",
+    "time": 1153.3214460591985,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 34,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0034_end.jpg",
+    "time": 1178.803259675445,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 35,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0035_start.jpg",
+    "time": 1179.203259675445,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 35,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0035_mid.jpg",
+    "time": 1181.843460246712,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 35,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0035_end.jpg",
+    "time": 1184.4836608179792,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 36,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0036_start.jpg",
+    "time": 1184.8836608179793,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 36,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0036_mid.jpg",
+    "time": 1210.3654744342257,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 36,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0036_end.jpg",
+    "time": 1235.8472880504723,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 37,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0037_start.jpg",
+    "time": 1236.2472880504724,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 37,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0037_mid.jpg",
+    "time": 1238.1674377726858,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 37,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0037_end.jpg",
+    "time": 1240.0875874948995,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 38,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0038_start.jpg",
+    "time": 1240.4875874948996,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 38,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0038_mid.jpg",
+    "time": 1254.4485875262878,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 38,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0038_end.jpg",
+    "time": 1268.409587557676,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 39,
+    "kind": "start",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0039_start.jpg",
+    "time": 1268.8095875576762,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 39,
+    "kind": "mid",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0039_mid.jpg",
+    "time": 1271.5097923663643,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 39,
+    "kind": "end",
+    "path": "output/Module_16___Interviews_with_Elite_Order_Flow_Traders/frames/scene_0039_end.jpg",
+    "time": 1274.2099971750526,
+    "width": 1920,
+    "height": 1080
+  }
+]

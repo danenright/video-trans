@@ -1,0 +1,338 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0000_mid.jpg",
+    "time": 3.0,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0000_end.jpg",
+    "time": 5.8,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0001_start.jpg",
+    "time": 6.2,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0001_mid.jpg",
+    "time": 8.625,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0001_end.jpg",
+    "time": 11.05,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0002_start.jpg",
+    "time": 11.45,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0002_mid.jpg",
+    "time": 13.895833333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0002_end.jpg",
+    "time": 16.34166666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0003_start.jpg",
+    "time": 16.741666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0003_mid.jpg",
+    "time": 19.1875,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0003_end.jpg",
+    "time": 21.633333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0004_start.jpg",
+    "time": 22.03333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0004_mid.jpg",
+    "time": 24.458333333333332,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0004_end.jpg",
+    "time": 26.883333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0005_start.jpg",
+    "time": 27.28333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0005_mid.jpg",
+    "time": 31.333333333333336,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0005_end.jpg",
+    "time": 35.38333333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0006_start.jpg",
+    "time": 35.78333333333334,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0006_mid.jpg",
+    "time": 54.75,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0006_end.jpg",
+    "time": 73.71666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0007_start.jpg",
+    "time": 74.11666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0007_mid.jpg",
+    "time": 76.41666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0007_end.jpg",
+    "time": 78.71666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0008_start.jpg",
+    "time": 79.11666666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0008_mid.jpg",
+    "time": 91.0625,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0008_end.jpg",
+    "time": 103.00833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 9,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0009_start.jpg",
+    "time": 103.40833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 9,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0009_mid.jpg",
+    "time": 105.70833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 9,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0009_end.jpg",
+    "time": 108.00833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 10,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0010_start.jpg",
+    "time": 108.40833333333333,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 10,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0010_mid.jpg",
+    "time": 120.97916666666666,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 10,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0010_end.jpg",
+    "time": 133.55,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 11,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0011_start.jpg",
+    "time": 133.95,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 11,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0011_mid.jpg",
+    "time": 136.25,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 11,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0011_end.jpg",
+    "time": 138.55,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 12,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0012_start.jpg",
+    "time": 138.95,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 12,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0012_mid.jpg",
+    "time": 155.39583333333331,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 12,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0012_end.jpg",
+    "time": 171.84166666666667,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 13,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0013_start.jpg",
+    "time": 172.24166666666665,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 13,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0013_mid.jpg",
+    "time": 174.75,
+    "width": 960,
+    "height": 524
+  },
+  {
+    "scene_idx": 13,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-13_Edge_Video/frames/scene_0013_end.jpg",
+    "time": 177.25833333333335,
+    "width": 960,
+    "height": 524
+  }
+]

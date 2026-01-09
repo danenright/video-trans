@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_7-9/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_7-9/frames/scene_0000_mid.jpg",
+    "time": 12.012012012012013,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_7-9/frames/scene_0000_end.jpg",
+    "time": 23.824024024024027,
+    "width": 1366,
+    "height": 768
+  }
+]

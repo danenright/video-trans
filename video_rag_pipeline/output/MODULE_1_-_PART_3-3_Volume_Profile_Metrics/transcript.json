@@ -1,0 +1,410 @@
+[
+  {
+    "start": 1.26,
+    "end": 4.06,
+    "text": "Next, Volume Profile Metrics.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.06,
+    "end": 9.06,
+    "text": "Here is an exhaustive list of the volume profile metrics you can expect to see not just in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.06,
+    "end": 13.84,
+    "text": "this module, but across all the modules as we go over this course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.84,
+    "end": 19.52,
+    "text": "Do take note, whilst this list seems quite extensive and confusing, we will start to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.52,
+    "end": 23.52,
+    "text": "break them down individually over the next couple of slides.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.52,
+    "end": 27.16,
+    "text": "So what are the key identifiable volume profile metrics?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.74,
+    "end": 36.1,
+    "text": "and the low. As the name suggests, this is where the market opens on the day, where it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.1,
+    "end": 41.26,
+    "text": "closes on the day, the highest price traded on the day and the lowest price traded on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.26,
+    "end": 48.58,
+    "text": "the day. The next key identifiable metric is the daily range. That is the high minus",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.58,
+    "end": 55.4,
+    "text": "the low. Then we have the initial balance range. This is the first hour of trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.36,
+    "end": 64.68,
+    "text": "This is usually depicted in traditional European markets as the K and the L TPO.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.68,
+    "end": 67.88,
+    "text": "TPO stands for Time Price Opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.88,
+    "end": 72.28,
+    "text": "Again, we will talk about this further in further slides to come.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.28,
+    "end": 75.42,
+    "text": "Then we have the cash range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.42,
+    "end": 79.74,
+    "text": "Now the cash range is typically the hour after the initial balance,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.74,
+    "end": 83.02,
+    "text": "so it's the second hour of trading in the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.15,
+    "end": 88.15,
+    "text": "This traditionally gets depicted with an M and an N TPO print.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.15,
+    "end": 93.65,
+    "text": "Note, however, that it doesn't have to be an M and an N, it can be any letter.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.65,
+    "end": 98.65,
+    "text": "We are just, for ease of understanding, we're going to use M and N.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.65,
+    "end": 103.94,
+    "text": "We then have the volume value area plus traditional value areas.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.94,
+    "end": 112.94,
+    "text": "The volume value area is simply the area of the distribution where 70% of the day's volume is transacted at.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.39,
+    "end": 120.07,
+    "text": "In terms of a traditional value error, this is just 70% of the time of the day where the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.07,
+    "end": 123.56,
+    "text": "market transacts at.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.56,
+    "end": 125.7,
+    "text": "Then the value area range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.7,
+    "end": 130.48,
+    "text": "This is simply the distance between the high and the low of the value area of the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.48,
+    "end": 132.4,
+    "text": "day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.05,
+    "end": 142.27,
+    "text": "Single prints are merely a single TPO or a single time price opportunity that exists within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.27,
+    "end": 143.93,
+    "text": "a daily profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.93,
+    "end": 148.65,
+    "text": "Again, we will talk more about this down the line, so do not worry too much if you don't",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.65,
+    "end": 150.37,
+    "text": "understand this at the moment.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.37,
+    "end": 155.81,
+    "text": "We are merely just going through the various identifiable metrics within volume profiles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.06,
+    "end": 161.66,
+    "text": "We then have low volume nodes and high volume nodes. Low volume nodes is where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.66,
+    "end": 167.1,
+    "text": "little or very little volume trades over a period of a day, where high",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.1,
+    "end": 172.52,
+    "text": "volume nodes is where a high amount of volume is transacted over a day. We",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.52,
+    "end": 177.28,
+    "text": "then have tails. These can be buying tails or selling tails. Buying tails",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.28,
+    "end": 182.36,
+    "text": "and selling tails need to be confirmed before it's a tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.94,
+    "end": 186.14,
+    "text": "The time of the day for buying or selling a tail is quite important as well as the cause",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.14,
+    "end": 187.14,
+    "text": "of the tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.14,
+    "end": 192.63,
+    "text": "Again, we will understand why this is important as we move further along.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.63,
+    "end": 196.09,
+    "text": "We then have the POC, also known as the point of control.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.09,
+    "end": 199.71,
+    "text": "We have the VPOC, which is the volume point of control.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.71,
+    "end": 206.83,
+    "text": "The difference is the point of control takes into account only the time price opportunities,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.34,
+    "end": 213.74,
+    "text": "We then have the profile shape.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.74,
+    "end": 215.92,
+    "text": "What is the shape of the distribution?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.92,
+    "end": 220.34,
+    "text": "Now this can be a number of different shapes and again we will talk about this extensively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.34,
+    "end": 221.34,
+    "text": "down the line.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.34,
+    "end": 226.18,
+    "text": "We're merely just identifying what are the key metrics found within a traditional volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.18,
+    "end": 227.94,
+    "text": "profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.94,
+    "end": 230.34,
+    "text": "And last but not least, the volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 230.34,
+    "end": 236.46,
+    "text": "The volume is merely how much or how many contracts are transacted at each price over",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.86,
+    "end": 244.86,
+    "text": "Let's now move on and break down and have a look at a basic volume profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

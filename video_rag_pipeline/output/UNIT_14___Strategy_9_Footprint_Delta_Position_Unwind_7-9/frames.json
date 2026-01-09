@@ -1,0 +1,98 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0000_mid.jpg",
+    "time": 8.83333113576807,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0000_end.jpg",
+    "time": 17.46666227153614,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0001_start.jpg",
+    "time": 17.86666227153614,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0001_mid.jpg",
+    "time": 1165.9330432713039,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0001_end.jpg",
+    "time": 2313.999424271072,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0002_start.jpg",
+    "time": 2314.3994242710714,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0002_mid.jpg",
+    "time": 3119.332557302551,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0002_end.jpg",
+    "time": 3924.2656903340303,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0003_start.jpg",
+    "time": 3924.66569033403,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0003_mid.jpg",
+    "time": 3972.032345167015,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_7-9/frames/scene_0003_end.jpg",
+    "time": 4019.3990000000003,
+    "width": 1366,
+    "height": 768
+  }
+]

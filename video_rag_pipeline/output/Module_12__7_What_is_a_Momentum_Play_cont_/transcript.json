@@ -1,0 +1,770 @@
+[
+  {
+    "start": 1.49,
+    "end": 8.49,
+    "text": "Okay, so what is momentum play? Now there are two main states of the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.0,
+    "end": 13.92,
+    "text": "Firstly, the congested state typically occurs when a market is dormant and is characterised",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.92,
+    "end": 15.48,
+    "text": "by the following.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.48,
+    "end": 19.36,
+    "text": "Markets are in congested zones for 70% of the time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.36,
+    "end": 24.4,
+    "text": "Just so you know, most of the time markets are really caught up in a range, and that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 24.4,
+    "end": 28.96,
+    "text": "another name for congested periods, they are caught up in a range and really locked",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.96,
+    "end": 33.72,
+    "text": "in a tight period where they're oscillating in value.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.72,
+    "end": 36.68,
+    "text": "Another expression that you can use and if you participate in the market profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.39,
+    "end": 41.23,
+    "text": "understand value trading, you really start understanding when the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.23,
+    "end": 48.29,
+    "text": "shifts from one value to another value through the price discovery mechanism.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.77,
+    "end": 53.17,
+    "text": "They're also defined by narrow ranges as we've mentioned low volume. So the activity within that range",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 53.17,
+    "end": 58.91,
+    "text": "It's a really slow and lethargic and the best types of price action plays that you play in those",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.93,
+    "end": 63.13,
+    "text": "Type of a lot of range bound trading or there's you'll get the flippers in the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.13,
+    "end": 67.93,
+    "text": "You'll get a lot of a false little breaks or false little moves a lot of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.24,
+    "end": 73.68,
+    "text": "You know prices that blip around and the type of activity where you just engage in more scalping",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.08,
+    "end": 79.76,
+    "text": "Activity as the auctioning activity is very very low now. There's also defined by low liquidity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.08,
+    "end": 83.2,
+    "text": "So the order book there's not much going through on the order book",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.52,
+    "end": 87.94,
+    "text": "Uh, you know a lot of the prices are are not really genuine either",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.3,
+    "end": 94.9,
+    "text": "And as we mentioned, this is range-bound activity, and there is also lots of passive activity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.9,
+    "end": 99.1,
+    "text": "So these are really the main characteristics of a congested market,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.1,
+    "end": 104.2,
+    "text": "just before it starts moving out of congestion into a new breakout zone.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.2,
+    "end": 108.1,
+    "text": "And you'll observe if you watch your ladder thousands and thousands of hours,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.1,
+    "end": 113.1,
+    "text": "you'll start noticing the little subtleties in the price personality change when it shifts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.18,
+    "end": 116.38,
+    "text": "Just before it shifts from congestion to expansion",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.38,
+    "end": 118.66,
+    "text": "or through that new momentum phase",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.66,
+    "end": 120.58,
+    "text": "as it goes into price discovery mode,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.58,
+    "end": 122.42,
+    "text": "you'll notice that as little subtleties,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.42,
+    "end": 124.7,
+    "text": "a little bit of volume coming into the market,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.7,
+    "end": 126.56,
+    "text": "a little bit of a change of different types",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.56,
+    "end": 129.22,
+    "text": "of auctioning activity and speed on the ladder.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.22,
+    "end": 130.58,
+    "text": "And if you're already clued in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.58,
+    "end": 131.94,
+    "text": "and dialed into your ladder,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.94,
+    "end": 134.32,
+    "text": "you'll be able to pick up those clues quickly enough",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.32,
+    "end": 136.62,
+    "text": "in order to execute with effective size",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.62,
+    "end": 138.32,
+    "text": "just before the breakout occurs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.32,
+    "end": 140.94,
+    "text": "So you always have to keep very observant",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.94,
+    "end": 142.44,
+    "text": "in those very quiet periods.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.5,
+    "end": 144.34,
+    "text": "as those quiet periods really mature,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.34,
+    "end": 146.72,
+    "text": "and in each of your individual markets,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.72,
+    "end": 148.78,
+    "text": "you'll start really determining",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.78,
+    "end": 151.28,
+    "text": "of how long a maturity period is.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.28,
+    "end": 153.96,
+    "text": "If a market's been maturing in the hourly charts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.96,
+    "end": 156.54,
+    "text": "for five hours in a 15 tick range",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.54,
+    "end": 158.82,
+    "text": "on your bond market or.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.99,
+    "end": 165.75,
+    "text": "Your euro currency or in gold and you've noticed that that congestion is is longer than the average on of your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.99,
+    "end": 167.75,
+    "text": "observations and trusting your own",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.75,
+    "end": 172.63,
+    "text": "Understand and trusting your own analysis of the market when the market is becoming really mature in its range",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 172.83,
+    "end": 179.19,
+    "text": "then knowing when it's the right time to start keeping an eye when that market starts changing its little personality just before shifts because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.19,
+    "end": 183.11,
+    "text": "Just before it shifts is where you can get all your size away, and then you could really",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.6,
+    "end": 189.04,
+    "text": "get on that very powerful trajectory as the market moves out of its range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.04,
+    "end": 193.52,
+    "text": "So really very important. And also you know when it's in a range and the congestion,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.52,
+    "end": 197.52,
+    "text": "another characteristic is the reduced open interest. So you know positions are being",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.52,
+    "end": 201.68,
+    "text": "closed out, squared out, and there's not many and the open interest only starts increasing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.68,
+    "end": 207.68,
+    "text": "again once the market seeks out of its range and seeks out of its value. So just like the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 212.94,
+    "end": 214.98,
+    "text": "to states of high energy and activity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.98,
+    "end": 218.58,
+    "text": "So, knowing what strategies to deploy in the calm states",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.58,
+    "end": 221.34,
+    "text": "and what strategy to deploy when the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.34,
+    "end": 223.66,
+    "text": "is highly energetic, highly active.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.66,
+    "end": 225.42,
+    "text": "And how do you define highly energetic,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.42,
+    "end": 226.94,
+    "text": "and we've spoken this in the past,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.94,
+    "end": 230.38,
+    "text": "and highly active is when the auctioning activity is high,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 230.38,
+    "end": 232.34,
+    "text": "when the amount of trades that are going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 232.34,
+    "end": 233.66,
+    "text": "through the market are high.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.66,
+    "end": 234.78,
+    "text": "And when that is happening,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.78,
+    "end": 237.22,
+    "text": "the market will keep on auctioning in the direction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.22,
+    "end": 239.22,
+    "text": "until it loses its velocity,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 239.22,
+    "end": 241.06,
+    "text": "until people don't want to participate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 241.06,
+    "end": 242.42,
+    "text": "in the auctioning activity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 242.19,
+    "end": 248.35,
+    "text": "and then the market rolls back again or rolls back up again once it's auctioned too far towards",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.35,
+    "end": 253.63,
+    "text": "the downside. So it's really important knowing the difference between also time and volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.69,
+    "end": 264.21,
+    "text": "50,000 contracts trade within a half an hour period in, for example, the S&P 500, and it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.21,
+    "end": 269.33,
+    "text": "traded in a 10 tick range of 50,000 contracts. Now that's a volume congestion, and if you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 269.33,
+    "end": 274.13,
+    "text": "that that is high, you know, and it's during the U.S. Open Session and we use major observations",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 274.13,
+    "end": 278.69,
+    "text": "over a period of time that 50,000 contracts in a 10-minute range, there's a very high",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 278.69,
+    "end": 283.73,
+    "text": "probability once it moves beyond that range, there's 50,000 contracts that have to potentially",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 285.97,
+    "end": 289.11,
+    "text": "From that volume congestion to a new territory",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.11,
+    "end": 294.73,
+    "text": "So knowing when how many positions are trapped in and the moment the moment the market just trades above or below",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 295.05,
+    "end": 297.23,
+    "text": "That volume congestion, you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 297.23,
+    "end": 301.95,
+    "text": "You get this pressure release and this and this bulb and it's your ability to get on that trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 301.95,
+    "end": 304.07,
+    "text": "If it's a if it's a move towards the upside",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 304.47,
+    "end": 309.33,
+    "text": "Scaling on your long side and being able to get that little flurry and then start booking your profits",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 309.53,
+    "end": 314.85,
+    "text": "As the market slows down again, so really important knowing the difference between timing and volume congestion",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 315.18,
+    "end": 317.88,
+    "text": "And as you can see by the picture on this slide,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.88,
+    "end": 322.6,
+    "text": "you can see that there's a price ladder on the highway,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 322.6,
+    "end": 324.64,
+    "text": "and you can see the congestion of the cars,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 324.64,
+    "end": 326.32,
+    "text": "but the moment that congestion stops,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 326.32,
+    "end": 328.44,
+    "text": "the cars can start moving quickly and fast.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 328.44,
+    "end": 329.64,
+    "text": "But just like a traffic jam,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 329.64,
+    "end": 331.36,
+    "text": "you gotta know when your traffic jam",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 331.36,
+    "end": 332.84,
+    "text": "is just about to open up,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 332.84,
+    "end": 334.52,
+    "text": "and when you can execute,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 334.52,
+    "end": 338.12,
+    "text": "when you can shift from first gear in the traffic jam",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 338.12,
+    "end": 339.62,
+    "text": "and shift to fifth gear very quickly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 339.62,
+    "end": 341.56,
+    "text": "And so those traders who are able to know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 341.56,
+    "end": 342.68,
+    "text": "how to shift those gears",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 344.4,
+    "end": 349.52,
+    "text": "the quickest of the traders who are able to profit the best in those conditions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

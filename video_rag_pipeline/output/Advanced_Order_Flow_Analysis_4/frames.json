@@ -1,0 +1,98 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0000_mid.jpg",
+    "time": 5.68,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0000_end.jpg",
+    "time": 11.16,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0001_start.jpg",
+    "time": 11.559999999999999,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0001_mid.jpg",
+    "time": 35.92,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0001_end.jpg",
+    "time": 60.279999999999994,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0002_start.jpg",
+    "time": 60.68,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0002_mid.jpg",
+    "time": 804.72,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0002_end.jpg",
+    "time": 1548.76,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0003_start.jpg",
+    "time": 1549.16,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0003_mid.jpg",
+    "time": 1552.12,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Advanced_Order_Flow_Analysis_4/frames/scene_0003_end.jpg",
+    "time": 1555.08,
+    "width": 1280,
+    "height": 720
+  }
+]

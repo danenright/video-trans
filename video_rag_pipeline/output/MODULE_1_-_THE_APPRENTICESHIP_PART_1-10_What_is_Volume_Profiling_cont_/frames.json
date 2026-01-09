@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-10_What_is_Volume_Profiling_cont_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-10_What_is_Volume_Profiling_cont_/frames/scene_0000_mid.jpg",
+    "time": 19.34,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_1_-_THE_APPRENTICESHIP_PART_1-10_What_is_Volume_Profiling_cont_/frames/scene_0000_end.jpg",
+    "time": 38.48,
+    "width": 1920,
+    "height": 1080
+  }
+]

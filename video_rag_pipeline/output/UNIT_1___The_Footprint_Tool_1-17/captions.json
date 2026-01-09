@@ -1,0 +1,230 @@
+[
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0000_start.jpg",
+    "caption": "the powerpoint course is displayed on a screen",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0000_mid.jpg",
+    "caption": "a screenshot of a computer screen with the text ' the point course '",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0000_end.jpg",
+    "caption": "the front page of the powerpoint powerpoint presentation",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0001_start.jpg",
+    "caption": "introduction to the course",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0001_mid.jpg",
+    "caption": "introduction to course the marketplace market context",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0001_end.jpg",
+    "caption": "introduction to course about the author",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0002_start.jpg",
+    "caption": "introduction to course about the author",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0002_mid.jpg",
+    "caption": "a man sitting in front of a computer monitor",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0002_end.jpg",
+    "caption": "a man sitting in front of a computer monitor",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0003_start.jpg",
+    "caption": "a man sitting in front of a computer monitor",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0003_mid.jpg",
+    "caption": "a man sitting in front of a computer monitor",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0003_end.jpg",
+    "caption": "introduction to the course why a point course",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0004_start.jpg",
+    "caption": "introduction to the course why a point course",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0004_mid.jpg",
+    "caption": "a man sitting in front of a computer monitor",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0004_end.jpg",
+    "caption": "introduction to the course",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0005_start.jpg",
+    "caption": "a man sitting in front of a computer monitor",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0005_mid.jpg",
+    "caption": "a man sitting in front of a computer monitor",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0005_end.jpg",
+    "caption": "a video screen with the words how to talk",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0006_start.jpg",
+    "caption": "a video screen with the words how to take course",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0006_mid.jpg",
+    "caption": "a man sitting in front of a computer screen",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0006_end.jpg",
+    "caption": "a video screen with the words trading advice on it",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0007_start.jpg",
+    "caption": "a man sitting in front of a computer monitor",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0007_mid.jpg",
+    "caption": "a man sitting in front of a computer monitor",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0007_end.jpg",
+    "caption": "a video screen with the words favourite trading out",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0008_start.jpg",
+    "caption": "a video screen with the words favourite trading out",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0008_mid.jpg",
+    "caption": "a man sitting in front of a computer screen",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0008_end.jpg",
+    "caption": "a screenshot of a screen with a screen showing the process",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0009_start.jpg",
+    "caption": "a screenshot of a computer screen with a screenshot of a computer screen",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0009_mid.jpg",
+    "caption": "a screenshot of a screen with a screen showing a video",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0009_end.jpg",
+    "caption": "an image of a screen with a video on it",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0010_start.jpg",
+    "caption": "an image of a screen with a video on it",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0010_mid.jpg",
+    "caption": "a screenshot of a map with a person on it",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0010_end.jpg",
+    "caption": "an image of a black screen with a gold border",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0011_start.jpg",
+    "caption": "a screen with a black background and a gold frame",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0011_mid.jpg",
+    "caption": "introduction to the course",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0011_end.jpg",
+    "caption": "introduction to the course",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0012_start.jpg",
+    "caption": "a person holding a piece of a puzzle",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  },
+  {
+    "frame_path": "output/UNIT_1___The_Footprint_Tool_1-17/frames/scene_0012_mid.jpg",
+    "caption": "a screenshot of a screen with a clock on it",
+    "model": "Salesforce/blip-image-captioning-base",
+    "score": null
+  }
+]

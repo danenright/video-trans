@@ -1,0 +1,426 @@
+[
+  {
+    "start": 1.14,
+    "end": 7.75,
+    "text": "Let's now look at an example of what a basic volume profile trade setup could look like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.75,
+    "end": 14.11,
+    "text": "In the charts provided, what we have on the left side is 3 day distributions, or 3 daily",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.11,
+    "end": 15.11,
+    "text": "profiles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.11,
+    "end": 20.73,
+    "text": "Now, as you can see in the first profile, we had a relatively normal distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.73,
+    "end": 25.99,
+    "text": "In day 2, we spent most of the day trading within the previous day's volume value",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.99,
+    "end": 27.03,
+    "text": "area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.12,
+    "end": 32.44,
+    "text": "the prices that it accepted from the previous day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.44,
+    "end": 36.49,
+    "text": "Now when we see this we call this an inside day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.49,
+    "end": 42.67,
+    "text": "Now the longer a market spends accepting value between two prices, the more likely as time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.67,
+    "end": 48.57,
+    "text": "goes by that we're likely to break out either to the upside or to the downside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.57,
+    "end": 52.57,
+    "text": "The important thing to understand is not so much when we break out but what are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.57,
+    "end": 55.53,
+    "text": "you going to do when the market breaks out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.12,
+    "end": 62.28,
+    "text": "the market can break to the upside and continue with the trend or the momentum",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.28,
+    "end": 65.36,
+    "text": "or the market could break to the upside",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.36,
+    "end": 69.68,
+    "text": "and then return back into value and very quickly move to the other side of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.68,
+    "end": 70.68,
+    "text": "the distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.68,
+    "end": 74.77,
+    "text": "Likewise we could see the same sort of idea to the downside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.77,
+    "end": 78.73,
+    "text": "What we're going to take a look at now is what the anomaly is and how we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.73,
+    "end": 79.21,
+    "text": "could have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.21,
+    "end": 86.4,
+    "text": "developed a trade strategy using this basic setup.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.8,
+    "end": 89.12,
+    "text": "As you can see, by the end of day 3, once the market had broken to the upside, it finished",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.12,
+    "end": 91.78,
+    "text": "aggressively higher on the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.78,
+    "end": 94.18,
+    "text": "Now the trade setup is very simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.18,
+    "end": 99.05,
+    "text": "What we're looking for is an example of single prints anomaly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.05,
+    "end": 103.29,
+    "text": "And the reason is that when the market leaves single prints as it breaks an inside",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.29,
+    "end": 109.09,
+    "text": "day, what we tend to find is that the market continues in a trend like fashion with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.09,
+    "end": 111.0,
+    "text": "the trend.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.02,
+    "end": 120.32,
+    "text": "Once the market finally broke out of that previous day's high, we left a large amount",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.32,
+    "end": 122.92,
+    "text": "of untraded area on the breakout.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.92,
+    "end": 127.04,
+    "text": "The fact that there's an untraded area once we break out, this suggests there is a high",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.04,
+    "end": 129.12,
+    "text": "probability for extension.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.12,
+    "end": 131.84,
+    "text": "Now let's take a look at the second profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.95,
+    "end": 141.43,
+    "text": "The first thing to note is that what we can see is prior to the break the market had a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.43,
+    "end": 146.03,
+    "text": "relatively tight low volatility range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.03,
+    "end": 149.91,
+    "text": "In other words, what this was suggesting was that the market wasn't yet ready to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.91,
+    "end": 150.91,
+    "text": "break out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.91,
+    "end": 156.31,
+    "text": "Note, however, once we break out how the ranges of each individual auction become a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.31,
+    "end": 160.59,
+    "text": "little bit larger, suggesting more volatility in the auction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.6,
+    "end": 169.92,
+    "text": "but instead be looking for continuation type plays.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.92,
+    "end": 171.36,
+    "text": "Now the trade is simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.36,
+    "end": 175.64,
+    "text": "What we're looking for is any sort of one confirmation that the market is going to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.64,
+    "end": 178.72,
+    "text": "leave an untraded area or single prints.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.72,
+    "end": 183.56,
+    "text": "Once it does this and confirms this we then want to look to get with the trend.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.56,
+    "end": 189.5,
+    "text": "Now in the strategy you can see that we had three different time frame pricing or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.53,
+    "end": 198.61,
+    "text": "or auctions until we came back and retested and confirmed that that area was no longer going to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.61,
+    "end": 204.37,
+    "text": "be traded. Once we then took out the high of that auction that retested the break point,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.37,
+    "end": 211.17,
+    "text": "the market never looked back. It's very simple. The trade strategy is to get long on that retest",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.58,
+    "end": 221.02,
+    "text": "We then look for a continuation type pattern and only get out of this trade once the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.02,
+    "end": 223.34,
+    "text": "suggests we do so.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.34,
+    "end": 228.02,
+    "text": "As you can see, this is a very very high risk reward type trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.02,
+    "end": 232.5,
+    "text": "More importantly, we're going with momentum and with the trend and we're merely leaning",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 232.5,
+    "end": 237.06,
+    "text": "on the fact that the market leaves a set of single prints for us to get involved.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.06,
+    "end": 239.7,
+    "text": "I hope you've enjoyed this trade setup.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

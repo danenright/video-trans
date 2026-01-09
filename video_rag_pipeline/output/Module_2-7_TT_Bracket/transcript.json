@@ -1,0 +1,186 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.56,
+    "text": "TT algos give users the ability to improve their order execution by automating the placement",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.56,
+    "end": 6.96,
+    "text": "of orders based on various criteria.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.96,
+    "end": 11.76,
+    "text": "With the TT bracket algo, traders can mitigate risk by placing an order and automating their",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.76,
+    "end": 16.36,
+    "text": "exit strategy by the triggering of an OCO once the initial order is filled.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.36,
+    "end": 20.72,
+    "text": "The OCO consists of a limit order to realize a profit and a stop-loss order to limit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.72,
+    "end": 22.64,
+    "text": "the loss on the position.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.64,
+    "end": 26.92,
+    "text": "Let's use the TT bracket algo to enter a long position of 10e mini S&P futures",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.78,
+    "end": 33.54,
+    "text": "we select tt bracket from the order type drop-down menu in MDTrader.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.54,
+    "end": 38.26,
+    "text": "We are going to set a profit target of 8 ticks to submit a limit order 8 ticks away from our",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.26,
+    "end": 44.02,
+    "text": "initial fill. We will set a stop loss of 4 ticks to trigger a stop limit order 4 ticks through",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.02,
+    "end": 48.1,
+    "text": "our fill price. We want our stop order to be entered at this trigger price so we are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.1,
+    "end": 52.9,
+    "text": "going to set pay up to zero. After setting our order quantity to 10, we will join the bid",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.64,
+    "end": 65.26,
+    "text": "TT ALGOS submits an OCO order consisting of a limit order at 2156.25, eight ticks above",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.26,
+    "end": 72.17,
+    "text": "our fill price, and a stop limit order at 2153.25, four ticks below our fill price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.17,
+    "end": 77.93,
+    "text": "We see our limit order fill at 2156.25, exiting our position and meeting our profit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.93,
+    "end": 78.93,
+    "text": "target.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.93,
+    "end": 83.49,
+    "text": "The TT OCO parent order then automatically cancels the stop limit order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.26,
+    "end": 88.82,
+    "text": "The TT Bracket ALGO makes it easy to automate an exit strategy following the execution of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.82,
+    "end": 89.82,
+    "text": "an order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.82,
+    "end": 93.94,
+    "text": "TT Bracket ALGOs can be launched from an order ticket as well as MDTrader.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.94,
+    "end": 97.66,
+    "text": "Users can set a start time and an end time on the entire ALGO and can also have the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.66,
+    "end": 99.62,
+    "text": "ALGO triggered by price action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.62,
+    "end": 103.94,
+    "text": "For more information on TT Bracket ALGOs, visit our website at TradingTechnologies.com.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "idx": 0,
+    "start": 0.0,
+    "end": 1681.2,
+    "start_frame": 0,
+    "end_frame": 16812
+  },
+  {
+    "idx": 1,
+    "start": 1681.2,
+    "end": 4882.9,
+    "start_frame": 16812,
+    "end_frame": 48829
+  },
+  {
+    "idx": 2,
+    "start": 4882.9,
+    "end": 6566.1,
+    "start_frame": 48829,
+    "end_frame": 65661
+  }
+]

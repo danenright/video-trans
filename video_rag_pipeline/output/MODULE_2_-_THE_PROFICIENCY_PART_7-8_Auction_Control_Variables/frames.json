@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_7-8_Auction_Control_Variables/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_7-8_Auction_Control_Variables/frames/scene_0000_mid.jpg",
+    "time": 114.92,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_7-8_Auction_Control_Variables/frames/scene_0000_end.jpg",
+    "time": 229.64000000000001,
+    "width": 1920,
+    "height": 1080
+  }
+]

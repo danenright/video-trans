@@ -1,0 +1,306 @@
+[
+  {
+    "start": 0.88,
+    "end": 6.32,
+    "text": "We're now going to begin developing the concept of trade location, in other words, where we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.32,
+    "end": 10.2,
+    "text": "are trading relative to previous prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.2,
+    "end": 15.16,
+    "text": "We're going to start off and talk about where the market opens, whether it's in balance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.47,
+    "end": 21.39,
+    "text": "or out of balance. Now, as you can see, the guy on the tightrope is balancing quite nicely",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.39,
+    "end": 26.03,
+    "text": "and the basic illustration here is that when the market is in balance, there tends to be",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.03,
+    "end": 31.15,
+    "text": "a lot of control, a lot of two-way trade being facilitated. However, if all of a sudden",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.15,
+    "end": 35.31,
+    "text": "things become shaky on the tightrope, then we start to see a little bit of panic,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.31,
+    "end": 39.45,
+    "text": "a little bit of volatility, a little bit of range expansion and that is why we want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.45,
+    "end": 44.15,
+    "text": "to differentiate between a market that is in balance and a market that is out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.07,
+    "end": 51.59,
+    "text": "So, as we could see, a market that is in balance, it opens within the previous day's value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.59,
+    "end": 56.03,
+    "text": "So where the market accepted prices the previous day, where buyers and sellers said, we are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.03,
+    "end": 61.35,
+    "text": "happy to agree as this being the fairest price on the day, if we open in and around",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.35,
+    "end": 64.87,
+    "text": "that fair value, the market is said to be in balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.87,
+    "end": 70.69,
+    "text": "Now remember, when we're in balance, the market is said to be in firm control.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.73,
+    "end": 78.29,
+    "text": "when we are in balance there's a lower risk and therefore less opportunity. So what we mean by",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.29,
+    "end": 83.25,
+    "text": "that is that there's a there's a 50-50 chance when we're in balance that the market goes up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.25,
+    "end": 89.41,
+    "text": "or that it goes down. So again there's slightly less opportunity or slightly less conviction in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.36,
+    "end": 97.04,
+    "text": "or going down. So crucial you understand that because again it brings us back to that concept",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.04,
+    "end": 103.12,
+    "text": "of do we want to be aggressive when the market is not showing that sort of aggressiveness.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.79,
+    "end": 107.77,
+    "text": "Now, more time is spent when we are in balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.77,
+    "end": 112.61,
+    "text": "We do tend to spend a lot of time trading within the previous day's value.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.61,
+    "end": 118.01,
+    "text": "So it's almost like the market says, we accepted these prices the day before, there's a higher",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.01,
+    "end": 123.47,
+    "text": "probability we're going to initially accept these prices again today, whilst we await",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.47,
+    "end": 124.69,
+    "text": "further information.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.9,
+    "end": 128.9,
+    "text": "Now, the opposite to that is where a market opens out of balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.9,
+    "end": 135.94,
+    "text": "Now, when we open out of balance, we're opening outside of the value area or the accepted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.94,
+    "end": 138.18,
+    "text": "area of the previous day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.18,
+    "end": 143.58,
+    "text": "So we almost get this idea where the market said previously, the day before, we accepted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.49,
+    "end": 151.83,
+    "text": "We're going to open lower or higher than where we accepted and then we're going to decide",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.83,
+    "end": 157.31,
+    "text": "do we re-enter the previous day's accepted area, do we accept a new area today.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.31,
+    "end": 162.63,
+    "text": "So again, the mere fact that we're opening out of balance creates an indecision, it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.63,
+    "end": 169.75,
+    "text": "creates a little bit of uncertainty, a little bit of volatility and that brings opportunity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.75,
+    "end": 170.75,
+    "text": "with it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.22,
+    "end": 174.22,
+    "text": "There's a higher risk when we do open out of balance, why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.22,
+    "end": 178.78,
+    "text": "Because there's that uncertainty, there's that potential to move one way or the other.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.78,
+    "end": 182.68,
+    "text": "But the fact that we're going to move one way or the other because we're out of balance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.68,
+    "end": 186.02,
+    "text": "suggests there are likely to be more opportunities.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.02,
+    "end": 189.18,
+    "text": "Let's have a look at what these would look like now on a volume profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

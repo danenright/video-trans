@@ -1,0 +1,98 @@
+[
+  {
+    "start": 0.66,
+    "end": 2.98,
+    "text": "So what will module 2's index look like?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 2.98,
+    "end": 7.62,
+    "text": "Well, in part 5 we're going to start off talking about time, price and volume as key",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.62,
+    "end": 8.62,
+    "text": "identifier.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.62,
+    "end": 13.3,
+    "text": "We'll then move on to initiative and responsive price pattern behaviour.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.3,
+    "end": 19.22,
+    "text": "Then symmetrical vs non-symmetrical profiles, the initial balance, volume profiling day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.22,
+    "end": 24.94,
+    "text": "types being trend and non-trend, and finish part 5 with the trading process with volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.74,
+    "end": 32.06,
+    "text": "In part 6 we'll talk about bracketing vs trending, volume and volatility, the market's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.06,
+    "end": 38.12,
+    "text": "opening in and out of balance, pre-open routine of a trader and trade location.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.12,
+    "end": 43.94,
+    "text": "Then in part 7 we're going to move on to daytime auctions, market auction excess,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.94,
+    "end": 49.06,
+    "text": "volume pointer controls, auction control variables and finish with high volume errors",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.54,
+    "end": 57.74,
+    "text": "In part 8 we'll finish with key control identifiers, distinct profile pattern strategies, volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.74,
+    "end": 61.34,
+    "text": "profile templating and deliberate practice.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

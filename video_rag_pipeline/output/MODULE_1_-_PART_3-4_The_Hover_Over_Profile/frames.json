@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_3-4_The_Hover_Over_Profile/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_3-4_The_Hover_Over_Profile/frames/scene_0000_mid.jpg",
+    "time": 190.54,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_3-4_The_Hover_Over_Profile/frames/scene_0000_end.jpg",
+    "time": 380.88,
+    "width": 1920,
+    "height": 1080
+  }
+]

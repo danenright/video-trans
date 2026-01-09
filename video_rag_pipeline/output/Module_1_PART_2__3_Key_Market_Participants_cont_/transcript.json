@@ -1,0 +1,514 @@
+[
+  {
+    "start": 1.01,
+    "end": 7.29,
+    "text": "Let's now continue with the second of our key market participants, the speculator.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.29,
+    "end": 12.77,
+    "text": "The major difference between the speculator and the commercial participant is that the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.77,
+    "end": 18.43,
+    "text": "commercial participant tends to interact in the market and hold positions based on various",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.43,
+    "end": 27.43,
+    "text": "fundamentals or various technicals and they do tend to hold these toward maturity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 24.93,
+    "end": 30.89,
+    "text": "Whereas the speculator, they tend to hold until a profit target has been reached, or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.89,
+    "end": 34.41,
+    "text": "an objective, a specific objective has been reached.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.41,
+    "end": 38.97,
+    "text": "They speculate on the direction of price, whether up or down, and take advantage of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.97,
+    "end": 40.09,
+    "text": "that.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.09,
+    "end": 45.29,
+    "text": "Once it has occurred, once the advantage has been taken, they then exit the position.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.46,
+    "end": 52.9,
+    "text": "So, what are some of the characteristics that define speculative participants?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.9,
+    "end": 59.9,
+    "text": "Well, first and foremost, speculative participants can be short or long term or even algorithmic.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.9,
+    "end": 64.94,
+    "text": "They tend to move price between longer term players, in other words, they tend to facilitate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.94,
+    "end": 68.08,
+    "text": "trade between the longer term participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 68.08,
+    "end": 75.4,
+    "text": "They bring the longer term participants into the market by moving price up and down.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.26,
+    "end": 81.02,
+    "text": "What do we mean by this? Well, when prices move up or down,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.02,
+    "end": 84.02,
+    "text": "speculative positions tend to be unwound",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.02,
+    "end": 88.96,
+    "text": "or put back on. Because they are price sensitive in nature,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.96,
+    "end": 92.16,
+    "text": "they can sometimes also move the market quite aggressively in one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.16,
+    "end": 93.2,
+    "text": "direction or the other.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.2,
+    "end": 96.6,
+    "text": "We will discuss various strategies based on speculative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.6,
+    "end": 105.17,
+    "text": "positioning later on in the course.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.32,
+    "end": 107.24,
+    "text": "Speculators tend to position with risk in mind so they tend to enter at one point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.24,
+    "end": 110.96,
+    "text": "but they do have a point where they exit the position or take the opposite",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.96,
+    "end": 115.44,
+    "text": "side of the position to get out. Again important to understand as sometimes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.44,
+    "end": 119.76,
+    "text": "it's speculators that are moving prices up and down as opposed to paper",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.76,
+    "end": 124.21,
+    "text": "commercial participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.9,
+    "end": 128.58,
+    "text": "Speculators tend to take advantage or trade short-term anomalies within the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.58,
+    "end": 136.09,
+    "text": "Again, once that anomaly has been taken out of the market, they tend to exit those positions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.53,
+    "end": 142.77,
+    "text": "Speculators tend to be non-influential in price, so they can move price but not in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.77,
+    "end": 146.89,
+    "text": "same aggressive manner that commercial paper can move the price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.89,
+    "end": 151.05,
+    "text": "Again important to understand because sometimes what happens is speculative paper might move",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.05,
+    "end": 156.13,
+    "text": "the market too far in one direction as a result of stops going off and once those",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.13,
+    "end": 160.89,
+    "text": "stops are taken out we do tend to then see a rapid rebound in prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.89,
+    "end": 165.49,
+    "text": "So again important to understand as we will discuss strategies based on this at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.97,
+    "end": 173.78,
+    "text": "Now, let's talk about the third key participant, the Automated Algorithmic Strategy or ALGOs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.13,
+    "end": 179.17,
+    "text": "Again, important to understand the key characteristic that make up these algorithms.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.17,
+    "end": 186.01,
+    "text": "Note, algorithms by their very nature are very short term and they tend to make up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.01,
+    "end": 192.01,
+    "text": "roughly 90% of the trade in most markets.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.47,
+    "end": 194.83,
+    "text": "Now it's key to understand this, if 90% of the trade is made up with short-term algorithms,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.83,
+    "end": 200.19,
+    "text": "we need to focus quite heavily on what their objectives and goals are of algorithms,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.19,
+    "end": 203.87,
+    "text": "because we are going to be participating predominantly with these algorithms.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.82,
+    "end": 210.9,
+    "text": "So another characteristic, their execution methodology is precise with exact entry and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.9,
+    "end": 215.94,
+    "text": "exit parameters. What this means is that they very rarely make mistakes, they very rarely",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 217.78,
+    "end": 222.66,
+    "text": "Yes, sometimes it does occur that they do, such as the flash crash, however, in general",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.66,
+    "end": 225.5,
+    "text": "they are very precise with their execution methodology.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.74,
+    "end": 233.64,
+    "text": "Algorithms tend to speculate using high frequency, so they do a lot of trades very rapidly in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.64,
+    "end": 235.0,
+    "text": "and out, in and out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.0,
+    "end": 238.5,
+    "text": "They tend to have very small downside with open-ended upside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 238.5,
+    "end": 243.42,
+    "text": "So again, very often we can see markets sometimes moving very quickly in one direction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.42,
+    "end": 248.98,
+    "text": "and then reversing the trade, and this is more just noise or positioning unwinding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.98,
+    "end": 250.62,
+    "text": "happening within algorithms.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.66,
+    "end": 256.14,
+    "text": "Algorithms look to fill orders at best price practice within parameters.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.14,
+    "end": 261.42,
+    "text": "So again, algos are after the best possible price and because they can rapidly execute",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 261.42,
+    "end": 266.44,
+    "text": "these orders a lot quicker than us, we need to understand their methodology in order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 266.44,
+    "end": 271.49,
+    "text": "to assist us in developing our own edge.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 275.46,
+    "end": 281.02,
+    "text": "So important we understand this because it means that as a day trader, our edge is not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.02,
+    "end": 287.38,
+    "text": "necessarily disappears but it's eroded by an algorithm or computer that can execute",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 287.38,
+    "end": 290.98,
+    "text": "far better and far more efficiently than what we can.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.98,
+    "end": 295.18,
+    "text": "So again, important to understand this as we develop our edge as a trader.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 295.18,
+    "end": 298.4,
+    "text": "So the key when it comes to trading market participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 298.4,
+    "end": 300.94,
+    "text": "We need to be able to answer the following.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 302.08,
+    "end": 308.72,
+    "text": "objectives, execution styles, time horizons of the various participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 308.72,
+    "end": 314.0,
+    "text": "If we can answer these four dynamics and understand the characteristics of each participant, we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 314.0,
+    "end": 319.68,
+    "text": "can develop some incredibly good strategies, just knowing how each participant is interacting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

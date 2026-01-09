@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_11-12/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_11-12/frames/scene_0000_mid.jpg",
+    "time": 246.47564230897567,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_12___Strategy_7_Key_Auction_Reversals_11-12/frames/scene_0000_end.jpg",
+    "time": 492.75128461795134,
+    "width": 1366,
+    "height": 768
+  }
+]

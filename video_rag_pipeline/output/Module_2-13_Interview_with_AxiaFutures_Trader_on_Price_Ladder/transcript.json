@@ -1,0 +1,690 @@
+[
+  {
+    "start": 9.52,
+    "end": 19.4,
+    "text": "I've executed on the price data ever since I started trading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.4,
+    "end": 22.96,
+    "text": "The main advantage is probably speed and also simplicity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.96,
+    "end": 32.2,
+    "text": "It's a very easy tool to execute on.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.2,
+    "end": 38.28,
+    "text": "Main pattern is I look for rigidity in probably the bid and offer so they'll be reloading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.28,
+    "end": 42.44,
+    "text": "just to ensure that I do know there is some strength in the buying or the selling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.44,
+    "end": 44.92,
+    "text": "That's the main pattern that I'll use the price data for.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.12,
+    "end": 56.88,
+    "text": "The ability comes from just hours in front of the screen really and getting that ensured",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.88,
+    "end": 57.88,
+    "text": "and feel.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.88,
+    "end": 63.56,
+    "text": "I don't think there's any hard and fast rule to becoming an auto flow trader but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.56,
+    "end": 70.17,
+    "text": "apart from just putting in the hours and observing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.17,
+    "end": 74.93,
+    "text": "I think I can get a feel for the conditions from watching the ladder.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.93,
+    "end": 79.57,
+    "text": "I can feel generally when there's some momentum in the market or if the market's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.6,
+    "end": 86.66,
+    "text": "slow and quiet and it's more dominated by, you know, algorithms, market-making type of price action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.64,
+    "end": 98.54,
+    "text": "I wouldn't say the price ladder is the only tool I use, but to become proficient and confident in the price ladder",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.54,
+    "end": 101.56,
+    "text": "it probably took me a good couple of years of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.44,
+    "end": 105.0,
+    "text": "intense, you know, watching it for day in day out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.86,
+    "end": 112.74,
+    "text": "The toughest part is probably dealing with the setbacks.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.94,
+    "end": 118.1,
+    "text": "As a young trader, you can get momentum quite quickly and quite early, but then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.6,
+    "end": 123.6,
+    "text": "Dealing with the ongoing setbacks is probably the hardest part.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.6,
+    "end": 130.5,
+    "text": "For me, it's very variable.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.5,
+    "end": 134.5,
+    "text": "If it's quiet, then I can sometimes look to scale up the market,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.5,
+    "end": 140.76,
+    "text": "in which I'll be in a trade for 30 seconds to a couple of minutes maybe.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.76,
+    "end": 143.76,
+    "text": "Or if I'm looking more for a positional momentum type trade,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.76,
+    "end": 146.76,
+    "text": "I could be in a trade for a couple of hours.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.76,
+    "end": 158.29,
+    "text": "So the longer term trades aren't affected as much by the noise in the price action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.9,
+    "end": 166.24,
+    "text": "Whereas a shorter term trade, if you're just looking for 2, 3, 4 ticks, as soon as you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.24,
+    "end": 179.96,
+    "text": "see the momentum in the short term shift against you then there's probably time to exit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.96,
+    "end": 184.98,
+    "text": "I do add to my positions, generally they're on technical players and I try to add them",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 184.98,
+    "end": 190.02,
+    "text": "around sort of inflection points on the technical pattern so I'll be utilising support",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.02,
+    "end": 193.44,
+    "text": "resistance sort of areas of inflection.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.81,
+    "end": 207.7,
+    "text": "where I can get an asymmetric risk award on all the extra ads that I'm doing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.7,
+    "end": 215.3,
+    "text": "I think you can still trade the short term.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.3,
+    "end": 218.7,
+    "text": "I think when it's quiet mid-day, I think you don't really utilise charts that much",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.7,
+    "end": 224.86,
+    "text": "if you're looking to scale up the market, but longer term it will be very difficult",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 224.86,
+    "end": 229.53,
+    "text": "without the charts, because I think the price action and the price data is really",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 231.44,
+    "end": 243.44,
+    "text": "to give you conviction in what you're seeing in the shows.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.44,
+    "end": 250.52,
+    "text": "A good habit to performing well with order flow and understanding order flow, I think",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.52,
+    "end": 257.24,
+    "text": "one is being at your desk and having a good level of focus and getting rid of distractions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.24,
+    "end": 263.32,
+    "text": "The other would be the deliberate practice, so recording your screen and also talking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.32,
+    "end": 265.64,
+    "text": "to other people about it and getting other people's opinions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 267.74,
+    "end": 281.5,
+    "text": "It's a very personal skill, I think everyone reads the order flow differently.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.5,
+    "end": 289.14,
+    "text": "With the ALGOs, I believe that it actually increases our edge to a certain extent.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.14,
+    "end": 296.4,
+    "text": "Not all ALGOs are proficient and are always profitable in doing the right thing so they",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 304.85,
+    "end": 310.51,
+    "text": "certain order entry patterns that these algos do that can become readable.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 311.39,
+    "end": 315.63,
+    "text": "So I do think you know the algos haven't taken away the edge of the discretionary trader.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 324.16,
+    "end": 328.64,
+    "text": "Well I wouldn't think I've gotten too much older but I haven't noticed it really.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 330.24,
+    "end": 334.4,
+    "text": "I think as I've gotten a little bit older to be honest I've probably had better focus",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 336.16,
+    "end": 340.48,
+    "text": "being able to stay in tune with the market throughout the day without dropping.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 341.39,
+    "end": 354.39,
+    "text": "The advice I've given would just be to stick at it. It's always changing and you're always",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 354.39,
+    "end": 363.55,
+    "text": "adapting to new order flow patterns and I think constantly staying adaptable but working",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 363.55,
+    "end": 368.35,
+    "text": "hard and making sure that you're spending time on your order flow and your execution",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 368.35,
+    "end": 374.5,
+    "text": "techniques not just on chart patterns or risk management and things like that but to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 374.5,
+    "end": 376.82,
+    "text": "actually deliberately practice your order flow techniques.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 382.29,
+    "end": 389.21,
+    "text": "The parts of my routine that help me psychologically manage myself throughout the day are probably",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 389.21,
+    "end": 395.82,
+    "text": "just the structure of when I'm focused and watching the market and then times where I",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 395.82,
+    "end": 400.1,
+    "text": "take a break because I think it's important to get away from the desk throughout the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.1,
+    "end": 403.26,
+    "text": "day just to reset.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 403.26,
+    "end": 407.5,
+    "text": "And I have my routine set that I'm at my desk and focused for the core hours",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 407.5,
+    "end": 408.5,
+    "text": "of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 408.5,
+    "end": 411.9,
+    "text": "Then when it quietens up then I can take a break, get some lunch, get some water.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 412.18,
+    "end": 415.18,
+    "text": "just to refresh myself and refocus.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 415.18,
+    "end": 425.06,
+    "text": "My trading edge is always evolving.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 425.06,
+    "end": 428.06,
+    "text": "I've only been trading now for about five years,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 428.06,
+    "end": 432.06,
+    "text": "but already in those five years my edge has completely changed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 432.06,
+    "end": 437.06,
+    "text": "I'm executing a completely different lead to what I was a year ago, two years ago.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 437.06,
+    "end": 442.41,
+    "text": "So I'm always updating new patterns, new skills, new water flow techniques.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 442.41,
+    "end": 452.74,
+    "text": "Yeah, it's always adapted to the changing environment.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 455.6,
+    "end": 461.6,
+    "text": "the longer time frame analysis I think the order flow over days, weeks can give you a lot of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 461.6,
+    "end": 468.56,
+    "text": "information and I think put into a broader context you can sort of see shifts in the market dynamics",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 468.56,
+    "end": 474.8,
+    "text": "I think firstly from changes in the personality of the price action and I think that's a huge",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 474.8,
+    "end": 482.48,
+    "text": "edge that we do have as individual discretionary traders and I think being able to change your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 484.53,
+    "end": 497.03,
+    "text": "when you do see the changes and conditions in the order flip. My biggest",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 497.03,
+    "end": 501.41,
+    "text": "struggle is when it goes really quiet and it's kind of dominated by market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 501.41,
+    "end": 507.21,
+    "text": "making sort of price patterns and I find that myself personally is quite",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 507.21,
+    "end": 514.49,
+    "text": "random and quite hard to read and also around roll as well can be very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 520.85,
+    "end": 529.94,
+    "text": "two most difficult times I find in trying to read the order flow.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 529.94,
+    "end": 537.79,
+    "text": "Well that's a tough one, but I think based on the intraday conditions, sometimes it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 537.79,
+    "end": 544.25,
+    "text": "very quiet and you've noticed a lot of bids and offers being pulled, there's not much",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 544.25,
+    "end": 548.21,
+    "text": "really going through the market on a voluntary perspective and then all of a sudden these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 548.21,
+    "end": 553.41,
+    "text": "big orders start coming up, a lot of the time that's when you'll be more prone to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 556.29,
+    "end": 561.89,
+    "text": "If the market's got a lot of volume and it's quite volatile, then if bigger orders are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 561.89,
+    "end": 567.82,
+    "text": "chasing the market, then quite often more likely to be a real order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 567.82,
+    "end": 573.62,
+    "text": "But yeah, I think basically understanding the differences in conditions and what conditions",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 573.62,
+    "end": 587.3,
+    "text": "produce more fake orders and what conditions produce real orders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 593.46,
+    "end": 602.93,
+    "text": "More as a bias and a feel for the day, I'm not too specific in my edge on the price ladder,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 602.93,
+    "end": 607.17,
+    "text": "but I generally use it to tie in with my technical bias.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

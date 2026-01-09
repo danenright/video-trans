@@ -1,0 +1,474 @@
+[
+  {
+    "start": 0.94,
+    "end": 7.38,
+    "text": "So part 10 has got four unique trade strategies that we are going to discuss one by one, a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.38,
+    "end": 10.67,
+    "text": "lot like what we did in part 9.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.67,
+    "end": 13.67,
+    "text": "Let's first define what momentum means.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.41,
+    "end": 21.29,
+    "text": "When it comes to momentum strategies we are most likely to see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.29,
+    "end": 25.09,
+    "text": "quite an array of timeframe participants from the algorithms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.09,
+    "end": 28.45,
+    "text": "to the day traders, to the short term traders,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.45,
+    "end": 31.69,
+    "text": "even the swing traders as well as potentially",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.69,
+    "end": 36.05,
+    "text": "some initiative timeframe players. So as you can see with momentum players",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.05,
+    "end": 39.13,
+    "text": "there tends to be a whole host of players that enter",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.13,
+    "end": 46.13,
+    "text": "the market. Now,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.7,
+    "end": 45.06,
+    "text": "What we have to try and understand is whether or not momentum plays are either driven by",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.06,
+    "end": 47.66,
+    "text": "initiative or by responsive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 47.66,
+    "end": 49.22,
+    "text": "What do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.22,
+    "end": 55.76,
+    "text": "If there is an initiative play coming into the market that creates a momentum play,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.76,
+    "end": 60.26,
+    "text": "this kind of momentum is the type that we particularly want to pay attention to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.26,
+    "end": 64.38,
+    "text": "because this is the kind of momentum that is unlikely to be counted and will give",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.42,
+    "end": 72.9,
+    "text": "If, on the other hand, it's responsive type players that are effectively creating a momentum,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.9,
+    "end": 75.54,
+    "text": "this is not always necessarily the best opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.54,
+    "end": 76.54,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.54,
+    "end": 81.48,
+    "text": "Because responsive means that, for instance, as prices are moving higher, what's happening",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.48,
+    "end": 86.32,
+    "text": "is it's actually shorts that are covering their positions that is taking price higher.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.32,
+    "end": 92.4,
+    "text": "So this is far more short-lived momentum than what it would be in the case of initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.97,
+    "end": 99.67,
+    "text": "In terms of the objective or time objective time is crucial when it comes to momentum strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.07,
+    "end": 102.93,
+    "text": "Momentum is exactly that it's speed and velocity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.71,
+    "end": 106.95,
+    "text": "Therefore by definition we shouldn't be spending much time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.47,
+    "end": 114.69,
+    "text": "You know at the price that we enter the market so time is a crucial element when it comes to developing your momentum strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.07,
+    "end": 119.83,
+    "text": "in terms of volume and volatility. By its definition we expect to see a pick-up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.83,
+    "end": 123.83,
+    "text": "in both volume and volatility. So what should occur is that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 123.83,
+    "end": 127.31,
+    "text": "as we trade various prices and the momentum picks up, we should see the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.31,
+    "end": 128.55,
+    "text": "volume increasing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.55,
+    "end": 132.83,
+    "text": "and we should see the price range or at least the volatility",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.83,
+    "end": 137.31,
+    "text": "within the day pick up as well. Again, if we do not see this, these are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.31,
+    "end": 141.03,
+    "text": "early indicators that maybe the momentum is not as strong",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.18,
+    "end": 147.84,
+    "text": "In terms of risk-reward, well this is one of the categories of strategies that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.84,
+    "end": 149.44,
+    "text": "gives almost maximum",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.44,
+    "end": 153.08,
+    "text": "risk-reward and the reason being is because we enter",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.08,
+    "end": 156.16,
+    "text": "with very very tight stops. Now what do I mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.16,
+    "end": 159.76,
+    "text": "Remember as we spoke in previous slides I said a stop is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.76,
+    "end": 166.76,
+    "text": "placed where the trade idea is no longer valid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.28,
+    "end": 168.08,
+    "text": "In this instance, momentum is exactly that. The minute the momentum disappears and the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.08,
+    "end": 173.16,
+    "text": "market cannot go in the direction of the momentum, we exit the trade. We do not wait. If the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.16,
+    "end": 178.8,
+    "text": "market does not move in a momentum response like we expect it to, we merely exit. By",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.8,
+    "end": 184.2,
+    "text": "having such a tight stop and having almost an open-ended target, this will allow us",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 184.2,
+    "end": 187.84,
+    "text": "to take maximum risk-reward opportunity plays.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 188.91,
+    "end": 192.19,
+    "text": "Again, we expect to see a momentum of price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.19,
+    "end": 199.83,
+    "text": "Now what that means is that we shouldn't really see prices sitting constant and static for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.83,
+    "end": 200.83,
+    "text": "very long.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.83,
+    "end": 204.83,
+    "text": "So we want to see a momentum, we want to see sort of almost a flow within the price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 204.83,
+    "end": 211.11,
+    "text": "response as we take out key points and as we enter our key momentum strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.11,
+    "end": 216.87,
+    "text": "So these are some of the definitions that you would need to define for your momentum-based",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 217.95,
+    "end": 221.67,
+    "text": "So here are some of the momentum strategies we are going to be discussing in the slides",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.67,
+    "end": 222.67,
+    "text": "ahead.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.67,
+    "end": 225.95,
+    "text": "Firstly, we're going to talk about the open drive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 225.95,
+    "end": 229.83,
+    "text": "Then we're going to talk about the confluence initial balance breakout.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.83,
+    "end": 234.91,
+    "text": "We're then going to move on to the consolidation breakout and finish with a wide initial balance",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.91,
+    "end": 236.63,
+    "text": "distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 241.58,
+    "end": 246.86,
+    "text": "The important thing is that you are able to not only understand these strategies but more",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.86,
+    "end": 251.18,
+    "text": "importantly find them in the markets and then hopefully add them to your arsenal of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 251.18,
+    "end": 252.78,
+    "text": "trading strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

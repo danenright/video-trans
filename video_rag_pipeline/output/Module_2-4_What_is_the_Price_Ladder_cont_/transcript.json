@@ -1,0 +1,362 @@
+[
+  {
+    "start": 1.52,
+    "end": 6.96,
+    "text": "So now we're ready to go looking at specific components that make up a price ladder",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.04,
+    "end": 11.9,
+    "text": "So please ensure that you do have your price ladder up because as I go through each of these elements",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.9,
+    "end": 16.66,
+    "text": "You're able to look at at it on your live ladder in real time on your TT",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.18,
+    "end": 19.18,
+    "text": "ladder environment, so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.62,
+    "end": 21.62,
+    "text": "firstly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.56,
+    "end": 27.76,
+    "text": "Let's have a look at where the bids are. So on the left hand side or the blue column are all the bids",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.96,
+    "end": 33.72,
+    "text": "The bids as you can see on the prices on the left that represents all the buy orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.84,
+    "end": 37.66,
+    "text": "Then next you have your price column and that's the gray area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.66,
+    "end": 42.76,
+    "text": "It's the price of Pacific market that you'll be any Pacific market that you're looking at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.0,
+    "end": 49.74,
+    "text": "Then next we have the offers or the asks and that is the red column and where the bids",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.24,
+    "end": 53.76,
+    "text": "and the office meet is the currently traded price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.02,
+    "end": 59.16,
+    "text": "Next we have the high of the high of day and the current high of day is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.78,
+    "end": 64.58,
+    "text": "3095 as per the slide and that's a high of day is indicated by the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.34,
+    "end": 70.06,
+    "text": "Yellow line at the top where it goes from dark gray to a light gray",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.06,
+    "end": 74.66,
+    "text": "So it's the higher the day of the market next. We have the low of day, which is at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.74,
+    "end": 79.82,
+    "text": "3066 and that's indicated by the red line which separates the gray",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.82,
+    "end": 83.9,
+    "text": "Pricing box area to the light gray",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.3,
+    "end": 94.06,
+    "text": "price boxing area. Then next we have the volume profile as indicated by the blue histograms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.06,
+    "end": 99.58,
+    "text": "that are lying on their side so it just shows you how much volume has been traded relative to the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.58,
+    "end": 104.54,
+    "text": "entire day. You have not only the blue histogram but you actually also have the number that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.54,
+    "end": 114.82,
+    "text": "being traded at that price. Next you have so if you were to see the actual size so for example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.23,
+    "end": 125.47,
+    "text": "the price of 3079 we have 1607 lots so that 1607 lots could be could represent",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.47,
+    "end": 130.55,
+    "text": "one person with all that size or a whole host of different people unless you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.55,
+    "end": 133.87,
+    "text": "have level 3 data this is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.19,
+    "end": 137.95,
+    "text": "two levels of data. Unless you have level three data, you don't quite know what that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.95,
+    "end": 142.43,
+    "text": "one thousand six hundred and seven knots is comprised of. But at that price, at three",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.43,
+    "end": 147.27,
+    "text": "oh seven nine, we have one thousand six hundred and seven knots. And that dynamically changes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.27,
+    "end": 153.03,
+    "text": "every split second, every second and so forth. So that is how you, and that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.03,
+    "end": 158.03,
+    "text": "on the offer. So that because this is the red side, this is on the offer side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.96,
+    "end": 170.78,
+    "text": "Next, we have at the 3069, we have 3003 lots on the bid at 3069 and that's the current",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.78,
+    "end": 176.64,
+    "text": "bid that if you wanted to sell the market, if you wanted to offer the market, you could",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.64,
+    "end": 186.13,
+    "text": "sell up to the amount of 3003 lots at that specific point in time at 3069.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.01,
+    "end": 193.45,
+    "text": "Six slots of accumulation of the last trade now that white white highlighted box where it says six slots",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.45,
+    "end": 201.93,
+    "text": "That's the cumulative lots of trade at that current at that current price provided the market consistently trades at that price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 202.21,
+    "end": 207.65,
+    "text": "Which is the last trade that number shall increase now if the market were to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.43,
+    "end": 210.89,
+    "text": "trade the offer if the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.31,
+    "end": 215.89,
+    "text": "Sorry if the market were if the market would were to lift the offer",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.37,
+    "end": 223.73,
+    "text": "then it would first go green on your TT platform so it would first highlight green and then once",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.73,
+    "end": 227.97,
+    "text": "it continually trades so the first lot that goes through the first lots that go through the first",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.97,
+    "end": 234.45,
+    "text": "clip that goes through that will highlight green and then every clip thereafter provided it's still",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.45,
+    "end": 239.41,
+    "text": "trading at that price will then be accumulated price and the color will change to white",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.18,
+    "end": 250.46,
+    "text": "then it's going to go red in the first instance of whatever size that was hit first on the bid",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.46,
+    "end": 254.46,
+    "text": "and then when the bid has been hit and then when it when the bid is hit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 255.58,
+    "end": 260.38,
+    "text": "furthermore after that initial hit then it will change the color of white",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 260.38,
+    "end": 273.98,
+    "text": "and that is be the cumulative last trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

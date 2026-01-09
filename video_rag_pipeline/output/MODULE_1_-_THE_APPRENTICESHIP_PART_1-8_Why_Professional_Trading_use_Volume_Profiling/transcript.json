@@ -1,0 +1,338 @@
+[
+  {
+    "start": 1.39,
+    "end": 5.62,
+    "text": "So, why do professional traders use volume profiling?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.62,
+    "end": 9.38,
+    "text": "First and foremost, it's a tool for consistent pattern recognition.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.38,
+    "end": 10.38,
+    "text": "What do I mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.38,
+    "end": 14.74,
+    "text": "Well, at the end of each day, I'm able to go through my volume profiles and pick up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.74,
+    "end": 19.78,
+    "text": "on very specific patterns because of the way volume profile depicts price, volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.78,
+    "end": 20.82,
+    "text": "and time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.82,
+    "end": 25.78,
+    "text": "So, by using volume profiles on a day to day basis, I can not only find these patterns,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.78,
+    "end": 29.9,
+    "text": "but I can also see how these patterns evolve and then develop edge using those",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.24,
+    "end": 35.96,
+    "text": "Volume profiling is a tool for interpretation. What do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.96,
+    "end": 39.42,
+    "text": "Well, instead of having the traditional tools of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.42,
+    "end": 43.32,
+    "text": "Fibonacci's and moving averages and trend lines that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.32,
+    "end": 47.04,
+    "text": "don't give us forward-looking information, we can use the volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 47.04,
+    "end": 48.36,
+    "text": "profiles that can give us",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.36,
+    "end": 51.96,
+    "text": "principle-based interpretation, meaning",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.96,
+    "end": 55.22,
+    "text": "we are able to make forward-looking decisions using",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.22,
+    "end": 60.14,
+    "text": "volume profiles. Volume profiles allow us to remain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.41,
+    "end": 69.89,
+    "text": "Well, a volume profile is exact information, it's fact-based, it's happened, it's occurred,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.89,
+    "end": 72.61,
+    "text": "it's not opinionated, it's merely fact-based.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.61,
+    "end": 79.66,
+    "text": "So we can make fact-based decisions instead of subjective-based opinions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.66,
+    "end": 83.94,
+    "text": "Volume profiling is principles rather than hard-fast rules.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.94,
+    "end": 91.5,
+    "text": "Again, this allows us to have forward-looking trade strategies as opposed to relying on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.31,
+    "end": 102.39,
+    "text": "Volume profiling, again, it allows us to move away from what we like to think of as obvious",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.39,
+    "end": 103.99,
+    "text": "application of trade setups.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.99,
+    "end": 104.99,
+    "text": "What do I mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.99,
+    "end": 109.43,
+    "text": "In other words, there's a lot of obvious trades in the market, trades that everyone looks",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.43,
+    "end": 114.23,
+    "text": "at a support level from a long, long time ago and it's very, very obvious.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.23,
+    "end": 119.69,
+    "text": "Now obvious trades, algorithms are able to duplicate those trades.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.69,
+    "end": 124.05,
+    "text": "If a trade is very obvious, there's less likelihood it's going to work because it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.99,
+    "end": 129.15,
+    "text": "So, volume profiling, because it's principle-based, is not so obvious.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.15,
+    "end": 135.26,
+    "text": "There's a lot of interpretation required, which means you have edge.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.26,
+    "end": 138.66,
+    "text": "And then, volume profiling allows for exact risk management.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.66,
+    "end": 139.66,
+    "text": "What do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.66,
+    "end": 144.82,
+    "text": "Well, if we enter a trade based on a volume profile strategy, we know exactly where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.82,
+    "end": 146.82,
+    "text": "that strategy is no longer valid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.82,
+    "end": 151.34,
+    "text": "Therefore, we can effectively manage our money and ensure we're not taking very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.34,
+    "end": 154.3,
+    "text": "very big losses.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.58,
+    "end": 159.26,
+    "text": "the reason professional traders use volume profiling is simply because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.26,
+    "end": 163.3,
+    "text": "every professional uses it so it becomes a self-fulfilling prophecy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.3,
+    "end": 166.62,
+    "text": "if all the traders around the world are using these volume profiles",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.62,
+    "end": 171.26,
+    "text": "or using this tool in order to depict price time and volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.26,
+    "end": 174.38,
+    "text": "then surely the market will respond to certain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.38,
+    "end": 181.38,
+    "text": "or a lot of these strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

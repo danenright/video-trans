@@ -1,0 +1,74 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_4-6/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_4-6/frames/scene_0000_mid.jpg",
+    "time": 707.35,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_4-6/frames/scene_0000_end.jpg",
+    "time": 1414.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_4-6/frames/scene_0001_start.jpg",
+    "time": 1414.9,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_4-6/frames/scene_0001_mid.jpg",
+    "time": 1641.35,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_4-6/frames/scene_0001_end.jpg",
+    "time": 1867.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_4-6/frames/scene_0002_start.jpg",
+    "time": 1868.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_4-6/frames/scene_0002_mid.jpg",
+    "time": 1994.15,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_6___Strategy_1_Absorption_and_Auctioning_4-6/frames/scene_0002_end.jpg",
+    "time": 2120.1000000000004,
+    "width": 1366,
+    "height": 768
+  }
+]

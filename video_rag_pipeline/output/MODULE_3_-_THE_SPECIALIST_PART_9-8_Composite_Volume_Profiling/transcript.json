@@ -1,0 +1,386 @@
+[
+  {
+    "start": 1.14,
+    "end": 5.93,
+    "text": "Welcome to the theoretical principle based part of part 9.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.93,
+    "end": 9.24,
+    "text": "We're going to talk about composite volume profiling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.24,
+    "end": 11.96,
+    "text": "So what is a composite profile?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.96,
+    "end": 16.0,
+    "text": "A traditional profile is made up of one day of data.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.0,
+    "end": 22.2,
+    "text": "However, sometimes we wish to have a flexible profile that can illustrate an auction that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.25,
+    "end": 33.97,
+    "text": "Any profile that is made up of several parts or multiple profiles can be deemed a composite",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.97,
+    "end": 35.41,
+    "text": "profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.41,
+    "end": 40.69,
+    "text": "What is important is not the definition but rather the implications.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.69,
+    "end": 44.97,
+    "text": "So very simply, traditionally a volume profile is one day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.88,
+    "end": 52.72,
+    "text": "but you can take any say half an hour section of the day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.72,
+    "end": 56.44,
+    "text": "you can take a couple of days, you can take a couple of months and create",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.44,
+    "end": 59.84,
+    "text": "a volume profiling. The principle of volume profiling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.84,
+    "end": 64.68,
+    "text": "is to try and illustrate where trade has been facilitated",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.68,
+    "end": 67.96,
+    "text": "over a given period. So any period that isn't a day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.96,
+    "end": 75.18,
+    "text": "is a composite profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.48,
+    "end": 77.64,
+    "text": "So why do we use these composite profiles well very simply firstly it ensures we constantly understand the bigger picture",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.64,
+    "end": 84.12,
+    "text": "So it gives us a top-down approach. What do we mean by that well if we look at say a monthly volume profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.22,
+    "end": 90.58,
+    "text": "We will see effectively how volume has been distributed over price and time over an entire month",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.58,
+    "end": 97.2,
+    "text": "So it gives us a good bigger term perspective of what has actually gone on over the period of a month",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.6,
+    "end": 103.44,
+    "text": "Then, markets have long-term memory, so again, sometimes we use these composite profiles",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.44,
+    "end": 107.68,
+    "text": "to develop very unique strategies based on weekly and monthly charts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.68,
+    "end": 108.68,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.68,
+    "end": 113.24,
+    "text": "Because, well, you might, as a day trader, you might remember a certain level and forget",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.24,
+    "end": 118.0,
+    "text": "about it after a few days, but if you go back and you look on say a weekly or monthly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.0,
+    "end": 123.28,
+    "text": "volume profile, you will notice that that area may stick out and the market tends",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.56,
+    "end": 134.36,
+    "text": "Then, as mentioned before, markets tend to respect previously accepted long term high",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.36,
+    "end": 135.52,
+    "text": "volume errors.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.52,
+    "end": 140.68,
+    "text": "In other words, a series of prices that has been accepted as fair value by the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.68,
+    "end": 145.8,
+    "text": "that should tend to be revisited at some point in the future and maybe even become",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.8,
+    "end": 147.12,
+    "text": "fair price again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.92,
+    "end": 154.4,
+    "text": "Also, composite profiles that can illustrate to us where high probability trade location",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.4,
+    "end": 155.4,
+    "text": "may be.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.4,
+    "end": 159.88,
+    "text": "So if, for instance, over a period of a couple of days and weeks we've seen that the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.88,
+    "end": 165.28,
+    "text": "has been accepting a lot of value and then suddenly shoots away from value, we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.28,
+    "end": 169.68,
+    "text": "pick up where good trade location would be just using composite profiles.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.35,
+    "end": 175.63,
+    "text": "Also, Composite Profiles illustrate the long term auction process quite nicely.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.63,
+    "end": 181.23,
+    "text": "Now again, remember, a Composite Profile is nothing more than a tool, it's a way to illustrate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.23,
+    "end": 185.03,
+    "text": "how volume and price is being traded.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.03,
+    "end": 190.99,
+    "text": "Now if we effectively illustrate a longer term auction process, you will very quickly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.99,
+    "end": 196.71,
+    "text": "realise how often the markets are actually distributing in a normal type distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.3,
+    "end": 202.3,
+    "text": "And lastly, a hi- a co-",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 202.56,
+    "end": 206.76,
+    "text": "Composite profiles illustrate which phase in the trend we are at.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.76,
+    "end": 210.84,
+    "text": "Now again, sometimes we tend to forget that we're in trending markets and if you were",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 210.84,
+    "end": 215.4,
+    "text": "to look at say a longer term profile, whether it's a couple of days or weeks or months,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.4,
+    "end": 220.16,
+    "text": "you'll very quickly realize whether or not we're trending and which phase of the trend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.16,
+    "end": 221.4,
+    "text": "we are in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.4,
+    "end": 227.16,
+    "text": "So those are just some of the reasons why we look at composite profiles as day traders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 231.86,
+    "end": 235.78,
+    "text": "a composite profile would be illustrated in the marketplace.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

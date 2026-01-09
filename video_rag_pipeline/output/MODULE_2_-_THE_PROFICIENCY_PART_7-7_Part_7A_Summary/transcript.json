@@ -1,0 +1,682 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.5,
+    "text": "Hi guys and welcome back to part 7a of the Blackboard Learning Series.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.5,
+    "end": 7.5,
+    "text": "Now what we spoke about...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.52,
+    "end": 10.72,
+    "text": "throughout predominantly part 7a was,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.72,
+    "end": 14.24,
+    "text": "we started off with two types of auction rotations",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.24,
+    "end": 15.68,
+    "text": "you can expect to find.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.68,
+    "end": 17.88,
+    "text": "And we said the first and most common",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.88,
+    "end": 21.32,
+    "text": "is where we have a lot of two-time framing going on.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.32,
+    "end": 22.32,
+    "text": "So what do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.32,
+    "end": 24.84,
+    "text": "Well, very simply, it's merely where we get",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 24.84,
+    "end": 28.12,
+    "text": "a lot of overlap between auction rotations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.12,
+    "end": 30.96,
+    "text": "Now, if this is our first auction rotation",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.96,
+    "end": 33.2,
+    "text": "and the next auction rotation,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.2,
+    "end": 34.68,
+    "text": "then the third auction rotation,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.82,
+    "end": 41.82,
+    "text": "and then maybe continue a little bit higher and then over the course of the day maybe head",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.82,
+    "end": 47.06,
+    "text": "a little bit lower and effectively all we're getting there is a lot of two way type auction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 47.06,
+    "end": 49.62,
+    "text": "rotations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.62,
+    "end": 55.7,
+    "text": "The more directional aggressive type is where we have a one time framing auction process",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.7,
+    "end": 62.74,
+    "text": "and that merely is where we have a series of higher lows and higher highs or equally",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.74,
+    "end": 66.18,
+    "text": "a series of lower highs and lower lows.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.64,
+    "end": 71.44,
+    "text": "The key identifier and what's important to understand is that when a market is either",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.44,
+    "end": 78.88,
+    "text": "one time framing up or one time framing down, there is a sense of control from either the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.88,
+    "end": 80.48,
+    "text": "buyers and the sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.48,
+    "end": 85.76,
+    "text": "We want to identify that control quite early so that we don't stand up against it but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.9,
+    "end": 98.74,
+    "text": "We then spoke very briefly about within these various auction rotations or individual TPO",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.74,
+    "end": 103.94,
+    "text": "auctions we spoke about volatility contraction and expansion.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.8,
+    "end": 117.84,
+    "text": "Contraction is nothing more than when we have very narrow TPO print.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.84,
+    "end": 125.36,
+    "text": "So very, very relatively small but we move from very wide to suddenly very small.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.36,
+    "end": 131.64,
+    "text": "Equally, volatility expansion is merely the opposite where we move from having relatively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.34,
+    "end": 138.32,
+    "text": "and then contracting again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.32,
+    "end": 141.7,
+    "text": "So again, we want to be able to differentiate between",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.7,
+    "end": 146.66,
+    "text": "contracting, volatility contraction within the auction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.66,
+    "end": 148.78,
+    "text": "rotations as well as expansion.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.78,
+    "end": 152.46,
+    "text": "And the reason is that we want to identify what created",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.46,
+    "end": 155.34,
+    "text": "that, what was the cause of that sudden shift in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.34,
+    "end": 158.64,
+    "text": "volatility, and then equally, why did we suddenly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.64,
+    "end": 159.42,
+    "text": "quieten down?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.42,
+    "end": 163.3,
+    "text": "Was it a case of we found responsive buying, was it a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.81,
+    "end": 173.73,
+    "text": "unwind what caused that volatility both contraction and expansion. Remember, every little piece",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.73,
+    "end": 179.61,
+    "text": "of information you interpret and understand will give you a better understanding of why",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 179.61,
+    "end": 185.69,
+    "text": "prices are trading where they are, but more importantly, we can utilize that information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.69,
+    "end": 194.25,
+    "text": "to make very objective probability hypothesis as to where price might go in future.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.18,
+    "end": 201.02,
+    "text": "We then moved on and we spoke about various types of market excess and we had a nice example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.02,
+    "end": 207.06,
+    "text": "with the Mr. Baker man who creates these loaves of bread and as he sells, as he gets a little",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.06,
+    "end": 211.92,
+    "text": "bit greedy and lifts the price of those loaves of bread, we start to see the demand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.92,
+    "end": 216.54,
+    "text": "wane or we start to see a less response in that auction process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.54,
+    "end": 220.78,
+    "text": "We spoke about these excesses how at various prices, whether they're excess to the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 224.78,
+    "end": 229.86,
+    "text": "a lack of interaction or two-way trade occurring when we get to these excesses.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.86,
+    "end": 235.82,
+    "text": "Some examples of excess that we spoke about include firstly tails.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.82,
+    "end": 243.58,
+    "text": "Now remember a tail isn't just a very quick sort of rotation away from high or low prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.8,
+    "end": 253.9,
+    "text": "Now invisible tail is the same as a tail except we don't always see it on the volume profile because it might not be the first",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 254.08,
+    "end": 260.44,
+    "text": "Letter of the day. So again just for a basic example if this is our initial trade we have our",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 261.16,
+    "end": 264.68,
+    "text": "initial balance buying tail and we can see that that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.86,
+    "end": 270.72,
+    "text": "tail holds over the period of the morning. That tail then is just a traditional opening",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 270.72,
+    "end": 276.32,
+    "text": "tail. Now, over the course of the day, we might move higher and suddenly we leave the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.32,
+    "end": 281.26,
+    "text": "following tail. So we leave an X tail where the market comes up, up, up, up, up, and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.26,
+    "end": 285.76,
+    "text": "suddenly the market leaves a big X tail. We return to the distribution of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 285.76,
+    "end": 288.76,
+    "text": "This now becomes a tail over the course of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 288.48,
+    "end": 294.52,
+    "text": "An invisible tail is nothing more than, let's say we came back up here a second time and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 294.52,
+    "end": 300.16,
+    "text": "suddenly we had a very, very aggressive rotation lower on the very next print.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 300.8,
+    "end": 305.36,
+    "text": "an equal and opposite almost, we came back up a second time and the market rejected straight",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 305.36,
+    "end": 311.56,
+    "text": "back down, showing us that that first tail is still very, very valid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 311.56,
+    "end": 316.8,
+    "text": "It seems invisible or it doesn't seem like a tail because we've obviously had a TPO",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 316.8,
+    "end": 318.56,
+    "text": "print there over the course of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 318.56,
+    "end": 325.12,
+    "text": "But an invisible tail is nothing more than a bit of volatility expansion off a key",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 328.66,
+    "end": 333.9,
+    "text": "So that was the different types of market excess, oh sorry, we then also spoke about",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 333.9,
+    "end": 340.06,
+    "text": "gaps being market excess and the definitions of gaps and why gaps occur as well as the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 340.06,
+    "end": 344.02,
+    "text": "different types of gaps being fundamental or technical.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 344.54,
+    "end": 351.44,
+    "text": "We then moved on to our last sort of section, which was the volume point of control.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 351.44,
+    "end": 356.14,
+    "text": "The key thing to understand about the volume point of control, it is the price within a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 356.14,
+    "end": 363.34,
+    "text": "volume profile that transacts the highest amount of volume over a period of a day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 369.95,
+    "end": 376.99,
+    "text": "a series, are there a series or a number of different prices that could have been the VPOC?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 376.99,
+    "end": 377.99,
+    "text": "What do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 377.99,
+    "end": 381.99,
+    "text": "For instance, if we have a whole bunch of prices and that is the VPOC relative to the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 381.99,
+    "end": 389.07,
+    "text": "average prices, or are there a few prices that potentially could have been the VPOC?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 389.07,
+    "end": 394.03,
+    "text": "These protruding ones tend to act as a sort of elastic band when the market moves",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 394.03,
+    "end": 395.03,
+    "text": "away.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 398.85,
+    "end": 405.25,
+    "text": "fill out, whereas these types of VPOCs, they're not as prominent and sometimes they may hold",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 405.25,
+    "end": 407.61,
+    "text": "initially or they may redirect.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 407.61,
+    "end": 412.19,
+    "text": "The important thing to understand with regards to the VPOC is that you can develop various",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 412.19,
+    "end": 417.33,
+    "text": "strategies around the highest traded price of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 417.33,
+    "end": 424.25,
+    "text": "Because we get a VPOC every single day, you can develop very, very specific strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 424.25,
+    "end": 428.13,
+    "text": "and execute those strategies in a highly successful manner.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 428.24,
+    "end": 435.72,
+    "text": "We will discuss a VPAC trade strategy within Module 2 and 3, so not to worry.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 435.72,
+    "end": 439.24,
+    "text": "That ends the Part 7A Blackboard series.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 439.24,
+    "end": 443.4,
+    "text": "Continue on with Part 7, and we'll see you again in Part 7B.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

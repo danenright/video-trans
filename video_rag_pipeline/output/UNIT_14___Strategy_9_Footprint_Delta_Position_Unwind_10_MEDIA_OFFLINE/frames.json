@@ -1,0 +1,74 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_10_MEDIA_OFFLINE/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_10_MEDIA_OFFLINE/frames/scene_0000_mid.jpg",
+    "time": 301.0,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_10_MEDIA_OFFLINE/frames/scene_0000_end.jpg",
+    "time": 601.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_10_MEDIA_OFFLINE/frames/scene_0001_start.jpg",
+    "time": 602.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_10_MEDIA_OFFLINE/frames/scene_0001_mid.jpg",
+    "time": 655.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_10_MEDIA_OFFLINE/frames/scene_0001_end.jpg",
+    "time": 708.1999999999999,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_10_MEDIA_OFFLINE/frames/scene_0002_start.jpg",
+    "time": 708.6,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_10_MEDIA_OFFLINE/frames/scene_0002_mid.jpg",
+    "time": 711.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_10_MEDIA_OFFLINE/frames/scene_0002_end.jpg",
+    "time": 714.0,
+    "width": 1366,
+    "height": 768
+  }
+]

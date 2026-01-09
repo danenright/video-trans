@@ -1,0 +1,50 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_12-15_Closing_Video/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_12-15_Closing_Video/frames/scene_0000_mid.jpg",
+    "time": 2.5,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_12-15_Closing_Video/frames/scene_0000_end.jpg",
+    "time": 4.8,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_12-15_Closing_Video/frames/scene_0001_start.jpg",
+    "time": 5.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_12-15_Closing_Video/frames/scene_0001_mid.jpg",
+    "time": 83.97916666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_12-15_Closing_Video/frames/scene_0001_end.jpg",
+    "time": 162.75833333333335,
+    "width": 960,
+    "height": 540
+  }
+]

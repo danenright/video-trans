@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_6-20_The_Market_Open_Opening_Patterns_with_Unique_Characteristics/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_6-20_The_Market_Open_Opening_Patterns_with_Unique_Characteristics/frames/scene_0000_mid.jpg",
+    "time": 97.02,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_2_-_THE_PROFICIENCY_PART_6-20_The_Market_Open_Opening_Patterns_with_Unique_Characteristics/frames/scene_0000_end.jpg",
+    "time": 193.84,
+    "width": 1920,
+    "height": 1080
+  }
+]

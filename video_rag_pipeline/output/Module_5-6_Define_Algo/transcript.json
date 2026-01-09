@@ -1,0 +1,218 @@
+[
+  {
+    "start": 1.04,
+    "end": 5.08,
+    "text": "Okay, let's now define an algorithm.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.08,
+    "end": 10.8,
+    "text": "There is a link that I want you to click on that explains you a little bit more in a little",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.8,
+    "end": 16.64,
+    "text": "bit more detail of what an algorithm is, but with the power of the internet, depending",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.64,
+    "end": 22.0,
+    "text": "on how far you want to go into this, you can really research into all the different",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.0,
+    "end": 28.04,
+    "text": "dynamics, but effectively an algorithm operates really on the premise, if this, then that.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.23,
+    "end": 37.61,
+    "text": "If the 50-day moving average crosses above the 200-day moving average, then it's going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 37.61,
+    "end": 41.45,
+    "text": "to purchase 50 bun contracts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.45,
+    "end": 52.87,
+    "text": "Or as another scenario, if it moves above the 200-day moving average, when there's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.26,
+    "end": 65.82,
+    "text": "after that moving average has occurred, then you're going to be buying 60 contracts in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.82,
+    "end": 70.54,
+    "text": "DAX market. So you can really put together a whole bunch of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.74,
+    "end": 78.14,
+    "text": "this then those then that scenarios in order to put the strategy in place and there's normally a testing system of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.46,
+    "end": 86.18,
+    "text": "that goes on with any development of any system where you does where you you have the hypothesis that you want to test and then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.18,
+    "end": 88.18,
+    "text": "you do the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.26,
+    "end": 94.98,
+    "text": "The the back testing then you then once the back testing is proven itself you go into design phase you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.1,
+    "end": 99.86,
+    "text": "Analyze it you you implement it and you experiment and that's effectively the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.37,
+    "end": 107.89,
+    "text": "the entire circle of developments for algorithmic systems and it's really important if you want to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 107.89,
+    "end": 113.41,
+    "text": "really investigate a little bit more just research into algorithmic systems but again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.41,
+    "end": 119.25,
+    "text": "it's the patterns that emanate from these systems that is really really important.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.97,
+    "end": 127.41,
+    "text": "So the types of algos you know are any algorithm that operates of certain types of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.74,
+    "end": 136.7,
+    "text": "events that occur as some algorithms wait for whenever the market trades above",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.7,
+    "end": 141.42,
+    "text": "the VWAP or below the VWAP and you have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.02,
+    "end": 148.58,
+    "text": "all these sophisticated or very simple execution strategies and really it's these patterns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.58,
+    "end": 153.66,
+    "text": "and if we can observe them as traders we can really execute effectively.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.66,
+    "end": 158.7,
+    "text": "So look at that link, research a little bit more into it so you can get a really grounded",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.7,
+    "end": 164.54,
+    "text": "understanding on what algorithms are but when you do research it, research it in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.5,
+    "end": 173.28,
+    "text": "the strategies on the price ladder and then how will you trade as a discretionary trader",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.28,
+    "end": 177.34,
+    "text": "when you observe these various patterns that you see on the price ladder.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

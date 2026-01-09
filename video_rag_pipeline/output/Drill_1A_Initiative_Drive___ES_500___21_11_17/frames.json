@@ -1,0 +1,66 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Drill_1A_Initiative_Drive___ES_500___21_11_17/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Drill_1A_Initiative_Drive___ES_500___21_11_17/frames/scene_0000_mid.jpg",
+    "time": 2332.35,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Drill_1A_Initiative_Drive___ES_500___21_11_17/frames/scene_0000_end.jpg",
+    "time": 4664.5,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Drill_1A_Initiative_Drive___ES_500___21_11_17/frames/scene_0001_start.jpg",
+    "time": 4664.9,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Drill_1A_Initiative_Drive___ES_500___21_11_17/frames/scene_0001_mid.jpg",
+    "time": 4667.25,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Drill_1A_Initiative_Drive___ES_500___21_11_17/frames/scene_0001_end.jpg",
+    "time": 4669.6,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Drill_1A_Initiative_Drive___ES_500___21_11_17/frames/scene_0002_start.jpg",
+    "time": 4670.0,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Drill_1A_Initiative_Drive___ES_500___21_11_17/frames/scene_0002_mid.jpg",
+    "time": 5247.9,
+    "width": 1920,
+    "height": 1080
+  }
+]

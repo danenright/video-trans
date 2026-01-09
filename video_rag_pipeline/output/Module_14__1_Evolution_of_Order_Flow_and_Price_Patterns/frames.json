@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_14__1_Evolution_of_Order_Flow_and_Price_Patterns/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_14__1_Evolution_of_Order_Flow_and_Price_Patterns/frames/scene_0000_mid.jpg",
+    "time": 9.68,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_14__1_Evolution_of_Order_Flow_and_Price_Patterns/frames/scene_0000_end.jpg",
+    "time": 19.16,
+    "width": 1920,
+    "height": 1080
+  }
+]

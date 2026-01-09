@@ -328,7 +328,12 @@ def step_build_chunks(
     force: bool = False,
 ) -> list:
     """Step 7: Build RAG-ready chunks."""
-    from vrag.chunk import build_chunks, load_chunks_jsonl, save_chunks_jsonl
+    from vrag.chunk import (
+        build_chunks,
+        build_chunks_from_transcript,
+        load_chunks_jsonl,
+        save_chunks_jsonl,
+    )
 
     chunks_path = artifact_path(run_dir, "chunks")
 
@@ -336,18 +341,34 @@ def step_build_chunks(
         logger.info("Skipping chunk building (cached)")
         return load_chunks_jsonl(chunks_path)
 
-    logger.info("Building chunks...")
     chunk_cfg = config.get("chunking", {})
-    chunks = build_chunks(
-        video_id=video_id,
-        scenes=scenes,
-        transcript=transcript,
-        frames=frames,
-        ocr=ocr_results,
-        captions=captions,
-        attach_ocr=chunk_cfg.get("attach_ocr", True),
-        attach_caption=chunk_cfg.get("attach_caption", True),
-    )
+    strategy = chunk_cfg.get("strategy", "scene")
+
+    if strategy == "transcript":
+        logger.info("Building chunks from transcript (word-based)...")
+        chunks = build_chunks_from_transcript(
+            video_id=video_id,
+            transcript=transcript,
+            frames=frames,
+            target_words=chunk_cfg.get("target_words", 350),
+            max_words=chunk_cfg.get("max_words", 650),
+            overlap_words=chunk_cfg.get("overlap_words", 60),
+            max_seconds=chunk_cfg.get("max_seconds", 180.0),
+            attach_frame_refs=chunk_cfg.get("attach_frame_refs", True),
+        )
+    else:
+        logger.info("Building chunks from scenes...")
+        chunks = build_chunks(
+            video_id=video_id,
+            scenes=scenes,
+            transcript=transcript,
+            frames=frames,
+            ocr=ocr_results,
+            captions=captions,
+            attach_ocr=chunk_cfg.get("attach_ocr", True),
+            attach_caption=chunk_cfg.get("attach_caption", True),
+        )
+
     save_chunks_jsonl(chunks_path, chunks)
     return chunks
 
@@ -493,11 +514,16 @@ def run_pipeline(
 
     ensure_dir(output_dir)
 
-    # Find videos
+    # Find videos (recursive by default)
     if video_filter:
         video_files = list(input_dir.glob(video_filter))
     else:
-        video_files = list(input_dir.glob("*.mp4")) + list(input_dir.glob("*.MP4"))
+        video_files = (
+            list(input_dir.rglob("*.mp4")) +
+            list(input_dir.rglob("*.MP4")) +
+            list(input_dir.rglob("*.avi")) +
+            list(input_dir.rglob("*.AVI"))
+        )
 
     if not video_files:
         logger.warning(f"No video files found in: {input_dir}")

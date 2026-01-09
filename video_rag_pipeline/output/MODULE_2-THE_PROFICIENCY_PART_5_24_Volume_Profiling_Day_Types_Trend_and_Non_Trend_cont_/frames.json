@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_2-THE_PROFICIENCY_PART_5_24_Volume_Profiling_Day_Types_Trend_and_Non_Trend_cont_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_2-THE_PROFICIENCY_PART_5_24_Volume_Profiling_Day_Types_Trend_and_Non_Trend_cont_/frames/scene_0000_mid.jpg",
+    "time": 32.86,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_2-THE_PROFICIENCY_PART_5_24_Volume_Profiling_Day_Types_Trend_and_Non_Trend_cont_/frames/scene_0000_end.jpg",
+    "time": 65.52,
+    "width": 1920,
+    "height": 1080
+  }
+]

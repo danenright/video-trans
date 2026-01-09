@@ -1,0 +1,74 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_15___Strategy_10_Risk_Event_Trading_10-17/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_15___Strategy_10_Risk_Event_Trading_10-17/frames/scene_0000_mid.jpg",
+    "time": 748.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_15___Strategy_10_Risk_Event_Trading_10-17/frames/scene_0000_end.jpg",
+    "time": 1497.3999999999999,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_15___Strategy_10_Risk_Event_Trading_10-17/frames/scene_0001_start.jpg",
+    "time": 1497.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_15___Strategy_10_Risk_Event_Trading_10-17/frames/scene_0001_mid.jpg",
+    "time": 2017.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_15___Strategy_10_Risk_Event_Trading_10-17/frames/scene_0001_end.jpg",
+    "time": 2536.4,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_15___Strategy_10_Risk_Event_Trading_10-17/frames/scene_0002_start.jpg",
+    "time": 2536.7999999999997,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_15___Strategy_10_Risk_Event_Trading_10-17/frames/scene_0002_mid.jpg",
+    "time": 3061.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_15___Strategy_10_Risk_Event_Trading_10-17/frames/scene_0002_end.jpg",
+    "time": 3585.6000000000004,
+    "width": 1366,
+    "height": 768
+  }
+]

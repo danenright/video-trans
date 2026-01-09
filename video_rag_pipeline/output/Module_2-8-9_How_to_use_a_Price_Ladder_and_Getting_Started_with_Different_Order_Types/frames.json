@@ -1,0 +1,18 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_2-8-9_How_to_use_a_Price_Ladder_and_Getting_Started_with_Different_Order_Types/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_2-8-9_How_to_use_a_Price_Ladder_and_Getting_Started_with_Different_Order_Types/frames/scene_0000_mid.jpg",
+    "time": 46.44,
+    "width": 1920,
+    "height": 1080
+  }
+]

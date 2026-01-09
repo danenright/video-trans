@@ -1,0 +1,18 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Exhaustion_high_and_low___ES_500___15_12_17/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Exhaustion_high_and_low___ES_500___15_12_17/frames/scene_0000_mid.jpg",
+    "time": 870.0,
+    "width": 1920,
+    "height": 1080
+  }
+]

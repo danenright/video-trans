@@ -1,0 +1,42 @@
+[
+  {
+    "start": 1.26,
+    "end": 6.3,
+    "text": "Excellent. Congratulations on completing part two.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.3,
+    "end": 10.62,
+    "text": "It's now time again to test that you understand the principles and concepts we've dealt with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.62,
+    "end": 14.54,
+    "text": "in part two. So answer the following questions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.54,
+    "end": 20.78,
+    "text": "Who are the three major market participants? What are their characteristics?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.78,
+    "end": 27.03,
+    "text": "What are the five main market timeframes that you can expect to see in the markets?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

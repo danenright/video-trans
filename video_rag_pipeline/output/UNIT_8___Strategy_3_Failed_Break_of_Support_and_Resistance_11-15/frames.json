@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_11-15/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_11-15/frames/scene_0000_mid.jpg",
+    "time": 396.15,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_8___Strategy_3_Failed_Break_of_Support_and_Resistance_11-15/frames/scene_0000_end.jpg",
+    "time": 792.0999999999999,
+    "width": 1366,
+    "height": 768
+  }
+]

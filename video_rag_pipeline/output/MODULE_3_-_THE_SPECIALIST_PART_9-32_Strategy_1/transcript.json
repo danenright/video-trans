@@ -1,0 +1,1554 @@
+[
+  {
+    "start": 1.1,
+    "end": 8.0,
+    "text": "We've now defined the anomaly strategies in terms of the various time frame plays that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 8.0,
+    "end": 13.32,
+    "text": "you can expect to see, the type of price action, whether initiative or responsive,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.32,
+    "end": 19.76,
+    "text": "time objective, volume and volatility, the potential for risk reward, as well as momentum",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.76,
+    "end": 21.72,
+    "text": "and the lack thereof.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.72,
+    "end": 26.04,
+    "text": "Now it's imperative you take all these definitions and you apply them to each one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.04,
+    "end": 29.26,
+    "text": "of the individual strategies that we go through.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.52,
+    "end": 34.44,
+    "text": "Now, as we go through the strategy, I'm going to cover some of the following elements.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.44,
+    "end": 41.16,
+    "text": "The name, the characteristics, the rules and preconditions for the trade, money management,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.16,
+    "end": 46.88,
+    "text": "execution, expectation analysis and emotion analysis, as well as the concept of constant",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.88,
+    "end": 53.4,
+    "text": "evaluation before we then move on and begin our series of replay functionality.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 53.97,
+    "end": 59.83,
+    "text": "Now, I will then apply each strategy with recent examples taken from the markets we've",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.83,
+    "end": 65.17,
+    "text": "discussed throughout this course, being the German Bund, the E-Money, the Eurodollar FX",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.17,
+    "end": 67.29,
+    "text": "and the WTI Oil.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.82,
+    "end": 74.1,
+    "text": "So, let's move straight into it now with our first strategy being the low volume value",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.1,
+    "end": 75.1,
+    "text": "area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.1,
+    "end": 78.82,
+    "text": "So, the first thing that we want to discuss is begin by giving it a name.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.82,
+    "end": 84.9,
+    "text": "Now, I've obviously given it the name the low volume value area and the reason is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.9,
+    "end": 90.32,
+    "text": "because obviously we see this characteristic or this low volume or set of single prints",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.32,
+    "end": 91.32,
+    "text": "that stick out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 91.32,
+    "end": 93.58,
+    "text": "So, for me that name makes sense.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 96.82,
+    "end": 103.62,
+    "text": "Then, the first characteristic that we're going to talk about is the idea of trade locations.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.62,
+    "end": 108.92,
+    "text": "So, firstly, you want to interpret where does this strategy occur, you know, at which",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.92,
+    "end": 109.92,
+    "text": "point?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.92,
+    "end": 113.86,
+    "text": "Is it inside the previous day's range or is it outside of the previous day's range?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.86,
+    "end": 119.14,
+    "text": "Is it from a balanced perspective with regards to the previous day or out of balance?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 119.14,
+    "end": 124.14,
+    "text": "All these sort of, you know, definitions we spoke about throughout Module 1 and 2,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 126.42,
+    "end": 128.6,
+    "text": "of the trade location.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.6,
+    "end": 133.18,
+    "text": "Then we talk about the single prints and the size of the single prints.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.18,
+    "end": 137.44,
+    "text": "Now the size of the single prints as you can see in this example is relatively large",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.44,
+    "end": 140.32,
+    "text": "but what happens if it was say half that size.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.32,
+    "end": 146.27,
+    "text": "Now the size is important because it tells us the strength of the initiative.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.27,
+    "end": 150.43,
+    "text": "Then the location of the initiative.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.16,
+    "end": 156.96,
+    "text": "break, or where do these single prints occur in terms of the trade location?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.96,
+    "end": 162.76,
+    "text": "Is it occurring at maybe a key technical support level, or is it occurring maybe within the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.76,
+    "end": 164.16,
+    "text": "previous day's range?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.16,
+    "end": 166.2,
+    "text": "At which point is it occurring?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.2,
+    "end": 171.84,
+    "text": "Again, by defining where it is occurring, it'll tell us how sustainable the initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.84,
+    "end": 175.16,
+    "text": "and the single prints are.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.28,
+    "end": 185.3,
+    "text": "Now, by level of conviction, again, this is more about what is the likelihood that this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.3,
+    "end": 187.92,
+    "text": "will hold or the initiative will hold.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.92,
+    "end": 193.42,
+    "text": "Some of the things we want to interpret there is in terms of location, are we inside the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 193.42,
+    "end": 195.04,
+    "text": "previous day's range or not?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.04,
+    "end": 196.64,
+    "text": "Are we balancing or not?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.64,
+    "end": 200.76,
+    "text": "Are we outside of the previous day or is there even positioning in the market?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.98,
+    "end": 206.26,
+    "text": "Don't forget, a lot of the time these single prints could be created because there is positioning",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.26,
+    "end": 209.16,
+    "text": "the wrong way around.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.16,
+    "end": 213.8,
+    "text": "The next characteristic we will discuss is volume and volatility.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.8,
+    "end": 218.48,
+    "text": "So the important thing to understand with regards to this is we need to see a pickup",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.67,
+    "end": 221.31,
+    "text": "in the volume as well as obviously the volatility.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.31,
+    "end": 226.11,
+    "text": "Now we've spoken in depth about volatility being nothing more than sort of an expansion",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 226.11,
+    "end": 231.73,
+    "text": "of the TPO or a much wider TPO relative to the rest of the day and we can see that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 231.73,
+    "end": 236.39,
+    "text": "in this basic example how the market was sort of moving relatively sideways before",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 236.39,
+    "end": 241.39,
+    "text": "we then got a bit of range expansion in the P and S prints.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 242.54,
+    "end": 247.66,
+    "text": "Now, again, another important aspect is that what we ideally want to see characteristically",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 247.66,
+    "end": 255.26,
+    "text": "is we want to see the TPO or the range being extended by at least a hundred percent.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 255.52,
+    "end": 262.08,
+    "text": "In other words, what we've created in terms of a range from 51.60 up to 52.10, we want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 262.08,
+    "end": 267.72,
+    "text": "to see at least 50 ticks to the downside, and again, this is more because this ensures",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 267.72,
+    "end": 274.92,
+    "text": "that we are actually seeing initiative instead of just maybe a short-term burst towards",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 274.92,
+    "end": 275.56,
+    "text": "the downside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.18,
+    "end": 280.54,
+    "text": "Then, it's key to interpret also the, you know, what are we running away from?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.54,
+    "end": 285.3,
+    "text": "Where are these single prints being initiative, you know, initiative being taken from?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 285.3,
+    "end": 290.3,
+    "text": "Now, what we mean by that is a market that, for instance, is trading, you know, or been",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.3,
+    "end": 295.68,
+    "text": "trading for some time in a tight range that then breaks lower versus a market that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 295.68,
+    "end": 299.26,
+    "text": "maybe has a much smaller distribution before breaking lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 300.32,
+    "end": 304.06,
+    "text": "more accepted or pronounced accepted area",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 304.06,
+    "end": 307.52,
+    "text": "has a higher probability of maybe selling off",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 307.52,
+    "end": 310.34,
+    "text": "but then also filling in for the rest of the session",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 310.34,
+    "end": 312.22,
+    "text": "versus the second example where we have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.22,
+    "end": 315.06,
+    "text": "a smaller accepted area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 315.06,
+    "end": 316.94,
+    "text": "And again, this is more to do with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 316.94,
+    "end": 320.14,
+    "text": "how the market has accepted various prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 320.14,
+    "end": 321.02,
+    "text": "over the period of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.02,
+    "end": 324.14,
+    "text": "So again, characteristically, we wanna define",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 324.14,
+    "end": 326.46,
+    "text": "what area are we breaking from,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 326.46,
+    "end": 329.94,
+    "text": "what has occurred in the area we are initiating from.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 331.06,
+    "end": 337.42,
+    "text": "Then, it's important to understand the rules and preconditions that we would like to see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.42,
+    "end": 339.02,
+    "text": "before taking this play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 339.02,
+    "end": 343.98,
+    "text": "Now, I'm going to go through them very briefly on the chart, but first and foremost, we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 343.98,
+    "end": 348.42,
+    "text": "want to see single prints or a low volume area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 348.42,
+    "end": 352.56,
+    "text": "We want to see volatility plus volume.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 354.11,
+    "end": 356.87,
+    "text": "Thirdly, at least 100% expansion.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 356.87,
+    "end": 359.15,
+    "text": "So these are three vital conditions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 359.15,
+    "end": 363.31,
+    "text": "We can see in this example, we can see the single prints",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 363.31,
+    "end": 364.71,
+    "text": "and with the low volume area, we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 364.71,
+    "end": 369.35,
+    "text": "can see a pickup in the volatility as explained.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 368.43,
+    "end": 376.09,
+    "text": "with the sudden shift in the R and S print, and we can also see a 100% range extension",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 376.09,
+    "end": 377.51,
+    "text": "as explained earlier.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 377.51,
+    "end": 381.77,
+    "text": "So straight away the preconditions are there, all the rules are there for us to take on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 381.77,
+    "end": 382.77,
+    "text": "this trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 385.17,
+    "end": 391.65,
+    "text": "When you see this sort of play, you don't want to fade, so you do not want to be sitting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 391.65,
+    "end": 395.93,
+    "text": "at this point looking to try and buy this market somewhere up.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 395.93,
+    "end": 397.35,
+    "text": "That is not the trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 397.35,
+    "end": 402.6,
+    "text": "We will go through the strategy or the actual execution in a minute.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 402.6,
+    "end": 407.76,
+    "text": "What is important in terms of rules is when we do enter on a pullback, we want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 414.35,
+    "end": 417.75,
+    "text": "Then in terms of the money management, well it's very simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 417.75,
+    "end": 422.87,
+    "text": "What we're trying to effectively do is we're trying to enter in terms of trade location",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 422.87,
+    "end": 425.19,
+    "text": "where we can manage the most effective risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 425.19,
+    "end": 430.47,
+    "text": "So in terms of the chart, if we're entering down for fresh shorts after a relatively,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 430.47,
+    "end": 436.67,
+    "text": "or after an almost 100% extension, we're putting ourselves in a relatively weak position",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 436.67,
+    "end": 437.67,
+    "text": "for shorts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 437.67,
+    "end": 441.85,
+    "text": "So it's very important that you understand in terms of the management, we're looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 443.63,
+    "end": 447.55,
+    "text": "single prints but after a decent pullback.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 447.55,
+    "end": 452.15,
+    "text": "In terms of the risk, once we've entered and the market has turned back towards the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 452.15,
+    "end": 457.67,
+    "text": "downside, as we can see in this example, we then place our stop above the point where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 457.67,
+    "end": 461.47,
+    "text": "the market pulled back and responsive sellers re-entered.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 462.51,
+    "end": 467.91,
+    "text": "Lastly, in terms of clip management, it's okay if you do enter a little bit early and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 467.91,
+    "end": 470.19,
+    "text": "go a little bit further off sides.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 470.19,
+    "end": 471.19,
+    "text": "That's not an issue.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 471.19,
+    "end": 475.91,
+    "text": "Remember, the first time you take this trade, there is still that little bit of initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 475.91,
+    "end": 476.91,
+    "text": "in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 476.91,
+    "end": 481.67,
+    "text": "It's okay to have a wider stop because, in essence, we're looking for a target back",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 484.21,
+    "end": 489.39,
+    "text": "attribution. So that would be our target. So note, we can see we have sufficient risk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 489.39,
+    "end": 494.49,
+    "text": "or sufficient reward to give ourselves a relatively decent stop.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 495.22,
+    "end": 502.08,
+    "text": "Now moving on in terms of the execution and how you take the strategy once the preconditions and rules have been met",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 502.08,
+    "end": 505.36,
+    "text": "It's very simple. We are looking for the first pullback",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 505.36,
+    "end": 511.76,
+    "text": "So the first time after this market showing the initiative we are looking to enter on the first pullback now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 511.76,
+    "end": 517.14,
+    "text": "It's very important to understand on the first pullback. You have to be aggressive, okay?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 517.14,
+    "end": 521.74,
+    "text": "So the first time we come back and find those you know responsive sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 522.38,
+    "end": 528.46,
+    "text": "Then you need to be aggressively looking for shorts, targeting the lower end of the distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 528.46,
+    "end": 531.42,
+    "text": "That is trade strategy number one.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 535.65,
+    "end": 541.29,
+    "text": "more passive on entry, so we don't want to be as aggressive, we still want to be short",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 541.29,
+    "end": 546.53,
+    "text": "so long as the initiative holds, we enter a second time passively, again our stop goes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 546.53,
+    "end": 553.69,
+    "text": "above and again we're looking for just a rotational type play in the second attempt.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 553.69,
+    "end": 557.05,
+    "text": "So that is how we would execute a low volume error.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 560.66,
+    "end": 566.5,
+    "text": "given all of our characteristics have been met so long as the low volume area or the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 566.5,
+    "end": 568.74,
+    "text": "initiative area remains.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 569.36,
+    "end": 574.9,
+    "text": "Now, just in terms of some of the expectation analysis and emotions, I won't spend too much",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 574.9,
+    "end": 579.28,
+    "text": "time on this as emotional analysis is very important, but I will give you a little bit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 579.28,
+    "end": 582.32,
+    "text": "of example of something that I would spend time with.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 582.32,
+    "end": 587.52,
+    "text": "Now, in terms of the emotional analysis, for me, by understanding that if I enter",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 587.52,
+    "end": 592.16,
+    "text": "too short in this example, maybe somewhere around here, I do have the potential to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 592.16,
+    "end": 597.7,
+    "text": "maybe head offside or maybe the market goes slightly against me, but by interpreting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 598.96,
+    "end": 605.16,
+    "text": "very early on, this will enable me to sit in the trade even when I do go offside because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 605.16,
+    "end": 610.32,
+    "text": "I've emotionally understood what the potential is in terms of my risk.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 610.32,
+    "end": 615.0,
+    "text": "So make sure that when you do talk about emotional analysis, make it personal, make",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 615.0,
+    "end": 620.24,
+    "text": "it so that it makes sense to you, but also that you understand from an emotional aspect",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 620.24,
+    "end": 623.04,
+    "text": "what you might experience in the trade strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 623.42,
+    "end": 629.1,
+    "text": "Then, in terms of some of the key expectation, time is a very important expectation in this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 629.1,
+    "end": 635.42,
+    "text": "because once we enter on that first pullback, we expect the market to relatively easily",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 635.42,
+    "end": 636.42,
+    "text": "auction low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 636.42,
+    "end": 637.42,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 640.18,
+    "end": 645.26,
+    "text": "We then get a first pullback and we should see some responsive sellers step in pretty",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 645.26,
+    "end": 647.74,
+    "text": "aggressively and move the market lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 647.74,
+    "end": 653.98,
+    "text": "So by definition, if we expect a strong response of selling on the first pullback by the token",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 653.98,
+    "end": 656.5,
+    "text": "of time, it shouldn't take that long.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 656.5,
+    "end": 658.66,
+    "text": "So allocate a number of time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 658.66,
+    "end": 665.18,
+    "text": "In this instance, I would say a maximum of three TPO's in order to complete the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 666.48,
+    "end": 671.72,
+    "text": "If it takes more than three GPOs, then we exit, okay, because the expectation has not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 671.72,
+    "end": 674.01,
+    "text": "been met.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 674.01,
+    "end": 678.67,
+    "text": "So that then, what you would then do is, you would constantly take this trade setup",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 678.67,
+    "end": 682.35,
+    "text": "and you would constantly adjust it in terms of the characteristics, the rules, the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 682.35,
+    "end": 687.19,
+    "text": "money management, the execution, as well as some of the expectation analysis.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 687.19,
+    "end": 691.57,
+    "text": "And you would constantly evolve the strategy so that it's constantly improving your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 691.57,
+    "end": 692.97,
+    "text": "overall profitability.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 694.03,
+    "end": 702.79,
+    "text": "Now, let's now move on, you know, to an example of the, you know, where we would see this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 702.79,
+    "end": 706.95,
+    "text": "play playing out in slightly different, you know, conditions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 706.95,
+    "end": 711.95,
+    "text": "So let's just move to the next slide and I can show you some of the different variations",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 717.04,
+    "end": 723.56,
+    "text": "So the first we would look at is the German Buntenia, and as you can see, again, this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 723.56,
+    "end": 728.54,
+    "text": "is now a day two low-volume area, so this would be our day one, and this would be our",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 728.54,
+    "end": 731.54,
+    "text": "day two, but the definition still remains the same.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 731.54,
+    "end": 735.96,
+    "text": "You can see our characteristic, we have our little bit of an accepted area, we have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 735.96,
+    "end": 740.28,
+    "text": "our little bit of single prints, low-volume area, relatively small set of single prints,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 740.28,
+    "end": 745.0,
+    "text": "and then the next day, notice how the market respects that low-volume area, and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 746.13,
+    "end": 749.57,
+    "text": "First time around, we get that buy side opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 749.57,
+    "end": 752.99,
+    "text": "And again, notice it takes, what, three TPO's.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 753.3,
+    "end": 757.78,
+    "text": "then we can get out around this cue print and then it comes back a second",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 757.78,
+    "end": 762.86,
+    "text": "time. It tries to attempt the fill-in but fails before then rotating higher",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 762.86,
+    "end": 769.46,
+    "text": "and forming an inside day. So again a second example of what the low volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 769.46,
+    "end": 773.14,
+    "text": "area strategy would work like just with a slightly you know looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 773.14,
+    "end": 778.01,
+    "text": "slightly different as it's two day over two days.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 776.66,
+    "end": 785.38,
+    "text": "Then, our third example would be where we have, again, a low volume error or a low volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 785.38,
+    "end": 786.38,
+    "text": "error.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 786.38,
+    "end": 789.9,
+    "text": "But as we can see in this example, notice how the market is almost ...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 790.16,
+    "end": 795.92,
+    "text": "slowly moving outside of the previous day's value, so it's almost as though the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 795.92,
+    "end": 797.8,
+    "text": "was firmly imbalanced.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 797.8,
+    "end": 801.76,
+    "text": "The next day we've kind of come in, we've spent a little bit of time in the Euro dollar",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 801.76,
+    "end": 806.28,
+    "text": "in the overnight session within the previous day's value, before the market relatively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 811.15,
+    "end": 817.47,
+    "text": "Just important to interpret with these three examples is how we've gone from a trade location",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 817.47,
+    "end": 823.21,
+    "text": "where we have a very convicted low volume area to a less convicted low volume area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 823.21,
+    "end": 825.39,
+    "text": "Let's just illustrate what we mean by that.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 825.39,
+    "end": 830.67,
+    "text": "In the first example, we spoke about how we had an initiative move in the same day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 830.67,
+    "end": 835.15,
+    "text": "where the market left a really large set of single prints and we could have been",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 838.26,
+    "end": 844.62,
+    "text": "The second example, we spoke about having it the second day, so again we had a low volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 844.62,
+    "end": 850.34,
+    "text": "area low down and we spent the next day within the previous day's accepted area but again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 850.34,
+    "end": 852.78,
+    "text": "looking for buy side opportunities.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 852.78,
+    "end": 857.62,
+    "text": "And the third example, as you can see in front of you, was where we again had our",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 857.62,
+    "end": 862.64,
+    "text": "sort of previous day's value but spent a little bit of overnight session before",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 864.74,
+    "end": 868.5,
+    "text": "All three examples are an example of the low-valued strategy,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 868.5,
+    "end": 872.5,
+    "text": "but all three examples, sort of, the outcome varies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 872.5,
+    "end": 876.66,
+    "text": "from very confident move to slightly less confident move.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 877.2,
+    "end": 883.08,
+    "text": "Those are then the three types of examples you'd expect to see in the low volume strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 883.08,
+    "end": 887.44,
+    "text": "So now that we've dealt with them, let's go and take a live example, a live recent",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 887.44,
+    "end": 893.32,
+    "text": "example using the German Bund, and I can show you with our replay functionality not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 893.32,
+    "end": 899.12,
+    "text": "just where the characteristics are, but also how we execute over a live market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

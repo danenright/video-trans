@@ -1,0 +1,506 @@
+[
+  {
+    "start": 0.72,
+    "end": 5.68,
+    "text": "We spoke a little bit in part six about excess and and you know how the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.68,
+    "end": 9.4,
+    "text": "forms tops and bottoms and we're now going to revisit that idea and just talk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.4,
+    "end": 13.08,
+    "text": "a little bit further about excess just get a little bit more understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.08,
+    "end": 17.56,
+    "text": "behind you know how and why the market forms you know excess tops and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 17.56,
+    "end": 23.56,
+    "text": "bottoms so very briefly market excess you know when the market in order for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.56,
+    "end": 27.8,
+    "text": "it to find discount and premium prices sometimes the market needs to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.34,
+    "end": 35.56,
+    "text": "Sometimes price will go a long, long way and it won't make sense, but the only reason that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.56,
+    "end": 40.48,
+    "text": "auctions at these points is because, remember, the objective of the market is to facilitate",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.48,
+    "end": 46.42,
+    "text": "trade between longer-term buyers and sellers, so that is why sometimes prices need to go",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.42,
+    "end": 52.02,
+    "text": "very, very high to find where are those sellers and very, very low to find where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.02,
+    "end": 57.11,
+    "text": "are those buyers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.61,
+    "end": 60.29,
+    "text": "An example I sometimes use with the younger guys to illustrate this concept of excess",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.29,
+    "end": 61.83,
+    "text": "is a baker.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.83,
+    "end": 67.73,
+    "text": "So let's say for instance a baker bakes a thousand loaves at say $50.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 67.73,
+    "end": 74.29,
+    "text": "Now the cost of, the price being advertised for these loaves is crucially important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.29,
+    "end": 77.69,
+    "text": "as to how many people are going to physically buy his loaves.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.54,
+    "end": 89.02,
+    "text": "Okay, you'll straight away, or sorry, yeah, to $55, you will see that we still have, you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.02,
+    "end": 94.22,
+    "text": "know, someone or a thousand demanding, you know, those loads at $55.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.22,
+    "end": 94.98,
+    "text": "So again...",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.2,
+    "end": 98.52,
+    "text": "markets are accepting price or buyers and sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.52,
+    "end": 101.56,
+    "text": "are happy to engage at this price. However",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.56,
+    "end": 104.88,
+    "text": "once we move the price up to 60, notice how",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.88,
+    "end": 108.52,
+    "text": "the demand for their initial 1000 loaves suddenly drops",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.52,
+    "end": 112.52,
+    "text": "to 800. So straight away we can see that as price moves higher",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.52,
+    "end": 119.52,
+    "text": "we're not getting quite the same demand as we had when prices were lower.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.12,
+    "end": 124.12,
+    "text": "So what happens then? The market quickly moves back towards fair price. So just a very basic",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.3,
+    "end": 131.3,
+    "text": "illustration of what happens when the market moves from fair value, moves toward excess",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.38,
+    "end": 138.89,
+    "text": "and then very quickly moves back towards fair value.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.21,
+    "end": 139.53,
+    "text": "Now note three forms of excess we find the first is a gap",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.53,
+    "end": 144.37,
+    "text": "So a price gap is where the market opens substantially high or low from the closing price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.57,
+    "end": 149.49,
+    "text": "these gaps can be created for a fundamental or a technical reason and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 149.93,
+    "end": 157.85,
+    "text": "Note technical gaps are far more likely to be filled than fundamental gaps and the basic premise is very simple",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.94,
+    "end": 163.18,
+    "text": "When a market technically gaps, or when a market gaps as a result of say overnight moves",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.18,
+    "end": 170.2,
+    "text": "or maybe aggressive sort of price response from the previous day, or an aggressive open",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.2,
+    "end": 176.04,
+    "text": "strategy, well a lot of the time these gaps will be filled as there's very little fundamentals",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.04,
+    "end": 177.24,
+    "text": "underlying the move.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.69,
+    "end": 187.09,
+    "text": "don't need to fill for one, they don't always fill, and they can actually take sometimes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.09,
+    "end": 194.55,
+    "text": "very very long, up to years to fill as the market very quickly sort of moves away from",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.55,
+    "end": 195.55,
+    "text": "accepted price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.55,
+    "end": 200.95,
+    "text": "Now the good example to use is, obviously recently this year when we had the Brexit,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.95,
+    "end": 207.09,
+    "text": "if you go look, the gap in the sterling versus dollar up at 151, somewhere there,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.57,
+    "end": 213.85,
+    "text": "may take a couple of years for the market to fill out. However that gap remains and it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.85,
+    "end": 220.85,
+    "text": "will remain until such a point that the fundamentals either change or there's a good reason for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 220.85,
+    "end": 222.53,
+    "text": "the markets to revisit that point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.31,
+    "end": 228.67,
+    "text": "The second form of access is tails, now we get two types of tails, the first is the invisible",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.67,
+    "end": 229.67,
+    "text": "tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.67,
+    "end": 237.51,
+    "text": "Now it's a relatively simple but very important sort of market access to consider.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.98,
+    "end": 244.46,
+    "text": "When we have a normal tail you would be able to identify quite easily on a volume profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 244.46,
+    "end": 245.96,
+    "text": "because it sticks out.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.96,
+    "end": 250.7,
+    "text": "Now an invisible tail doesn't quite stick out that easily, but all an invisible tail",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.7,
+    "end": 255.26,
+    "text": "is, is it's a very aggressive auction within the day's range.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 255.65,
+    "end": 262.45,
+    "text": "It's where market very quickly initiates from one point to another and continues to initiate.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 262.45,
+    "end": 268.05,
+    "text": "An invisible tail is nothing more than an initiative move taken by the buyers or sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.05,
+    "end": 272.93,
+    "text": "but within the already established range of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.42,
+    "end": 278.04,
+    "text": "And I will show you an example of this in the next slide, so do not worry too much if",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 278.04,
+    "end": 280.82,
+    "text": "you don't understand the invisible tail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.82,
+    "end": 286.34,
+    "text": "Then obviously the open tail or what we like to think of as the high or the low or the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.34,
+    "end": 291.58,
+    "text": "extreme tail, an example we saw back in part 6.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 291.58,
+    "end": 296.72,
+    "text": "Now the open tail is the tail left within the first hour of trade, so the initial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 303.02,
+    "end": 309.1,
+    "text": "as it shows us early confidence in the market to move toward the upside or to the downside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 309.1,
+    "end": 314.78,
+    "text": "So now we've discussed these three basic forms of excess, the reason we're discussing them",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 314.78,
+    "end": 320.26,
+    "text": "is because these forms of excess give us early identifiers, they give us an early",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 320.26,
+    "end": 324.82,
+    "text": "indication of potential movement toward the up or the downside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

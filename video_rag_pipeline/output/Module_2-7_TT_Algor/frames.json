@@ -1,0 +1,146 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0000_mid.jpg",
+    "time": 19.8125,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0000_end.jpg",
+    "time": 39.425,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0001_start.jpg",
+    "time": 39.825,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0001_mid.jpg",
+    "time": 52.166666666666664,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0001_end.jpg",
+    "time": 64.50833333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0002_start.jpg",
+    "time": 64.90833333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0002_mid.jpg",
+    "time": 71.77083333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0002_end.jpg",
+    "time": 78.63333333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0003_start.jpg",
+    "time": 79.03333333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0003_mid.jpg",
+    "time": 95.41666666666666,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0003_end.jpg",
+    "time": 111.8,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0004_start.jpg",
+    "time": 112.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0004_mid.jpg",
+    "time": 131.1875,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0004_end.jpg",
+    "time": 150.175,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0005_start.jpg",
+    "time": 150.575,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0005_mid.jpg",
+    "time": 161.33333333333331,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/Module_2-7_TT_Algor/frames/scene_0005_end.jpg",
+    "time": 172.09166666666667,
+    "width": 960,
+    "height": 540
+  }
+]

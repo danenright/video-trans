@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_10-7_Strategy_3/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_10-7_Strategy_3/frames/scene_0000_mid.jpg",
+    "time": 288.1666666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_10-7_Strategy_3/frames/scene_0000_end.jpg",
+    "time": 576.1333333333333,
+    "width": 960,
+    "height": 540
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "start": 0.98,
+    "end": 6.89,
+    "text": "Welcome to part four. In part four we're going to discuss four important elements.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.89,
+    "end": 12.36,
+    "text": "First we're going to discuss volume profiling anomalies. We're then going to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.36,
+    "end": 18.36,
+    "text": "move on to the basic process of trading using volume profiles. I'm then going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 18.36,
+    "end": 24.0,
+    "text": "to show you a very basic trade strategy using volume profiles. We will",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 24.0,
+    "end": 30.76,
+    "text": "then finish off by me giving you a nice tutorial on how to set up your",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.44,
+    "end": 34.52,
+    "text": "volume profiles using your free demo with trading technologies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.52,
+    "end": 38.65,
+    "text": "Let's now get into part four, trading anomalies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.65,
+    "end": 41.67,
+    "text": "So what is a volume profile anomaly?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.67,
+    "end": 47.79,
+    "text": "Well, very simply, an anomaly is anything that shouldn't be there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 47.79,
+    "end": 52.21,
+    "text": "It's anything that looks different to what is normally there.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.28,
+    "end": 60.58,
+    "text": "Now the wonderful thing with using volume profiles is because we're used to seeing the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.58,
+    "end": 65.5,
+    "text": "same pattern or very similar patterns all the time, when we do get one of these anomalies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 65.5,
+    "end": 69.19,
+    "text": "it does stick out like a golden fish.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.19,
+    "end": 72.95,
+    "text": "The more important thing to understand is when you see these anomalies, whilst they",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 72.95,
+    "end": 76.91,
+    "text": "are rare, they do present unique trading strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.7,
+    "end": 86.58,
+    "text": "I will show you some key strategies using these anomalies as we progress into Module",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.58,
+    "end": 88.54,
+    "text": "2 and 3.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.54,
+    "end": 94.94,
+    "text": "So the basic type of anomaly, one, a non-symmetrical profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.94,
+    "end": 98.06,
+    "text": "Non-symmetrical means non-normal distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.06,
+    "end": 102.9,
+    "text": "Now this just means something that's not normally distributed or not the normal shape",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 102.9,
+    "end": 105.06,
+    "text": "that we're used to seeing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.06,
+    "end": 116.51,
+    "text": "things like gaps and things like volume skew. These anomalies give us very important information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.51,
+    "end": 121.31,
+    "text": "about what and how buyers and sellers are interacting with one another and they do",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.31,
+    "end": 127.86,
+    "text": "present unique trading strategies. Another type of anomaly is a poor auction extreme.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.86,
+    "end": 139.06,
+    "text": "What do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 129.1,
+    "end": 135.5,
+    "text": "Well, we expect when a market makes a high or a low, we expect that it makes a high based",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.5,
+    "end": 140.58,
+    "text": "on very little buy-side action and quite a lot of sell-side action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.58,
+    "end": 145.94,
+    "text": "So when a market makes a bad high, or we see quite a lot of buy-side action at a high",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.94,
+    "end": 150.82,
+    "text": "or a lot of sell-side action at a low, we tend to call that a poorly auctioned",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.82,
+    "end": 152.32,
+    "text": "high or low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.32,
+    "end": 157.94,
+    "text": "This anomaly presents an opportunity, either on the same day or on the following days.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 159.25,
+    "end": 165.09,
+    "text": "So why do we identify these anomalies? Well, as we said before, these anomalies will present",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.09,
+    "end": 169.73,
+    "text": "unique trading strategies. We will discuss these strategies in depth as we move into",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.73,
+    "end": 170.73,
+    "text": "Module 2 and 3.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

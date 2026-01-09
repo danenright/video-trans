@@ -1,0 +1,18 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Drill_1B_Failed_Break_S_R___Oil_17_11_17_9__with_guided_tuition_/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Drill_1B_Failed_Break_S_R___Oil_17_11_17_9__with_guided_tuition_/frames/scene_0000_mid.jpg",
+    "time": 255.1,
+    "width": 1920,
+    "height": 1080
+  }
+]

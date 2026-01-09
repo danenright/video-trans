@@ -1,0 +1,26 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_15__8_The_Core_Practice_an_Elite_Order_Flow_Trader_Employs_During_his_Career/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_15__8_The_Core_Practice_an_Elite_Order_Flow_Trader_Employs_During_his_Career/frames/scene_0000_mid.jpg",
+    "time": 91.12,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_15__8_The_Core_Practice_an_Elite_Order_Flow_Trader_Employs_During_his_Career/frames/scene_0000_end.jpg",
+    "time": 182.04000000000002,
+    "width": 1920,
+    "height": 1080
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_11-7_Strategy_7_Characteristics/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_11-7_Strategy_7_Characteristics/frames/scene_0000_mid.jpg",
+    "time": 404.875,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_11-7_Strategy_7_Characteristics/frames/scene_0000_end.jpg",
+    "time": 809.55,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_11-7_Strategy_7_Characteristics/frames/scene_0001_start.jpg",
+    "time": 809.95,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_11-7_Strategy_7_Characteristics/frames/scene_0001_mid.jpg",
+    "time": 816.75,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/MODULE_3_-_THE_SPECIALIST_PART_11-7_Strategy_7_Characteristics/frames/scene_0001_end.jpg",
+    "time": 823.55,
+    "width": 960,
+    "height": 540
+  }
+]

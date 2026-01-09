@@ -48,13 +48,12 @@ Thumbs.db
 video_rag_pipeline/videos/
 
 # Output directories (large generated files)
-video_rag_pipeline/output/
+# video_rag_pipeline/output/ - now tracked (minus wav files)
 knowledge_platform/data/vectordb/
 knowledge_platform/data/compiled/
 knowledge_platform/data/specs/
 
 # Keep directory structure
-!video_rag_pipeline/output/.gitkeep
 !knowledge_platform/data/vectordb/.gitkeep
 !knowledge_platform/data/compiled/.gitkeep
 !knowledge_platform/data/specs/.gitkeep

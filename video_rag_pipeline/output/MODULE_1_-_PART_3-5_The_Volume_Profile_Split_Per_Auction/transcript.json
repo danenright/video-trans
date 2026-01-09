@@ -1,0 +1,482 @@
+[
+  {
+    "start": 0.98,
+    "end": 4.58,
+    "text": "So now that we've seen the volume profile as an entire distribution",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 4.58,
+    "end": 11.74,
+    "text": "I'm now going to show you how we can open up the profile and view each single auction within the day's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.42,
+    "end": 14.42,
+    "text": "distribution so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.0,
+    "end": 16.64,
+    "text": "what we're going to do is we're just going to split the profile",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.64,
+    "end": 21.2,
+    "text": "per auction. Again, later on I will show you how you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.2,
+    "end": 25.76,
+    "text": "set up your profiles, how you can manage your profiles, adjust them",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.76,
+    "end": 27.52,
+    "text": "according to how you want to view them,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 27.52,
+    "end": 30.72,
+    "text": "and utilize them in such a manner that you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.72,
+    "end": 34.32,
+    "text": "get highly effective information out of them. So",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.58,
+    "end": 45.02,
+    "text": "with the open price illustrated with an O and the closed price where the next TPO opens.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.02,
+    "end": 49.94,
+    "text": "So note, what you're seeing here visually is nothing more than the previous distribution",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.94,
+    "end": 58.62,
+    "text": "except we've now opened it up to view every single TPO or every single 30 minute TPO",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 58.62,
+    "end": 61.22,
+    "text": "that occurred over the course of the session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.22,
+    "end": 67.62,
+    "text": "As you can see, each one begins with an O and each one closes where the next price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.83,
+    "end": 77.15,
+    "text": "Now, the reason we have a look at the individual auctions and why they're important is that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.15,
+    "end": 82.77,
+    "text": "we are able to see strength and weaknesses within each auction that takes place over",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 82.77,
+    "end": 84.03,
+    "text": "the course of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 84.03,
+    "end": 88.67,
+    "text": "So sometimes a lot of traders will just merely look at their profiles closed up",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.67,
+    "end": 93.03,
+    "text": "for the entire session and they miss a lot of information that is happening within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.03,
+    "end": 94.53,
+    "text": "each one of the auctions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.53,
+    "end": 98.87,
+    "text": "So it's important to find a balance between opening up the profiles and keeping them",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 101.01,
+    "end": 106.53,
+    "text": "Note, viewing the auction process in this manner will illustrate four key points.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.53,
+    "end": 112.05,
+    "text": "The first is, when either buyer or seller is in control, it can last for a few TPO's.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 112.05,
+    "end": 116.39,
+    "text": "Now, as a rule of thumb, I have a little bit of an expression or a saying.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.39,
+    "end": 121.29,
+    "text": "When a market is moving in one direction, it's a lot like a big ship, a big tanker,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.29,
+    "end": 123.45,
+    "text": "oil tanker coming into a harbour.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.18,
+    "end": 132.1,
+    "text": "just like the markets. The markets very rarely turn around",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 132.1,
+    "end": 135.3,
+    "text": "and very aggressively reverse in one direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.3,
+    "end": 139.94,
+    "text": "So by opening up the profiles we're able to see the individual auctions",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.94,
+    "end": 140.94,
+    "text": "taking place.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.94,
+    "end": 145.66,
+    "text": "And when a buyer or a seller is in control it takes quite a long time for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.66,
+    "end": 146.94,
+    "text": "it to actually eventually",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.94,
+    "end": 153.94,
+    "text": "turn around.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.02,
+    "end": 151.7,
+    "text": "knowing this is extremely powerful information because it means that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.7,
+    "end": 155.7,
+    "text": "even if we wish to go counter trend sometimes we just have to be a little",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 155.7,
+    "end": 156.58,
+    "text": "bit patient",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.58,
+    "end": 160.58,
+    "text": "for our trade to play out. The next reason that we want to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.58,
+    "end": 164.22,
+    "text": "illustrate it this way around is that we see most of the two-way trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.22,
+    "end": 165.74,
+    "text": "occurring where price is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.74,
+    "end": 172.74,
+    "text": "being accepted and the lease trade where price is being rejected.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.33,
+    "end": 175.87,
+    "text": "So, by opening it up, we can see where the market accepts price, where buyers and sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.87,
+    "end": 180.69,
+    "text": "are happily transacting with one another, and equally we can see where buyers and sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.69,
+    "end": 183.53,
+    "text": "are not transacting with one another.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.53,
+    "end": 187.27,
+    "text": "In the example we can see here, where we created these two tails with the A print",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.27,
+    "end": 191.77,
+    "text": "at the bottom and the Y print at the top, we can see with the A print that buyers very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 191.77,
+    "end": 197.33,
+    "text": "quickly rejected lower prices, and at the top we can see sellers very quickly rejected",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.33,
+    "end": 198.59,
+    "text": "higher prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 198.67,
+    "end": 203.6,
+    "text": "by opening it up, we can visually see the trajectory of prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 203.6,
+    "end": 209.0,
+    "text": "The next reason we want to split is that we can identify hidden auction tails, as mentioned",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 209.0,
+    "end": 214.0,
+    "text": "before, and these auction tails will show us strength from buyers and sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.26,
+    "end": 221.3,
+    "text": "And the fourth reason is we can see where price volatility expands and contracts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 221.3,
+    "end": 222.46,
+    "text": "What do we mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.46,
+    "end": 228.66,
+    "text": "In other words, when we have small ranges within an auction, as you can see, we have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.87,
+    "end": 237.53,
+    "text": "and then the market suddenly, when we have the V print,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 237.53,
+    "end": 242.09,
+    "text": "the market suddenly opens up, so we can see a sudden shift in volatility.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 242.09,
+    "end": 245.25,
+    "text": "So opening up the auction process in this way",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.25,
+    "end": 249.05,
+    "text": "will show us when there's suddenly a shift in the auction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 249.05,
+    "end": 252.65,
+    "text": "that is occurring between buyers and seller, and this sort of information",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 252.65,
+    "end": 256.13,
+    "text": "is extremely vital to us as traders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 256.13,
+    "end": 257.13,
+    "text": "when making trading decisions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

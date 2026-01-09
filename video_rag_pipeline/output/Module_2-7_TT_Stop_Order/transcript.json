@@ -1,0 +1,266 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.36,
+    "text": "TT provides a suite of TT algos that enable traders to customize their order execution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.36,
+    "end": 9.12,
+    "text": "With TT Stop, you can define a number of ticks at which to trail the market,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.12,
+    "end": 12.32,
+    "text": "offset the submission of your order a number of ticks once triggered,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 12.32,
+    "end": 16.32,
+    "text": "define the time and force, and more. If we had an open long position of five",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.32,
+    "end": 21.04,
+    "text": "contracts in the e-mini S&P and wanted to enter a stop order to exit our position,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 21.04,
+    "end": 26.48,
+    "text": "instead of using a native exchange stop order, we can use a TT Stop to customize the behavior.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.48,
+    "end": 29.28,
+    "text": "When we select TT Stop from the list of order types,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.47,
+    "end": 32.23,
+    "text": "we see a flyout menu where we can enter our parameters.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.23,
+    "end": 34.67,
+    "text": "For our TT stop order, let's trail the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 34.67,
+    "end": 36.83,
+    "text": "by three ticks from the last traded price,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.83,
+    "end": 39.47,
+    "text": "and when triggered, submit a limit order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.47,
+    "end": 41.87,
+    "text": "We can apply a positive or negative offset,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 41.87,
+    "end": 43.87,
+    "text": "which will place our order the specified number",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.87,
+    "end": 47.0,
+    "text": "of ticks away from the inside market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 47.0,
+    "end": 49.26,
+    "text": "With this stop order, we want to send a limit order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 49.26,
+    "end": 51.04,
+    "text": "one tick beyond the trigger price,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.04,
+    "end": 53.2,
+    "text": "so we will set the offset to minus one.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 54.64,
+    "end": 57.2,
+    "text": "We place our order and can see the parent order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.2,
+    "end": 60.16,
+    "text": "three ticks from the last traded price in our MD trader",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 60.16,
+    "end": 62.1,
+    "text": "with both the audit log and order book",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.1,
+    "end": 63.82,
+    "text": "displaying the trigger price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.82,
+    "end": 66.42,
+    "text": "As the market rallies, our sell stop moves up,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.42,
+    "end": 69.06,
+    "text": "trailing the last traded price by three ticks.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.06,
+    "end": 70.42,
+    "text": "When the market comes back down",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.42,
+    "end": 71.98,
+    "text": "and trades at our trigger price,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.98,
+    "end": 74.76,
+    "text": "a child limit order is submitted to the exchange",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.76,
+    "end": 76.9,
+    "text": "one tick beyond the last traded price,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.9,
+    "end": 78.76,
+    "text": "which fills almost immediately.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.76,
+    "end": 81.54,
+    "text": "As you can see, TT Stop gives you the flexibility",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.54,
+    "end": 83.8,
+    "text": "to customize the behavior of your stop orders.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.78,
+    "end": 88.82,
+    "text": "such as triggering your order off of last traded price, bid, or ask, the ability to trail the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.82,
+    "end": 92.9,
+    "text": "market, as well as providing traders the option to set a customized time and force.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.9,
+    "end": 97.62,
+    "text": "For more information on TT Algos, visit our website at TradingTechnologies.com.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

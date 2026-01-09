@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.39,
+    "end": 10.95,
+    "text": "The neutral day. So the neutral day is where a buyer and a seller agree on fair value quite",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.95,
+    "end": 20.39,
+    "text": "easily and quite often. Now both timeframes are very active within this day type and they",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.39,
+    "end": 26.59,
+    "text": "tend to initiate until they run into responsive and then they tend to reverse and the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.94,
+    "end": 39.46,
+    "text": "Initial balance range for the neutral day will be between a normal day, so very, very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.46,
+    "end": 42.66,
+    "text": "wide, and between a trend day, which can be small or medium.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.66,
+    "end": 47.94,
+    "text": "So the initial balance size of a neutral day can be relatively average.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 47.94,
+    "end": 52.78,
+    "text": "As you can see in the example, the market trades on both sides of the initial balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.78,
+    "end": 58.54,
+    "text": "So whilst we had in the first example, we had the market trading the entire session",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.94,
+    "end": 69.28,
+    "text": "both sides of the initial balance. More importantly, it tends to reject both sides of the initial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 70.06,
+    "end": 76.78,
+    "text": "This rejection, or once we re-enter the initial balance, this gives us sort of an early identifier",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 76.78,
+    "end": 80.54,
+    "text": "that we are likely to take up the other side of the initial balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.54,
+    "end": 85.06,
+    "text": "So a very important strategy that a lot of traders look for is once we've taken out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.06,
+    "end": 90.72,
+    "text": "one side of the initial balance and shown some sort of reversal type indications,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.72,
+    "end": 94.82,
+    "text": "we then look to target the other side of the initial balance being broken.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 95.17,
+    "end": 100.59,
+    "text": "Again, this is another important non-trending type day type.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 100.59,
+    "end": 104.63,
+    "text": "Note, we do extend the initial balance on both sides.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.63,
+    "end": 108.55,
+    "text": "We then have two types of closes and this is important to pay attention.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.55,
+    "end": 109.69,
+    "text": "We have a neutral close.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.69,
+    "end": 115.15,
+    "text": "Now a neutral close is where the close of the market occurs within value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 115.15,
+    "end": 121.59,
+    "text": "So a pretty ordinary close where neither buyer nor seller kind of victoriously wins",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.35,
+    "end": 128.19,
+    "text": "However, when we get a neutral extreme close, this is where the market shuts at either the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.19,
+    "end": 130.11,
+    "text": "high or the low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 130.11,
+    "end": 135.79,
+    "text": "When we do have one of these extreme closes, this is giving us quite an early signal for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.79,
+    "end": 137.31,
+    "text": "the next day's trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.31,
+    "end": 138.31,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 143.17,
+    "end": 148.19,
+    "text": "As you can see in the two examples provided, the first one we have a relatively neutral",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.19,
+    "end": 151.67,
+    "text": "close where the market traded both sides of the initial balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.67,
+    "end": 156.19,
+    "text": "The second example is where we traded both sides of the initial balance but we had an",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.19,
+    "end": 158.25,
+    "text": "extreme close.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 158.25,
+    "end": 163.99,
+    "text": "In an extreme close situation, we would be looking for early buy side opportunities",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 163.99,
+    "end": 165.49,
+    "text": "in the next day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.49,
+    "end": 168.67,
+    "text": "We will discuss these sorts of strategies as we move along further.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

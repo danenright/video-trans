@@ -1,0 +1,642 @@
+[
+  {
+    "start": 0.59,
+    "end": 5.07,
+    "text": "Now let's look at the other type, the trending type of market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.07,
+    "end": 9.79,
+    "text": "So as you can see, a trending market occurs 20-30% of the time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.79,
+    "end": 12.67,
+    "text": "Now again, this is not a hard fast percentage.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.21,
+    "end": 23.69,
+    "text": "majority of the time the markets are bracketing and ranging, whereas very very seldom or far",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.69,
+    "end": 28.41,
+    "text": "less likely are markets trending. Now again, this varies guys, when there's a lot of fundamentals",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.41,
+    "end": 33.89,
+    "text": "in the market, when there's a lot of central bank action, then it's likely we see trends",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.89,
+    "end": 39.27,
+    "text": "occurring more often, but central banks and fundamentals can go quiet for quite",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.4,
+    "end": 46.2,
+    "text": "Take for example 2014, we saw a lot of bracketing markets because there was very little going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.2,
+    "end": 50.48,
+    "text": "on as all the central banks had kind of almost reached rock bottom and were already sort",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.48,
+    "end": 52.04,
+    "text": "of into their QE program.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.04,
+    "end": 57.84,
+    "text": "So crucially you understand that these bracketing and trending markets do change and they",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.84,
+    "end": 62.64,
+    "text": "do shift and the important thing for you to understand is not necessarily what the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 62.64,
+    "end": 68.52,
+    "text": "percentages are but what are the identifiers of when we move between bracketing and trending",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.49,
+    "end": 75.45,
+    "text": "So let's look at trending markets and some of the characteristics firstly markets are said to be trending when there is very little",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 75.97,
+    "end": 81.81,
+    "text": "Responsive other time frame participants. So remember bracketing we said buyers initiate at lower prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.81,
+    "end": 88.09,
+    "text": "They continue to initiate until they run into responsive sellers when they run into responsive sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 88.13,
+    "end": 93.21,
+    "text": "Those sellers as prices move higher will eventually turn into initiative sellers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.63,
+    "end": 99.87,
+    "text": "That initiative then forces prices lower and eventually buyers stop initiating and they",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.87,
+    "end": 105.55,
+    "text": "then turn to responsive buyers at lower prices again and this continues over a period of time.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.27,
+    "end": 110.61,
+    "text": "The reverse is the trending market. There is very little responsive. Now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.61,
+    "end": 113.85,
+    "text": "just give you a basic example just to illustrate this.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.85,
+    "end": 118.03,
+    "text": "If you were to look at for instance this volume profile we have as an",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.03,
+    "end": 118.65,
+    "text": "example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.65,
+    "end": 122.49,
+    "text": "let's say for instance that a new piece of news came out and that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.49,
+    "end": 127.25,
+    "text": "OPEC delegates had decided that they were going to pump to record",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.25,
+    "end": 131.0,
+    "text": "oil inventories and what occurred over the period of the day was",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.0,
+    "end": 135.04,
+    "text": "prices continue to sell off all day. Now straight away you've got to say",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.04,
+    "end": 135.8,
+    "text": "to yourself",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.05,
+    "end": 141.05,
+    "text": "Who in their right mind, as a longer-term institution, you know it's influential, who",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.05,
+    "end": 146.05,
+    "text": "would look to want to stand against something very, you know, fundamentals that are very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.05,
+    "end": 147.69,
+    "text": "new to the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.69,
+    "end": 151.21,
+    "text": "And if you think of it that way, you'll quickly realize why no one would want to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.21,
+    "end": 153.01,
+    "text": "be a responsive buyer.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.01,
+    "end": 156.73,
+    "text": "Now, it's not to say that you won't get any kind of buying.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.73,
+    "end": 157.73,
+    "text": "Of course you will.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 157.73,
+    "end": 161.81,
+    "text": "This would be much shorter timeframe buying, you know, liquidity providers, you know,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 165.36,
+    "end": 171.16,
+    "text": "liquidity but again relatively speaking there will be very little muted",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.16,
+    "end": 175.86,
+    "text": "response of buying and that's the key to identifying whether a market is trending",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 175.86,
+    "end": 179.98,
+    "text": "or bracketing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.54,
+    "end": 183.08,
+    "text": "We said to be trending when there's a strong divergence of price away from fair value.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 183.08,
+    "end": 188.12,
+    "text": "So again, it's crucial to always interpret and look, where was maybe the previous day's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 188.12,
+    "end": 189.12,
+    "text": "fair value?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.12,
+    "end": 192.2,
+    "text": "Where did the market accept price the previous day?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.2,
+    "end": 197.28,
+    "text": "As well as however we've been accepting price over the last couple of sessions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 197.28,
+    "end": 201.8,
+    "text": "If you find all of a sudden that we've been accepting value relatively well and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 201.8,
+    "end": 206.2,
+    "text": "all of a sudden on one day the market very quickly begins to move away from fair",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.82,
+    "end": 211.89,
+    "text": "identifier of potential trend that could be developing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 211.89,
+    "end": 218.41,
+    "text": "Then trending when a series of day auctions moving in a clear direction, so one-time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.41,
+    "end": 219.41,
+    "text": "framing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.41,
+    "end": 223.61,
+    "text": "Again, I will illustrate one-time framing for you at some point, but again, just important,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.61,
+    "end": 229.25,
+    "text": "one-time framing is a control factor where we see the auctions moving in one direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 230.29,
+    "end": 235.73,
+    "text": "And then we have very minimal overlap of value areas. We will talk about overlap of value",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 235.73,
+    "end": 241.41,
+    "text": "areas again at a later point, but by overlap we merely mean if the value area today was",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 241.41,
+    "end": 246.77,
+    "text": "say between the price of $30 and $40, minimal overlap would mean if tomorrow we suddenly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 246.77,
+    "end": 253.77,
+    "text": "trade between $20 and $30. So very little overlap between today's value area and the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.77,
+    "end": 256.96,
+    "text": "previous value area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 261.18,
+    "end": 264.38,
+    "text": "initiative or responsive. And we're going to talk about this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 264.38,
+    "end": 268.22,
+    "text": "as we go a little further along. I'm going to show you some interesting examples",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.22,
+    "end": 271.5,
+    "text": "and we're going to develop some strategies based on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 271.5,
+    "end": 275.66,
+    "text": "finding those, not necessarily guessing where those",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 275.66,
+    "end": 278.82,
+    "text": "tops are, but I'm going to show you a couple of key clues",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 278.82,
+    "end": 282.08,
+    "text": "that the market gives you when it is trying to actually turn around",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.08,
+    "end": 285.22,
+    "text": "and we run into some form of responsive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 287.44,
+    "end": 292.6,
+    "text": "So we get three parts to a trend phase and this is crucial to understand because again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 292.6,
+    "end": 296.74,
+    "text": "you need to be thinking about these factors when developing your strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 296.74,
+    "end": 301.56,
+    "text": "So you get the early part of a trend which is the trendsetters and this is the phase",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 301.56,
+    "end": 307.44,
+    "text": "where effectively a new piece of information is in the market, participants want to aggressively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 307.44,
+    "end": 312.2,
+    "text": "initiate because prices are trading at an extreme discount or an extreme premium based",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.2,
+    "end": 316.04,
+    "text": "on the new information so that's the early part of the trend.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.04,
+    "end": 322.36,
+    "text": "part of the trend or the maturing phase of the trend.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 322.36,
+    "end": 326.48,
+    "text": "This is kind of the point where the information is still being priced, it's still relatively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 326.48,
+    "end": 331.64,
+    "text": "good to trade, but we're starting to run into a little bit more responsive type price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 331.64,
+    "end": 332.64,
+    "text": "action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 332.64,
+    "end": 338.28,
+    "text": "Then we've sort of got the end phase, which is where we run into other timeframe initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 338.28,
+    "end": 339.56,
+    "text": "sellers or buyers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 339.56,
+    "end": 342.84,
+    "text": "That's the point where we almost get a little bit of an overshoot based on the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 342.84,
+    "end": 344.64,
+    "text": "information received.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 346.26,
+    "end": 351.62,
+    "text": "phases to a trend, so whether you catch it early on or in the mature phase or in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 351.62,
+    "end": 358.62,
+    "text": "late phase, you can develop various strategies just based on what point of the actual trend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 358.62,
+    "end": 359.34,
+    "text": "that we are in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

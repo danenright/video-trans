@@ -1,0 +1,218 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0000_mid.jpg",
+    "time": 16.066659399969847,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0000_end.jpg",
+    "time": 31.933318799939695,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0001_start.jpg",
+    "time": 32.3333187999397,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0001_mid.jpg",
+    "time": 39.533315453037844,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0001_end.jpg",
+    "time": 46.73331210613598,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0002_start.jpg",
+    "time": 47.13331210613599,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0002_mid.jpg",
+    "time": 310.36652629277853,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0002_end.jpg",
+    "time": 573.599740479421,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0003_start.jpg",
+    "time": 573.9997404794211,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0003_mid.jpg",
+    "time": 575.799739574853,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0003_end.jpg",
+    "time": 577.5997386702849,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0004_start.jpg",
+    "time": 577.999738670285,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0004_mid.jpg",
+    "time": 1132.7328210161313,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0004_end.jpg",
+    "time": 1687.4659033619778,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0005_start.jpg",
+    "time": 1687.8659033619779,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0005_mid.jpg",
+    "time": 1791.799189597467,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0005_end.jpg",
+    "time": 1895.7324758329562,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0006_start.jpg",
+    "time": 1896.1324758329563,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0006_mid.jpg",
+    "time": 1923.7991298959746,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0006_end.jpg",
+    "time": 1951.4657839589927,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0007_start.jpg",
+    "time": 1951.8657839589928,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0007_mid.jpg",
+    "time": 2011.0324237750638,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 7,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0007_end.jpg",
+    "time": 2070.199063591135,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 8,
+    "kind": "start",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0008_start.jpg",
+    "time": 2070.599063591135,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 8,
+    "kind": "mid",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0008_mid.jpg",
+    "time": 2140.6990317955674,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 8,
+    "kind": "end",
+    "path": "output/UNIT_14___Strategy_9_Footprint_Delta_Position_Unwind_1-6/frames/scene_0008_end.jpg",
+    "time": 2210.799,
+    "width": 1366,
+    "height": 768
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0000_mid.jpg",
+    "time": 126.49175999008223,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0000_end.jpg",
+    "time": 252.78351998016447,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0001_start.jpg",
+    "time": 253.18351998016445,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0001_mid.jpg",
+    "time": 288.9868672259184,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0001_end.jpg",
+    "time": 324.79021447167236,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0002_start.jpg",
+    "time": 325.19021447167233,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0002_mid.jpg",
+    "time": 389.49621162031485,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0002_end.jpg",
+    "time": 453.80220876895737,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0003_start.jpg",
+    "time": 454.20220876895735,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0003_mid.jpg",
+    "time": 456.0023947270548,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0003_end.jpg",
+    "time": 457.8025806851523,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0004_start.jpg",
+    "time": 458.20258068515227,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0004_mid.jpg",
+    "time": 681.5833670812843,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0004_end.jpg",
+    "time": 904.9641534774163,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0005_start.jpg",
+    "time": 905.3641534774164,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0005_mid.jpg",
+    "time": 936.5870748791272,
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/Module_9_Practical_Example_2/frames/scene_0005_end.jpg",
+    "time": 967.8099962808379,
+    "width": 1280,
+    "height": 720
+  }
+]

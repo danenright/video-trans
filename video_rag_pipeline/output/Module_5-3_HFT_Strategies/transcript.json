@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.71,
+    "end": 9.13,
+    "text": "Okay, let's have an understanding of the various types of HFT strategies and as you can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 9.13,
+    "end": 14.03,
+    "text": "in the video it's really the depiction of effectively the world of the matrix.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.03,
+    "end": 22.83,
+    "text": "A lot of people look at it as these really sophisticated quants and mathematical geniuses",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.83,
+    "end": 25.39,
+    "text": "who design these machines.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 29.74,
+    "end": 31.74,
+    "text": "human abilities on our own.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.48,
+    "end": 38.36,
+    "text": "Ability to decipher markers from the the the financial future space",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 38.48,
+    "end": 41.84,
+    "text": "so our traders on our trading floors of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.96,
+    "end": 44.96,
+    "text": "99% of them are discretionary traders and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 45.64,
+    "end": 52.8,
+    "text": "And many of them are able to decipher patterns from the algorithms a lot more effectively and quicker",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 52.8,
+    "end": 56.3,
+    "text": "so don't ever be intimidated by the space because",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.24,
+    "end": 61.84,
+    "text": "Until until the machine can replicate this master operating",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 61.78,
+    "end": 69.6,
+    "text": "system that we have within our skill, I would think that they're a long way from having",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.6,
+    "end": 74.14,
+    "text": "the ability to compete with the discretionary trader.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.74,
+    "end": 79.94,
+    "text": "Now HFT strategies, let's define HFT in algorithms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.86,
+    "end": 87.1,
+    "text": "Again, as I mentioned, this is a formality section with no exercises, but necessary for the rest of the training program",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 87.7,
+    "end": 93.32,
+    "text": "because when we talk in quite a few of our ladder videos and we start illustrating various training strategies and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.14,
+    "end": 97.54,
+    "text": "and plays on on the order book and the price ladder",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.94,
+    "end": 104.3,
+    "text": "we will make some references to certain types of algorithms that we might be observing in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.34,
+    "end": 108.9,
+    "text": "marketplace. Again most of the section is a self-study section to understand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 108.9,
+    "end": 116.16,
+    "text": "your major participants in the marketplace and before we clearly",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 116.16,
+    "end": 121.0,
+    "text": "define them we will look at look at their place in the global financial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.0,
+    "end": 125.4,
+    "text": "market participant ecosystem and why it's important to understand them as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.4,
+    "end": 135.89,
+    "text": "they actively contribute towards 70% of intraday market liquidity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.42,
+    "end": 140.86,
+    "text": "Then we also look at the types of market participants whilst we look through this entire ecosystem",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.86,
+    "end": 147.46,
+    "text": "and the spectrum of market participants, which really has depth to the nth degree, but we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 147.46,
+    "end": 151.38,
+    "text": "look at really the major ones that we're trying to define.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.38,
+    "end": 160.46,
+    "text": "I want you to click on that link just for you to understand the HFT, the participants,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.16,
+    "end": 166.16,
+    "text": "gain a firm grasping.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

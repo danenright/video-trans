@@ -1,0 +1,1442 @@
+[
+  {
+    "start": 0.46,
+    "end": 6.86,
+    "text": "Welcome back guys to part eight of the learning blackboard learning series, so",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.18,
+    "end": 14.38,
+    "text": "Where we got going in part eight was we started again with the control variables and understanding",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 14.38,
+    "end": 19.06,
+    "text": "what some of the early identifiers are, where there is control being exhibited by either",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.06,
+    "end": 22.7,
+    "text": "the buyers or the sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.7,
+    "end": 28.94,
+    "text": "We made mention back in part seven about the stronger control variables and then the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.94,
+    "end": 31.34,
+    "text": "weaker control variables.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.46,
+    "end": 42.5,
+    "text": "these control identifiers is because we want to understand, so for us, we want to interpret",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.5,
+    "end": 48.34,
+    "text": "and understand what is going to occur at let's say this being the previous high of the day",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 48.34,
+    "end": 53.46,
+    "text": "or this being the previous low of the day. In other words, what type of control variables",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 56.93,
+    "end": 63.25,
+    "text": "Let's take, for example, say now we had quite a significant high in place and we got back",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.25,
+    "end": 64.69,
+    "text": "to this high.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.69,
+    "end": 69.01,
+    "text": "What we want to see is either we're going to get strength in these control variables,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 69.01,
+    "end": 74.93,
+    "text": "so maybe we see some tails, maybe we see some low volume areas, and we see strength",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 74.93,
+    "end": 79.01,
+    "text": "as we take out this key referencing point in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 79.01,
+    "end": 83.97,
+    "text": "Now that strength or that identifier that's showing strength, whether it's a low volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.22,
+    "end": 92.62,
+    "text": "Now, that string is guiding us to interpret and understand what the next or what the likelihood",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.62,
+    "end": 99.22,
+    "text": "is for a continuation of prices, and that would most likely be to the upside given",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.22,
+    "end": 101.94,
+    "text": "we've got strong control variables.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.86,
+    "end": 113.3,
+    "text": "Again, a significant low in the market, we came to this point, we bounced off, we came",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.3,
+    "end": 118.7,
+    "text": "back, we retested, we bounced off, we came back and we retested the third time, leaving",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 118.7,
+    "end": 124.66,
+    "text": "what we could call a very bad low and the market started to navigate away from it.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.66,
+    "end": 131.34,
+    "text": "Now, again, we want to interpret what did we expect to see at that low versus what",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 136.46,
+    "end": 141.74,
+    "text": "places to what we expect to see at various referencing points in the markets, we can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 141.74,
+    "end": 148.34,
+    "text": "then begin to develop hypothesis whereby we expect to see continuation if we don't",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.34,
+    "end": 153.1,
+    "text": "get these control variables, we don't initiate the strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 153.28,
+    "end": 160.4,
+    "text": "Equally, to the downside, once we get this weak control variable, we can then look to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 160.4,
+    "end": 167.48,
+    "text": "initiate strategies which would look to eventually correct the bad low or the anomaly in the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 167.48,
+    "end": 168.48,
+    "text": "market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 168.48,
+    "end": 173.84,
+    "text": "So that is what we spoke about when talking about control identifiers, but more important,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 173.84,
+    "end": 181.46,
+    "text": "using those control identifiers whilst developing strategies or hypotheses within the volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 181.46,
+    "end": 182.12,
+    "text": "profile.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 182.5,
+    "end": 187.94,
+    "text": "We then moved on and we spoke about three unique patterns that you're going to see not",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 187.94,
+    "end": 192.74,
+    "text": "just in this module but in the following modules and we're going to talk quite extensively",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 192.74,
+    "end": 199.3,
+    "text": "about them over time and those three types of patterns were firstly trend, which can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.3,
+    "end": 203.74,
+    "text": "be illustrated with a lot of initiative and small distributions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.42,
+    "end": 215.22,
+    "text": "P distribution where the market shows initiative from sellers, it runs so we see initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 215.22,
+    "end": 222.18,
+    "text": "selling, we run into very aggressive responsive buying, the market then quickly forces out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.18,
+    "end": 226.32,
+    "text": "the short so we get a bit of profit take until we find responsive sellers and the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 227.66,
+    "end": 233.8,
+    "text": "sideways. Our third pattern was with the B-shape, which is the long liquidation. Again, buyers",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 233.8,
+    "end": 242.8,
+    "text": "initiate until they run into responsive sellers. We then see buyers being forced out of their",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 242.8,
+    "end": 247.84,
+    "text": "positions until we run into responsive buying again and then the market distributes and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.74,
+    "end": 254.62,
+    "text": "The important thing to understand with all three of these",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 254.62,
+    "end": 258.76,
+    "text": "price, all three of these types of patterns",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 258.76,
+    "end": 263.0,
+    "text": "is that we can develop unique strategies based on them.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.0,
+    "end": 265.32,
+    "text": "Now, I'm gonna go through each one of these individually",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 265.32,
+    "end": 268.92,
+    "text": "and I'm gonna show you where the key pinch points are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.92,
+    "end": 270.66,
+    "text": "within each one of these strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 270.66,
+    "end": 272.12,
+    "text": "Now, we're gonna start off with a trend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 272.12,
+    "end": 275.1,
+    "text": "because this is probably the easiest day type to trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 275.1,
+    "end": 278.3,
+    "text": "Now, what catches a lot of people out on this day type",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.02,
+    "end": 287.02,
+    "text": "to one, because we're so used to seeing the markets distributing and not trending and bracketing,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 287.02,
+    "end": 292.02,
+    "text": "there's a high tendency that we sometimes pick up on this trend a little bit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 292.21,
+    "end": 298.17,
+    "text": "too late. As a result of this, by the time the trend is well set and developed, if we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 298.17,
+    "end": 303.33,
+    "text": "cannot psychologically bring ourselves back to what we're seeing objectively in front of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 303.33,
+    "end": 308.71,
+    "text": "us, we tend to spend the day actually fading the trend for most of it. So again, it's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 308.71,
+    "end": 314.21,
+    "text": "not a flaw, it's just that a lot of the time, trend days, they're relatively rare,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 314.21,
+    "end": 319.13,
+    "text": "so when we do see them, we have a tendency to almost not believe in them. And that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.49,
+    "end": 327.19,
+    "text": "the trend, to early identify the trend and become aggressive, get very handsomely rewarded",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 327.19,
+    "end": 328.87,
+    "text": "when there is trend in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 328.87,
+    "end": 334.03,
+    "text": "Now, the key first identifier would be tails, whether that's at the top, whether that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 334.03,
+    "end": 335.03,
+    "text": "at the bottom.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 335.03,
+    "end": 337.63,
+    "text": "That's the first thing we want to look for is tails.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.63,
+    "end": 342.83,
+    "text": "Any kind of initiative from the open, whether that's an open drive or an open test",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 342.83,
+    "end": 343.83,
+    "text": "drive.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 343.83,
+    "end": 346.11,
+    "text": "So first thing is, where do we open?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 346.11,
+    "end": 350.15,
+    "text": "Alright, second thing is, are we balancing or are we unbalanced?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 350.64,
+    "end": 357.24,
+    "text": "Typically, you would find that markets tend to trend from a balanced distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 357.24,
+    "end": 363.48,
+    "text": "It's very unusual that we see a market trending when it's completely out of balance.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 363.48,
+    "end": 370.0,
+    "text": "It might be within range, within value area where the market opens and then drives out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 370.0,
+    "end": 372.84,
+    "text": "and shows that initiative and trend very early on.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 373.15,
+    "end": 377.13,
+    "text": "Then the important thing to understand is the control variables.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 377.13,
+    "end": 382.07,
+    "text": "We want to see control variables such as the low volume errors, the low volume errors,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 382.07,
+    "end": 385.31,
+    "text": "the multiple distributions, the multiple small distributions.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 385.31,
+    "end": 391.19,
+    "text": "These control variables are showing us the control being exhibited by the buyers over",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 391.19,
+    "end": 392.99,
+    "text": "the course of the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 392.99,
+    "end": 393.99,
+    "text": "Let's draw that again.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 394.99,
+    "end": 399.55,
+    "text": "then the fact that the VPOC continually moves up the page,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 399.55,
+    "end": 401.63,
+    "text": "again, another control variable,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 401.63,
+    "end": 404.35,
+    "text": "but all these variables are showing us",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 404.35,
+    "end": 406.63,
+    "text": "strength within the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 406.63,
+    "end": 408.55,
+    "text": "Now, in terms of strategy,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 408.55,
+    "end": 411.59,
+    "text": "it is the most simplest trade strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 411.59,
+    "end": 414.17,
+    "text": "where you just want to, in this example,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 414.17,
+    "end": 415.95,
+    "text": "you just want to be a buyer.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 415.9,
+    "end": 421.82,
+    "text": "all day long. Now, we can lean on a number of variables, starting with the initial balance,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 421.82,
+    "end": 427.78,
+    "text": "high or low, that can be an early identifier, but equally how we respond on the break of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 427.78,
+    "end": 432.74,
+    "text": "that initial high or low. Now, typically what you'll find is, in a trend day, you",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 432.74,
+    "end": 437.1,
+    "text": "will typically see when the market breaks the initial balance, high or low, if we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 439.73,
+    "end": 444.81,
+    "text": "Typically, we would find the market very quickly auctions away from it, leaves a low volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 444.81,
+    "end": 448.69,
+    "text": "area before continuing in that direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 448.69,
+    "end": 453.13,
+    "text": "So, this is what we would typically see in a trend day type.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 454.03,
+    "end": 459.79,
+    "text": "So, as you can see, with a trend day, there's a lot of characteristics that define the trend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 459.79,
+    "end": 460.79,
+    "text": "day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 460.79,
+    "end": 464.59,
+    "text": "There's a lot of objective sort of pointers that the market shows us.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 464.59,
+    "end": 469.15,
+    "text": "It's just a lot of the time, we almost psychologically get bluffed out of a trend",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 469.15,
+    "end": 470.15,
+    "text": "day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 472.93,
+    "end": 474.55,
+    "text": "all day long.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 474.55,
+    "end": 478.93,
+    "text": "When we do run into response to sellers in this instance, it is okay to try shorts, but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 478.93,
+    "end": 485.09,
+    "text": "remember in a trend day with this initiative, the pain will be felt going against the trend.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 485.09,
+    "end": 490.33,
+    "text": "In this day type, if you're not going to go with the flow, rather don't go against",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 490.33,
+    "end": 495.33,
+    "text": "it because it can do a lot of damage to confidence, to P&L, to understanding and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 495.33,
+    "end": 496.13,
+    "text": "interpretation.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 496.42,
+    "end": 504.66,
+    "text": "So that's our first strategy play, then our next one would be the P shape or the short",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 504.66,
+    "end": 507.54,
+    "text": "profit taking type move that the market exhibits.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 507.54,
+    "end": 512.9,
+    "text": "Now it's very simple, the first thing to understand before we employ a strategy is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 512.9,
+    "end": 514.82,
+    "text": "what creates the pattern.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 516.88,
+    "end": 521.32,
+    "text": "Step one, we have initiative selling, so strong selling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 521.32,
+    "end": 525.08,
+    "text": "It tends to occur at the end of a maturing trend,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 525.08,
+    "end": 526.96,
+    "text": "and we get that initiative and aggressive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 526.96,
+    "end": 528.6,
+    "text": "quite earlier in the day.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 528.6,
+    "end": 531.6,
+    "text": "So again, you will see strong control variables in this.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 531.6,
+    "end": 536.4,
+    "text": "You'll see wider TPO's, more volatile TPO's,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 536.4,
+    "end": 539.9,
+    "text": "expanded ranges within the auction process.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 539.9,
+    "end": 543.72,
+    "text": "It then runs into a key bottom where, again,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 546.19,
+    "end": 552.67,
+    "text": "auction process, so it's unusual in this day type, a P or a B for that matter, to see a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 552.67,
+    "end": 558.53,
+    "text": "loss of momentum extreme. Remember we spoke about the three types of extremes, one loss",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 558.53,
+    "end": 564.11,
+    "text": "of momentum and then the two types of excess. More often than not, you're going to see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 564.11,
+    "end": 571.14,
+    "text": "a V-type or an inverse V-type reversal pattern.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 569.36,
+    "end": 576.68,
+    "text": "So, you get that equal and opposite type reversal, the market then eventually runs into responsive",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 576.68,
+    "end": 577.68,
+    "text": "sellers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 577.68,
+    "end": 583.2,
+    "text": "So, initially we had initiative sellers, and then we ran into responsive buying, and then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 583.2,
+    "end": 587.6,
+    "text": "we run into responsive selling, they're no longer initiative, they're merely just",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 587.6,
+    "end": 590.3,
+    "text": "responding to higher prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 590.3,
+    "end": 594.68,
+    "text": "That response then forms the two-way trade and the distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 594.68,
+    "end": 597.36,
+    "text": "Now, the strategy is very simple in this play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 597.73,
+    "end": 605.37,
+    "text": "Firstly, when we see that exhaustive type of V-reversal, okay, we want to be ensuring",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 605.37,
+    "end": 607.77,
+    "text": "that we're not sitting there selling this.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 607.94,
+    "end": 614.62,
+    "text": "on the way back up because what we then do is we're almost putting ourselves in a position",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 614.62,
+    "end": 619.7,
+    "text": "whereby we cannot take advantage when it finally runs into responsive subtle.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 619.7,
+    "end": 623.94,
+    "text": "So the first thing to understand is when we do get this, you know, this little bit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 623.94,
+    "end": 629.66,
+    "text": "of a P shape or this profit taking from shorts, the bounce tends to be a lot deeper",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 629.66,
+    "end": 630.66,
+    "text": "than normal.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 630.66,
+    "end": 635.86,
+    "text": "So traditional things like Fibonacci's or, you know, those sorts of tools can come",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 635.86,
+    "end": 636.86,
+    "text": "in handy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 637.23,
+    "end": 643.11,
+    "text": "of a profile, well it's very typical that if this was the current day or the previous",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 643.11,
+    "end": 649.99,
+    "text": "day's area, we broke lower before reversing, it's very typical that we're going to retest",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 649.99,
+    "end": 652.59,
+    "text": "the previous day's accepted area.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 652.59,
+    "end": 659.35,
+    "text": "You can use that, maybe the VPOC or the value area low of the previous day as a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 659.35,
+    "end": 664.59,
+    "text": "potential target for where we might then run into fresh responsive selling.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 664.82,
+    "end": 670.02,
+    "text": "So when you then find that response of selling at a key point, that is where we want to enter",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 670.02,
+    "end": 671.22,
+    "text": "fresh shorts.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 671.22,
+    "end": 672.22,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 672.22,
+    "end": 676.78,
+    "text": "Because well, obviously these longs, all the longs now have gotten their move, they've",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 676.78,
+    "end": 681.42,
+    "text": "squeezed out all the aggressive shorts and the market will now begin to distribute.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 681.42,
+    "end": 686.5,
+    "text": "So that would be our first entry looking for shorts, again, at a key reference point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 686.5,
+    "end": 691.1,
+    "text": "whether that's in the previous day's value or low or volume point of control.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 691.79,
+    "end": 697.83,
+    "text": "We then look to take that trade back down towards where we will then run into fresh",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 697.83,
+    "end": 699.43,
+    "text": "responsive buyers.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 699.43,
+    "end": 702.23,
+    "text": "Now again, sometimes this can go quite deep.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 702.23,
+    "end": 707.63,
+    "text": "What you need to keep in mind is that we want to find that point where the market runs",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 707.63,
+    "end": 712.39,
+    "text": "out of selling so we no longer see sellers responding and selling lower prices but then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 712.39,
+    "end": 716.89,
+    "text": "we start to see buyers step in and accumulate and so at that point we want to look to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 716.89,
+    "end": 719.79,
+    "text": "cover our shorts and initiate fresh longs.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 720.03,
+    "end": 725.39,
+    "text": "Now, one of the hardest things to do when this trade develops is to keep trading it on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 725.39,
+    "end": 729.59,
+    "text": "both sides because there's a natural bias to want to choose either long or short.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 729.59,
+    "end": 734.27,
+    "text": "So when you see this, the reward is doing the brave trade, the reward is doing the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 734.27,
+    "end": 739.11,
+    "text": "hard trade, and the hard trade is to be a seller at higher prices and a buyer at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 739.11,
+    "end": 740.47,
+    "text": "lower prices.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 740.47,
+    "end": 745.87,
+    "text": "So when you see this, be aggressive, do the job you need to do and take advantage",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 749.42,
+    "end": 752.14,
+    "text": "of two-way trade being facilitated.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 752.14,
+    "end": 758.1,
+    "text": "What you don't want to do is start trading it a lot later on in the day once it's showing",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 758.1,
+    "end": 762.74,
+    "text": "you that distribution because then there's a lot of information in the market that will",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 762.74,
+    "end": 768.74,
+    "text": "effectively mean the probability or the probability of succeeding with the strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 768.74,
+    "end": 769.82,
+    "text": "would have reduced.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 770.32,
+    "end": 772.48,
+    "text": "So that's the example of the P shape.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 772.48,
+    "end": 779.28,
+    "text": "Now the B shape is exactly the opposite and the trade strategy is exactly the opposite.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 779.28,
+    "end": 785.68,
+    "text": "What we're looking for is, again, once we find that sort of responsive selling point",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 789.3,
+    "end": 795.58,
+    "text": "On our previous days, a volume profile, maybe at the volume point of control, or the value",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 795.58,
+    "end": 801.16,
+    "text": "area high, once we run into that responsive buying again, we want to look to buy with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 801.16,
+    "end": 806.94,
+    "text": "them until we run into responsive sellers, where we want to then cover and look to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 806.94,
+    "end": 810.02,
+    "text": "sell back down and play the distribution.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 810.48,
+    "end": 818.72,
+    "text": "So that's our basic example of a trend example, a P strategy, and a B strategy.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 818.72,
+    "end": 823.92,
+    "text": "Make sure you understand, first and foremost, what is creating these patterns.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 823.92,
+    "end": 825.36,
+    "text": "What creates trend?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 825.36,
+    "end": 828.98,
+    "text": "What creates long liquidation and short covering?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 828.98,
+    "end": 834.4,
+    "text": "When you understand the principle behind it, then develop the types of strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 840.32,
+    "end": 843.64,
+    "text": "of the market. Those are our three pattern plays",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 843.64,
+    "end": 847.2,
+    "text": "for part eight in our Blackboard Learning Series.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 847.2,
+    "end": 850.36,
+    "text": "Continue on now with part eight and I'll see you again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 850.36,
+    "end": 852.28,
+    "text": "at the end of part eight.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0000_mid.jpg",
+    "time": 8.6,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0000_end.jpg",
+    "time": 17.0,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0001_start.jpg",
+    "time": 17.4,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0001_mid.jpg",
+    "time": 312.65000000000003,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0001_end.jpg",
+    "time": 607.9,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0002_start.jpg",
+    "time": 608.3000000000001,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0002_mid.jpg",
+    "time": 611.3,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0002_end.jpg",
+    "time": 614.3,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0003_start.jpg",
+    "time": 614.7,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0003_mid.jpg",
+    "time": 646.7,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0003_end.jpg",
+    "time": 678.6999999999999,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0004_start.jpg",
+    "time": 679.1,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0004_mid.jpg",
+    "time": 1278.2,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0004_end.jpg",
+    "time": 1877.3,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0005_start.jpg",
+    "time": 1877.7,
+    "width": 1368,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/Footprint_Chart_Strategy_Development_1-3/frames/scene_0005_mid.jpg",
+    "time": 1879.3,
+    "width": 1368,
+    "height": 768
+  }
+]

@@ -1,0 +1,986 @@
+[
+  {
+    "start": 0.08,
+    "end": 5.4,
+    "text": "What I want to start off by talking about with this strategy is the concept of momentum",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 5.4,
+    "end": 6.4,
+    "text": "strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 6.4,
+    "end": 11.2,
+    "text": "Now, the important thing you must remember is that momentum strategies can sometimes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 11.2,
+    "end": 13.04,
+    "text": "be relatively obvious.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.17,
+    "end": 19.37,
+    "text": "So, with that in mind, if it's an obvious trade strategy, you have to be very, very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 19.37,
+    "end": 25.29,
+    "text": "smart when developing the various characteristics and preconditions in order for you to execute.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 25.29,
+    "end": 30.41,
+    "text": "Now, the reason you need to be very smart is because momentum strategies bring with",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 30.41,
+    "end": 33.33,
+    "text": "them almost an element of perfect risk-reward.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 33.33,
+    "end": 35.49,
+    "text": "So, what do I mean by that?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.97,
+    "end": 42.39,
+    "text": "With momentum strategies, by definition, if we are entering on what we perceive as momentum,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 42.39,
+    "end": 44.61,
+    "text": "the risk is relatively small.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 44.61,
+    "end": 50.69,
+    "text": "We can define that risk as the moment a market no longer shows the characteristic of momentum,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.69,
+    "end": 52.31,
+    "text": "we merely exit.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.89,
+    "end": 63.75,
+    "text": "This trade strategy is very favorable, not just amongst day traders, but amongst algorithms",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.75,
+    "end": 66.85,
+    "text": "and many other participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 66.85,
+    "end": 71.75,
+    "text": "So with that in mind, it's imperative that when you develop these characteristics and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.75,
+    "end": 78.15,
+    "text": "rules and preconditions, you are very specific as to what you want to execute based on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.15,
+    "end": 80.61,
+    "text": "your interpretation and understanding.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 81.46,
+    "end": 86.5,
+    "text": "So with that in mind, let's get into the next of our momentum type strategies, which",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 86.5,
+    "end": 93.36,
+    "text": "is the initial balance break out, you know, where we have a confluence in the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.36,
+    "end": 97.7,
+    "text": "Now I really love this idea of confluence, and I'm going to explain to you what I mean",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 97.7,
+    "end": 98.7,
+    "text": "by confluence.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.7,
+    "end": 104.48,
+    "text": "Well, confluence is nothing other than where we have multiple reference points that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 104.48,
+    "end": 106.8,
+    "text": "align with one another.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 106.8,
+    "end": 107.8,
+    "text": "So what do I mean by it?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.17,
+    "end": 117.81,
+    "text": "a weekly high, and we also have a daily high, and now we have a 60-minute high.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.81,
+    "end": 122.89,
+    "text": "So we're trading at a price of the weekly high, a daily high, and a 60-minute high,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 122.89,
+    "end": 127.33,
+    "text": "and all three of these happen to align at the exact same price.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 127.57,
+    "end": 134.03,
+    "text": "Now, all of a sudden, we have an area of confluence where a number of participants are looking",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 134.03,
+    "end": 137.17,
+    "text": "at the same area for varying reasons.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 137.17,
+    "end": 140.81,
+    "text": "So some might be looking at it, you know, that we may get a little bit of longer term",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 140.81,
+    "end": 144.81,
+    "text": "influential players stepping in once we break out the weekly high.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 144.81,
+    "end": 148.91,
+    "text": "We may have the short term algorithms looking to play for a break out once we take out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 148.91,
+    "end": 150.47,
+    "text": "the 60 minute high.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.47,
+    "end": 154.61,
+    "text": "And we may have some day traders or swing traders looking to initiate long trades",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.69,
+    "end": 162.69,
+    "text": "So, all three of these different levels bring in all the various timeframe participants.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 162.69,
+    "end": 169.93,
+    "text": "As a result, these confluence levels tend to be wonderful trigger points or very important",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 169.93,
+    "end": 171.49,
+    "text": "reference points.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.49,
+    "end": 177.09,
+    "text": "Now, make sure when you define, once you obviously understand confluence, make sure",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 177.09,
+    "end": 182.42,
+    "text": "you then understand the definition of a reference point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 186.8,
+    "end": 194.28,
+    "text": "A point or a price in the market only becomes a reference point if there is some sort of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 194.28,
+    "end": 199.52,
+    "text": "influence or influential player that is willing to step in beyond that point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 199.52,
+    "end": 200.84,
+    "text": "So let's take an example.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.84,
+    "end": 206.52,
+    "text": "Let's say the market has left a high and rotated off low, and this has remained the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 206.52,
+    "end": 208.36,
+    "text": "high for, say, 2016.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 208.36,
+    "end": 211.52,
+    "text": "So it's the all-time high, it's the high of 2016.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 214.0,
+    "end": 219.64,
+    "text": "Now, once we return to this resistance reference point, the market or there will be a lot of",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 219.64,
+    "end": 223.04,
+    "text": "participants paying attention to this point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.04,
+    "end": 228.28,
+    "text": "They won't necessarily be looking for shorts, but they will be paying attention to see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.28,
+    "end": 233.44,
+    "text": "what the response is at this reference point, whether maybe we find a seller step-in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 236.7,
+    "end": 241.62,
+    "text": "So it's imperative to understand when developing not just this strategy but any strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 241.62,
+    "end": 248.26,
+    "text": "to determine both confluence and reference points and the importance as to why we want",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 248.26,
+    "end": 252.94,
+    "text": "these confluence type plays where we have multiple reference points.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 252.94,
+    "end": 258.94,
+    "text": "So with that in mind, let's talk about a confluence play which is strategy four.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 258.94,
+    "end": 260.64,
+    "text": "So how it works, very simply.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 263.94,
+    "end": 270.9,
+    "text": "What we've found is the market opens up, whether it's the E-Mini S&P's overnight session or",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 270.9,
+    "end": 273.3,
+    "text": "whether it's the oil's overnight session.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.3,
+    "end": 280.54,
+    "text": "What we find is that the market has an initial range inside the previous day's range, but",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 280.54,
+    "end": 288.1,
+    "text": "more important, we get an overlap of the previous day's high or previous week's high",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 288.1,
+    "end": 290.14,
+    "text": "with the current day's high.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 290.58,
+    "end": 296.78,
+    "text": "What then happens is once the cash market comes in, we then see an initiative move for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 296.78,
+    "end": 300.86,
+    "text": "a break of the confluence reference point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 300.86,
+    "end": 305.78,
+    "text": "And it's that break of the confluence reference point that brings with it momentum.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 306.7,
+    "end": 312.3,
+    "text": "Now, note, we've defined the very basic characteristics of this trade setup.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 312.3,
+    "end": 318.58,
+    "text": "We're looking for an initial range to be overlapping or to have an overlapping confluence reference",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 318.58,
+    "end": 323.9,
+    "text": "point with the previous day or even, as in this example provided, the previous week",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 323.9,
+    "end": 326.12,
+    "text": "or even month.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 326.12,
+    "end": 332.78,
+    "text": "So when you see this trade strategy, the preconditions are very, very easy to determine.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 333.89,
+    "end": 337.97,
+    "text": "we are looking for momentum upon the break of that reference point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 337.97,
+    "end": 341.37,
+    "text": "We expect to see the following on the break.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 341.37,
+    "end": 346.01,
+    "text": "We want to see one volume, we want to see two",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 346.01,
+    "end": 349.01,
+    "text": "volatility, we want to see three",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 349.01,
+    "end": 352.25,
+    "text": "momentum plus initiative. So",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 352.25,
+    "end": 355.81,
+    "text": "we want to see a shift as we take out in this example",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 355.81,
+    "end": 358.93,
+    "text": "we want to see a shift from maybe two-way trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 358.93,
+    "end": 362.17,
+    "text": "to very one-directional buy-side trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 363.54,
+    "end": 369.3,
+    "text": "Now, what is essential with any momentum strategies, and particularly this strategy, is that we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 369.3,
+    "end": 373.26,
+    "text": "need to see quite a lot of speed.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 373.26,
+    "end": 377.66,
+    "text": "It's important when we break these confluence points, we do actually see the bigger time",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 377.66,
+    "end": 380.74,
+    "text": "frame participants actually execute.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 380.74,
+    "end": 383.54,
+    "text": "Now what we're going to do is we're going to go through one or two examples and I'm",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 383.54,
+    "end": 386.42,
+    "text": "going to show you the execution style.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 391.07,
+    "end": 399.71,
+    "text": "And we can see the market takes out the 2182 confluence, which is also the initial range",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 399.71,
+    "end": 400.71,
+    "text": "on the weekly.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 400.71,
+    "end": 406.95,
+    "text": "And we then not just continue up, or not just leave a lower volume area area, but we then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 406.95,
+    "end": 411.34,
+    "text": "continue before distributing a lot higher up.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 414.05,
+    "end": 419.61,
+    "text": "Again, note, I show you the example on the weekly, more because I want you to be able",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 419.61,
+    "end": 425.49,
+    "text": "to understand that these trade strategies exist not just on a day time frame, but across",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 425.49,
+    "end": 429.29,
+    "text": "weekly, monthly, or any time frame for that matter.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 429.29,
+    "end": 435.46,
+    "text": "So again, note, note how the market spends time below that reference point, it then",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 441.55,
+    "end": 446.39,
+    "text": "Now let's take a look and talk about execution on the next slide.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 446.39,
+    "end": 449.43,
+    "text": "So how we would look to execute this trade is very simple.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 449.43,
+    "end": 453.55,
+    "text": "We are looking for short side trades below the key confluence point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 457.17,
+    "end": 462.05,
+    "text": "Now, once the market takes out that initial balance, as it does in this example, we are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 462.05,
+    "end": 465.45,
+    "text": "looking for aggressive entry short-side trades.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 465.45,
+    "end": 466.45,
+    "text": "Why?",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 466.45,
+    "end": 472.41,
+    "text": "Because every other, there will be a lot of other algorithms, day traders, swing traders,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 472.41,
+    "end": 475.01,
+    "text": "and initiative traders doing the same thing.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 475.01,
+    "end": 480.85,
+    "text": "So we look for that aggressive short and we stay short the market so long as we",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 480.85,
+    "end": 486.57,
+    "text": "do not re-enter or rediscover that initial confluence reference point.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 486.99,
+    "end": 493.39,
+    "text": "Now, so long as we can hold that break point, the market should continue to drift lower",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 493.39,
+    "end": 494.91,
+    "text": "over the period.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 494.91,
+    "end": 500.23,
+    "text": "In terms of exiting and taking profit, we only get out when we see other time frame",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 500.23,
+    "end": 502.31,
+    "text": "participants stepping in.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 506.82,
+    "end": 511.64,
+    "text": "Now an example I've shown you, yeah, we can see that it was almost instantaneous that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 511.64,
+    "end": 517.16,
+    "text": "this trade got rejected and the reason I've used this example is because I want you to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 517.16,
+    "end": 522.52,
+    "text": "understand that if this is a particularly strong trade strategy, it does fail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 522.82,
+    "end": 527.18,
+    "text": "but you have to ultimately manage the risk when it does fail.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 527.18,
+    "end": 532.42,
+    "text": "And that is where, that is why, once we do enter our shorts for the momentum and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 532.42,
+    "end": 533.54,
+    "text": "continuation,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 533.54,
+    "end": 538.7,
+    "text": "we merely put our stop just above the area where the break occurred or the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 538.7,
+    "end": 540.66,
+    "text": "volume and volatility picked up.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 540.66,
+    "end": 545.22,
+    "text": "By doing that, we are allowing ourselves very, very tight risk",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 545.22,
+    "end": 548.22,
+    "text": "but open-ended opportunity.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 547.9,
+    "end": 554.1,
+    "text": "So again, I hope you've understood now how a momentum strategy is not a difficult strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 554.1,
+    "end": 554.9,
+    "text": "to understand.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 555.18,
+    "end": 562.86,
+    "text": "But executing it with very strong characteristics and preconditions, that is difficult to manage",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 562.86,
+    "end": 569.54,
+    "text": "because a lot of strategies are just about executing based on any high or any low.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 569.54,
+    "end": 575.38,
+    "text": "Over time those may be effective, but it's far better to develop unique specific momentum",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 575.38,
+    "end": 580.7,
+    "text": "strategies that you can then continue to develop and continue to profit off.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 581.52,
+    "end": 587.68,
+    "text": "This then concludes our strategy 4 analysis, let's go now and look at the replay functionality",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 587.68,
+    "end": 592.36,
+    "text": "of how you would execute the strategy as well as some of the characteristics you can expect",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 592.36,
+    "end": 592.92,
+    "text": "to find.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

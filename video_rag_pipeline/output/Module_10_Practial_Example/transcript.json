@@ -1,0 +1,1466 @@
+[
+  {
+    "start": 1.65,
+    "end": 7.89,
+    "text": "Okay, welcome to the video section of looking of how to employ different types of trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 7.89,
+    "end": 13.29,
+    "text": "strategies when you observe market flipping, spoofing or layering.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 13.29,
+    "end": 16.09,
+    "text": "And we're going to be looking at a few of the strategies.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 16.09,
+    "end": 22.17,
+    "text": "First Annotem, and then we'll look at an actual example that happened in the Bund",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 22.17,
+    "end": 23.43,
+    "text": "contract.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 23.43,
+    "end": 25.91,
+    "text": "So firstly, let's just have a look.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 28.3,
+    "end": 31.82,
+    "text": "to the right hand side over here, which being the bull market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 31.82,
+    "end": 35.66,
+    "text": "Now, firstly, let's look at a really explain",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 35.66,
+    "end": 39.34,
+    "text": "through annoting on this ladder what the various",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 39.34,
+    "end": 43.74,
+    "text": "trading strategies are and then we'll look at one of these trading strategies",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.74,
+    "end": 48.62,
+    "text": "in real time. So firstly, the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 50.7,
+    "end": 57.02,
+    "text": "Now the false offer block, it's the objective of the layered spoofer is to create an artificial",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 57.02,
+    "end": 63.74,
+    "text": "offer in the market. So what you're trying to do over here is all of these orders over here,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 63.74,
+    "end": 69.74,
+    "text": "they might be larger than average and might seem larger than all of the bids. So for example,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 73.78,
+    "end": 77.5,
+    "text": "300 lots, 400 lots, 400 lots, 400 lots, and 400 lots,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 77.5,
+    "end": 80.66,
+    "text": "at every single price, over here, over here, over here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 80.66,
+    "end": 85.06,
+    "text": "And really representing that's almost twice as large",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 85.06,
+    "end": 89.0,
+    "text": "as the offer, I mean, sorry, as large as the bid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 89.0,
+    "end": 90.66,
+    "text": "And if you refer to the slide,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 90.66,
+    "end": 92.42,
+    "text": "we've mentioned that the objective of the trader",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 92.42,
+    "end": 94.4,
+    "text": "is to observe this false offer.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 94.29,
+    "end": 99.29,
+    "text": "by identifying the lack of relative trading activity going through on the bid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 99.29,
+    "end": 103.29,
+    "text": "Bids are being pulled until there is a liquidity collection point bucket.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 103.29,
+    "end": 105.29,
+    "text": "So what we mean by that is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.29,
+    "end": 109.79,
+    "text": "as the market offers down, all these bids are not really real.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 109.79,
+    "end": 113.29,
+    "text": "So out of 313 lots, only say 50 lots get traded.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 113.52,
+    "end": 117.54,
+    "text": "50 lot to get traded. So this gets pulled. Most of the orders, the buy side orders are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.54,
+    "end": 120.86,
+    "text": "pulled. So they pull the order, they pull the order, they pull the order, they pull",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 120.86,
+    "end": 125.54,
+    "text": "the order because the market is seeking an area where it will find liquidity, where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 125.54,
+    "end": 129.02,
+    "text": "the market will start auctioning again. So when the market isn't auctioning at",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 133.63,
+    "end": 138.73,
+    "text": "in one direction at quite a rapid rate whilst all the buy side orders get pulled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 138.73,
+    "end": 142.73,
+    "text": "and then the trading opportunities is once all the pulling",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 142.73,
+    "end": 146.21,
+    "text": "has happened and what I mean by pulling is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 146.21,
+    "end": 150.45,
+    "text": "when you have a certain size but not all that size gets traded and only a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 150.45,
+    "end": 152.81,
+    "text": "very small fraction of that size gets traded that's",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 152.81,
+    "end": 159.84,
+    "text": "effectively what you call pulling the bid.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 156.02,
+    "end": 160.9,
+    "text": "so the market trades all the way down as the as the offers are",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.78,
+    "end": 164.8,
+    "text": "Looking large, but they're not about might be real office",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 164.8,
+    "end": 170.7,
+    "text": "but it's more the bits getting pulled and as the market trades down and it offers down offers down offers down offers down and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 170.7,
+    "end": 175.8,
+    "text": "Then when it finds that point where there's all of a sudden two-way flow and the market is",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 176.13,
+    "end": 180.05,
+    "text": "actually trading so all of a sudden you see for example over here this 178 lot",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.05,
+    "end": 185.01,
+    "text": "the market trades the entire 178 lot then an iceberg comes in or a time slice order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 185.01,
+    "end": 190.77,
+    "text": "or some type of reloading pattern or absorption type pattern where the market keeps on now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 190.77,
+    "end": 196.29,
+    "text": "reloading that is the opportunity on a false offer block type of a trading strategy where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 196.29,
+    "end": 201.01,
+    "text": "you start joining the buy side and you look for the market to actually trade out the entire",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 205.49,
+    "end": 212.21,
+    "text": "a false offer block is, you wait until the prices stall, until there's two-way exchange",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 216.37,
+    "end": 223.91,
+    "text": "Prices over here and then the converse is true on a false bid block where the market looks artificially stronger on the buy side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 223.91,
+    "end": 228.53,
+    "text": "The offers are getting pulled as a market trades up until it hits an",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 229.25,
+    "end": 233.77,
+    "text": "Absorption wall and the market trades in two-way flow you join that absorption",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.07,
+    "end": 240.75,
+    "text": "Zone and you wait for the market to trade back that area that it hardly auctioned because the market likes to auction areas",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 240.95,
+    "end": 245.39,
+    "text": "Thoroughly, you know the balance of probabilities. So that is effectively, you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 245.65,
+    "end": 253.05,
+    "text": "of the trading strategies being the false offer block and the false bid block.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 253.05,
+    "end": 258.77,
+    "text": "Then you can also get the liquidity hunter which is a fairly similar play to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 259.15,
+    "end": 265.15,
+    "text": "You know to both of these where the liquidity hunter really is trading through the market until again",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 265.15,
+    "end": 268.19,
+    "text": "He finds an area where there is liquidity and the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 268.73,
+    "end": 276.25,
+    "text": "The market exchanges and when that liquidity is found then the market can start trading back that an auctioned area now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 276.25,
+    "end": 282.21,
+    "text": "We'll be looking at a specific a flip example where we're looking more effectively at a type of lone range of training strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 282.21,
+    "end": 286.65,
+    "text": "when you see a large order coming onto the order book or a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 287.04,
+    "end": 293.12,
+    "text": "a potential flipper or potential spoofer where we'll be looking at where they they come in say",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 293.12,
+    "end": 299.76,
+    "text": "you know one tick from the market price so say in this instance at 167.43 they put a large order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 299.76,
+    "end": 305.52,
+    "text": "in over here so they can so people try and execute some front-run orders but those",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 305.52,
+    "end": 311.44,
+    "text": "front-run orders are met by a passive buyer on the other side and that passive buyer on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 313.49,
+    "end": 318.93,
+    "text": "effectively loading up on liquidity and then this order is going to get pulled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 318.93,
+    "end": 321.85,
+    "text": "and then the market trades up a couple of ticks and it's just working this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.85,
+    "end": 325.09,
+    "text": "algorithm is just working a small little range and you want to trade within",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 325.09,
+    "end": 329.81,
+    "text": "that taking one two three ticks so let's have a look how this how this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 329.81,
+    "end": 334.77,
+    "text": "trades accordingly so we're watching over here",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 333.02,
+    "end": 338.52,
+    "text": "As we said, we're looking for a Bund Flipper, the order flow type is market flipping, layering",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 338.52,
+    "end": 341.5,
+    "text": "and spoofing price patterns are part of module 10.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 341.5,
+    "end": 346.98,
+    "text": "What we're looking at, the pattern type that we're looking at is a trading with the flip,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 346.98,
+    "end": 349.46,
+    "text": "so we want to observe where the market will be flipped.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 349.62,
+    "end": 354.94,
+    "text": "Okay, and then the trading strategy we enter trades on the opposite side of the large flip order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 354.94,
+    "end": 361.2,
+    "text": "So if we see a large order, we're entering on the opposite side of the large order because we feel that order will be pulled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 361.2,
+    "end": 364.98,
+    "text": "And then once we get filled on our order as it gets pulled",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 364.98,
+    "end": 368.66,
+    "text": "We we exit our order for a quick for a quick leverage scalp",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 369.1,
+    "end": 375.8,
+    "text": "The ladder market environment what we're looking for is a very low liquidity environment type of blippy price action",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 375.86,
+    "end": 379.02,
+    "text": "not much auctioning going through until it finds that area where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 378.99,
+    "end": 384.15,
+    "text": "it does auction. So low auction, thin low liquidity where the market just blips around.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 384.15,
+    "end": 388.55,
+    "text": "This example is actually 10 minutes after a Jackson hold, Yanet Yellen speech. So the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 388.55,
+    "end": 392.83,
+    "text": "market was in a bit of a volatile session, but I was still trading within range and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 392.83,
+    "end": 396.23,
+    "text": "was actually a blipping around with not much action.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 396.66,
+    "end": 401.44,
+    "text": "The risk management you're looking at zero to three ticks because you're trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 401.44,
+    "end": 405.98,
+    "text": "You know you're trading just on the opposite side of the flip if it starts going against you you get out",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 406.38,
+    "end": 413.7,
+    "text": "Immediately and you wait until you find that liquidity bucket where there's a two-way flow and absorption and your award management is one",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 413.7,
+    "end": 419.9,
+    "text": "Two three ticks as you trade within where the algo is working certain rage and the flip and the flip usually works a very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 419.9,
+    "end": 421.9,
+    "text": "Tight range, you know in the buns, you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 422.22,
+    "end": 426.24,
+    "text": "You know about three to four ticks stack sometimes about ten ticks five to ten",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 426.26,
+    "end": 432.7,
+    "text": "So we're looking now for this large order and let's have a let's have a look how this plays out now",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 433.16,
+    "end": 444.84,
+    "text": "Okay, so we're watching and you'll actually see some execution going on on here on this trade over here",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 444.84,
+    "end": 449.48,
+    "text": "So I want to bring to your attention in a little moment when we see a large",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 449.86,
+    "end": 456.26,
+    "text": "order come through an old book so you can see at the moment you are 39 lots, 120, 211, 170",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 456.26,
+    "end": 463.22,
+    "text": "so really the average size is about you know about 130 lots and you can see on the buy side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 463.22,
+    "end": 470.26,
+    "text": "the same you know we're between 100 to to about 250 lots so that's so first my eyes are alert",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 471.42,
+    "end": 477.66,
+    "text": "bit size we do have a very large over here so this is a bit of an anomaly order over here 167.50",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 477.66,
+    "end": 483.58,
+    "text": "that should be keeping an eye on a potential front run strategy if you if the market were to",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 483.58,
+    "end": 489.58,
+    "text": "shift there very quickly so we're still observing this and now you can see at the moment you can",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 491.09,
+    "end": 495.09,
+    "text": "So you see, immediate execution at the 39s, a large order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 495.09,
+    "end": 501.59,
+    "text": "So this market just blipped down, then all of a sudden a 526 came to the market",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 501.59,
+    "end": 504.59,
+    "text": "whilst it blipped down OVS.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 504.59,
+    "end": 508.59,
+    "text": "So potential flip on the play, so you go on the opposite side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 508.82,
+    "end": 512.82,
+    "text": "of the of the order now the reason why you've identified this as potentially",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 512.82,
+    "end": 516.82,
+    "text": "not a front-run order is just the nature of the auctioning activity that's going",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 516.82,
+    "end": 521.14,
+    "text": "around in the market and low liquidity you know fairly thin",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 521.14,
+    "end": 524.58,
+    "text": "conditions and lippy price action where markets not trading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 524.58,
+    "end": 528.1,
+    "text": "um you know not auctioning at specific prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 532.05,
+    "end": 538.81,
+    "text": "Yes, okay, we're watching it twice for you so you can see now getting so we just got just got filled at the 39",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 538.81,
+    "end": 542.95,
+    "text": "So as you got folded the 39 200 lot got taken so turn a lock got taken",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 543.3,
+    "end": 549.78,
+    "text": "But then the market reloaded itself, so it's reloaded, so potential very intraday timeframe",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 549.78,
+    "end": 556.74,
+    "text": "at this price, a particular type of iceberg pattern or volume slice pattern, absorption,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 556.74,
+    "end": 559.46,
+    "text": "you know, overall absorption pattern going on here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 559.46,
+    "end": 567.18,
+    "text": "And the market has potential, you know, 514 lot, you know, non-genuine order that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 567.18,
+    "end": 568.5,
+    "text": "we're watching over here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 568.5,
+    "end": 569.86,
+    "text": "So we're keeping an eye.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 569.86,
+    "end": 571.1,
+    "text": "It gets on reloading.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 571.95,
+    "end": 577.71,
+    "text": "keeps on it keeps on reloading itself keeps on reloading at the 39th on the buy side so we're",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 577.71,
+    "end": 583.71,
+    "text": "watching it again it gets taken out gets reloaded so add an extras as we start observing this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 583.71,
+    "end": 589.39,
+    "text": "reloading at the 39th start adding a clip so we've you know been doing in clips of two",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 589.39,
+    "end": 594.83,
+    "text": "so built a position of eight lots at this moment so there we go so you see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 595.47,
+    "end": 601.21,
+    "text": "Hardly anything got traded through the 500 lots got pulled and the market has flipped towards the other side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 601.27,
+    "end": 606.75,
+    "text": "So again just to summarize you notice an anomaly large order after the markets",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 606.99,
+    "end": 611.87,
+    "text": "Blipping around you then you notice now what you want to see when you see an anomaly large order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 611.87,
+    "end": 616.13,
+    "text": "You don't want to see if it were a front run the market would keep on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 616.37,
+    "end": 622.19,
+    "text": "Offering over as people start front running the large order, but what actually happened the moment there was that large order",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 622.69,
+    "end": 625.81,
+    "text": "the 30 nights kept on reloading on the buy side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 625.81,
+    "end": 629.49,
+    "text": "So that is, you know, the nature and requirements",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 629.49,
+    "end": 632.01,
+    "text": "of the flip pattern is when you see the large order,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 632.01,
+    "end": 634.89,
+    "text": "just below the large order, or below, you know,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 634.89,
+    "end": 635.97,
+    "text": "prices below the large order,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 635.97,
+    "end": 640.15,
+    "text": "you're gonna see a reloading of the prices",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 640.15,
+    "end": 642.13,
+    "text": "on the opposite side of the large order.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 642.13,
+    "end": 644.05,
+    "text": "So we're watching here, so we've gone onside,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 644.05,
+    "end": 647.01,
+    "text": "immediately took out, put, you know,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 647.49,
+    "end": 654.05,
+    "text": "two clips or two to get out half half the clip so one at one tick and one at 41s and then 40s",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 654.05,
+    "end": 672.08,
+    "text": "so we're watching over here now again we're trading at 41s um we we now still got our fall",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 661.97,
+    "end": 663.43,
+    "text": "four lots on, there we go.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 663.43,
+    "end": 666.25,
+    "text": "Now you see, now it's just flipped.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 666.25,
+    "end": 668.21,
+    "text": "So it just traded out towards 42s",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 668.21,
+    "end": 670.21,
+    "text": "and then another order has come on the book.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 670.21,
+    "end": 671.69,
+    "text": "So now this is on the opposite side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 671.69,
+    "end": 673.81,
+    "text": "So we had it on the opposite, now on the buyer side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 673.81,
+    "end": 676.05,
+    "text": "Now I want you to see if this is, you know,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 676.05,
+    "end": 678.83,
+    "text": "a flipper that's coming to the market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 678.96,
+    "end": 683.08,
+    "text": "potentially now we want to be trading on the offer side,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 683.08,
+    "end": 687.3,
+    "text": "if we see the offers reloading themselves.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 687.3,
+    "end": 689.94,
+    "text": "So if all of a sudden the offer starts taking out the 42",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 689.94,
+    "end": 691.18,
+    "text": "and it reloads itself,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 691.18,
+    "end": 693.62,
+    "text": "you could see a flip in the other direction.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 693.62,
+    "end": 696.4,
+    "text": "So let's see how this now plays.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 696.4,
+    "end": 697.88,
+    "text": "So we're watching over here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 697.88,
+    "end": 699.88,
+    "text": "We're trying to get out of our trade.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 699.88,
+    "end": 701.42,
+    "text": "We'd start going short.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 701.5,
+    "end": 704.3,
+    "text": "to go against the flip, and there we go.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 704.3,
+    "end": 706.72,
+    "text": "So that 1,000 lot that was non-genuine,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 706.72,
+    "end": 708.58,
+    "text": "now we're flipping the other way.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 708.58,
+    "end": 712.14,
+    "text": "So you've just observed with the 500 lot getting long,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 712.14,
+    "end": 714.74,
+    "text": "below the 500 lot when they were shown on the offer,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 714.74,
+    "end": 716.74,
+    "text": "when there was that 1,000 lot on the bid,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 716.74,
+    "end": 719.7,
+    "text": "you're then getting short to start exiting",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 719.7,
+    "end": 720.66,
+    "text": "on the other side.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 720.66,
+    "end": 724.14,
+    "text": "And then you're observing these patterns.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 724.14,
+    "end": 725.62,
+    "text": "So we're wanting to see if we can see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 725.62,
+    "end": 727.46,
+    "text": "any more flips over here.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 727.46,
+    "end": 729.54,
+    "text": "We can see any more reloading",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 730.8,
+    "end": 736.96,
+    "text": "and over here there's just a little bit of a scalp and as we can see in that",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 736.96,
+    "end": 740.4,
+    "text": "little moment the flippers disappeared but there was an opportunity to make",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 740.4,
+    "end": 745.88,
+    "text": "between between those two flips between three to seven ticks in a very",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 745.88,
+    "end": 751.12,
+    "text": "short period of time just working an order book pattern by observing thin",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 751.12,
+    "end": 755.48,
+    "text": "conditions low liquidity conditions and seeing an anomaly large orders come in",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 755.48,
+    "end": 759.4,
+    "text": "and seeing absorption on the opposite side of that large order once",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 760.38,
+    "end": 761.9,
+    "text": "for the flip to happen.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 761.9,
+    "end": 762.82,
+    "text": "So just to summarize,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 762.82,
+    "end": 765.34,
+    "text": "we've just looked at the type of loan range of play.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 765.34,
+    "end": 767.28,
+    "text": "I explained right at the beginning of the video",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 767.28,
+    "end": 769.22,
+    "text": "what a false author block looks like,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 769.22,
+    "end": 771.82,
+    "text": "what a false bid block looks like.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 771.82,
+    "end": 774.26,
+    "text": "And then also a liquidity hunter.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 774.26,
+    "end": 776.46,
+    "text": "And effectively what it is is, you know,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 776.46,
+    "end": 778.74,
+    "text": "just when the order book is not really representative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 778.74,
+    "end": 780.62,
+    "text": "of the true state of the orders",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 780.62,
+    "end": 782.86,
+    "text": "and the market will trade in the direction",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 782.86,
+    "end": 785.34,
+    "text": "until it finds liquidity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 785.34,
+    "end": 787.74,
+    "text": "and then you can scalp on the opposite side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 787.74,
+    "end": 789.74,
+    "text": "of that liquidity bucket.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]

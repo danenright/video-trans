@@ -1,0 +1,170 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0000_mid.jpg",
+    "time": 665.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0000_end.jpg",
+    "time": 1330.3999999999999,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0001_start.jpg",
+    "time": 1330.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0001_mid.jpg",
+    "time": 1448.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0001_end.jpg",
+    "time": 1565.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0002_start.jpg",
+    "time": 1566.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0002_mid.jpg",
+    "time": 1616.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0002_end.jpg",
+    "time": 1666.3999999999999,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0003_start.jpg",
+    "time": 1666.8,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0003_mid.jpg",
+    "time": 1697.4499999999998,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0003_end.jpg",
+    "time": 1728.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "start",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0004_start.jpg",
+    "time": 1728.5,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "mid",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0004_mid.jpg",
+    "time": 2604.2,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 4,
+    "kind": "end",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0004_end.jpg",
+    "time": 3479.9,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "start",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0005_start.jpg",
+    "time": 3480.2999999999997,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "mid",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0005_mid.jpg",
+    "time": 4200.1,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 5,
+    "kind": "end",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0005_end.jpg",
+    "time": 4919.900000000001,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "start",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0006_start.jpg",
+    "time": 4920.3,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "mid",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0006_mid.jpg",
+    "time": 5293.35,
+    "width": 1366,
+    "height": 768
+  },
+  {
+    "scene_idx": 6,
+    "kind": "end",
+    "path": "output/UNIT_10___Strategy_5_Exhaustion_High_and_Low_6-16/frames/scene_0006_end.jpg",
+    "time": 5666.400000000001,
+    "width": 1366,
+    "height": 768
+  }
+]

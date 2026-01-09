@@ -1,0 +1,98 @@
+[
+  {
+    "scene_idx": 0,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0000_start.jpg",
+    "time": 0.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0000_mid.jpg",
+    "time": 2.5,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 0,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0000_end.jpg",
+    "time": 4.8,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0001_start.jpg",
+    "time": 5.2,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0001_mid.jpg",
+    "time": 302.5208333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 1,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0001_end.jpg",
+    "time": 599.8416666666666,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0002_start.jpg",
+    "time": 600.2416666666667,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0002_mid.jpg",
+    "time": 602.3125,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 2,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0002_end.jpg",
+    "time": 604.3833333333333,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "start",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0003_start.jpg",
+    "time": 604.7833333333334,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "mid",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0003_mid.jpg",
+    "time": 648.375,
+    "width": 960,
+    "height": 540
+  },
+  {
+    "scene_idx": 3,
+    "kind": "end",
+    "path": "output/MODULE_1_-_PART_4-11_Summary/frames/scene_0003_end.jpg",
+    "time": 691.9666666666666,
+    "width": 960,
+    "height": 540
+  }
+]

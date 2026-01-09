@@ -1,0 +1,538 @@
+[
+  {
+    "start": 2.06,
+    "end": 10.06,
+    "text": "In this video, we're going to be looking at graphical representation of trend reversal on the charts in different time frames.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 10.06,
+    "end": 15.06,
+    "text": "And the markets we'll be looking at over here will be the gold market.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 15.06,
+    "end": 20.06,
+    "text": "So we're looking at the gold and it's the daily chart.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 20.06,
+    "end": 26.06,
+    "text": "And then we'll also be looking at crude oil over here and we're shifting in time frame.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 26.37,
+    "end": 32.69,
+    "text": "down towards the 60 minute and then finally the German bond futures",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 32.69,
+    "end": 36.37,
+    "text": "so the Bund chart and we'll be looking at the five minute",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 36.37,
+    "end": 40.05,
+    "text": "chart. So as we're mentioning in this module on this slide",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 40.05,
+    "end": 43.81,
+    "text": "what we're trying to look at are different types of ways",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 43.81,
+    "end": 47.89,
+    "text": "from the price ladder to determine",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 46.27,
+    "end": 51.63,
+    "text": "what these reversals actually look like. So when the market reverses a trend and starts",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 51.63,
+    "end": 55.07,
+    "text": "auctioning towards the other direction, what does that look like on the price ladder? What",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 55.07,
+    "end": 59.79,
+    "text": "are the early indicators? What are the clues that you see at those points? What is the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 59.79,
+    "end": 64.91,
+    "text": "reason what the market reversed over here? And what are the reasons why the market reversed over",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 64.91,
+    "end": 70.75,
+    "text": "here? And what does it look like on the price ladder? So there are a couple of different ways.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 71.49,
+    "end": 78.81,
+    "text": "your traditional volume surge blowout tops where the market exhausts all positioning as",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 78.81,
+    "end": 83.17,
+    "text": "the market goes on its last crescendo as you can see in the crude 60 minute so you have",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 83.17,
+    "end": 89.13,
+    "text": "this really expansive move over here this big green candle which is associated volume",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 93.76,
+    "end": 98.8,
+    "text": "sessions and the following day the market completely reverses towards the downside.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 98.8,
+    "end": 105.12,
+    "text": "And that is what you call a classic blowout reversal as the market really capitulates",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 105.12,
+    "end": 110.38,
+    "text": "towards the, well not capitulates, blows up towards the upside and unravels all the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 110.38,
+    "end": 113.38,
+    "text": "positioning of the market and the market loses positioning and the typical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 114.34,
+    "end": 117.86,
+    "text": "personality you see in this is a volume surge followed by",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 117.86,
+    "end": 121.7,
+    "text": "lack of ability to the market to hold its auction at every price",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 121.7,
+    "end": 124.98,
+    "text": "and the market gets rather rather blippy and when you see",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 124.98,
+    "end": 128.82,
+    "text": "that blippy type action or low volume nodes existing at the",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 128.82,
+    "end": 131.78,
+    "text": "extremes that are being protected well then you start looking for",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 131.78,
+    "end": 135.3,
+    "text": "potential short trades towards the other side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 135.3,
+    "end": 138.74,
+    "text": "and we look at those plays in our strategy video later on",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 139.98,
+    "end": 145.82,
+    "text": "then here is a different type of a reversal where the market moves towards the upside and",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 145.98,
+    "end": 151.22,
+    "text": "Just puts in these kind of doji candlestick patterns and they're characterized by really low volumes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 151.22,
+    "end": 154.3,
+    "text": "So relative to these volume peaks the volume activates",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 154.3,
+    "end": 161.04,
+    "text": "Sorry, the the volume activity really starts slowing down and it loses any auctioning initiative",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 161.04,
+    "end": 164.8,
+    "text": "The auctioning activity at the extremes becomes lethargic",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 166.0,
+    "end": 171.12,
+    "text": "becomes really tiresome, inability for the market to really make any grand",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 171.12,
+    "end": 174.48,
+    "text": "upwards and you see the market just going at a very slow",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 174.48,
+    "end": 178.56,
+    "text": "rate of knots of exchange, you know the exchange on the ladder becomes",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 178.56,
+    "end": 181.92,
+    "text": "very slow and it",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 180.64,
+    "end": 189.2,
+    "text": "Fairly range bound, but you know potential blippy activity, low volumic stage, low speed,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 189.2,
+    "end": 191.68,
+    "text": "so really low speed as well at these extremes.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 191.68,
+    "end": 195.88,
+    "text": "And then once the market starts moving towards the downside, well then the volume should",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 195.88,
+    "end": 200.56,
+    "text": "start picking up as these positions start becoming unwound.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 200.56,
+    "end": 205.28,
+    "text": "Now this is a, so that's a 60 minutes daily chart, this is now the 5 minute chart where",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 207.12,
+    "end": 213.76,
+    "text": "this massive crescendo move, this volume, much higher than any other move, so this final",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 213.76,
+    "end": 218.4,
+    "text": "move, and when you, this move on the price ladder was actually trading and watching",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 218.4,
+    "end": 222.04,
+    "text": "it this day, is that the whole, all the bits were being pulled and it was the final",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 222.04,
+    "end": 227.64,
+    "text": "panic, and then the market at this extreme just started becoming very blippy, no strong",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 228.22,
+    "end": 234.3,
+    "text": "Continuous auctioning exchange for it to continue towards the downside and what actually happened at about you know",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 234.5,
+    "end": 238.46,
+    "text": "Below the 44 to the 30 to the 35 in this region over here",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 238.46,
+    "end": 243.78,
+    "text": "There was an LVM so low volume notes that the market showing you doesn't want to really auction and then there was a bit",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 243.78,
+    "end": 250.26,
+    "text": "Of area of activity and then the markets just started auctioning a backup after that final crescendo",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 250.5,
+    "end": 257.54,
+    "text": "Moved towards the downside. So that's again. It's a type of blowout attack reversal showing you on a graphical",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 257.55,
+    "end": 261.71,
+    "text": "perspective which we speak about these plays through the module and then we actually look",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 261.71,
+    "end": 266.03,
+    "text": "how to execute it on the price ladder and what we look for because if you just trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 273.2,
+    "end": 275.84,
+    "text": "after the event and you can't see the actual personality,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 275.84,
+    "end": 278.72,
+    "text": "so you might have to wait to see all the candles close.",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 278.72,
+    "end": 281.0,
+    "text": "So you can't actually execute a very effective strategy",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 281.0,
+    "end": 283.4,
+    "text": "by just trading off the charts,",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 283.4,
+    "end": 286.64,
+    "text": "by looking at the ladder and seeing the shift",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 286.64,
+    "end": 289.64,
+    "text": "in the price personality and the exchanging activity",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 289.64,
+    "end": 293.74,
+    "text": "can then help you orchestrate or help you execute",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 293.74,
+    "end": 297.24,
+    "text": "a very strong and profitable trade",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 297.24,
+    "end": 300.56,
+    "text": "with minimal risk and a reward side",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 302.7,
+    "end": 308.6,
+    "text": "to really participate in the move back towards the upside and this is just a",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 308.6,
+    "end": 313.2,
+    "text": "graphical representation of what a trend reversal areas will look like and this",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 313.2,
+    "end": 317.76,
+    "text": "is what we look at where the market starts moving from one extreme towards",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 317.76,
+    "end": 321.84,
+    "text": "the other extreme so this is a trend reversal zone this is a trend reversal",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  },
+  {
+    "start": 321.84,
+    "end": 326.6,
+    "text": "zone and this is a trend reversal zone",
+    "speaker": null,
+    "confidence": null,
+    "words": null
+  }
+]
